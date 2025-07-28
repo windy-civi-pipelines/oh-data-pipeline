@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Re-referred",
+    "date": "2025-02-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Senate Finance Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 44"
+}

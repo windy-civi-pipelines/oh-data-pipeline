@@ -1,0 +1,101 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 260",
+  "title": "Regards courts and court procedures",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts",
+    "Courts and Civil Law",
+    "Courts and Civil Law"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 109.04, 1901.021, 1901.14, 1901.22, 1907.20, 2111.011, 2307.23, 2317.02, 2317.021, 2317.41, 2317.422, 2939.03, 2939.06, 2941.61, 2943.02, 2945.51, 2945.52, 2945.53, and 2945.54 and to repeal sections 1901.16, 1901.41, 1907.21, 1907.231, 2101.12, 2101.121, 2101.14, 2101.141, 2301.141, 2317.03, 2317.40, 2317.42, 2939.02, 2939.11, 2939.19, 2939.20, 2941.021, 2943.03, 2943.04, 2945.12, 2945.30, 2945.31, 2945.33, 2945.34, 2945.41, 2945.45, and 2945.50 of the Revised Code relative to courts and court procedures."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Odioso",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Odioso\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews, A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Mathews, A.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb260/IN/00/hb260_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb260",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb260/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "scraped_at": "2025-07-28T18:27:51+00:00",
+  "_id": "91a125d2-6be0-11f0-b554-16bdc8f1d4ae"
+}

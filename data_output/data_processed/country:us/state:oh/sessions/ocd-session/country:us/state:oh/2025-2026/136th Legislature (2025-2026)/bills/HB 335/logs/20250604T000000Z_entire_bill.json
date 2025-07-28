@@ -1,0 +1,96 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 335",
+  "title": "Regards county budget commissions, property and sales tax, funds",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Education",
+    "Housing and Real Property",
+    "Local Government",
+    "Primary and Secondary Education",
+    "State and Local Government",
+    "Taxation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 319.301, 323.08, 323.152, 323.155, 323.158, 323.32, 3317.01, 4503.06, 4503.065, 4503.0610, 5705.01, 5705.03, 5705.13, 5705.192, 5705.194, 5705.197, 5705.199, 5705.27, 5705.28, 5705.29, 5705.31, 5705.314, 5705.32, 5705.321, 5705.35, 5705.36, 5705.37, 5705.391, 5709.92, 5739.026, 5747.51, 5747.53, and 5748.09 and to enact sections 319.303, 319.304, and 5705.60 of the Revised Code to modify the law governing county budget commissions, property taxation, county sales taxation, and alternative apportionment formulas for local government and public library funds."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-06-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Ways and Means Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ]
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Thomas, D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Thomas, D.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb335/IN/00/hb335_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb335",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb335/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "scraped_at": "2025-07-28T18:26:56+00:00",
+  "_id": "708bc186-6be0-11f0-b554-16bdc8f1d4ae"
+}

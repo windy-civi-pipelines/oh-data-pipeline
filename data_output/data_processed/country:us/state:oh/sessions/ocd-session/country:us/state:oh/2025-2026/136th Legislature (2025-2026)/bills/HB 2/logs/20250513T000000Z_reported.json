@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reported",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Children and Human Services Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 2"
+}

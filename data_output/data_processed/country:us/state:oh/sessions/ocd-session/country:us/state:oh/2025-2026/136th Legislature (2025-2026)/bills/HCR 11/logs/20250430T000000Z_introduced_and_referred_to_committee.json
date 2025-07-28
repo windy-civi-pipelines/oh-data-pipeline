@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Introduced and Referred to Committee",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House General Government Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR 11"
+}
