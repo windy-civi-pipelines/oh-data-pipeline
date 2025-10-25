@@ -1,0 +1,53 @@
+Title: Cosponsors: Senators Romanchuk, Liston, Ingram, Antonio, Blackshear, Brenner,
+Official Title: Cosponsors: Senators Romanchuk, Liston, Ingram, Antonio, Blackshear, Brenner,
+Number of Sections: 2
+Source: versions - As Passed by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 27
+2025-2026
+Senator Johnson
+Cirino, Craig, DeMora, Gavarone, Hicks-Hudson, Huffman, Landis, Patton,
+Reineke, Roegner, Schaffer, Weinstein
+A BILL
+To enact section 5.2540 of the Revised Code to 1
+designate March 20th as "Ameloblastoma Awareness 2
+Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2540 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2540. The twentieth day of March is designated as 6
+"Ameloblastoma Awareness Day." 7
+[DELETED: nS BIL  " : "]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 27
+2025-2026
+Senator Johnson
+Cosponsors: Senators Romanchuk, Liston, Ingram, Antonio, Blackshear, Brenner,
+Cirino, Craig, DeMora, Gavarone, Hicks-Hudson, Huffman, Landis, Patton,
+Reineke, Roegner, Schaffer, Weinstein
+A BILL
+To enact section 5.2540 of the Revised Code to 1
+designate March 20th as "Ameloblastoma Awareness 2
+Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2540 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2540. The twentieth day of March is designated as 6
+"Ameloblastoma Awareness Day." 7
+
+[DELETED: nS BIL  " : "]

@@ -1,0 +1,69 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 161
+2025-2026
+Senators Schaffer, Johnson
+Cosponsors: Senators Cirino, Huffman
+To enact section 5101.548 of the Revised Code to 1
+require the Director of Job and Family Services 2
+to seek permission to exclude certain items from 3
+the Supplemental Nutrition Assistance Program. 4
+
+Section 2:
+Section 1. That section 5101.548 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5101.548. The director of job and family services 7
+shall submit a request to the United States department of 8
+agriculture for a waiver to exclude all of the following as 9
+items, as defined by the United States department of 10
+agriculture, that may be purchased in this state under the 11
+supplemental nutrition assistance program: 12
+(A) Soft drinks; 13
+(B) Candy; 14
+(C) Chips; 15
+(D) Ice cream; 16
+(E) Prepared desserts such as cakes, pies, cookies, or 17
+similar products. 18
+[DELETED: nS   . :    1 1:1;1;1;1;1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 161
+2025-2026
+Senators Schaffer, Johnson
+Cosponsors: Senators Cirino, Huffman
+To enact section 5101.548 of the Revised Code to 1
+require the Director of Job and Family Services 2
+to seek permission to exclude certain items from 3
+the Supplemental Nutrition Assistance Program. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5101.548 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5101.548. The director of job and family services 7
+shall submit a request to the United States department of 8
+agriculture for a waiver to exclude all of the following as 9
+items, as defined by the United States department of 10
+agriculture, that may be purchased in this state under the 11
+supplemental nutrition assistance program: 12
+(A) Soft drinks; 13
+(B) Candy; 14
+(C) Chips; 15
+(D) Ice cream; 16
+(E) Prepared desserts such as cakes, pies, cookies, or 17
+similar products. 18
+
+[DELETED: nS   . :    1 1:1;1;1;1;1 1.1]

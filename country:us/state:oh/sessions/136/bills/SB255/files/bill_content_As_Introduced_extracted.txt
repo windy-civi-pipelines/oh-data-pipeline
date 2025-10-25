@@ -1,0 +1,191 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 255
+2025-2026
+Senators Craig, Reynolds
+Cosponsors: Senators Smith, DeMora, Weinstein
+To enact section 175.50 of the Revised Code to 1
+provide grants to qualifying applicants for 2
+mortgage, property tax, and utility bill 3
+assistance. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 175.50 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 175.50. (A) As used in this section : 7
+(1) "Homeowner" means an individual who, jointly or 8
+severally, has legal or equitable title to owner-occupied 9
+housing located in Ohio together with the right to control or 10
+possess that housing. "Homeowner" includes a purchaser of 11
+housing pursuant to a land installment contract if that contract 12
+vests possession and maintenance responsibilities in the 13
+purchaser and a person who has care or control of housing as 14
+executor, administrator, assignee, trustee, or guardian of the 15
+estate of the owner of that housing. 16
+(2) "Utility" means any of the following: 17
+S. B. No. 255 Page 2
+As Introduced
+(a) Natural gas; 18
+(b) Electricity, including renewable resources; 19
+(c) Bulk fuel, including propane, fuel oil, coal, and 20
+wood; 21
+(d) Water; 22
+(e) Sewer; 23
+(f) Trash removal; 24
+(g) Broadband internet service; 25
+(h) Property taxes; 26
+(i) Homeowner's insurance; 27
+(j) Flood insurance; 28
+(k) Mortgage insurance; 29
+(l) Fees imposed by the owners association of a planned 30
+community in accordance with Chapter 5312. of the Revised Code; 31
+(m) Fees imposed by the unit owners association of a 32
+condominium development in accordance with Chapter 5311. of the 33
+Revised Code; 34
+(n) Any other utility as determined by the Ohio housing 35
+finance agency by rule pursuant to this section. 36
+(B)(1)(a) The save the dream Ohio program is created 37
+within the Ohio housing finance agency for the purpose of 38
+providing grants to homeowners to pay delinquent or future 39
+mortgage payments; 40
+(b) The save the dream Ohio utility assistance plus 41
+program is created within the Ohio housing finance agency for 42
+S. B. No. 255 Page 3
+As Introduced
+the purpose of providing grants to homeowners to pay for the 43
+cost of utilities. 44
+(2) The Ohio housing finance agency shall administer the 45
+programs created under division (B)(1) of this section using up 46
+to ten million dollars of money available to the agency. The 47
+programs are not subject to the income limits established by the 48
+agency under section 175.05 of the Revised Code. 49
+(C) A homeowner is eligible for a grant under either or 50
+both of the programs created by this section if both of the 51
+following apply at the time of the homeowner's application: 52
+(1) The homeowner's adjusted gross income, as defined in 53
+
+Section 3:
+section 5747.01 of the Revised Code, for the most recently 54
+concluded tax year does not exceed seventy-five thousand 55
+dollars; 56
+(2) The homeowner is sixty-five years or older, disabled, 57
+or a caretaker of an individual who is disabled. 58
+(D) A homeowner may apply for and receive more than one 59
+grant under this section, but no person may apply for or receive 60
+more than three thousand dollars in grants under this section in 61
+a calendar year. 62
+(E) The Ohio housing finance agency shall adopt rules 63
+pursuant to Chapter 119. of the Revised Code as necessary to 64
+administer the grant programs. At a minimum, the rules shall 65
+include both of the following: 66
+(1) The form and manner in which applications are 67
+submitted; 68
+(2) Criteria for determining whether an applicant is 69
+disabled or the caretaker of an individual who is disabled. 70
+[DELETED: nS BIL   . ::   1 1 1 1 1 1.1:1]
+[DELETED: 5 ;1;1 2;2;2;2;2;2;2;2;2;2 3;3 3 3;3 3.3 3 3 3;4 4 4]
+[DELETED: 5  4.4 4 4 4 4.4 5 5:5 5 5 5;5 5.5 5 6 6.6 6 6 6:6 6;6 6.7]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 255
+2025-2026
+Senators Craig, Reynolds
+Cosponsors: Senators Smith, DeMora, Weinstein
+A BILL
+To enact section 175.50 of the Revised Code to 1
+provide grants to qualifying applicants for 2
+mortgage, property tax, and utility bill 3
+assistance. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 175.50 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 175.50. (A) As used in this section : 7
+(1) "Homeowner" means an individual who, jointly or 8
+severally, has legal or equitable title to owner-occupied 9
+housing located in Ohio together with the right to control or 10
+possess that housing. "Homeowner" includes a purchaser of 11
+housing pursuant to a land installment contract if that contract 12
+vests possession and maintenance responsibilities in the 13
+purchaser and a person who has care or control of housing as 14
+executor, administrator, assignee, trustee, or guardian of the 15
+estate of the owner of that housing. 16
+(2) "Utility" means any of the following: 17
+
+S. B. No. 255 Page 2
+As Introduced
+(a) Natural gas; 18
+(b) Electricity, including renewable resources; 19
+(c) Bulk fuel, including propane, fuel oil, coal, and 20
+wood; 21
+(d) Water; 22
+(e) Sewer; 23
+(f) Trash removal; 24
+(g) Broadband internet service; 25
+(h) Property taxes; 26
+(i) Homeowner's insurance; 27
+(j) Flood insurance; 28
+(k) Mortgage insurance; 29
+(l) Fees imposed by the owners association of a planned 30
+community in accordance with Chapter 5312. of the Revised Code; 31
+(m) Fees imposed by the unit owners association of a 32
+condominium development in accordance with Chapter 5311. of the 33
+Revised Code; 34
+(n) Any other utility as determined by the Ohio housing 35
+finance agency by rule pursuant to this section. 36
+(B)(1)(a) The save the dream Ohio program is created 37
+within the Ohio housing finance agency for the purpose of 38
+providing grants to homeowners to pay delinquent or future 39
+mortgage payments; 40
+(b) The save the dream Ohio utility assistance plus 41
+program is created within the Ohio housing finance agency for 42
+
+S. B. No. 255 Page 3
+As Introduced
+the purpose of providing grants to homeowners to pay for the 43
+cost of utilities. 44
+(2) The Ohio housing finance agency shall administer the 45
+programs created under division (B)(1) of this section using up 46
+to ten million dollars of money available to the agency. The 47
+programs are not subject to the income limits established by the 48
+agency under section 175.05 of the Revised Code. 49
+(C) A homeowner is eligible for a grant under either or 50
+both of the programs created by this section if both of the 51
+following apply at the time of the homeowner's application: 52
+(1) The homeowner's adjusted gross income, as defined in 53
+section 5747.01 of the Revised Code, for the most recently 54
+concluded tax year does not exceed seventy-five thousand 55
+dollars; 56
+(2) The homeowner is sixty-five years or older, disabled, 57
+or a caretaker of an individual who is disabled. 58
+(D) A homeowner may apply for and receive more than one 59
+grant under this section, but no person may apply for or receive 60
+more than three thousand dollars in grants under this section in 61
+a calendar year. 62
+(E) The Ohio housing finance agency shall adopt rules 63
+pursuant to Chapter 119. of the Revised Code as necessary to 64
+administer the grant programs. At a minimum, the rules shall 65
+include both of the following: 66
+(1) The form and manner in which applications are 67
+submitted; 68
+(2) Criteria for determining whether an applicant is 69
+disabled or the caretaker of an individual who is disabled. 70
+
+[DELETED: nS BIL   . ::   1 1 1 1 1 1.1:1]
+[DELETED: 5 ;1;1 2;2;2;2;2;2;2;2;2;2 3;3 3 3;3 3.3 3 3 3;4 4 4]
+[DELETED: 5  4.4 4 4 4 4.4 5 5:5 5 5 5;5 5.5 5 6 6.6 6 6 6:6 6;6 6.7]

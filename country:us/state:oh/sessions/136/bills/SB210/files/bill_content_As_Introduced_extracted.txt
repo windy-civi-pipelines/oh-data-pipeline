@@ -1,0 +1,1255 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 20
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 210
+2025-2026
+Senator Blessing
+To amend section 3959.01 and to enact sections 1
+
+Section 2:
+3957.01, 3957.02, 3957.03, 3957.04, 3957.05, 2
+
+Section 3:
+3957.06, 3957.07, 3957.08, 3957.09, 3957.10, 3
+
+Section 4:
+3957.11, 3957.12, 3957.13, 3957.14, 3957.15, 4
+
+Section 5:
+3957.16, 3957.17, and 3957.99 of the Revised 5
+Code to establish a stand-alone licensing 6
+process and new contractual requirements for 7
+pharmacy benefit managers. 8
+
+Section 6:
+Section 1. That section 3959.01 be amended and sections 9
+
+Section 7:
+3957.01, 3957.02, 3957.03, 3957.04, 3957.05, 3957.06, 3957.07, 10
+
+Section 8:
+3957.08, 3957.09, 3957.10, 3957.11, 3957.12, 3957.13, 3957.14, 11
+
+Section 9:
+3957.15, 3957.16, 3957.17, and 3957.99 of the Revised Code be 12
+enacted to read as follows: 13
+Sec. 3957.01. As used in this chapter : 14
+(A) "Claims processing services" means administrative 15
+services performed in connection with processing and 16
+adjudicating claims relating to pharmacist services, including 17
+both of the following: 18
+(1) Receiving payments for pharmacist services; 19
+(2) Making payments to pharmacists or pharmacies for 20
+S. B. No. 210 Page 2
+As Introduced
+pharmacist services. 21
+(B) "Contracted pharmacy" or "pharmacy" means a pharmacy, 22
+as defined in section 4729.01 of the Revised Code, located in 23
+this state and participating in either the network of a pharmacy 24
+benefit manager or in a health care or pharmacy benefit plan 25
+through a direct contract or through a contract with a pharmacy 26
+services administration organization, group purchasing 27
+organization, or another contracting agent. 28
+(C) "Other prescription drug or device services" means 29
+services other than claims processing services, provided 30
+directly or indirectly, whether in connection with or separate 31
+from claims processing services, including all of the following: 32
+(1) Negotiating rebates, discounts, or other financial 33
+incentives and arrangements with drug companies; 34
+(2) Disbursing or distributing rebates; 35
+(3) Managing or participating in incentive programs or 36
+arrangements for pharmacist services; 37
+(4) Negotiating or entering into contractual arrangements 38
+with pharmacists or pharmacies, or both; 39
+(5) Developing formularies; 40
+(6) Designing prescription benefit programs; 41
+(7) Advertising or promoting services. 42
+(D) "Pharmacist" means an individual licensed to engage in 43
+the practice of pharmacy, as defined in section 4729.01 of the 44
+Revised Code. 45
+(E) "Pharmacy benefit manager affiliate" means a pharmacy 46
+or pharmacist that directly or indirectly, through one or more 47
+S. B. No. 210 Page 3
+As Introduced
+intermediaries, owns or controls, is owned or controlled by, or 48
+is under common ownership or control with a pharmacy benefit 49
+manager. 50
+(F) "Pharmacy services administrative organization" means 51
+an organization that helps community pharmacies and pharmacy 52
+benefit managers or third-party payers achieve administrative 53
+efficiencies, including contracting and payment efficiencies. 54
+(G)(1) "Rebate" means a discount or other price 55
+concession, or a payment that is both of the following: 56
+(a) Based on utilization of a prescription drug; 57
+(b) Paid by a manufacturer or third party, directly or 58
+indirectly, to a pharmacy benefit manager, pharmacy services 59
+administrative organization, or pharmacy after a claim has been 60
+processed and paid at a pharmacy. 61
+(2) "Rebate" includes all of the following: 62
+(a) Incentives, disbursements, and reasonable estimates of 63
+a volume-based discount; 64
+(b) Incentives or credits regardless of categorization, 65
+market share incentives, promotional allowances, commissions, 66
+educational grants, market share of utilization, drug pull- 67
+through programs, implementation allowances, clinical detailing, 68
+rebate submission fees, and administrative or management fees; 69
+(c) Bona fide fees, including manufacturer administrative 70
+fees or corporate fees that any vendor, affiliate, or 71
+subcontractor, including any group purchasing organization, 72
+receives from a pharmaceutical manufacturer for administrative 73
+costs including formulary placement and access. 74
+(3) "Rebate" does not include pharmacy purchase discounts 75
+S. B. No. 210 Page 4
+As Introduced
+and related service fees a vendor or a vendor's affiliates 76
+receive from a manufacturer or third party that are attributable 77
+to or based on the purchase of product to stock, or the 78
+dispensing of products from, a vendor's affiliated mail order 79
+and specialty drug pharmacies. 80
+(H) "Subject to this chapter" means, in the context of an 81
+agreement involving a pharmacy benefit manager, that the 82
+agreement is entered into, amended, or renewed on or after 83
+January 1, 2027. 84
+(I) "Third-party payer" has the same meaning as in section 85
+
+Section 10:
+3901.38 of the Revised Code, except that the term does not 86
+include a pharmacy benefit manager subject to this chapter. 87
+(J) "Drug product reimbursement," "fiduciary," "fiscal 88
+year," "insurer," "pharmacy benefit manager," "plan," "plan 89
+sponsor," and "self-insurance program" have the same meanings as 90
+in section 3959.01 of the Revised Code. 91
+Sec. 3957.02. The superintendent of insurance shall 92
+establish by rule, adopted in accordance with Chapter 119. of 93
+the Revised Code, and administer a process for licensing 94
+pharmacy benefit managers in this state. 95
+Sec. 3957.03. (A) On and after January 1, 2027, no person 96
+shall knowingly solicit a plan or sponsor of a plan that is 97
+domiciled in this state or has its principal headquarters or 98
+principal administrative office in this state to act as a 99
+pharmacy benefit manager for the plan or plan sponsor unless the 100
+person is licensed under this chapter. 101
+(B) No person shall knowingly provide pharmacy benefit 102
+management services pursuant to an agreement subject to this 103
+chapter unless the person is licensed under this chapter. 104
+S. B. No. 210 Page 5
+As Introduced
+Sec. 3957.04. (A) A person that seeks to be licensed as a 105
+pharmacy benefit manager shall file an application with the 106
+superintendent of insurance in the form and manner prescribed by 107
+the superintendent. 108
+(B) All applications for a pharmacy benefit manager 109
+license shall be accompanied by a nonrefundable filing fee of 110
+two thousand dollars per application. 111
+(C) All fees collected under this section and section 112
+
+Section 11:
+3957.08 of the Revised Code shall be paid into the state 113
+treasury to the credit of the department of insurance operating 114
+fund created under section 3901.021 of the Revised Code. 115
+Sec. 3957.05. The superintendent of insurance shall 116
+approve or deny an application for a license under this chapter 117
+within thirty days after receipt. 118
+Sec. 3957.06. Within thirty days after denying an 119
+application for a license under this chapter, the superintendent 120
+of insurance shall notify the applicant of the denial and the 121
+reasons for the denial. The superintendent shall include a 122
+statement in the notice advising that the applicant is entitled 123
+to a hearing, in accordance with Chapter 119. of the Revised 124
+Code, if the applicant requests such a hearing within thirty 125
+days after the notice is sent. 126
+Sec. 3957.07. Upon approving an application for a license 127
+under this chapter and receiving payment of the associated 128
+filing fee, the superintendent of insurance shall grant the 129
+applicant a license and issue a certificate of authority to 130
+operate as a pharmacy benefit manager in this state. The license 131
+is effective on the date the application is approved by the 132
+superintendent and expires annually on the thirtieth day of 133
+S. B. No. 210 Page 6
+As Introduced
+June. If the application is approved in May or June, the license 134
+expires on the thirtieth day of June the following year. All 135
+licenses may be renewed, annually, in accordance with section 136
+
+Section 12:
+3957.08 of the Revised Code. 137
+Sec. 3957.08. (A) The superintendent of insurance shall 138
+provide a renewal notice to each person licensed under this 139
+chapter not later than the first day of May each year. 140
+(B) A person licensed under this chapter may renew the 141
+license by applying to the superintendent, in the form and 142
+manner prescribed by the superintendent, and paying a renewal 143
+fee of three thousand dollars before the date the license 144
+expires. 145
+(C) In the event that a person licensed under this chapter 146
+fails to apply for renewal and pay the renewal fee before the 147
+date the license expires, the superintendent shall cancel the 148
+person's certificate of authority to operate as a pharmacy 149
+benefit manager in this state. A person whose license is expired 150
+may apply to reinstate the license in the same manner as an 151
+original application under section 3957.04 of the Revised Code, 152
+except that the filing fee is the product of two hundred fifty 153
+dollars times the number of months the reinstated license will 154
+be in effect. 155
+Sec. 3957.09. (A) Except as otherwise provided in divisio n 156
+(G) of this section, no person shall act as a pharmacy benefit 157
+manager on or after January 1, 2027, without first entering into 158
+a written agreement with a plan sponsor. 159
+(B) The pharmacy benefit manager shall retain the written 160
+agreement as part of the pharmacy benefit manager's official 161
+records for the duration of the agreement and for five years 162
+S. B. No. 210 Page 7
+As Introduced
+thereafter. Each agreement shall include, at a minimum, all of 163
+the following: 164
+(1) The term of the agreement; 165
+(2) An explanation of the services to be performed by the 166
+pharmacy benefit manager; 167
+(3) The method and rate of compensation to be paid by the 168
+plan sponsor to the pharmacy benefit manager for services 169
+rendered; 170
+(4) Provisions for the renewal and termination of the 171
+agreement. 172
+(C) A pharmacy benefit manager shall maintain, for the 173
+duration of the agreement with the plan sponsor, customary books 174
+and records of all transactions and information relative to 175
+covered persons or beneficiaries. The pharmacy benefit manager 176
+shall maintain such books and records either electronically or 177
+in physical form at the pharmacy benefit manager's principal 178
+office or branch office. 179
+(D) A pharmacy benefit manager shall account, annually or 180
+more frequently, to the plan sponsor for any pricing discounts, 181
+rebates of any kind, inflationary payments, credits, claw backs, 182
+fees, grants, charge backs, drug product reimbursements, or 183
+other benefits received by the pharmacy benefit manager. The 184
+pharmacy benefit manager shall give the plan sponsor access to 185
+all financial and utilization information used by the pharmacy 186
+benefit manager in relation to pharmacy benefit management 187
+services provided to the plan sponsor. 188
+(E) A pharmacy benefit manager shall disclose, in writing, 189
+to the plan sponsor the terms and conditions of any contract or 190
+arrangement between the pharmacy benefit manager and any other 191
+S. B. No. 210 Page 8
+As Introduced
+party relating to pharmacy benefit management services provided 192
+by the pharmacy benefit manager to the plan sponsor, including 193
+pharmacy benefit management services provided to group 194
+purchasing organizations. 195
+(F) A pharmacy benefit manager shall disclose, in writing, 196
+to the plan sponsor any activity, policy, practice, contract, or 197
+arrangement of the pharmacy benefit manager that directly or 198
+indirectly presents any conflict of interest concerning the 199
+pharmacy benefit manager's relationship with or obligation to 200
+the plan sponsor. 201
+(G) Divisions (A) to (F) of this section apply to 202
+agreements subject to this chapter and pharmacy benefit 203
+management services provided pursuant to those agreements. 204
+Nothing in those divisions applies to pharmacy benefit 205
+management services provided pursuant to an agreement that is 206
+not subject to this chapter. 207
+(H) A pharmacy benefit manager duly licensed under this 208
+chapter shall, at all times, maintain any required insurance 209
+coverage or bond as provided for and mandated by the "Employee 210
+Retirement and Income Security Act of 1974," 29 U.S.C. 1001. 211
+Sec. 3957.10. An insurer that enters into an agreement 212
+subject to this chapter with a pharmacy benefit manager to 213
+perform any services related to prescription drug benefits shall 214
+ensure that, under the agreement, the pharmacy benefit manager 215
+acts as the insurer's agent and owes a fiduciary duty to the 216
+insurer in the pharmacy benefit manager's performance of 217
+services related to the insurer's prescription drug benefits. 218
+Sec. 3957.11. (A) Upon notice and hearing in accordance 219
+with Chapter 119. of the Revised Code, the superintendent of 220
+S. B. No. 210 Page 9
+As Introduced
+insurance may suspend for a period not exceeding two years, 221
+revoke, or refuse to renew any license issued under this 222
+chapter, or impose a monetary fine against a licensee, or both, 223
+if upon investigation and proof the superintendent finds that 224
+the licensee has done any of the following: 225
+(1) Knowingly violated any provision of this chapter or 226
+any rule promulgated by the superintendent in accordance with 227
+this chapter; 228
+(2) Knowingly made a material misstatement in the 229
+application for licensure or renewal; 230
+(3) Obtained or attempted to obtain a license through 231
+misrepresentation or fraud; 232
+(4) Misappropriated, converted to the licensee's own use, 233
+or improperly withheld insurance company premiums or 234
+contributions held by the licensee in a fiduciary capacity, 235
+excluding interest earnings received by the licensee that are 236
+disclosed in writing to the plan sponsor; 237
+(5) In the transaction of business under the license, used 238
+fraudulent, coercive, or dishonest practices; 239
+(6) Failed to appear without reasonable cause or excuse in 240
+response to a subpoena, examination, warrant, or other order 241
+lawfully issued by the superintendent; 242
+(7) Is affiliated with or under the same general 243
+management or interlocking directorate or ownership of another 244
+pharmacy benefit manager that transacts business in this state 245
+and is not licensed under this chapter; 246
+(8) Had a license suspended, revoked, or not renewed in 247
+any other state, district, territory, or province on grounds 248
+S. B. No. 210 Page 10
+As Introduced
+identical to those stated in this section; 249
+(9) Been convicted of a financially related felony; 250
+(10) Failed to report a felony conviction as required by 251
+
+Section 13:
+section 3957.12 of the Revised Code. 252
+(B) Upon receipt of notice of the order of suspension in 253
+accordance with sections 119.05 and 119.07 of the Revised Code, 254
+the licensee shall promptly deliver the license to the 255
+superintendent, unless the order of suspension is appealed under 256
+
+Section 14:
+section 119.12 of the Revised Code. 257
+(C) Any person whose license is revoked or whose 258
+application is denied pursuant to this chapter is ineligible to 259
+apply for a pharmacy benefit manager license for two years after 260
+the date the license is revoked or the application is denied. 261
+(D) The superintendent may impose a monetary fine against 262
+a licensee if, upon investigation and after notice and 263
+opportunity for hearing in accordance with Chapter 119. of the 264
+Revised Code, the superintendent finds that the licensee has 265
+done either of the following: 266
+(1) Committed fraud or engaged in any illegal or dishonest 267
+activity in connection with the administration of pharmacy 268
+benefit management services; 269
+(2) Violated any provision of section 3957.09 of the 270
+Revised Code or any rule adopted by the superintendent pursuant 271
+to or to implement that section. 272
+Sec. 3957.12. Any person that, while licensed as a 273
+pharmacy benefit manager under this chapter, is convicted of a 274
+felony, shall report the conviction to the superintendent of 275
+insurance within thirty days after the entry date of the 276
+S. B. No. 210 Page 11
+As Introduced
+judgment of conviction. Within that thirty-day period, the 277
+person shall also provide the superintendent with a copy of the 278
+judgment, the commitment order or the order imposing a community 279
+control sanction, as defined in section 2929.01 of the Revised 280
+Code, and any other relevant documents. 281
+Sec. 3957.13. (A) On and after January 1, 2027, no 282
+pharmacy benefit manager shall do any of the following: 283
+(1) Use plan sponsor funds for any purpose not 284
+specifically set forth in writing by the pharmacy benefit 285
+manager; 286
+(2) Fail to disclose in written solicitation materials and 287
+at least once annually to contracted plan sponsors any ownership 288
+relationship of five per cent or more between the pharmacy 289
+benefit manager and an insurance carrier; 290
+(3) Fail to remit insurance company premiums within the 291
+policy period or within the time agreed to in writing between 292
+the insurance company and the pharmacy benefit manager; 293
+(4) Fail to disclose in writing the method of collecting 294
+and holding a plan sponsor's funds. 295
+(B) This section does not apply to the extent that it 296
+conflicts with an agreement that is not subject to this chapter. 297
+Sec. 3957.14. (A) On and after July 1, 2027, a pharmacy 298
+benefit manger shall do all of the following: 299
+(1) Maintain detailed books and records that reflect all 300
+transactions administered by the pharmacy benefit manager 301
+pursuant to agreements that are subject to this chapter, 302
+specifically in regard to premiums or contributions received and 303
+deposited, and claims and authorized expenses paid. 304
+S. B. No. 210 Page 12
+As Introduced
+(2) Prepare, journalize, and post the books and records 305
+described in division (A)(1) of this section in accordance with 306
+the terms and conditions of the service agreement between the 307
+pharmacy benefit manager and the insurer or plan sponsor and in 308
+accordance with the "Employee Retirement and Income Security Act 309
+of 1974," 29 U.S.C. 1001. 310
+(3) Maintain the books and records described in division 311
+(A)(1) of this section for the period in which the pharmacy 312
+benefit manager provides services for the applicable insurer or 313
+plan sponsor and for ten years thereafter. 314
+(4) Maintain a cash receipts register of all premiums or 315
+contributions received, including, at minimum, the date such 316
+contributions are received and deposited. 317
+(B) For the purposes of the books and records required by 318
+this section, a pharmacy benefit manager's description of a 319
+disbursement shall be in sufficient detail to identify the 320
+source document substantiating the purpose of the disbursement, 321
+and shall include all of the following: 322
+(1) The check number; 323
+(2) The date of disbursement; 324
+(3) The person to whom the disbursement was made; 325
+(4) The amount disbursed and, if the amount disbursed does 326
+not align with the amount billed or authorized, a written record 327
+as to the application for the disbursement; 328
+(5) If the disbursement is for the earned pharmacy benefit 329
+manager fee or commission, a written record reflecting the 330
+identifying deposit from which the fee is matched. 331
+(C) A pharmacy benefit manager shall support all journal 332
+S. B. No. 210 Page 13
+As Introduced
+entries for receipts and disbursements with evidence that is 333
+referenced in the journal entry so that it may be traced for 334
+verification. 335
+(D) A pharmacy benefit manager shall prepare and maintain 336
+monthly financial institution account reconciliations if 337
+requested by an insurer or plan sponsor as provided in any 338
+service agreement by and between the pharmacy benefit manager 339
+and the insurer or plan sponsor that is subject to this chapter. 340
+(E) A pharmacy benefit manager shall prepare a report to 341
+be filed with the insurer or plan sponsor with which the 342
+pharmacy benefit manager has an agreement subject to this 343
+chapter within ninety days after the end of the fiscal year of 344
+the plan which, at minimum, discloses all of the following: 345
+(1) The total premiums or contributions received from the 346
+plan sponsor, covered persons, or beneficiaries; 347
+(2) The total administration fees withdrawn by the 348
+pharmacy benefit manager pursuant to the written service 349
+agreement; 350
+(3) The total claim payments made during the reporting 351
+period. 352
+(F) A pharmacy benefit manager shall pay return premiums 353
+or contributions to the insurer or plan sponsor with which the 354
+pharmacy benefit manager has an agreement subject to this 355
+chapter, or credit such return premiums or contributions to the 356
+account of the insurer or plan sponsor, within thirty days after 357
+receipt by the pharmacy benefit manager. If the pharmacy benefit 358
+manager credits the return premium or contribution to the 359
+insurer or plan sponsor, the pharmacy benefit manager shall show 360
+and apply the credit to the next billing statement sent to the 361
+S. B. No. 210 Page 14
+As Introduced
+insurer or plan sponsor. 362
+(G) On and after January 1, 2027, the superintendent of 363
+insurance may examine the books and records of a pharmacy 364
+benefit manager as necessary to determine the following: 365
+(1) The aggregate amount of rebates received by a pharmacy 366
+benefit manager; 367
+(2) The aggregate amount of rebates distributed by a 368
+pharmacy benefit manager to an appropriate health care payor; 369
+(3) The aggregate amount of rebates passed on to an 370
+enrollee of each health care payor at the point of sale that 371
+reduced the enrollee's applicable deductible, copayment, 372
+coinsurance, or other cost-sharing amount; 373
+(4) The individual and aggregate amount paid by a health 374
+care payor to the pharmacy benefit manager for pharmacist 375
+services itemized by pharmacy, product, and goods and services, 376
+including other prescription drug or device services; 377
+(5) The individual and aggregate amount a pharmacy benefit 378
+manager paid for pharmacist services itemized by pharmacy, 379
+product, and goods and services, including other prescription 380
+drug or device services. 381
+(H) This section does not limit the power of the 382
+superintendent to examine or audit the books and records of a 383
+pharmacy benefit manager. 384
+(I) Upon written notification to a pharmacy benefit 385
+manager by the superintendent of insurance that the pharmacy 386
+benefit manager has violated any provision of this chapter, the 387
+pharmacy benefit manager shall correct the violation specified 388
+in the notice within sixty days. 389
+S. B. No. 210 Page 15
+As Introduced
+Sec. 3957.15. (A) All information and data acquired by th e 390
+superintendent of insurance or the department of insurance under 391
+this chapter is considered proprietary and confidential and is 392
+not a public record under section 149.43 of the Revised Code. 393
+(B) On and after January 1, 2027, no pharmacy benefit 394
+manager or representative of a pharmacy benefit manager shall do 395
+either of the following: 396
+(1) Cause or knowingly permit the use of any 397
+advertisement, promotion, solicitation, representation, 398
+proposal, or offer that is untrue, deceptive, or misleading; 399
+(2) Reimburse a pharmacy or pharmacist in this state an 400
+amount less than the amount that the pharmacy benefit manager 401
+reimburses a pharmacy benefit manager affiliate for providing 402
+the same service. 403
+Sec. 3957.16. This chapter does not apply to an employer' s 404
+self-insurance plan to the extent that federal law supersedes, 405
+preempts, prohibits, or otherwise precludes its application to 406
+such plan. 407
+Sec. 3957.17. On receipt of a notice pursuant to section 408
+
+Section 15:
+3123.43 of the Revised Code, the superintendent of insurance 409
+shall comply with sections 3123.41 to 3123.50 of the Revised 410
+Code and any applicable rules adopted under section 3123.63 of 411
+the Revised Code with respect to a license issued pursuant to 412
+this chapter. 413
+Sec. 3957.99. Whoever violates section 3957.03 of the 414
+Revised Code is guilty of a misdemeanor of the fourth degree. 415
+Sec. 3959.01. As used in this chapter: 416
+(A) "Administration fees" means any amount charged a 417
+S. B. No. 210 Page 16
+As Introduced
+covered person for services rendered. "Administration fees" 418
+includes commissions earned or paid by any person relative to 419
+services performed by an administrator. 420
+(B) "Administrator" means any person who adjusts or 421
+settles claims on, residents of this state in connection with 422
+life, dental, health, prescription drugs, or disability 423
+insurance or self-insurance programs. "Administrator" includes a 424
+pharmacy benefit manager, except as described in division (B)(6) 425
+of this section. "Administrator" does not include any of the 426
+following: 427
+(1) An insurance agent or solicitor licensed in this state 428
+whose activities are limited exclusively to the sale of 429
+insurance and who does not provide any administrative services; 430
+(2) Any person who administers or operates the workers' 431
+compensation program of a self-insuring employer under Chapter 432
+
+Section 16:
+4123. of the Revised Code; 433
+(3) Any person who administers pension plans for the 434
+benefit of the person's own members or employees or administers 435
+pension plans for the benefit of the members or employees of any 436
+other person; 437
+(4) Any person that administers an insured plan or a self- 438
+insured plan that provides life, dental, health, or disability 439
+benefits exclusively for the person's own members or employees; 440
+(5) Any health insuring corporation holding a certificate 441
+of authority under Chapter 1751. of the Revised Code or an 442
+insurance company that is authorized to write life or sickness 443
+and accident insurance in this state; 444
+(6) On and after January 1, 2027, a pharmacy benefit 445
+manager licensed under Chapter 3957. of the Revised Code but 446
+S. B. No. 210 Page 17
+As Introduced
+only with respect to agreements that are entered into, amended, 447
+or renewed on or after that date. 448
+(C) "Aggregate excess insurance" means that type of 449
+coverage whereby the insurer agrees to reimburse the insured 450
+employer or trust for all benefits or claims paid during an 451
+agreement period on behalf of all covered persons under the plan 452
+or trust which exceed a stated deductible amount and subject to 453
+a stated maximum. 454
+(D) "Contracted pharmacy" or "pharmacy" means a pharmacy 455
+located in this state participating in either the network of a 456
+pharmacy benefit manager or in a health care or pharmacy benefit 457
+plan through a direct contract or through a contract with a 458
+pharmacy services administration organization, group purchasing 459
+organization, or another contracting agent. 460
+(E) "Contributions" means any amount collected from a 461
+covered person to fund the self-insured portion of any plan in 462
+accordance with the plan's provisions, summary plan 463
+descriptions, and contracts of insurance. 464
+(F) "Drug product reimbursement" means the amount paid by 465
+a pharmacy benefit manager to a contracted pharmacy for the cost 466
+of the drug dispensed to a patient and does not include a 467
+dispensing or professional fee. 468
+(G) "Fiduciary" has the meaning set forth in section 469
+1002(21)(A) of the "Employee Retirement Income Security Act of 470
+1974," 88 Stat. 829, 29 U.S.C. 1001, as amended. 471
+(H) "Fiscal year" means the twelve-month accounting period 472
+commencing on the date the plan is established and ending twelve 473
+months following that date, and each corresponding twelve-month 474
+accounting period thereafter as provided for in the summary plan 475
+S. B. No. 210 Page 18
+As Introduced
+description. 476
+(I) "Insurer" means an entity authorized to do the 477
+business of insurance in this state or, for the purposes of this 478
+
+Section 17:
+section, a health insuring corporation authorized to issue 479
+health care plans in this state. 480
+(J) "Managed care organization" means an entity that 481
+provides medical management and cost containment services and 482
+includes a medicaid managed care organization, as defined in 483
+
+Section 18:
+section 5167.01 of the Revised Code. 484
+(K) "Maximum allowable cost" means a maximum drug product 485
+reimbursement for an individual drug or for a group of 486
+therapeutically and pharmaceutically equivalent multiple source 487
+drugs that are listed in the United States food and drug 488
+administration's approved drug products with therapeutic 489
+equivalence evaluations, commonly referred to as the orange 490
+book. 491
+(L) "Maximum allowable cost list" means a list of the 492
+drugs for which a pharmacy benefit manager imposes a maximum 493
+allowable cost. 494
+(M) "Multiple employer welfare arrangement" has the same 495
+meaning as in section 1739.01 of the Revised Code. 496
+(N) "Pharmacy benefit manager" means an entity that 497
+contracts with pharmacies on behalf of an employer, a multiple 498
+employer welfare arrangement, public employee benefit plan, 499
+state agency, insurer, managed care organization, or other 500
+third-party payer to provide pharmacy health benefit services or 501
+administration. "Pharmacy benefit manager" includes the state 502
+pharmacy benefit manager selected under section 5167.24 of the 503
+Revised Code. 504
+S. B. No. 210 Page 19
+As Introduced
+(O) "Plan" means any arrangement in written form for the 505
+payment of life, dental, health, or disability benefits to 506
+covered persons defined by the summary plan description and 507
+includes a drug benefit plan administered by a pharmacy benefit 508
+manager. 509
+(P) "Plan sponsor" means the person who establishes the 510
+plan. 511
+(Q) "Self-insurance program" means a program whereby an 512
+employer provides a plan of benefits for its employees without 513
+involving an intermediate insurance carrier to assume risk or 514
+pay claims. "Self-insurance program" includes but is not limited 515
+to employer programs that pay claims up to a prearranged limit 516
+beyond which they purchase insurance coverage to protect against 517
+unpredictable or catastrophic losses. 518
+(R) "Specific excess insurance" means that type of 519
+coverage whereby the insurer agrees to reimburse the insured 520
+employer or trust for all benefits or claims paid during an 521
+agreement period on behalf of a covered person in excess of a 522
+stated deductible amount and subject to a stated maximum. 523
+(S) "Summary plan description" means the written document 524
+adopted by the plan sponsor which outlines the plan of benefits, 525
+conditions, limitations, exclusions, and other pertinent details 526
+relative to the benefits provided to covered persons thereunder. 527
+(T) "Third-party payer" has the same meaning as in section 528
+
+Section 19:
+3901.38 of the Revised Code. 529
+
+Section 20:
+Section 2. That existing section 3959.01 of the Revised 530
+Code is hereby repealed. 531
+[DELETED: nS       .  1 1 1:1:1 1 1 1:1;1 2]
+[DELETED: 0 .2 2 2 2 2 2 2.2 2 3 3:3 3;3;3 3;3 3;3;4;4.4 4 4.4 4 4]
+[DELETED: 0  4 4.5 5 5 5.5 5:5;5 5 5 6.6:6 6;6 6 6-6 6;6 7 7 7 7.7 7]
+[DELETED: 0  7 7 7 7.8 8 8 8.8 8 8.8 8 8 9.9 9 9 9.9 9 9 9 9 1.1 1 1.1]
+[DELETED: 0  1 1 1.1 1 1.1 1 1 1.1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 0  1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 0  1:1;1 1;1 1 1;1 1.1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 0  1 1 1.1 1 1 1 1 2.2 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2.2 2 2]
+[DELETED: 0  2 2 2 2:2 2 2;2 2;2 2;2 2 2 2 2;2 2;2 2 2;2 2 2 2;2 2 2]
+[DELETED: 0 ;2;2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2:2 2 2;2 2 2.2 2 2 2 2]
+[DELETED: 0  2 2 2 2.2 2:2 2 2;2 2 2 2;2 2 2;2 2.2 2.2 2:2 3 3 3 3.3]
+[DELETED: 0  3 3 3 3 3.3 3 3 3.3 3 3.3 3 3 3 3:3;3;3;3 3 3;3 3 3.3 3]
+[DELETED: 0  3 3.3 3 3 3 3.3 3 3 3 3:3 3;3 3 3;3 3.3 3 3 3 3 3 3 3 3 3]
+[DELETED: 0 .3 3 3:3 3;3 3 3 3 3 3;3 3 3 3;3 3 3 3.3 3 3.3 3 3 3 3.3]
+[DELETED: 0  3 3 3.3 3 3:3 3 3;3 4 4 4.4 4 4 4.4 4 4 4 4 4.4 4.4:4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4-4 4 4 4 4 4;4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5]
+[DELETED: 0  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 210
+2025-2026
+Senator Blessing
+To amend section 3959.01 and to enact sections 1
+3957.01, 3957.02, 3957.03, 3957.04, 3957.05, 2
+3957.06, 3957.07, 3957.08, 3957.09, 3957.10, 3
+3957.11, 3957.12, 3957.13, 3957.14, 3957.15, 4
+3957.16, 3957.17, and 3957.99 of the Revised 5
+Code to establish a stand-alone licensing 6
+process and new contractual requirements for 7
+pharmacy benefit managers. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3959.01 be amended and sections 9
+3957.01, 3957.02, 3957.03, 3957.04, 3957.05, 3957.06, 3957.07, 10
+3957.08, 3957.09, 3957.10, 3957.11, 3957.12, 3957.13, 3957.14, 11
+3957.15, 3957.16, 3957.17, and 3957.99 of the Revised Code be 12
+enacted to read as follows: 13
+Sec. 3957.01. As used in this chapter : 14
+(A) "Claims processing services" means administrative 15
+services performed in connection with processing and 16
+adjudicating claims relating to pharmacist services, including 17
+both of the following: 18
+(1) Receiving payments for pharmacist services; 19
+(2) Making payments to pharmacists or pharmacies for 20
+
+S. B. No. 210 Page 2
+As Introduced
+pharmacist services. 21
+(B) "Contracted pharmacy" or "pharmacy" means a pharmacy, 22
+as defined in section 4729.01 of the Revised Code, located in 23
+this state and participating in either the network of a pharmacy 24
+benefit manager or in a health care or pharmacy benefit plan 25
+through a direct contract or through a contract with a pharmacy 26
+services administration organization, group purchasing 27
+organization, or another contracting agent. 28
+(C) "Other prescription drug or device services" means 29
+services other than claims processing services, provided 30
+directly or indirectly, whether in connection with or separate 31
+from claims processing services, including all of the following: 32
+(1) Negotiating rebates, discounts, or other financial 33
+incentives and arrangements with drug companies; 34
+(2) Disbursing or distributing rebates; 35
+(3) Managing or participating in incentive programs or 36
+arrangements for pharmacist services; 37
+(4) Negotiating or entering into contractual arrangements 38
+with pharmacists or pharmacies, or both; 39
+(5) Developing formularies; 40
+(6) Designing prescription benefit programs; 41
+(7) Advertising or promoting services. 42
+(D) "Pharmacist" means an individual licensed to engage in 43
+the practice of pharmacy, as defined in section 4729.01 of the 44
+Revised Code. 45
+(E) "Pharmacy benefit manager affiliate" means a pharmacy 46
+or pharmacist that directly or indirectly, through one or more 47
+
+S. B. No. 210 Page 3
+As Introduced
+intermediaries, owns or controls, is owned or controlled by, or 48
+is under common ownership or control with a pharmacy benefit 49
+manager. 50
+(F) "Pharmacy services administrative organization" means 51
+an organization that helps community pharmacies and pharmacy 52
+benefit managers or third-party payers achieve administrative 53
+efficiencies, including contracting and payment efficiencies. 54
+(G)(1) "Rebate" means a discount or other price 55
+concession, or a payment that is both of the following: 56
+(a) Based on utilization of a prescription drug; 57
+(b) Paid by a manufacturer or third party, directly or 58
+indirectly, to a pharmacy benefit manager, pharmacy services 59
+administrative organization, or pharmacy after a claim has been 60
+processed and paid at a pharmacy. 61
+(2) "Rebate" includes all of the following: 62
+(a) Incentives, disbursements, and reasonable estimates of 63
+a volume-based discount; 64
+(b) Incentives or credits regardless of categorization, 65
+market share incentives, promotional allowances, commissions, 66
+educational grants, market share of utilization, drug pull- 67
+through programs, implementation allowances, clinical detailing, 68
+rebate submission fees, and administrative or management fees; 69
+(c) Bona fide fees, including manufacturer administrative 70
+fees or corporate fees that any vendor, affiliate, or 71
+subcontractor, including any group purchasing organization, 72
+receives from a pharmaceutical manufacturer for administrative 73
+costs including formulary placement and access. 74
+(3) "Rebate" does not include pharmacy purchase discounts 75
+
+S. B. No. 210 Page 4
+As Introduced
+and related service fees a vendor or a vendor's affiliates 76
+receive from a manufacturer or third party that are attributable 77
+to or based on the purchase of product to stock, or the 78
+dispensing of products from, a vendor's affiliated mail order 79
+and specialty drug pharmacies. 80
+(H) "Subject to this chapter" means, in the context of an 81
+agreement involving a pharmacy benefit manager, that the 82
+agreement is entered into, amended, or renewed on or after 83
+January 1, 2027. 84
+(I) "Third-party payer" has the same meaning as in section 85
+3901.38 of the Revised Code, except that the term does not 86
+include a pharmacy benefit manager subject to this chapter. 87
+(J) "Drug product reimbursement," "fiduciary," "fiscal 88
+year," "insurer," "pharmacy benefit manager," "plan," "plan 89
+sponsor," and "self-insurance program" have the same meanings as 90
+in section 3959.01 of the Revised Code. 91
+Sec. 3957.02. The superintendent of insurance shall 92
+establish by rule, adopted in accordance with Chapter 119. of 93
+the Revised Code, and administer a process for licensing 94
+pharmacy benefit managers in this state. 95
+Sec. 3957.03. (A) On and after January 1, 2027, no person 96
+shall knowingly solicit a plan or sponsor of a plan that is 97
+domiciled in this state or has its principal headquarters or 98
+principal administrative office in this state to act as a 99
+pharmacy benefit manager for the plan or plan sponsor unless the 100
+person is licensed under this chapter. 101
+(B) No person shall knowingly provide pharmacy benefit 102
+management services pursuant to an agreement subject to this 103
+chapter unless the person is licensed under this chapter. 104
+
+S. B. No. 210 Page 5
+As Introduced
+Sec. 3957.04. (A) A person that seeks to be licensed as a 105
+pharmacy benefit manager shall file an application with the 106
+superintendent of insurance in the form and manner prescribed by 107
+the superintendent. 108
+(B) All applications for a pharmacy benefit manager 109
+license shall be accompanied by a nonrefundable filing fee of 110
+two thousand dollars per application. 111
+(C) All fees collected under this section and section 112
+3957.08 of the Revised Code shall be paid into the state 113
+treasury to the credit of the department of insurance operating 114
+fund created under section 3901.021 of the Revised Code. 115
+Sec. 3957.05. The superintendent of insurance shall 116
+approve or deny an application for a license under this chapter 117
+within thirty days after receipt. 118
+Sec. 3957.06. Within thirty days after denying an 119
+application for a license under this chapter, the superintendent 120
+of insurance shall notify the applicant of the denial and the 121
+reasons for the denial. The superintendent shall include a 122
+statement in the notice advising that the applicant is entitled 123
+to a hearing, in accordance with Chapter 119. of the Revised 124
+Code, if the applicant requests such a hearing within thirty 125
+days after the notice is sent. 126
+Sec. 3957.07. Upon approving an application for a license 127
+under this chapter and receiving payment of the associated 128
+filing fee, the superintendent of insurance shall grant the 129
+applicant a license and issue a certificate of authority to 130
+operate as a pharmacy benefit manager in this state. The license 131
+is effective on the date the application is approved by the 132
+superintendent and expires annually on the thirtieth day of 133
+
+S. B. No. 210 Page 6
+As Introduced
+June. If the application is approved in May or June, the license 134
+expires on the thirtieth day of June the following year. All 135
+licenses may be renewed, annually, in accordance with section 136
+3957.08 of the Revised Code. 137
+Sec. 3957.08. (A) The superintendent of insurance shall 138
+provide a renewal notice to each person licensed under this 139
+chapter not later than the first day of May each year. 140
+(B) A person licensed under this chapter may renew the 141
+license by applying to the superintendent, in the form and 142
+manner prescribed by the superintendent, and paying a renewal 143
+fee of three thousand dollars before the date the license 144
+expires. 145
+(C) In the event that a person licensed under this chapter 146
+fails to apply for renewal and pay the renewal fee before the 147
+date the license expires, the superintendent shall cancel the 148
+person's certificate of authority to operate as a pharmacy 149
+benefit manager in this state. A person whose license is expired 150
+may apply to reinstate the license in the same manner as an 151
+original application under section 3957.04 of the Revised Code, 152
+except that the filing fee is the product of two hundred fifty 153
+dollars times the number of months the reinstated license will 154
+be in effect. 155
+Sec. 3957.09. (A) Except as otherwise provided in divisio n 156
+(G) of this section, no person shall act as a pharmacy benefit 157
+manager on or after January 1, 2027, without first entering into 158
+a written agreement with a plan sponsor. 159
+(B) The pharmacy benefit manager shall retain the written 160
+agreement as part of the pharmacy benefit manager's official 161
+records for the duration of the agreement and for five years 162
+
+S. B. No. 210 Page 7
+As Introduced
+thereafter. Each agreement shall include, at a minimum, all of 163
+the following: 164
+(1) The term of the agreement; 165
+(2) An explanation of the services to be performed by the 166
+pharmacy benefit manager; 167
+(3) The method and rate of compensation to be paid by the 168
+plan sponsor to the pharmacy benefit manager for services 169
+rendered; 170
+(4) Provisions for the renewal and termination of the 171
+agreement. 172
+(C) A pharmacy benefit manager shall maintain, for the 173
+duration of the agreement with the plan sponsor, customary books 174
+and records of all transactions and information relative to 175
+covered persons or beneficiaries. The pharmacy benefit manager 176
+shall maintain such books and records either electronically or 177
+in physical form at the pharmacy benefit manager's principal 178
+office or branch office. 179
+(D) A pharmacy benefit manager shall account, annually or 180
+more frequently, to the plan sponsor for any pricing discounts, 181
+rebates of any kind, inflationary payments, credits, claw backs, 182
+fees, grants, charge backs, drug product reimbursements, or 183
+other benefits received by the pharmacy benefit manager. The 184
+pharmacy benefit manager shall give the plan sponsor access to 185
+all financial and utilization information used by the pharmacy 186
+benefit manager in relation to pharmacy benefit management 187
+services provided to the plan sponsor. 188
+(E) A pharmacy benefit manager shall disclose, in writing, 189
+to the plan sponsor the terms and conditions of any contract or 190
+arrangement between the pharmacy benefit manager and any other 191
+
+S. B. No. 210 Page 8
+As Introduced
+party relating to pharmacy benefit management services provided 192
+by the pharmacy benefit manager to the plan sponsor, including 193
+pharmacy benefit management services provided to group 194
+purchasing organizations. 195
+(F) A pharmacy benefit manager shall disclose, in writing, 196
+to the plan sponsor any activity, policy, practice, contract, or 197
+arrangement of the pharmacy benefit manager that directly or 198
+indirectly presents any conflict of interest concerning the 199
+pharmacy benefit manager's relationship with or obligation to 200
+the plan sponsor. 201
+(G) Divisions (A) to (F) of this section apply to 202
+agreements subject to this chapter and pharmacy benefit 203
+management services provided pursuant to those agreements. 204
+Nothing in those divisions applies to pharmacy benefit 205
+management services provided pursuant to an agreement that is 206
+not subject to this chapter. 207
+(H) A pharmacy benefit manager duly licensed under this 208
+chapter shall, at all times, maintain any required insurance 209
+coverage or bond as provided for and mandated by the "Employee 210
+Retirement and Income Security Act of 1974," 29 U.S.C. 1001. 211
+Sec. 3957.10. An insurer that enters into an agreement 212
+subject to this chapter with a pharmacy benefit manager to 213
+perform any services related to prescription drug benefits shall 214
+ensure that, under the agreement, the pharmacy benefit manager 215
+acts as the insurer's agent and owes a fiduciary duty to the 216
+insurer in the pharmacy benefit manager's performance of 217
+services related to the insurer's prescription drug benefits. 218
+Sec. 3957.11. (A) Upon notice and hearing in accordance 219
+with Chapter 119. of the Revised Code, the superintendent of 220
+
+S. B. No. 210 Page 9
+As Introduced
+insurance may suspend for a period not exceeding two years, 221
+revoke, or refuse to renew any license issued under this 222
+chapter, or impose a monetary fine against a licensee, or both, 223
+if upon investigation and proof the superintendent finds that 224
+the licensee has done any of the following: 225
+(1) Knowingly violated any provision of this chapter or 226
+any rule promulgated by the superintendent in accordance with 227
+this chapter; 228
+(2) Knowingly made a material misstatement in the 229
+application for licensure or renewal; 230
+(3) Obtained or attempted to obtain a license through 231
+misrepresentation or fraud; 232
+(4) Misappropriated, converted to the licensee's own use, 233
+or improperly withheld insurance company premiums or 234
+contributions held by the licensee in a fiduciary capacity, 235
+excluding interest earnings received by the licensee that are 236
+disclosed in writing to the plan sponsor; 237
+(5) In the transaction of business under the license, used 238
+fraudulent, coercive, or dishonest practices; 239
+(6) Failed to appear without reasonable cause or excuse in 240
+response to a subpoena, examination, warrant, or other order 241
+lawfully issued by the superintendent; 242
+(7) Is affiliated with or under the same general 243
+management or interlocking directorate or ownership of another 244
+pharmacy benefit manager that transacts business in this state 245
+and is not licensed under this chapter; 246
+(8) Had a license suspended, revoked, or not renewed in 247
+any other state, district, territory, or province on grounds 248
+
+S. B. No. 210 Page 10
+As Introduced
+identical to those stated in this section; 249
+(9) Been convicted of a financially related felony; 250
+(10) Failed to report a felony conviction as required by 251
+section 3957.12 of the Revised Code. 252
+(B) Upon receipt of notice of the order of suspension in 253
+accordance with sections 119.05 and 119.07 of the Revised Code, 254
+the licensee shall promptly deliver the license to the 255
+superintendent, unless the order of suspension is appealed under 256
+section 119.12 of the Revised Code. 257
+(C) Any person whose license is revoked or whose 258
+application is denied pursuant to this chapter is ineligible to 259
+apply for a pharmacy benefit manager license for two years after 260
+the date the license is revoked or the application is denied. 261
+(D) The superintendent may impose a monetary fine against 262
+a licensee if, upon investigation and after notice and 263
+opportunity for hearing in accordance with Chapter 119. of the 264
+Revised Code, the superintendent finds that the licensee has 265
+done either of the following: 266
+(1) Committed fraud or engaged in any illegal or dishonest 267
+activity in connection with the administration of pharmacy 268
+benefit management services; 269
+(2) Violated any provision of section 3957.09 of the 270
+Revised Code or any rule adopted by the superintendent pursuant 271
+to or to implement that section. 272
+Sec. 3957.12. Any person that, while licensed as a 273
+pharmacy benefit manager under this chapter, is convicted of a 274
+felony, shall report the conviction to the superintendent of 275
+insurance within thirty days after the entry date of the 276
+
+S. B. No. 210 Page 11
+As Introduced
+judgment of conviction. Within that thirty-day period, the 277
+person shall also provide the superintendent with a copy of the 278
+judgment, the commitment order or the order imposing a community 279
+control sanction, as defined in section 2929.01 of the Revised 280
+Code, and any other relevant documents. 281
+Sec. 3957.13. (A) On and after January 1, 2027, no 282
+pharmacy benefit manager shall do any of the following: 283
+(1) Use plan sponsor funds for any purpose not 284
+specifically set forth in writing by the pharmacy benefit 285
+manager; 286
+(2) Fail to disclose in written solicitation materials and 287
+at least once annually to contracted plan sponsors any ownership 288
+relationship of five per cent or more between the pharmacy 289
+benefit manager and an insurance carrier; 290
+(3) Fail to remit insurance company premiums within the 291
+policy period or within the time agreed to in writing between 292
+the insurance company and the pharmacy benefit manager; 293
+(4) Fail to disclose in writing the method of collecting 294
+and holding a plan sponsor's funds. 295
+(B) This section does not apply to the extent that it 296
+conflicts with an agreement that is not subject to this chapter. 297
+Sec. 3957.14. (A) On and after July 1, 2027, a pharmacy 298
+benefit manger shall do all of the following: 299
+(1) Maintain detailed books and records that reflect all 300
+transactions administered by the pharmacy benefit manager 301
+pursuant to agreements that are subject to this chapter, 302
+specifically in regard to premiums or contributions received and 303
+deposited, and claims and authorized expenses paid. 304
+
+S. B. No. 210 Page 12
+As Introduced
+(2) Prepare, journalize, and post the books and records 305
+described in division (A)(1) of this section in accordance with 306
+the terms and conditions of the service agreement between the 307
+pharmacy benefit manager and the insurer or plan sponsor and in 308
+accordance with the "Employee Retirement and Income Security Act 309
+of 1974," 29 U.S.C. 1001. 310
+(3) Maintain the books and records described in division 311
+(A)(1) of this section for the period in which the pharmacy 312
+benefit manager provides services for the applicable insurer or 313
+plan sponsor and for ten years thereafter. 314
+(4) Maintain a cash receipts register of all premiums or 315
+contributions received, including, at minimum, the date such 316
+contributions are received and deposited. 317
+(B) For the purposes of the books and records required by 318
+this section, a pharmacy benefit manager's description of a 319
+disbursement shall be in sufficient detail to identify the 320
+source document substantiating the purpose of the disbursement, 321
+and shall include all of the following: 322
+(1) The check number; 323
+(2) The date of disbursement; 324
+(3) The person to whom the disbursement was made; 325
+(4) The amount disbursed and, if the amount disbursed does 326
+not align with the amount billed or authorized, a written record 327
+as to the application for the disbursement; 328
+(5) If the disbursement is for the earned pharmacy benefit 329
+manager fee or commission, a written record reflecting the 330
+identifying deposit from which the fee is matched. 331
+(C) A pharmacy benefit manager shall support all journal 332
+
+S. B. No. 210 Page 13
+As Introduced
+entries for receipts and disbursements with evidence that is 333
+referenced in the journal entry so that it may be traced for 334
+verification. 335
+(D) A pharmacy benefit manager shall prepare and maintain 336
+monthly financial institution account reconciliations if 337
+requested by an insurer or plan sponsor as provided in any 338
+service agreement by and between the pharmacy benefit manager 339
+and the insurer or plan sponsor that is subject to this chapter. 340
+(E) A pharmacy benefit manager shall prepare a report to 341
+be filed with the insurer or plan sponsor with which the 342
+pharmacy benefit manager has an agreement subject to this 343
+chapter within ninety days after the end of the fiscal year of 344
+the plan which, at minimum, discloses all of the following: 345
+(1) The total premiums or contributions received from the 346
+plan sponsor, covered persons, or beneficiaries; 347
+(2) The total administration fees withdrawn by the 348
+pharmacy benefit manager pursuant to the written service 349
+agreement; 350
+(3) The total claim payments made during the reporting 351
+period. 352
+(F) A pharmacy benefit manager shall pay return premiums 353
+or contributions to the insurer or plan sponsor with which the 354
+pharmacy benefit manager has an agreement subject to this 355
+chapter, or credit such return premiums or contributions to the 356
+account of the insurer or plan sponsor, within thirty days after 357
+receipt by the pharmacy benefit manager. If the pharmacy benefit 358
+manager credits the return premium or contribution to the 359
+insurer or plan sponsor, the pharmacy benefit manager shall show 360
+and apply the credit to the next billing statement sent to the 361
+
+S. B. No. 210 Page 14
+As Introduced
+insurer or plan sponsor. 362
+(G) On and after January 1, 2027, the superintendent of 363
+insurance may examine the books and records of a pharmacy 364
+benefit manager as necessary to determine the following: 365
+(1) The aggregate amount of rebates received by a pharmacy 366
+benefit manager; 367
+(2) The aggregate amount of rebates distributed by a 368
+pharmacy benefit manager to an appropriate health care payor; 369
+(3) The aggregate amount of rebates passed on to an 370
+enrollee of each health care payor at the point of sale that 371
+reduced the enrollee's applicable deductible, copayment, 372
+coinsurance, or other cost-sharing amount; 373
+(4) The individual and aggregate amount paid by a health 374
+care payor to the pharmacy benefit manager for pharmacist 375
+services itemized by pharmacy, product, and goods and services, 376
+including other prescription drug or device services; 377
+(5) The individual and aggregate amount a pharmacy benefit 378
+manager paid for pharmacist services itemized by pharmacy, 379
+product, and goods and services, including other prescription 380
+drug or device services. 381
+(H) This section does not limit the power of the 382
+superintendent to examine or audit the books and records of a 383
+pharmacy benefit manager. 384
+(I) Upon written notification to a pharmacy benefit 385
+manager by the superintendent of insurance that the pharmacy 386
+benefit manager has violated any provision of this chapter, the 387
+pharmacy benefit manager shall correct the violation specified 388
+in the notice within sixty days. 389
+
+S. B. No. 210 Page 15
+As Introduced
+Sec. 3957.15. (A) All information and data acquired by th e 390
+superintendent of insurance or the department of insurance under 391
+this chapter is considered proprietary and confidential and is 392
+not a public record under section 149.43 of the Revised Code. 393
+(B) On and after January 1, 2027, no pharmacy benefit 394
+manager or representative of a pharmacy benefit manager shall do 395
+either of the following: 396
+(1) Cause or knowingly permit the use of any 397
+advertisement, promotion, solicitation, representation, 398
+proposal, or offer that is untrue, deceptive, or misleading; 399
+(2) Reimburse a pharmacy or pharmacist in this state an 400
+amount less than the amount that the pharmacy benefit manager 401
+reimburses a pharmacy benefit manager affiliate for providing 402
+the same service. 403
+Sec. 3957.16. This chapter does not apply to an employer' s 404
+self-insurance plan to the extent that federal law supersedes, 405
+preempts, prohibits, or otherwise precludes its application to 406
+such plan. 407
+Sec. 3957.17. On receipt of a notice pursuant to section 408
+3123.43 of the Revised Code, the superintendent of insurance 409
+shall comply with sections 3123.41 to 3123.50 of the Revised 410
+Code and any applicable rules adopted under section 3123.63 of 411
+the Revised Code with respect to a license issued pursuant to 412
+this chapter. 413
+Sec. 3957.99. Whoever violates section 3957.03 of the 414
+Revised Code is guilty of a misdemeanor of the fourth degree. 415
+Sec. 3959.01. As used in this chapter: 416
+(A) "Administration fees" means any amount charged a 417
+
+S. B. No. 210 Page 16
+As Introduced
+covered person for services rendered. "Administration fees" 418
+includes commissions earned or paid by any person relative to 419
+services performed by an administrator. 420
+(B) "Administrator" means any person who adjusts or 421
+settles claims on, residents of this state in connection with 422
+life, dental, health, prescription drugs, or disability 423
+insurance or self-insurance programs. "Administrator" includes a 424
+pharmacy benefit manager, except as described in division (B)(6) 425
+of this section. "Administrator" does not include any of the 426
+following: 427
+(1) An insurance agent or solicitor licensed in this state 428
+whose activities are limited exclusively to the sale of 429
+insurance and who does not provide any administrative services; 430
+(2) Any person who administers or operates the workers' 431
+compensation program of a self-insuring employer under Chapter 432
+4123. of the Revised Code; 433
+(3) Any person who administers pension plans for the 434
+benefit of the person's own members or employees or administers 435
+pension plans for the benefit of the members or employees of any 436
+other person; 437
+(4) Any person that administers an insured plan or a self- 438
+insured plan that provides life, dental, health, or disability 439
+benefits exclusively for the person's own members or employees; 440
+(5) Any health insuring corporation holding a certificate 441
+of authority under Chapter 1751. of the Revised Code or an 442
+insurance company that is authorized to write life or sickness 443
+and accident insurance in this state; 444
+(6) On and after January 1, 2027, a pharmacy benefit 445
+manager licensed under Chapter 3957. of the Revised Code but 446
+
+S. B. No. 210 Page 17
+As Introduced
+only with respect to agreements that are entered into, amended, 447
+or renewed on or after that date. 448
+(C) "Aggregate excess insurance" means that type of 449
+coverage whereby the insurer agrees to reimburse the insured 450
+employer or trust for all benefits or claims paid during an 451
+agreement period on behalf of all covered persons under the plan 452
+or trust which exceed a stated deductible amount and subject to 453
+a stated maximum. 454
+(D) "Contracted pharmacy" or "pharmacy" means a pharmacy 455
+located in this state participating in either the network of a 456
+pharmacy benefit manager or in a health care or pharmacy benefit 457
+plan through a direct contract or through a contract with a 458
+pharmacy services administration organization, group purchasing 459
+organization, or another contracting agent. 460
+(E) "Contributions" means any amount collected from a 461
+covered person to fund the self-insured portion of any plan in 462
+accordance with the plan's provisions, summary plan 463
+descriptions, and contracts of insurance. 464
+(F) "Drug product reimbursement" means the amount paid by 465
+a pharmacy benefit manager to a contracted pharmacy for the cost 466
+of the drug dispensed to a patient and does not include a 467
+dispensing or professional fee. 468
+(G) "Fiduciary" has the meaning set forth in section 469
+1002(21)(A) of the "Employee Retirement Income Security Act of 470
+1974," 88 Stat. 829, 29 U.S.C. 1001, as amended. 471
+(H) "Fiscal year" means the twelve-month accounting period 472
+commencing on the date the plan is established and ending twelve 473
+months following that date, and each corresponding twelve-month 474
+accounting period thereafter as provided for in the summary plan 475
+
+S. B. No. 210 Page 18
+As Introduced
+description. 476
+(I) "Insurer" means an entity authorized to do the 477
+business of insurance in this state or, for the purposes of this 478
+section, a health insuring corporation authorized to issue 479
+health care plans in this state. 480
+(J) "Managed care organization" means an entity that 481
+provides medical management and cost containment services and 482
+includes a medicaid managed care organization, as defined in 483
+section 5167.01 of the Revised Code. 484
+(K) "Maximum allowable cost" means a maximum drug product 485
+reimbursement for an individual drug or for a group of 486
+therapeutically and pharmaceutically equivalent multiple source 487
+drugs that are listed in the United States food and drug 488
+administration's approved drug products with therapeutic 489
+equivalence evaluations, commonly referred to as the orange 490
+book. 491
+(L) "Maximum allowable cost list" means a list of the 492
+drugs for which a pharmacy benefit manager imposes a maximum 493
+allowable cost. 494
+(M) "Multiple employer welfare arrangement" has the same 495
+meaning as in section 1739.01 of the Revised Code. 496
+(N) "Pharmacy benefit manager" means an entity that 497
+contracts with pharmacies on behalf of an employer, a multiple 498
+employer welfare arrangement, public employee benefit plan, 499
+state agency, insurer, managed care organization, or other 500
+third-party payer to provide pharmacy health benefit services or 501
+administration. "Pharmacy benefit manager" includes the state 502
+pharmacy benefit manager selected under section 5167.24 of the 503
+Revised Code. 504
+
+S. B. No. 210 Page 19
+As Introduced
+(O) "Plan" means any arrangement in written form for the 505
+payment of life, dental, health, or disability benefits to 506
+covered persons defined by the summary plan description and 507
+includes a drug benefit plan administered by a pharmacy benefit 508
+manager. 509
+(P) "Plan sponsor" means the person who establishes the 510
+plan. 511
+(Q) "Self-insurance program" means a program whereby an 512
+employer provides a plan of benefits for its employees without 513
+involving an intermediate insurance carrier to assume risk or 514
+pay claims. "Self-insurance program" includes but is not limited 515
+to employer programs that pay claims up to a prearranged limit 516
+beyond which they purchase insurance coverage to protect against 517
+unpredictable or catastrophic losses. 518
+(R) "Specific excess insurance" means that type of 519
+coverage whereby the insurer agrees to reimburse the insured 520
+employer or trust for all benefits or claims paid during an 521
+agreement period on behalf of a covered person in excess of a 522
+stated deductible amount and subject to a stated maximum. 523
+(S) "Summary plan description" means the written document 524
+adopted by the plan sponsor which outlines the plan of benefits, 525
+conditions, limitations, exclusions, and other pertinent details 526
+relative to the benefits provided to covered persons thereunder. 527
+(T) "Third-party payer" has the same meaning as in section 528
+3901.38 of the Revised Code. 529
+Section 2. That existing section 3959.01 of the Revised 530
+Code is hereby repealed. 531
+
+[DELETED: nS       .  1 1 1:1:1 1 1 1:1;1 2]
+[DELETED: 0 .2 2 2 2 2 2 2.2 2 3 3:3 3;3;3 3;3 3;3;4;4.4 4 4.4 4 4]
+[DELETED: 0  4 4.5 5 5 5.5 5:5;5 5 5 6.6:6 6;6 6 6-6 6;6 7 7 7 7.7 7]
+[DELETED: 0  7 7 7 7.8 8 8 8.8 8 8.8 8 8 9.9 9 9 9.9 9 9 9 9 1.1 1 1.1]
+[DELETED: 0  1 1 1.1 1 1.1 1 1 1.1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 0  1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 0  1:1;1 1;1 1 1;1 1.1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 0  1 1 1.1 1 1 1 1 2.2 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2.2 2 2]
+[DELETED: 0  2 2 2 2:2 2 2;2 2;2 2;2 2 2 2 2;2 2;2 2 2;2 2 2 2;2 2 2]
+[DELETED: 0 ;2;2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2:2 2 2;2 2 2.2 2 2 2 2]
+[DELETED: 0  2 2 2 2.2 2:2 2 2;2 2 2 2;2 2 2;2 2.2 2.2 2:2 3 3 3 3.3]
+[DELETED: 0  3 3 3 3 3.3 3 3 3.3 3 3.3 3 3 3 3:3;3;3;3 3 3;3 3 3.3 3]
+[DELETED: 0  3 3.3 3 3 3 3.3 3 3 3 3:3 3;3 3 3;3 3.3 3 3 3 3 3 3 3 3 3]
+[DELETED: 0 .3 3 3:3 3;3 3 3 3 3 3;3 3 3 3;3 3 3 3.3 3 3.3 3 3 3 3.3]
+[DELETED: 0  3 3 3.3 3 3:3 3 3;3 4 4 4.4 4 4 4.4 4 4 4 4 4.4 4.4:4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4-4 4 4 4 4 4;4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5]
+[DELETED: 0  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5]

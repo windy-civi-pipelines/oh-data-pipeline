@@ -1,0 +1,108 @@
+Title: Cosponsors: Representatives Robb Blasdel, Williams, Johnson, Brennan,
+Official Title: Cosponsors: Representatives Robb Blasdel, Williams, Johnson, Brennan,
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 139
+2025-2026
+Representative Hall, T.
+Santucci
+A BILL
+To enact section 3737.834 of the Revised Code to 1
+require specified testing of fire hydrant 2
+systems. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 3737.834 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3737.834. (A) The state fire marshal shall ensure 6
+that the inspection, testing, and maintenance of fire hydrant 7
+systems in the state are conducted in accordance with this 8
+
+Section 3:
+section, the rules adopted as part of the state fire code, and 9
+the recommended standards by the national fire protection 10
+association. 11
+(B) The fire marshal shall require any person or entity 12
+responsible for maintaining a fire hydrant system to 13
+periodically test that system. Fire hydrant systems shall be 14
+maintained in an operative condition at all times and shall be 15
+repaired where defective. Additions, repairs, alterations, and 16
+servicing shall comply with all approved standards. Records of 17
+H. B. No. 139 Page 2
+As Introduced
+tests, repairs, and regular maintenance shall be retained for 18
+not less than one year after the subsequent test, repair, or 19
+maintenance, as applicable, and shall be available for 20
+inspection by the fire marshal. 21
+(C) At minimum, the fire hydrant systems and the 22
+associated service mains and water tanks shall be periodically 23
+inspected, tested, and maintained at the following intervals: 24
+(1) Fire hydrants of all types shall be inspected annually 25
+and after each operation. A flow test and general maintenance 26
+for the fire hydrant shall be conducted annually. 27
+(2) Fire service main piping shall be inspected annually 28
+and a flow test shall be conducted every five years. 29
+(3) Fire service main piping strainers shall be inspected 30
+and receive general maintenance care after each use. 31
+[DELETED: nH BIL  . :     1.1 1 1 1 1 1 1]
+[DELETED: 9  1 1 2.2 2 2:2 2 2.2 2.2 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 139
+2025-2026
+Representative Hall, T.
+Cosponsors: Representatives Robb Blasdel, Williams, Johnson, Brennan,
+Santucci
+A BILL
+To enact section 3737.834 of the Revised Code to 1
+require specified testing of fire hydrant 2
+systems. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3737.834 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3737.834. (A) The state fire marshal shall ensure 6
+that the inspection, testing, and maintenance of fire hydrant 7
+systems in the state are conducted in accordance with this 8
+section, the rules adopted as part of the state fire code, and 9
+the recommended standards by the national fire protection 10
+association. 11
+(B) The fire marshal shall require any person or entity 12
+responsible for maintaining a fire hydrant system to 13
+periodically test that system. Fire hydrant systems shall be 14
+maintained in an operative condition at all times and shall be 15
+repaired where defective. Additions, repairs, alterations, and 16
+servicing shall comply with all approved standards. Records of 17
+
+H. B. No. 139 Page 2
+As Introduced
+tests, repairs, and regular maintenance shall be retained for 18
+not less than one year after the subsequent test, repair, or 19
+maintenance, as applicable, and shall be available for 20
+inspection by the fire marshal. 21
+(C) At minimum, the fire hydrant systems and the 22
+associated service mains and water tanks shall be periodically 23
+inspected, tested, and maintained at the following intervals: 24
+(1) Fire hydrants of all types shall be inspected annually 25
+and after each operation. A flow test and general maintenance 26
+for the fire hydrant shall be conducted annually. 27
+(2) Fire service main piping shall be inspected annually 28
+and a flow test shall be conducted every five years. 29
+(3) Fire service main piping strainers shall be inspected 30
+and receive general maintenance care after each use. 31
+
+[DELETED: nH BIL  . :     1.1 1 1 1 1 1 1]
+[DELETED: 9  1 1 2.2 2 2:2 2 2.2 2.2 3.3]

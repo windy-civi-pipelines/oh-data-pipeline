@@ -1,0 +1,2808 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 45
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 42 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 314
+2025-2026
+Representatives Isaacsohn, Ray
+To amend section 149.43 of the Revised Code to 1
+restrict harassing or disruptive public records 2
+requests and permit private contractors to 3
+respond to voluminous public records requests. 4
+
+Section 2:
+Section 1. That section 149.43 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 149.43. (A) As used in this section: 7
+(1) "Public record" means records kept by any public 8
+office, including, but not limited to, state, county, city, 9
+village, township, and school district units, and records 10
+pertaining to the delivery of educational services by an 11
+alternative school in this state kept by the nonprofit or for- 12
+profit entity operating the alternative school pursuant to 13
+
+Section 3:
+section 3313.533 of the Revised Code. "Public record" does not 14
+mean any of the following: 15
+(a) Medical records; 16
+(b) Records pertaining to probation and parole 17
+proceedings, to proceedings related to the imposition of 18
+community control sanctions and post-release control sanctions, 19
+or to proceedings related to determinations under section 20
+H. B. No. 314 Page 2
+As Introduced
+
+Section 4:
+2967.271 of the Revised Code regarding the release or maintained 21
+incarceration of an offender to whom that section applies; 22
+(c) Records pertaining to actions under section 2151.85 23
+and division (C) of section 2919.121 of the Revised Code and to 24
+appeals of actions arising under those sections; 25
+(d) Records pertaining to adoption proceedings, including 26
+the contents of an adoption file maintained by the department of 27
+health under sections 3705.12 to 3705.124 of the Revised Code; 28
+(e) Information in a record contained in the putative 29
+father registry established by section 3107.062 of the Revised 30
+Code, regardless of whether the information is held by the 31
+department of job and family services or, pursuant to section 32
+
+Section 5:
+3111.69 of the Revised Code, the office of child support in the 33
+department or a child support enforcement agency; 34
+(f) Records specified in division (A) of section 3107.52 35
+of the Revised Code; 36
+(g) Trial preparation records; 37
+(h) Confidential law enforcement investigatory records; 38
+(i) Records containing information that is confidential 39
+under section 2710.03 or 4112.05 of the Revised Code; 40
+(j) DNA records stored in the DNA database pursuant to 41
+
+Section 6:
+section 109.573 of the Revised Code; 42
+(k) Inmate records released by the department of 43
+rehabilitation and correction to the department of youth 44
+services or a court of record pursuant to division (E) of 45
+
+Section 7:
+section 5120.21 of the Revised Code; 46
+(l) Records maintained by the department of youth services 47
+H. B. No. 314 Page 3
+As Introduced
+pertaining to children in its custody released by the department 48
+of youth services to the department of rehabilitation and 49
+correction pursuant to section 5139.05 of the Revised Code; 50
+(m) Intellectual property records; 51
+(n) Donor profile records; 52
+(o) Records maintained by the department of job and family 53
+services pursuant to section 3121.894 of the Revised Code; 54
+(p) Designated public service worker residential and 55
+familial information; 56
+(q) In the case of a county hospital operated pursuant to 57
+Chapter 339. of the Revised Code or a municipal hospital 58
+operated pursuant to Chapter 749. of the Revised Code, 59
+information that constitutes a trade secret, as defined in 60
+
+Section 8:
+section 1333.61 of the Revised Code; 61
+(r) Information pertaining to the recreational activities 62
+of a person under the age of eighteen; 63
+(s) In the case of a child fatality review board acting 64
+under sections 307.621 to 307.629 of the Revised Code or a 65
+review conducted pursuant to guidelines established by the 66
+director of health under section 3701.70 of the Revised Code, 67
+records provided to the board or director, statements made by 68
+board members during meetings of the board or by persons 69
+participating in the director's review, and all work products of 70
+the board or director, and in the case of a child fatality 71
+review board, child fatality review data submitted by the board 72
+to the department of health or a national child death review 73
+database, other than the report prepared pursuant to division 74
+(A) of section 307.626 of the Revised Code; 75
+H. B. No. 314 Page 4
+As Introduced
+(t) Records provided to and statements made by the 76
+executive director of a public children services agency or a 77
+prosecuting attorney acting pursuant to section 5153.171 of the 78
+Revised Code other than the information released under that 79
+
+Section 9:
+section; 80
+(u) Test materials, examinations, or evaluation tools used 81
+in an examination for licensure as a nursing home administrator 82
+that the board of executives of long-term services and supports 83
+administers under section 4751.15 of the Revised Code or 84
+contracts under that section with a private or government entity 85
+to administer; 86
+(v) Records the release of which is prohibited by state or 87
+federal law; 88
+(w) Proprietary information of or relating to any person 89
+that is submitted to or compiled by the Ohio venture capital 90
+authority created under section 150.01 of the Revised Code; 91
+(x) Financial statements and data any person submits for 92
+any purpose to the Ohio housing finance agency or the 93
+controlling board in connection with applying for, receiving, or 94
+accounting for financial assistance from the agency, and 95
+information that identifies any individual who benefits directly 96
+or indirectly from financial assistance from the agency; 97
+(y) Records listed in section 5101.29 of the Revised Code; 98
+(z) Discharges recorded with a county recorder under 99
+
+Section 10:
+section 317.24 of the Revised Code, as specified in division (B) 100
+(2) of that section; 101
+(aa) Usage information including names and addresses of 102
+specific residential and commercial customers of a municipally 103
+owned or operated public utility; 104
+H. B. No. 314 Page 5
+As Introduced
+(bb) Records described in division (C) of section 187.04 105
+of the Revised Code that are not designated to be made available 106
+to the public as provided in that division; 107
+(cc) Information and records that are made confidential, 108
+privileged, and not subject to disclosure under divisions (B) 109
+and (C) of section 2949.221 of the Revised Code; 110
+(dd) Personal information, as defined in section 149.45 of 111
+the Revised Code; 112
+(ee) The confidential name, address, and other personally 113
+identifiable information of a program participant in the address 114
+confidentiality program established under sections 111.41 to 115
+
+Section 11:
+111.47 of the Revised Code, including the contents of any 116
+application for absent voter's ballots, absent voter's ballot 117
+identification envelope statement of voter, or provisional 118
+ballot affirmation completed by a program participant who has a 119
+confidential voter registration record; records or portions of 120
+records pertaining to that program that identify the number of 121
+program participants that reside within a precinct, ward, 122
+township, municipal corporation, county, or any other geographic 123
+area smaller than the state; and any real property 124
+confidentiality notice filed under section 111.431 of the 125
+Revised Code and the information described in division (C) of 126
+that section. As used in this division, "confidential address" 127
+and "program participant" have the meaning defined in section 128
+
+Section 12:
+111.41 of the Revised Code. 129
+(ff) Orders for active military service of an individual 130
+serving or with previous service in the armed forces of the 131
+United States, including a reserve component, or the Ohio 132
+organized militia, except that, such order becomes a public 133
+record on the day that is fifteen years after the published date 134
+H. B. No. 314 Page 6
+As Introduced
+or effective date of the call to order; 135
+(gg) The name, address, contact information, or other 136
+personal information of an individual who is less than eighteen 137
+years of age that is included in any record related to a traffic 138
+accident involving a school vehicle in which the individual was 139
+an occupant at the time of the accident; 140
+(hh) Protected health information, as defined in 45 C.F.R. 141
+
+Section 13:
+160.103, that is in a claim for payment for a health care 142
+product, service, or procedure, as well as any other health 143
+claims data in another document that reveals the identity of an 144
+individual who is the subject of the data or could be used to 145
+reveal that individual's identity; 146
+(ii) Any depiction by photograph, film, videotape, or 147
+printed or digital image under either of the following 148
+circumstances: 149
+(i) The depiction is that of a victim of an offense the 150
+release of which would be, to a reasonable person of ordinary 151
+sensibilities, an offensive and objectionable intrusion into the 152
+victim's expectation of bodily privacy and integrity. 153
+(ii) The depiction captures or depicts the victim of a 154
+sexually oriented offense, as defined in section 2950.01 of the 155
+Revised Code, at the actual occurrence of that offense. 156
+(jj) Restricted portions of a body-worn camera or 157
+dashboard camera recording; 158
+(kk) In the case of a fetal-infant mortality review board 159
+acting under sections 3707.70 to 3707.77 of the Revised Code, 160
+records, documents, reports, or other information presented to 161
+the board or a person abstracting such materials on the board's 162
+behalf, statements made by review board members during board 163
+H. B. No. 314 Page 7
+As Introduced
+meetings, all work products of the board, and data submitted by 164
+the board to the department of health or a national infant death 165
+review database, other than the report prepared pursuant to 166
+
+Section 14:
+section 3707.77 of the Revised Code. 167
+(ll) Records, documents, reports, or other information 168
+presented to the pregnancy-associated mortality review board 169
+established under section 3738.01 of the Revised Code, 170
+statements made by board members during board meetings, all work 171
+products of the board, and data submitted by the board to the 172
+department of health, other than the biennial reports prepared 173
+under section 3738.08 of the Revised Code; 174
+(mm) Except as otherwise provided in division (A)(1)(oo) 175
+of this section, telephone numbers for a victim, as defined in 176
+
+Section 15:
+section 2930.01 of the Revised Code or a witness to a crime that 177
+are listed on any law enforcement record or report. 178
+(nn) A preneed funeral contract, as defined in section 179
+
+Section 16:
+4717.01 of the Revised Code, and contract terms and personally 180
+identifying information of a preneed funeral contract, that is 181
+contained in a report submitted by or for a funeral home to the 182
+board of embalmers and funeral directors under division (C) of 183
+
+Section 17:
+section 4717.13, division (J) of section 4717.31, or section 184
+
+Section 18:
+4717.41 of the Revised Code. 185
+(oo) Telephone numbers for a party to a motor vehicle 186
+accident subject to the requirements of section 5502.11 of the 187
+Revised Code that are listed on any law enforcement record or 188
+report, except that the telephone numbers described in this 189
+division are not excluded from the definition of "public record" 190
+under this division on and after the thirtieth day after the 191
+occurrence of the motor vehicle accident. 192
+H. B. No. 314 Page 8
+As Introduced
+(pp) Records pertaining to individuals who complete 193
+training under section 5502.703 of the Revised Code to be 194
+permitted by a school district board of education or governing 195
+body of a community school established under Chapter 3314. of 196
+the Revised Code, a STEM school established under Chapter 3326. 197
+of the Revised Code, or a chartered nonpublic school to convey 198
+deadly weapons or dangerous ordnance into a school safety zone; 199
+(qq) Records, documents, reports, or other information 200
+presented to a domestic violence fatality review board 201
+established under section 307.651 of the Revised Code, 202
+statements made by board members during board meetings, all work 203
+products of the board, and data submitted by the board to the 204
+department of health, other than a report prepared pursuant to 205
+
+Section 19:
+section 307.656 of the Revised Code; 206
+(rr) Records, documents, and information the release of 207
+which is prohibited under sections 2930.04 and 2930.07 of the 208
+Revised Code; 209
+(ss) Records of an existing qualified nonprofit 210
+corporation that creates a special improvement district under 211
+Chapter 1710. of the Revised Code that do not pertain to a 212
+purpose for which the district is created; 213
+(tt) Educational support services data, as defined in 214
+
+Section 20:
+section 3319.325 of the Revised Code; 215
+(uu) Records of the past, current, and future work 216
+schedule of a designated public service worker. As used in 217
+division (A)(1)(uu) of this section, "work schedule" does not 218
+include the docket of cases of a court, judge, or magistrate; 219
+(vv) A request form or confirmation letter submitted to a 220
+public office under section 149.45 of the Revised Code; 221
+H. B. No. 314 Page 9
+As Introduced
+(ww) An affidavit or confirmation letter submitted under 222
+
+Section 21:
+section 319.28 of the Revised Code; 223
+(xx) License or certificate application or renewal 224
+responses and supporting documentation submitted to the state 225
+medical board regarding an applicant's, or a license or 226
+certificate holder's, inability to practice according to 227
+acceptable and prevailing standards of care by reason of a 228
+medical condition; 229
+(yy) Documentary evidence provided in response to a 230
+request for such evidence made under division (B)(11) of this 231
+
+Section 22:
+section. 232
+A record that is not a public record under division (A)(1) 233
+of this section and that, under law, is permanently retained 234
+becomes a public record on the day that is seventy-five years 235
+after the day on which the record was created, or in the case of 236
+a record that is not a public record under division (A)(1)(uu) 237
+of this section that is retained, three years after the day on 238
+which the record was created, except for any record protected by 239
+the attorney-client privilege, a trial preparation record as 240
+defined in this section, a statement prohibiting the release of 241
+identifying information signed under section 3107.083 of the 242
+Revised Code, a denial of release form filed pursuant to section 243
+
+Section 23:
+3107.46 of the Revised Code, or any record that is exempt from 244
+release or disclosure under section 149.433 of the Revised Code. 245
+If the record is a birth certificate and a biological parent's 246
+name redaction request form has been accepted under section 247
+
+Section 24:
+3107.391 of the Revised Code, the name of that parent shall be 248
+redacted from the birth certificate before it is released under 249
+this paragraph. If any other section of the Revised Code 250
+establishes a time period for disclosure of a record that 251
+H. B. No. 314 Page 10
+As Introduced
+conflicts with the time period specified in this section, the 252
+time period in the other section prevails. 253
+(2) "Confidential law enforcement investigatory record" 254
+means any record that pertains to a law enforcement matter of a 255
+criminal, quasi-criminal, civil, or administrative nature, but 256
+only to the extent that the release of the record would create a 257
+high probability of disclosure of any of the following: 258
+(a) The identity of a suspect who has not been charged 259
+with the offense to which the record pertains, or of an 260
+information source or witness to whom confidentiality has been 261
+reasonably promised; 262
+(b) Information provided by an information source or 263
+witness to whom confidentiality has been reasonably promised, 264
+which information would reasonably tend to disclose the source's 265
+or witness's identity; 266
+(c) Specific confidential investigatory techniques or 267
+procedures or specific investigatory work product; 268
+(d) Information that would endanger the life or physical 269
+safety of law enforcement personnel, a crime victim, a witness, 270
+or a confidential information source. 271
+(3) "Medical record" means any document or combination of 272
+documents, except births, deaths, and the fact of admission to 273
+or discharge from a hospital, that pertains to the medical 274
+history, diagnosis, prognosis, or medical condition of a patient 275
+and that is generated and maintained in the process of medical 276
+treatment. 277
+(4) "Trial preparation record" means any record that 278
+contains information that is specifically compiled in reasonable 279
+anticipation of, or in defense of, a civil or criminal action or 280
+H. B. No. 314 Page 11
+As Introduced
+proceeding, including the independent thought processes and 281
+personal trial preparation of an attorney. 282
+(5) "Intellectual property record" means a record, other 283
+than a financial or administrative record, that is produced or 284
+collected by or for faculty or staff of a state institution of 285
+higher learning in the conduct of or as a result of study or 286
+research on an educational, commercial, scientific, artistic, 287
+technical, or scholarly issue, regardless of whether the study 288
+or research was sponsored by the institution alone or in 289
+conjunction with a governmental body or private concern, and 290
+that has not been publicly released, published, or patented. 291
+(6) "Donor profile record" means all records about donors 292
+or potential donors to a public institution of higher education 293
+except the names and reported addresses of the actual donors and 294
+the date, amount, and conditions of the actual donation. 295
+(7) "Designated public service worker" means a peace 296
+officer, parole officer, probation officer, bailiff, prosecuting 297
+attorney, assistant prosecuting attorney, correctional employee, 298
+county or multicounty corrections officer, community-based 299
+correctional facility employee, designated Ohio national guard 300
+member, protective services worker, youth services employee, 301
+firefighter, EMT, medical director or member of a cooperating 302
+physician advisory board of an emergency medical service 303
+organization, state board of pharmacy employee, investigator of 304
+the bureau of criminal identification and investigation, 305
+emergency service telecommunicator, forensic mental health 306
+provider, mental health evaluation provider, regional 307
+psychiatric hospital employee, judge, magistrate, or federal law 308
+enforcement officer. 309
+(8) "Designated public service worker residential and 310
+H. B. No. 314 Page 12
+As Introduced
+familial information" means any information that discloses any 311
+of the following about a designated public service worker: 312
+(a) The address of the actual personal residence of a 313
+designated public service worker, except for the following 314
+information: 315
+(i) The address of the actual personal residence of a 316
+prosecuting attorney or judge; and 317
+(ii) The state or political subdivision in which a 318
+designated public service worker resides. 319
+(b) Information compiled from referral to or participation 320
+in an employee assistance program; 321
+(c) The social security number, the residential telephone 322
+number, any bank account, debit card, charge card, or credit 323
+card number, or the emergency telephone number of, or any 324
+medical information pertaining to, a designated public service 325
+worker; 326
+(d) The name of any beneficiary of employment benefits, 327
+including, but not limited to, life insurance benefits, provided 328
+to a designated public service worker by the designated public 329
+service worker's employer; 330
+(e) The identity and amount of any charitable or 331
+employment benefit deduction made by the designated public 332
+service worker's employer from the designated public service 333
+worker's compensation, unless the amount of the deduction is 334
+required by state or federal law; 335
+(f) The name, the residential address, the name of the 336
+employer, the address of the employer, the social security 337
+number, the residential telephone number, any bank account, 338
+H. B. No. 314 Page 13
+As Introduced
+debit card, charge card, or credit card number, or the emergency 339
+telephone number of the spouse, a former spouse, or any child of 340
+a designated public service worker; 341
+(g) A photograph of a peace officer who holds a position 342
+or has an assignment that may include undercover or plain 343
+clothes positions or assignments as determined by the peace 344
+officer's appointing authority. 345
+(9) As used in divisions (A)(7) and (15) to (17) of this 346
+
+Section 25:
+section: 347
+"Peace officer" has the meaning defined in section 109.71 348
+of the Revised Code and also includes the superintendent and 349
+troopers of the state highway patrol; it does not include the 350
+sheriff of a county or a supervisory employee who, in the 351
+absence of the sheriff, is authorized to stand in for, exercise 352
+the authority of, and perform the duties of the sheriff. 353
+"Correctional employee" means any employee of the 354
+department of rehabilitation and correction who in the course of 355
+performing the employee's job duties has or has had contact with 356
+inmates and persons under supervision. 357
+"County or multicounty corrections officer" means any 358
+corrections officer employed by any county or multicounty 359
+correctional facility. 360
+"Designated Ohio national guard member" means a member of 361
+the Ohio national guard who is participating in duties related 362
+to remotely piloted aircraft, including, but not limited to, 363
+pilots, sensor operators, and mission intelligence personnel, 364
+duties related to special forces operations, or duties related 365
+to cybersecurity, and is designated by the adjutant general as a 366
+designated public service worker for those purposes. 367
+H. B. No. 314 Page 14
+As Introduced
+"Protective services worker" means any employee of a 368
+county agency who is responsible for child protective services, 369
+child support services, or adult protective services. 370
+"Youth services employee" means any employee of the 371
+department of youth services who in the course of performing the 372
+employee's job duties has or has had contact with children 373
+committed to the custody of the department of youth services. 374
+"Firefighter" means any regular, paid or volunteer, member 375
+of a lawfully constituted fire department of a municipal 376
+corporation, township, fire district, or village. 377
+"EMT" means EMTs-basic, EMTs-I, and paramedics that 378
+provide emergency medical services for a public emergency 379
+medical service organization. "Emergency medical service 380
+organization," "EMT-basic," "EMT-I," and "paramedic" have the 381
+meanings defined in section 4765.01 of the Revised Code. 382
+"Investigator of the bureau of criminal identification and 383
+investigation" has the meaning defined in section 2903.11 of the 384
+Revised Code. 385
+"Emergency service telecommunicator" means an individual 386
+employed by an emergency service provider as defined under 387
+
+Section 26:
+section 128.01 of the Revised Code, whose primary responsibility 388
+is to be an operator for the receipt or processing of calls for 389
+emergency services made by telephone, radio, or other electronic 390
+means. 391
+"Forensic mental health provider" means any employee of a 392
+community mental health service provider or local alcohol, drug 393
+addiction, and mental health services board who, in the course 394
+of the employee's duties, has contact with persons committed to 395
+a local alcohol, drug addiction, and mental health services 396
+H. B. No. 314 Page 15
+As Introduced
+board by a court order pursuant to section 2945.38, 2945.39, 397
+
+Section 27:
+2945.40, or 2945.402 of the Revised Code. 398
+"Mental health evaluation provider" means an individual 399
+who, under Chapter 5122. of the Revised Code, examines a 400
+respondent who is alleged to be a mentally ill person subject to 401
+court order, as defined in section 5122.01 of the Revised Code, 402
+and reports to the probate court the respondent's mental 403
+condition. 404
+"Regional psychiatric hospital employee" means any 405
+employee of the department of mental health and addiction 406
+services who, in the course of performing the employee's duties, 407
+has contact with patients committed to the department of mental 408
+health and addiction services by a court order pursuant to 409
+
+Section 28:
+section 2945.38, 2945.39, 2945.40, or 2945.402 of the Revised 410
+Code. 411
+"Federal law enforcement officer" has the meaning defined 412
+in section 9.88 of the Revised Code. 413
+(10) "Information pertaining to the recreational 414
+activities of a person under the age of eighteen" means 415
+information that is kept in the ordinary course of business by a 416
+public office, that pertains to the recreational activities of a 417
+person under the age of eighteen years, and that discloses any 418
+of the following: 419
+(a) The address or telephone number of a person under the 420
+age of eighteen or the address or telephone number of that 421
+person's parent, guardian, custodian, or emergency contact 422
+person; 423
+(b) The social security number, birth date, or 424
+photographic image of a person under the age of eighteen; 425
+H. B. No. 314 Page 16
+As Introduced
+(c) Any medical record, history, or information pertaining 426
+to a person under the age of eighteen; 427
+(d) Any additional information sought or required about a 428
+person under the age of eighteen for the purpose of allowing 429
+that person to participate in any recreational activity 430
+conducted or sponsored by a public office or to use or obtain 431
+admission privileges to any recreational facility owned or 432
+operated by a public office. 433
+(11) "Community control sanction" has the meaning defined 434
+in section 2929.01 of the Revised Code. 435
+(12) "Post-release control sanction" has the meaning 436
+defined in section 2967.01 of the Revised Code. 437
+(13) "Redaction" means obscuring or deleting any 438
+information that is exempt from the duty to permit public 439
+inspection or copying from an item that otherwise meets the 440
+definition of a "record" in section 149.011 of the Revised Code. 441
+(14) "Designee," "elected official," and "future official" 442
+have the meanings defined in section 109.43 of the Revised Code. 443
+(15) "Body-worn camera" means a visual and audio recording 444
+device worn on the person of a correctional employee, youth 445
+services employee, or peace officer while the correctional 446
+employee, youth services employee, or peace officer is engaged 447
+in the performance of official duties. 448
+(16) "Dashboard camera" means a visual and audio recording 449
+device mounted on a peace officer's vehicle or vessel that is 450
+used while the peace officer is engaged in the performance of 451
+the peace officer's duties. 452
+(17) "Restricted portions of a body-worn camera or 453
+H. B. No. 314 Page 17
+As Introduced
+dashboard camera recording" means any visual or audio portion of 454
+a body-worn camera or dashboard camera recording that shows, 455
+communicates, or discloses any of the following: 456
+(a) The image or identity of a child or information that 457
+could lead to the identification of a child who is a primary 458
+subject of the recording when the department of rehabilitation 459
+and correction, department of youth services, or the law 460
+enforcement agency knows or has reason to know the person is a 461
+child based on the department's or law enforcement agency's 462
+records or the content of the recording; 463
+(b) The death of a person or a deceased person's body, 464
+unless the death was caused by a correctional employee, youth 465
+services employee, or peace officer or, subject to division (H) 466
+(1) of this section, the consent of the decedent's executor or 467
+administrator has been obtained; 468
+(c) The death of a correctional employee, youth services 469
+employee, peace officer, firefighter, paramedic, or other first 470
+responder, occurring while the decedent was engaged in the 471
+performance of official duties, unless, subject to division (H) 472
+(1) of this section, the consent of the decedent's executor or 473
+administrator has been obtained; 474
+(d) Grievous bodily harm, unless the injury was effected 475
+by a correctional employee, youth services employee, or peace 476
+officer or, subject to division (H)(1) of this section, the 477
+consent of the injured person or the injured person's guardian 478
+has been obtained; 479
+(e) An act of severe violence against a person that 480
+results in serious physical harm to the person, unless the act 481
+and injury was effected by a correctional employee, youth 482
+H. B. No. 314 Page 18
+As Introduced
+services employee, or peace officer or, subject to division (H) 483
+(1) of this section, the consent of the injured person or the 484
+injured person's guardian has been obtained; 485
+(f) Grievous bodily harm to a correctional employee, youth 486
+services employee, peace officer, firefighter, paramedic, or 487
+other first responder, occurring while the injured person was 488
+engaged in the performance of official duties, unless, subject 489
+to division (H)(1) of this section, the consent of the injured 490
+person or the injured person's guardian has been obtained; 491
+(g) An act of severe violence resulting in serious 492
+physical harm against a correctional employee, youth services 493
+employee, peace officer, firefighter, paramedic, or other first 494
+responder, occurring while the injured person was engaged in the 495
+performance of official duties, unless, subject to division (H) 496
+(1) of this section, the consent of the injured person or the 497
+injured person's guardian has been obtained; 498
+(h) A person's nude body, unless, subject to division (H) 499
+(1) of this section, the person's consent has been obtained; 500
+(i) Protected health information, the identity of a person 501
+in a health care facility who is not the subject of a 502
+correctional, youth services, or law enforcement encounter, or 503
+any other information in a health care facility that could 504
+identify a person who is not the subject of a correctional, 505
+youth services, or law enforcement encounter; 506
+(j) Information that could identify the alleged victim of 507
+a sex offense, menacing by stalking, or domestic violence; 508
+(k) Information, that does not constitute a confidential 509
+law enforcement investigatory record, that could identify a 510
+person who provides sensitive or confidential information to the 511
+H. B. No. 314 Page 19
+As Introduced
+department of rehabilitation and correction, the department of 512
+youth services, or a law enforcement agency when the disclosure 513
+of the person's identity or the information provided could 514
+reasonably be expected to threaten or endanger the safety or 515
+property of the person or another person; 516
+(l) Personal information of a person who is not arrested, 517
+cited, charged, or issued a written warning by a peace officer; 518
+(m) Proprietary correctional, youth services, or police 519
+contingency plans or tactics that are intended to prevent crime 520
+and maintain public order and safety; 521
+(n) A personal conversation unrelated to work between 522
+correctional employees, youth services employees, or peace 523
+officers or between a correctional employee, youth services 524
+employee, or peace officer and an employee of a law enforcement 525
+agency; 526
+(o) A conversation between a correctional employee, youth 527
+services employee, or peace officer and a member of the public 528
+that does not concern correctional, youth services, or law 529
+enforcement activities; 530
+(p) The interior of a residence, unless the interior of a 531
+residence is the location of an adversarial encounter with, or a 532
+use of force by, a correctional employee, youth services 533
+employee, or peace officer; 534
+(q) Any portion of the interior of a private business that 535
+is not open to the public, unless an adversarial encounter with, 536
+or a use of force by, a correctional employee, youth services 537
+employee, or peace officer occurs in that location. 538
+As used in division (A)(17) of this section: 539
+H. B. No. 314 Page 20
+As Introduced
+"Grievous bodily harm" has the same meaning as in section 540
+
+Section 29:
+5924.120 of the Revised Code. 541
+"Health care facility" has the same meaning as in section 542
+
+Section 30:
+1337.11 of the Revised Code. 543
+"Protected health information" has the same meaning as in 544
+45 C.F.R. 160.103. 545
+"Law enforcement agency" means a government entity that 546
+employs peace officers to perform law enforcement duties. 547
+"Personal information" means any government-issued 548
+identification number, date of birth, address, financial 549
+information, or criminal justice information from the law 550
+enforcement automated data system or similar databases. 551
+"Sex offense" has the same meaning as in section 2907.10 552
+of the Revised Code. 553
+"Firefighter," "paramedic," and "first responder" have the 554
+same meanings as in section 4765.01 of the Revised Code. 555
+(18) "Public defender" means an attorney employed by a 556
+public defender's office or who is selected or appointed 557
+pursuant to section 120.33 of the Revised Code. 558
+(B)(1) Upon request by any person and subject to division 559
+(B)(8) of this section, all public records responsive to the 560
+request shall be promptly prepared and made available for 561
+inspection to the requester at all reasonable times during 562
+regular business hours. Subject to division (B)(8) of this 563
+
+Section 31:
+section, upon request by any person, a public office or person 564
+responsible for public records shall make copies of the 565
+requested public record available to the requester at cost and 566
+within a reasonable period of time. 567
+H. B. No. 314 Page 21
+As Introduced
+When considering whether a state or local law enforcement 568
+agency promptly prepared a video record for inspection or 569
+provided a video record for production within a reasonable 570
+period of time, in addition to any other factors, a court shall 571
+consider the time required for a state or local law enforcement 572
+agency to retrieve, download, review, redact, seek legal advice 573
+regarding, and produce the video record. Notwithstanding any 574
+other requirement set forth in Chapter 149. of the Revised Code, 575
+a state or local law enforcement agency may charge a requester 576
+the actual cost associated with preparing a video record for 577
+inspection or production, not to exceed seventy-five dollars per 578
+hour of video produced, nor seven hundred fifty dollars total. 579
+As used in this division, "actual cost," with respect to video 580
+records only, means all costs incurred by the state or local law 581
+enforcement agency in reviewing, blurring or otherwise 582
+obscuring, redacting, uploading, or producing the video records, 583
+including but not limited to the storage medium on which the 584
+record is produced, staff time, and any other relevant overhead 585
+necessary to comply with the request. A state or local law 586
+enforcement agency may include in its public records policy the 587
+requirement that a requester pay the estimated actual cost 588
+before beginning the process of preparing a video record for 589
+inspection or production. Where a state or local law enforcement 590
+agency imposes such a requirement, its obligation to produce a 591
+video or make it available for inspection begins once the 592
+estimated actual cost is paid in full by the requester. A state 593
+or local law enforcement agency shall provide the requester with 594
+the estimated actual cost within five business days of receipt 595
+of the public records request. If the actual cost exceeds the 596
+estimated actual cost, a state or local law enforcement agency 597
+may charge a requester for the difference upon fulfilling a 598
+request for video records if the requester is notified in 599
+H. B. No. 314 Page 22
+As Introduced
+advance that the actual cost may be up to twenty per cent higher 600
+than the estimated actual cost. A state or local law enforcement 601
+agency shall not charge a requester a difference that exceeds 602
+twenty per cent of the estimated actual cost. 603
+If a public record contains information that is exempt 604
+from the duty to permit public inspection or to copy the public 605
+record, the public office or the person responsible for the 606
+public record shall make available all of the information within 607
+the public record that is not exempt. When making that public 608
+record available for public inspection or copying that public 609
+record, the public office or the person responsible for the 610
+public record shall notify the requester of any redaction or 611
+make the redaction plainly visible. A redaction shall be deemed 612
+a denial of a request to inspect or copy the redacted 613
+information, except if federal or state law authorizes or 614
+requires a public office to make the redaction. When the auditor 615
+of state receives a request to inspect or to make a copy of a 616
+record that was provided to the auditor of state for purposes of 617
+an audit, but the original public office has asserted to the 618
+auditor of state that the record is not a public record, the 619
+auditor of state may handle the requests by directing the 620
+requestor to the original public office that provided the record 621
+to the auditor of state. 622
+(2)(2)(a) To facilitate broader access to public records, 623
+a public office or the person responsible for public records 624
+shall organize and maintain public records in a manner that they 625
+can be made available for inspection or copying in accordance 626
+with division (B) of this section. A public office also shall 627
+have available a copy of its current records retention schedule 628
+at a location readily available to the public. 629
+H. B. No. 314 Page 23
+As Introduced
+(b) If a requester makes an ambiguous or overly broad 630
+request or has difficulty in making a request for copies or 631
+inspection of public records under this section such that the 632
+public office or the person responsible for the requested public 633
+record cannot reasonably identify what public records are being 634
+requested, the public office or the person responsible for the 635
+requested public record may deny the request but shall provide 636
+the requester with an opportunity to revise the request by 637
+informing the requester of the manner in which records are 638
+maintained by the public office and accessed in the ordinary 639
+course of the public office's or person's duties. 640
+(c)(i) If a requester submits multiple related or 641
+unrelated requests for copying or inspection of public records 642
+to the same public office or person responsible for a public 643
+record and, based on the volume or the repeated nature of the 644
+requests, the public office or person has reason to believe that 645
+the requests are intended to harass the public office or person 646
+or to disrupt the essential functions of the public office or 647
+person, the public office or person may bring an action in the 648
+court of common pleas of the county in which the public office 649
+or person is located requesting the court to limit or deny the 650
+requests. 651
+(ii) The action shall proceed as any other civil action, 652
+and the Ohio Rules of Civil Procedure apply to the action. The 653
+court shall provide the requester with notice of the action and 654
+an opportunity to be heard. While the action or any appeal from 655
+a final order of the court is pending, the requirement that the 656
+public office or person respond to the requests under this 657
+
+Section 32:
+section is tolled. 658
+(iii) If the court determines by a preponderance of the 659
+H. B. No. 314 Page 24
+As Introduced
+evidence that the requests are intended to harass the public 660
+office or person or to disrupt the essential functions of the 661
+public office or person, the court may limit or deny the 662
+requests. If the court determines by a preponderance of the 663
+evidence that the requester is likely to submit future requests 664
+for copying or inspection of public records to that public 665
+office or person for the purpose of harassing the public office 666
+or person or disrupting the essential functions of the public 667
+office or person, the court also may issue an order that limits 668
+or denies any such future requests submitted to the public 669
+office or person by that requester. An order issued under this 670
+division remains in force indefinitely unless the order provides 671
+for its expiration after a specified period of time. 672
+(iv) Division (B)(2)(c) of this section does not apply to 673
+a requester who is any of the following: 674
+(I) A journalist as defined in division (B)(9)(c) of this 675
+
+Section 33:
+section; 676
+(II) A pro se litigant who requests records pertaining to 677
+litigation in which the pro se litigant is a named party; 678
+(III) A state agency, including a public college or 679
+university or subsidiary of a public college or university, as 680
+well as a public defender or other government attorney, or the 681
+staff or agent of a public defender or government attorney. This 682
+exemption does not apply to a public defender whose request for 683
+records is not related to a matter that is within the scope of 684
+the public defender's employment with a public defender's office 685
+or selection or appointment under section 120.33 of the Revised 686
+Code. 687
+(v) No court shall limit, deny, or restrict the access of 688
+H. B. No. 314 Page 25
+As Introduced
+any requester listed under division (B)(2)(c)(iv) of this 689
+
+Section 34:
+section to any public record under division (B)(2)(c) of this 690
+
+Section 35:
+section. 691
+(vi) A public office or person responsible for public 692
+records shall not bring an action under division (B)(2)(c)(i) of 693
+this section against a requester who the public office or person 694
+knows or has reason to believe is a public defender unless the 695
+requester fails to provide sufficient evidence in response to a 696
+request for evidence made pursuant to division (B)(11) of this 697
+
+Section 36:
+section within five business days of the transmission of the 698
+request for evidence. 699
+(3) If a request is ultimately denied, in part or in 700
+whole, the public office or the person responsible for the 701
+requested public record shall provide the requester with an 702
+explanation, including legal authority, setting forth why the 703
+request was denied. If the initial request was provided in 704
+writing, the explanation also shall be provided to the requester 705
+in writing. The explanation shall not preclude the public office 706
+or the person responsible for the requested public record from 707
+relying upon additional reasons or legal authority in defending 708
+an action commenced under division (C) of this section. 709
+(4) Unless specifically required or authorized by state or 710
+federal law or in accordance with division (B) of this section, 711
+no public office or person responsible for public records may 712
+limit or condition the availability of public records by 713
+requiring disclosure of the requester's identity or the intended 714
+use of the requested public record. Any requirement that the 715
+requester disclose the requester's identity or the intended use 716
+of the requested public record constitutes a denial of the 717
+request. 718
+H. B. No. 314 Page 26
+As Introduced
+(5) A public office or person responsible for public 719
+records may ask a requester to make the request in writing, may 720
+ask for the requester's identity, and may inquire about the 721
+intended use of the information requested, but may do so only 722
+after disclosing to the requester that a written request is not 723
+mandatory, that the requester may decline to reveal the 724
+requester's identity or the intended use, and when a written 725
+request or disclosure of the identity or intended use would 726
+benefit the requester by enhancing the ability of the public 727
+office or person responsible for public records to identify, 728
+locate, or deliver the public records sought by the requester. 729
+(6)(6)(a) If any person requests a copy of a public record 730
+in accordance with division (B) of this section, the public 731
+office or person responsible for the public record may require 732
+the requester to pay in advance the cost involved in providing 733
+the copy of the public record in accordance with the choice made 734
+by the requester under this division. If the request is 735
+voluminous and it is therefore reasonable to do so, the public 736
+office or person responsible for the public record may engage a 737
+private contractor to respond to the request, including making 738
+any required redactions, on behalf of the public office or 739
+person. The public office or person responsible for the public 740
+record may include the cost of the contractor's services in 741
+calculating the cost involved in providing the copy of the 742
+public record. 743
+(b) The public office or the person responsible for the 744
+public record shall permit the requester to choose to have the 745
+public record duplicated upon paper, upon the same medium upon 746
+which the public office or person responsible for the public 747
+record keeps it, or upon any other medium upon which the public 748
+office or person responsible for the public record determines 749
+H. B. No. 314 Page 27
+As Introduced
+that it reasonably can be duplicated as an integral part of the 750
+normal operations of the public office or person responsible for 751
+the public record. When the requester makes a choice under this 752
+division, the public office or person responsible for the public 753
+record shall provide a copy of it in accordance with the choice 754
+made by the requester. Nothing 755
+(c) Nothing in this section requires a public office or 756
+person responsible for the public record to allow the requester 757
+of a copy of the public record to make the copies of the public 758
+record. 759
+(7)(a) Upon a request made in accordance with division (B) 760
+of this section and subject to division (B)(6) of this section, 761
+a public office or person responsible for public records shall 762
+transmit a copy of a public record to any person by United 763
+States mail or by any other means of delivery or transmission 764
+within a reasonable period of time after receiving the request 765
+for the copy. The public office or person responsible for the 766
+public record may require the person making the request to pay 767
+in advance the cost of postage if the copy is transmitted by 768
+United States mail or the cost of delivery if the copy is 769
+transmitted other than by United States mail, and to pay in 770
+advance the costs incurred for other supplies used in the 771
+mailing, delivery, or transmission. 772
+(b) Any public office may adopt a policy and procedures 773
+that it will follow in transmitting, within a reasonable period 774
+of time after receiving a request, copies of public records by 775
+United States mail or by any other means of delivery or 776
+transmission pursuant to division (B)(7) of this section. A 777
+public office that adopts a policy and procedures under division 778
+(B)(7) of this section shall comply with them in performing its 779
+H. B. No. 314 Page 28
+As Introduced
+duties under that division. 780
+(c) In any policy and procedures adopted under division 781
+(B)(7) of this section: 782
+(i) A public office may limit the number of records 783
+requested by a person that the office will physically deliver by 784
+United States mail or by another delivery service to ten per 785
+month, unless the person certifies to the office in writing that 786
+the person does not intend to use or forward the requested 787
+records, or the information contained in them, for commercial 788
+purposes; 789
+(ii) A public office that chooses to provide some or all 790
+of its public records on a web site that is fully accessible to 791
+and searchable by members of the public at all times, other than 792
+during acts of God outside the public office's control or 793
+maintenance, and that charges no fee to search, access, 794
+download, or otherwise receive records provided on the web site, 795
+may limit to ten per month the number of records requested by a 796
+person that the office will deliver in a digital format, unless 797
+the requested records are not provided on the web site and 798
+unless the person certifies to the office in writing that the 799
+person does not intend to use or forward the requested records, 800
+or the information contained in them, for commercial purposes. 801
+(iii) For purposes of division (B)(7) of this section, 802
+"commercial" shall be narrowly construed and does not include 803
+reporting or gathering news, reporting or gathering information 804
+to assist citizen oversight or understanding of the operation or 805
+activities of government, or nonprofit educational research. 806
+(8) A public office or person responsible for public 807
+records is not required to permit a person who to inspect or 808
+H. B. No. 314 Page 29
+As Introduced
+obtain a copy of a public record if either of the following 809
+apply: 810
+(a) The person is incarcerated pursuant to a criminal 811
+conviction or a juvenile adjudication and requests to inspect or 812
+to obtain a copy of any public record concerning a criminal 813
+investigation or prosecution or concerning what would be a 814
+criminal investigation or prosecution if the subject of the 815
+investigation or prosecution were an adult, unless the request 816
+to inspect or to obtain a copy of the record is for the purpose 817
+of acquiring information that is subject to release as a public 818
+record under this section and the judge who imposed the sentence 819
+or made the adjudication with respect to the person, or the 820
+judge's successor in office, finds that the information sought 821
+in the public record is necessary to support what appears to be 822
+a justiciable claim of the person. As used in this division, 823
+"public record concerning a criminal investigation or 824
+prosecution or concerning what would be a criminal investigation 825
+or prosecution if the subject of the investigation were an 826
+adult" includes, but is not limited to, personnel files and 827
+payroll and attendance records of designated public service 828
+workers. 829
+(b) A court order issued under division (B)(2)(c) of this 830
+
+Section 37:
+section permits the public office or the person responsible for 831
+public records to deny the request. 832
+(9)(a) Upon written request made and signed by a 833
+journalist, a public office, or person responsible for public 834
+records, having custody of the records of the agency employing a 835
+specified designated public service worker shall disclose to the 836
+journalist the address of the actual personal residence of the 837
+designated public service worker and, if the designated public 838
+H. B. No. 314 Page 30
+As Introduced
+service worker's spouse, former spouse, or child is employed by 839
+a public office, the name and address of the employer of the 840
+designated public service worker's spouse, former spouse, or 841
+child, and any past, current, and future work schedules of the 842
+designated public service worker. The request shall include the 843
+journalist's name and title and the name and address of the 844
+journalist's employer and shall state that disclosure of the 845
+information sought would be in the public interest. 846
+(b) Division (B)(9)(a) of this section also applies to 847
+journalist requests for: 848
+(i) Customer information maintained by a municipally owned 849
+or operated public utility, other than social security numbers 850
+and any private financial information such as credit reports, 851
+payment methods, credit card numbers, and bank account 852
+information; 853
+(ii) Information about minors involved in a school vehicle 854
+accident as provided in division (A)(1)(gg) of this section, 855
+other than personal information as defined in section 149.45 of 856
+the Revised Code; 857
+(iii) A request form submitted to a public office under 858
+
+Section 38:
+section 149.45 of the Revised Code; 859
+(iv) An affidavit submitted under section 319.28 of the 860
+Revised Code. 861
+(c) As used in division (B)(9) of this section, 862
+"journalist" means a person engaged in, connected with, or 863
+employed by any news medium, including a newspaper, magazine, 864
+press association, news agency, or wire service, a radio or 865
+television station, or a similar medium, for the purpose of 866
+gathering, processing, transmitting, compiling, editing, or 867
+H. B. No. 314 Page 31
+As Introduced
+disseminating information for the general public. 868
+(10) Upon a request made by a victim, victim's attorney, 869
+or victim's representative, as that term is used in section 870
+
+Section 39:
+2930.02 of the Revised Code, a public office or person 871
+responsible for public records shall transmit a copy of a 872
+depiction of the victim as described in division (A)(1)(ii) of 873
+this section to the victim, victim's attorney, or victim's 874
+representative. 875
+(11) A public office or person responsible for public 876
+records may require a requester who the public office or person 877
+knows or has reason to believe is a public defender to provide 878
+documentary evidence sufficient to prove that the requested 879
+records relate to a matter that is within the scope of the 880
+requester's employment with a public defender's office or 881
+selection or appointment under section 120.33 of the Revised 882
+Code. A public office or person responsible for public records 883
+shall not require a requester who the public office or person 884
+knows or has reason to believe is a public defender to provide, 885
+nor condition the availability of public records on the 886
+provision of, materials protected by the attorney-client 887
+privilege or attorney work product privilege in response to a 888
+request for evidence made pursuant to this division. 889
+(C)(1) If a person allegedly is aggrieved by the failure 890
+of a public office or the person responsible for public records 891
+to promptly prepare a public record and to make it available to 892
+the person for inspection in accordance with division (B) of 893
+this section or by any other failure of a public office or the 894
+person responsible for public records to comply with an 895
+obligation in accordance with division (B) of this section, the 896
+person allegedly aggrieved may serve pursuant to Rule 4 of the 897
+H. B. No. 314 Page 32
+As Introduced
+Ohio Rules of Civil Procedure a complaint, on a form prescribed 898
+by the clerk of the court of claims, to the public office or 899
+person responsible for public records allegedly responsible for 900
+the alleged failure. Upon receipt of the complaint of the person 901
+allegedly aggrieved, the public office or person responsible for 902
+public records has three business days to cure or otherwise 903
+address the failure alleged in the complaint. The person 904
+allegedly aggrieved shall not file a complaint with a court or 905
+commence a mandamus action under this section within the three- 906
+day period. Upon the expiration of the three-day period, the 907
+person allegedly aggrieved may, subject to the requirements of 908
+division (C)(2) of this section, do only one of the following, 909
+and not both: 910
+(a) File a complaint with the clerk of the court of claims 911
+or the clerk of the court of common pleas under section 2743.75 912
+of the Revised Code; 913
+(b) Commence a mandamus action to obtain a judgment that 914
+orders the public office or the person responsible for the 915
+public record to comply with division (B) of this section, that 916
+awards court costs and reasonable attorney's fees to the person 917
+that instituted the mandamus action, and, if applicable, that 918
+includes an order fixing statutory damages under division (C)(3) 919
+of this section. The mandamus action may be commenced in the 920
+court of common pleas of the county in which division (B) of 921
+this section allegedly was not complied with, in the supreme 922
+court pursuant to its original jurisdiction under Section 2 of 923
+Article IV, Ohio Constitution, or in the court of appeals for 924
+the appellate district in which division (B) of this section 925
+allegedly was not complied with pursuant to its original 926
+jurisdiction under Section 3 of Article IV, Ohio Constitution. 927
+H. B. No. 314 Page 33
+As Introduced
+(2) Upon filing a complaint or mandamus action with a 928
+court under divisions (C)(1)(a) or (b) of this section, a person 929
+allegedly aggrieved shall file with the court, in conjunction 930
+with the person's complaint or petition, a written affirmation 931
+stating that the person properly transmitted a complaint to the 932
+public office or person responsible for public records, the 933
+failure alleged in the complaint has not been cured or otherwise 934
+resolved to the person's satisfaction, and that the complaint 935
+was transmitted to the public office or person responsible for 936
+public records at least three business days before the filing of 937
+the suit. If the person fails to file an affirmation pursuant to 938
+this division, the suit shall be dismissed. 939
+(3) If a requester transmits a written request by hand 940
+delivery, electronic submission, or certified mail to inspect or 941
+receive copies of any public record in a manner that fairly 942
+describes the public record or class of public records to the 943
+public office or person responsible for the requested public 944
+records, except as otherwise provided in this section, the 945
+requester shall be entitled to recover the amount of statutory 946
+damages set forth in this division if a court determines that 947
+the public office or the person responsible for public records 948
+failed to comply with an obligation in accordance with division 949
+(B) of this section. Statutory damages are not available 950
+pursuant to this section to a person committed to the custody of 951
+the department of rehabilitation and correction or the United 952
+States bureau of prisons, or a child committed to the department 953
+of youth services as permitted in Chapter 2152. of the Revised 954
+Code. 955
+The amount of statutory damages shall be fixed at one 956
+hundred dollars for each business day during which the public 957
+office or person responsible for the requested public records 958
+H. B. No. 314 Page 34
+As Introduced
+failed to comply with an obligation in accordance with division 959
+(B) of this section, beginning with the day on which the 960
+requester files a mandamus action to recover statutory damages, 961
+up to a maximum of one thousand dollars. The award of statutory 962
+damages shall not be construed as a penalty, but as compensation 963
+for injury arising from lost use of the requested information. 964
+The existence of this injury shall be conclusively presumed. The 965
+award of statutory damages shall be in addition to all other 966
+remedies authorized by this section. 967
+The court may reduce an award of statutory damages or not 968
+award statutory damages if the court determines both of the 969
+following: 970
+(a) That, based on the ordinary application of statutory 971
+law and case law as it existed at the time of the conduct or 972
+threatened conduct of the public office or person responsible 973
+for the requested public records that allegedly constitutes a 974
+failure to comply with an obligation in accordance with division 975
+(B) of this section and that was the basis of the mandamus 976
+action, a well-informed public office or person responsible for 977
+the requested public records reasonably would believe that the 978
+conduct or threatened conduct of the public office or person 979
+responsible for the requested public records did not constitute 980
+a failure to comply with an obligation in accordance with 981
+division (B) of this section; 982
+(b) That a well-informed public office or person 983
+responsible for the requested public records reasonably would 984
+believe that the conduct or threatened conduct of the public 985
+office or person responsible for the requested public records 986
+would serve the public policy that underlies the authority that 987
+is asserted as permitting that conduct or threatened conduct. 988
+H. B. No. 314 Page 35
+As Introduced
+(4) In a mandamus action filed under division (C)(1) of 989
+this section, the following apply: 990
+(a)(i) If the court orders the public office or the person 991
+responsible for the public record to comply with division (B) of 992
+this section, the court shall determine and award to the relator 993
+all court costs, which shall be construed as remedial and not 994
+punitive. 995
+(ii) If the court makes a determination described in 996
+division (C)(4)(b)(iii) of this section, the court shall 997
+determine and award to the relator all court costs, which shall 998
+be construed as remedial and not punitive. 999
+(b) If the court renders a judgment that orders the public 1000
+office or the person responsible for the public record to comply 1001
+with division (B) of this section or if the court determines any 1002
+of the following, the court may award reasonable attorney's fees 1003
+to the relator, subject to division (C)(5) of this section: 1004
+(i) The public office or the person responsible for the 1005
+public records failed to respond affirmatively or negatively to 1006
+the public records request in accordance with the time allowed 1007
+under division (B) of this section. 1008
+(ii) The public office or the person responsible for the 1009
+public records promised to permit the relator to inspect or 1010
+receive copies of the public records requested within a 1011
+specified period of time but failed to fulfill that promise 1012
+within that specified period of time. 1013
+(iii) The public office or the person responsible for the 1014
+public records acted in bad faith when the office or person 1015
+voluntarily made the public records available to the relator for 1016
+the first time after the relator commenced the mandamus action, 1017
+H. B. No. 314 Page 36
+As Introduced
+but before the court issued any order concluding whether or not 1018
+the public office or person was required to comply with division 1019
+(B) of this section. No discovery may be conducted on the issue 1020
+of the alleged bad faith of the public office or person 1021
+responsible for the public records. This division shall not be 1022
+construed as creating a presumption that the public office or 1023
+the person responsible for the public records acted in bad faith 1024
+when the office or person voluntarily made the public records 1025
+available to the relator for the first time after the relator 1026
+commenced the mandamus action, but before the court issued any 1027
+order described in this division. 1028
+(c) The court shall not award attorney's fees to the 1029
+relator if the court determines both of the following: 1030
+(i) That, based on the ordinary application of statutory 1031
+law and case law as it existed at the time of the conduct or 1032
+threatened conduct of the public office or person responsible 1033
+for the requested public records that allegedly constitutes a 1034
+failure to comply with an obligation in accordance with division 1035
+(B) of this section and that was the basis of the mandamus 1036
+action, a well-informed public office or person responsible for 1037
+the requested public records reasonably would believe that the 1038
+conduct or threatened conduct of the public office or person 1039
+responsible for the requested public records did not constitute 1040
+a failure to comply with an obligation in accordance with 1041
+division (B) of this section; 1042
+(ii) That a well-informed public office or person 1043
+responsible for the requested public records reasonably would 1044
+believe that the conduct or threatened conduct of the public 1045
+office or person responsible for the requested public records 1046
+would serve the public policy that underlies the authority that 1047
+H. B. No. 314 Page 37
+As Introduced
+is asserted as permitting that conduct or threatened conduct. 1048
+(5) All of the following apply to any award of reasonable 1049
+attorney's fees awarded under division (C)(4)(b) of this 1050
+
+Section 40:
+section: 1051
+(a) The fees shall be construed as remedial and not 1052
+punitive. 1053
+(b) The fees awarded shall not exceed the total of the 1054
+reasonable attorney's fees incurred before the public record was 1055
+made available to the relator and the fees described in division 1056
+(C)(5)(c) of this section. 1057
+(c) Reasonable attorney's fees shall include reasonable 1058
+fees incurred to produce proof of the reasonableness and amount 1059
+of the fees and to otherwise litigate entitlement to the fees. 1060
+(d) The court may reduce the amount of fees awarded if the 1061
+court determines that, given the factual circumstances involved 1062
+with the specific public records request, an alternative means 1063
+should have been pursued to more effectively and efficiently 1064
+resolve the dispute that was subject to the mandamus action 1065
+filed under division (C)(1) of this section. 1066
+(6) If the court does not issue a writ of mandamus under 1067
+division (C) of this section and the court determines at that 1068
+time that the bringing of the mandamus action was frivolous 1069
+conduct as defined in division (A) of section 2323.51 of the 1070
+Revised Code, the court may award to the public office all court 1071
+costs, expenses, and reasonable attorney's fees, as determined 1072
+by the court. 1073
+(D) Chapter 1347. of the Revised Code does not limit the 1074
+provisions of this section. 1075
+H. B. No. 314 Page 38
+As Introduced
+(E)(1) To ensure that all employees of public offices are 1076
+appropriately educated about a public office's obligations under 1077
+division (B) of this section, all elected officials or their 1078
+appropriate designees shall attend training approved by the 1079
+attorney general as provided in section 109.43 of the Revised 1080
+Code. A future official may satisfy the requirements of this 1081
+division by attending the training before taking office, 1082
+provided that the future official may not send a designee in the 1083
+future official's place. 1084
+(2) All public offices shall adopt a public records policy 1085
+in compliance with this section for responding to public records 1086
+requests. In adopting a public records policy under this 1087
+division, a public office may obtain guidance from the model 1088
+public records policy developed and provided to the public 1089
+office by the attorney general under section 109.43 of the 1090
+Revised Code. Except as otherwise provided in this section, the 1091
+policy may not limit the number of public records that the 1092
+public office will make available to a single person, may not 1093
+limit the number of public records that it will make available 1094
+during a fixed period of time, and may not establish a fixed 1095
+period of time before it will respond to a request for 1096
+inspection or copying of public records, unless that period is 1097
+less than eight hours. 1098
+The public office shall distribute the public records 1099
+policy adopted by the public office under this division to the 1100
+employee of the public office who is the records custodian or 1101
+records manager or otherwise has custody of the records of that 1102
+office. The public office shall require that employee to 1103
+acknowledge receipt of the copy of the public records policy. 1104
+The public office shall create a poster that describes its 1105
+public records policy and shall post the poster in a conspicuous 1106
+H. B. No. 314 Page 39
+As Introduced
+place in the public office and in all locations where the public 1107
+office has branch offices. The public office may post its public 1108
+records policy on the internet web site of the public office if 1109
+the public office maintains an internet web site. A public 1110
+office that has established a manual or handbook of its general 1111
+policies and procedures for all employees of the public office 1112
+shall include the public records policy of the public office in 1113
+the manual or handbook. 1114
+(F)(1) The bureau of motor vehicles may adopt rules 1115
+pursuant to Chapter 119. of the Revised Code to reasonably limit 1116
+the number of bulk commercial special extraction requests made 1117
+by a person for the same records or for updated records during a 1118
+calendar year. The rules may include provisions for charges to 1119
+be made for bulk commercial special extraction requests for the 1120
+actual cost of the bureau, plus special extraction costs, plus 1121
+ten per cent. The bureau may charge for expenses for redacting 1122
+information, the release of which is prohibited by law. 1123
+(2) As used in division (F)(1) of this section: 1124
+(a) "Actual cost" means the cost of depleted supplies, 1125
+records storage media costs, actual mailing and alternative 1126
+delivery costs, or other transmitting costs, and any direct 1127
+equipment operating and maintenance costs, including actual 1128
+costs paid to private contractors for copying services. 1129
+(b) "Bulk commercial special extraction request" means a 1130
+request for copies of a record for information in a format other 1131
+than the format already available, or information that cannot be 1132
+extracted without examination of all items in a records series, 1133
+class of records, or database by a person who intends to use or 1134
+forward the copies for surveys, marketing, solicitation, or 1135
+resale for commercial purposes. "Bulk commercial special 1136
+H. B. No. 314 Page 40
+As Introduced
+extraction request" does not include a request by a person who 1137
+gives assurance to the bureau that the person making the request 1138
+does not intend to use or forward the requested copies for 1139
+surveys, marketing, solicitation, or resale for commercial 1140
+purposes. 1141
+(c) "Commercial" means profit-seeking production, buying, 1142
+or selling of any good, service, or other product. 1143
+(d) "Special extraction costs" means the cost of the time 1144
+spent by the lowest paid employee competent to perform the task, 1145
+the actual amount paid to outside private contractors employed 1146
+by the bureau, or the actual cost incurred to create computer 1147
+programs to make the special extraction. "Special extraction 1148
+costs" include any charges paid to a public agency for computer 1149
+or records services. 1150
+(3) For purposes of divisions (F)(1) and (2) of this 1151
+
+Section 41:
+section, "surveys, marketing, solicitation, or resale for 1152
+commercial purposes" shall be narrowly construed and does not 1153
+include reporting or gathering news, reporting or gathering 1154
+information to assist citizen oversight or understanding of the 1155
+operation or activities of government, or nonprofit educational 1156
+research. 1157
+(G) A request by a defendant, counsel of a defendant, or 1158
+any agent of a defendant in a criminal action that public 1159
+records related to that action be made available under this 1160
+
+Section 42:
+section shall be considered a demand for discovery pursuant to 1161
+the Criminal Rules, except to the extent that the Criminal Rules 1162
+plainly indicate a contrary intent. The defendant, counsel of 1163
+the defendant, or agent of the defendant making a request under 1164
+this division shall serve a copy of the request on the 1165
+prosecuting attorney, director of law, or other chief legal 1166
+H. B. No. 314 Page 41
+As Introduced
+officer responsible for prosecuting the action. 1167
+(H)(1) Any portion of a body-worn camera or dashboard 1168
+camera recording described in divisions (A)(17)(b) to (h) of 1169
+this section may be released by consent of the subject of the 1170
+recording or a representative of that person, as specified in 1171
+those divisions, only if either of the following applies: 1172
+(a) The recording will not be used in connection with any 1173
+probable or pending criminal proceedings; 1174
+(b) The recording has been used in connection with a 1175
+criminal proceeding that was dismissed or for which a judgment 1176
+has been entered pursuant to Rule 32 of the Rules of Criminal 1177
+Procedure, and will not be used again in connection with any 1178
+probable or pending criminal proceedings. 1179
+(2) If a public office denies a request to release a 1180
+restricted portion of a body-worn camera or dashboard camera 1181
+recording, as defined in division (A)(17) of this section, any 1182
+person may file a mandamus action pursuant to this section or a 1183
+complaint with the clerk of the court of claims pursuant to 1184
+
+Section 43:
+section 2743.75 of the Revised Code, requesting the court to 1185
+order the release of all or portions of the recording. If the 1186
+court considering the request determines that the filing 1187
+articulates by clear and convincing evidence that the public 1188
+interest in the recording substantially outweighs privacy 1189
+interests and other interests asserted to deny release, the 1190
+court shall order the public office to release the recording. 1191
+
+Section 44:
+Section 2. That existing section 149.43 of the Revised 1192
+Code is hereby repealed. 1193
+
+Section 45:
+Section 3. Section 149.43 of the Revised Code is presented 1194
+in this act as a composite of the section as amended by H.B. 1195
+H. B. No. 314 Page 42
+As Introduced
+265, H.B. 315, S.B. 29, and S.B. 109, all of the 135th General 1196
+Assembly. The General Assembly, applying the principle stated in 1197
+division (B) of section 1.52 of the Revised Code that amendments 1198
+are to be harmonized and reconciled if reasonably capable of 1199
+simultaneous operation, finds that the composite is the 1200
+resulting version of the section in effect prior to the 1201
+effective date of the section as presented in this act. 1202
+[DELETED: nH   . :    1 1-1 1 1 1 1 1 1 1 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2;2 2 2 2 2 2;2 2;2]
+[DELETED: 4  2;2 2 2 2 2 2;2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3:3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 4 4 4 4 4 4 4 4 4 4)4 4 4 4 4 4)4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4 )4 4 4 4 4 4 4 4 4 4 4 4 4)4 4 4)4 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6.6 6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6 6 6 6.6 6:6 6;6 6;6 6 6 6 6 6 6 6 6.6 6]
+[DELETED: 4  6 6.6 6 6 6 6 6 6 6.6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8]
+[DELETED: 4  8:8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8.8 8 8 8 8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8;8 8;8 8.8 8 8 8 8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8 8 8 8 8 8 8]
+[DELETED: 4  8 8 9 9 9 9 9 9-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9.9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9.9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1 1.1 1 1]
+[DELETED: 4  1 1 1 1 1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 314
+2025-2026
+Representatives Isaacsohn, Ray
+To amend section 149.43 of the Revised Code to 1
+restrict harassing or disruptive public records 2
+requests and permit private contractors to 3
+respond to voluminous public records requests. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 149.43 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 149.43. (A) As used in this section: 7
+(1) "Public record" means records kept by any public 8
+office, including, but not limited to, state, county, city, 9
+village, township, and school district units, and records 10
+pertaining to the delivery of educational services by an 11
+alternative school in this state kept by the nonprofit or for- 12
+profit entity operating the alternative school pursuant to 13
+section 3313.533 of the Revised Code. "Public record" does not 14
+mean any of the following: 15
+(a) Medical records; 16
+(b) Records pertaining to probation and parole 17
+proceedings, to proceedings related to the imposition of 18
+community control sanctions and post-release control sanctions, 19
+or to proceedings related to determinations under section 20
+
+H. B. No. 314 Page 2
+As Introduced
+2967.271 of the Revised Code regarding the release or maintained 21
+incarceration of an offender to whom that section applies; 22
+(c) Records pertaining to actions under section 2151.85 23
+and division (C) of section 2919.121 of the Revised Code and to 24
+appeals of actions arising under those sections; 25
+(d) Records pertaining to adoption proceedings, including 26
+the contents of an adoption file maintained by the department of 27
+health under sections 3705.12 to 3705.124 of the Revised Code; 28
+(e) Information in a record contained in the putative 29
+father registry established by section 3107.062 of the Revised 30
+Code, regardless of whether the information is held by the 31
+department of job and family services or, pursuant to section 32
+3111.69 of the Revised Code, the office of child support in the 33
+department or a child support enforcement agency; 34
+(f) Records specified in division (A) of section 3107.52 35
+of the Revised Code; 36
+(g) Trial preparation records; 37
+(h) Confidential law enforcement investigatory records; 38
+(i) Records containing information that is confidential 39
+under section 2710.03 or 4112.05 of the Revised Code; 40
+(j) DNA records stored in the DNA database pursuant to 41
+section 109.573 of the Revised Code; 42
+(k) Inmate records released by the department of 43
+rehabilitation and correction to the department of youth 44
+services or a court of record pursuant to division (E) of 45
+section 5120.21 of the Revised Code; 46
+(l) Records maintained by the department of youth services 47
+
+H. B. No. 314 Page 3
+As Introduced
+pertaining to children in its custody released by the department 48
+of youth services to the department of rehabilitation and 49
+correction pursuant to section 5139.05 of the Revised Code; 50
+(m) Intellectual property records; 51
+(n) Donor profile records; 52
+(o) Records maintained by the department of job and family 53
+services pursuant to section 3121.894 of the Revised Code; 54
+(p) Designated public service worker residential and 55
+familial information; 56
+(q) In the case of a county hospital operated pursuant to 57
+Chapter 339. of the Revised Code or a municipal hospital 58
+operated pursuant to Chapter 749. of the Revised Code, 59
+information that constitutes a trade secret, as defined in 60
+section 1333.61 of the Revised Code; 61
+(r) Information pertaining to the recreational activities 62
+of a person under the age of eighteen; 63
+(s) In the case of a child fatality review board acting 64
+under sections 307.621 to 307.629 of the Revised Code or a 65
+review conducted pursuant to guidelines established by the 66
+director of health under section 3701.70 of the Revised Code, 67
+records provided to the board or director, statements made by 68
+board members during meetings of the board or by persons 69
+participating in the director's review, and all work products of 70
+the board or director, and in the case of a child fatality 71
+review board, child fatality review data submitted by the board 72
+to the department of health or a national child death review 73
+database, other than the report prepared pursuant to division 74
+(A) of section 307.626 of the Revised Code; 75
+
+H. B. No. 314 Page 4
+As Introduced
+(t) Records provided to and statements made by the 76
+executive director of a public children services agency or a 77
+prosecuting attorney acting pursuant to section 5153.171 of the 78
+Revised Code other than the information released under that 79
+section; 80
+(u) Test materials, examinations, or evaluation tools used 81
+in an examination for licensure as a nursing home administrator 82
+that the board of executives of long-term services and supports 83
+administers under section 4751.15 of the Revised Code or 84
+contracts under that section with a private or government entity 85
+to administer; 86
+(v) Records the release of which is prohibited by state or 87
+federal law; 88
+(w) Proprietary information of or relating to any person 89
+that is submitted to or compiled by the Ohio venture capital 90
+authority created under section 150.01 of the Revised Code; 91
+(x) Financial statements and data any person submits for 92
+any purpose to the Ohio housing finance agency or the 93
+controlling board in connection with applying for, receiving, or 94
+accounting for financial assistance from the agency, and 95
+information that identifies any individual who benefits directly 96
+or indirectly from financial assistance from the agency; 97
+(y) Records listed in section 5101.29 of the Revised Code; 98
+(z) Discharges recorded with a county recorder under 99
+section 317.24 of the Revised Code, as specified in division (B) 100
+(2) of that section; 101
+(aa) Usage information including names and addresses of 102
+specific residential and commercial customers of a municipally 103
+owned or operated public utility; 104
+
+H. B. No. 314 Page 5
+As Introduced
+(bb) Records described in division (C) of section 187.04 105
+of the Revised Code that are not designated to be made available 106
+to the public as provided in that division; 107
+(cc) Information and records that are made confidential, 108
+privileged, and not subject to disclosure under divisions (B) 109
+and (C) of section 2949.221 of the Revised Code; 110
+(dd) Personal information, as defined in section 149.45 of 111
+the Revised Code; 112
+(ee) The confidential name, address, and other personally 113
+identifiable information of a program participant in the address 114
+confidentiality program established under sections 111.41 to 115
+111.47 of the Revised Code, including the contents of any 116
+application for absent voter's ballots, absent voter's ballot 117
+identification envelope statement of voter, or provisional 118
+ballot affirmation completed by a program participant who has a 119
+confidential voter registration record; records or portions of 120
+records pertaining to that program that identify the number of 121
+program participants that reside within a precinct, ward, 122
+township, municipal corporation, county, or any other geographic 123
+area smaller than the state; and any real property 124
+confidentiality notice filed under section 111.431 of the 125
+Revised Code and the information described in division (C) of 126
+that section. As used in this division, "confidential address" 127
+and "program participant" have the meaning defined in section 128
+111.41 of the Revised Code. 129
+(ff) Orders for active military service of an individual 130
+serving or with previous service in the armed forces of the 131
+United States, including a reserve component, or the Ohio 132
+organized militia, except that, such order becomes a public 133
+record on the day that is fifteen years after the published date 134
+
+H. B. No. 314 Page 6
+As Introduced
+or effective date of the call to order; 135
+(gg) The name, address, contact information, or other 136
+personal information of an individual who is less than eighteen 137
+years of age that is included in any record related to a traffic 138
+accident involving a school vehicle in which the individual was 139
+an occupant at the time of the accident; 140
+(hh) Protected health information, as defined in 45 C.F.R. 141
+160.103, that is in a claim for payment for a health care 142
+product, service, or procedure, as well as any other health 143
+claims data in another document that reveals the identity of an 144
+individual who is the subject of the data or could be used to 145
+reveal that individual's identity; 146
+(ii) Any depiction by photograph, film, videotape, or 147
+printed or digital image under either of the following 148
+circumstances: 149
+(i) The depiction is that of a victim of an offense the 150
+release of which would be, to a reasonable person of ordinary 151
+sensibilities, an offensive and objectionable intrusion into the 152
+victim's expectation of bodily privacy and integrity. 153
+(ii) The depiction captures or depicts the victim of a 154
+sexually oriented offense, as defined in section 2950.01 of the 155
+Revised Code, at the actual occurrence of that offense. 156
+(jj) Restricted portions of a body-worn camera or 157
+dashboard camera recording; 158
+(kk) In the case of a fetal-infant mortality review board 159
+acting under sections 3707.70 to 3707.77 of the Revised Code, 160
+records, documents, reports, or other information presented to 161
+the board or a person abstracting such materials on the board's 162
+behalf, statements made by review board members during board 163
+
+H. B. No. 314 Page 7
+As Introduced
+meetings, all work products of the board, and data submitted by 164
+the board to the department of health or a national infant death 165
+review database, other than the report prepared pursuant to 166
+section 3707.77 of the Revised Code. 167
+(ll) Records, documents, reports, or other information 168
+presented to the pregnancy-associated mortality review board 169
+established under section 3738.01 of the Revised Code, 170
+statements made by board members during board meetings, all work 171
+products of the board, and data submitted by the board to the 172
+department of health, other than the biennial reports prepared 173
+under section 3738.08 of the Revised Code; 174
+(mm) Except as otherwise provided in division (A)(1)(oo) 175
+of this section, telephone numbers for a victim, as defined in 176
+section 2930.01 of the Revised Code or a witness to a crime that 177
+are listed on any law enforcement record or report. 178
+(nn) A preneed funeral contract, as defined in section 179
+4717.01 of the Revised Code, and contract terms and personally 180
+identifying information of a preneed funeral contract, that is 181
+contained in a report submitted by or for a funeral home to the 182
+board of embalmers and funeral directors under division (C) of 183
+section 4717.13, division (J) of section 4717.31, or section 184
+4717.41 of the Revised Code. 185
+(oo) Telephone numbers for a party to a motor vehicle 186
+accident subject to the requirements of section 5502.11 of the 187
+Revised Code that are listed on any law enforcement record or 188
+report, except that the telephone numbers described in this 189
+division are not excluded from the definition of "public record" 190
+under this division on and after the thirtieth day after the 191
+occurrence of the motor vehicle accident. 192
+
+H. B. No. 314 Page 8
+As Introduced
+(pp) Records pertaining to individuals who complete 193
+training under section 5502.703 of the Revised Code to be 194
+permitted by a school district board of education or governing 195
+body of a community school established under Chapter 3314. of 196
+the Revised Code, a STEM school established under Chapter 3326. 197
+of the Revised Code, or a chartered nonpublic school to convey 198
+deadly weapons or dangerous ordnance into a school safety zone; 199
+(qq) Records, documents, reports, or other information 200
+presented to a domestic violence fatality review board 201
+established under section 307.651 of the Revised Code, 202
+statements made by board members during board meetings, all work 203
+products of the board, and data submitted by the board to the 204
+department of health, other than a report prepared pursuant to 205
+section 307.656 of the Revised Code; 206
+(rr) Records, documents, and information the release of 207
+which is prohibited under sections 2930.04 and 2930.07 of the 208
+Revised Code; 209
+(ss) Records of an existing qualified nonprofit 210
+corporation that creates a special improvement district under 211
+Chapter 1710. of the Revised Code that do not pertain to a 212
+purpose for which the district is created; 213
+(tt) Educational support services data, as defined in 214
+section 3319.325 of the Revised Code; 215
+(uu) Records of the past, current, and future work 216
+schedule of a designated public service worker. As used in 217
+division (A)(1)(uu) of this section, "work schedule" does not 218
+include the docket of cases of a court, judge, or magistrate; 219
+(vv) A request form or confirmation letter submitted to a 220
+public office under section 149.45 of the Revised Code; 221
+
+H. B. No. 314 Page 9
+As Introduced
+(ww) An affidavit or confirmation letter submitted under 222
+section 319.28 of the Revised Code; 223
+(xx) License or certificate application or renewal 224
+responses and supporting documentation submitted to the state 225
+medical board regarding an applicant's, or a license or 226
+certificate holder's, inability to practice according to 227
+acceptable and prevailing standards of care by reason of a 228
+medical condition; 229
+(yy) Documentary evidence provided in response to a 230
+request for such evidence made under division (B)(11) of this 231
+section. 232
+A record that is not a public record under division (A)(1) 233
+of this section and that, under law, is permanently retained 234
+becomes a public record on the day that is seventy-five years 235
+after the day on which the record was created, or in the case of 236
+a record that is not a public record under division (A)(1)(uu) 237
+of this section that is retained, three years after the day on 238
+which the record was created, except for any record protected by 239
+the attorney-client privilege, a trial preparation record as 240
+defined in this section, a statement prohibiting the release of 241
+identifying information signed under section 3107.083 of the 242
+Revised Code, a denial of release form filed pursuant to section 243
+3107.46 of the Revised Code, or any record that is exempt from 244
+release or disclosure under section 149.433 of the Revised Code. 245
+If the record is a birth certificate and a biological parent's 246
+name redaction request form has been accepted under section 247
+3107.391 of the Revised Code, the name of that parent shall be 248
+redacted from the birth certificate before it is released under 249
+this paragraph. If any other section of the Revised Code 250
+establishes a time period for disclosure of a record that 251
+
+H. B. No. 314 Page 10
+As Introduced
+conflicts with the time period specified in this section, the 252
+time period in the other section prevails. 253
+(2) "Confidential law enforcement investigatory record" 254
+means any record that pertains to a law enforcement matter of a 255
+criminal, quasi-criminal, civil, or administrative nature, but 256
+only to the extent that the release of the record would create a 257
+high probability of disclosure of any of the following: 258
+(a) The identity of a suspect who has not been charged 259
+with the offense to which the record pertains, or of an 260
+information source or witness to whom confidentiality has been 261
+reasonably promised; 262
+(b) Information provided by an information source or 263
+witness to whom confidentiality has been reasonably promised, 264
+which information would reasonably tend to disclose the source's 265
+or witness's identity; 266
+(c) Specific confidential investigatory techniques or 267
+procedures or specific investigatory work product; 268
+(d) Information that would endanger the life or physical 269
+safety of law enforcement personnel, a crime victim, a witness, 270
+or a confidential information source. 271
+(3) "Medical record" means any document or combination of 272
+documents, except births, deaths, and the fact of admission to 273
+or discharge from a hospital, that pertains to the medical 274
+history, diagnosis, prognosis, or medical condition of a patient 275
+and that is generated and maintained in the process of medical 276
+treatment. 277
+(4) "Trial preparation record" means any record that 278
+contains information that is specifically compiled in reasonable 279
+anticipation of, or in defense of, a civil or criminal action or 280
+
+H. B. No. 314 Page 11
+As Introduced
+proceeding, including the independent thought processes and 281
+personal trial preparation of an attorney. 282
+(5) "Intellectual property record" means a record, other 283
+than a financial or administrative record, that is produced or 284
+collected by or for faculty or staff of a state institution of 285
+higher learning in the conduct of or as a result of study or 286
+research on an educational, commercial, scientific, artistic, 287
+technical, or scholarly issue, regardless of whether the study 288
+or research was sponsored by the institution alone or in 289
+conjunction with a governmental body or private concern, and 290
+that has not been publicly released, published, or patented. 291
+(6) "Donor profile record" means all records about donors 292
+or potential donors to a public institution of higher education 293
+except the names and reported addresses of the actual donors and 294
+the date, amount, and conditions of the actual donation. 295
+(7) "Designated public service worker" means a peace 296
+officer, parole officer, probation officer, bailiff, prosecuting 297
+attorney, assistant prosecuting attorney, correctional employee, 298
+county or multicounty corrections officer, community-based 299
+correctional facility employee, designated Ohio national guard 300
+member, protective services worker, youth services employee, 301
+firefighter, EMT, medical director or member of a cooperating 302
+physician advisory board of an emergency medical service 303
+organization, state board of pharmacy employee, investigator of 304
+the bureau of criminal identification and investigation, 305
+emergency service telecommunicator, forensic mental health 306
+provider, mental health evaluation provider, regional 307
+psychiatric hospital employee, judge, magistrate, or federal law 308
+enforcement officer. 309
+(8) "Designated public service worker residential and 310
+
+H. B. No. 314 Page 12
+As Introduced
+familial information" means any information that discloses any 311
+of the following about a designated public service worker: 312
+(a) The address of the actual personal residence of a 313
+designated public service worker, except for the following 314
+information: 315
+(i) The address of the actual personal residence of a 316
+prosecuting attorney or judge; and 317
+(ii) The state or political subdivision in which a 318
+designated public service worker resides. 319
+(b) Information compiled from referral to or participation 320
+in an employee assistance program; 321
+(c) The social security number, the residential telephone 322
+number, any bank account, debit card, charge card, or credit 323
+card number, or the emergency telephone number of, or any 324
+medical information pertaining to, a designated public service 325
+worker; 326
+(d) The name of any beneficiary of employment benefits, 327
+including, but not limited to, life insurance benefits, provided 328
+to a designated public service worker by the designated public 329
+service worker's employer; 330
+(e) The identity and amount of any charitable or 331
+employment benefit deduction made by the designated public 332
+service worker's employer from the designated public service 333
+worker's compensation, unless the amount of the deduction is 334
+required by state or federal law; 335
+(f) The name, the residential address, the name of the 336
+employer, the address of the employer, the social security 337
+number, the residential telephone number, any bank account, 338
+
+H. B. No. 314 Page 13
+As Introduced
+debit card, charge card, or credit card number, or the emergency 339
+telephone number of the spouse, a former spouse, or any child of 340
+a designated public service worker; 341
+(g) A photograph of a peace officer who holds a position 342
+or has an assignment that may include undercover or plain 343
+clothes positions or assignments as determined by the peace 344
+officer's appointing authority. 345
+(9) As used in divisions (A)(7) and (15) to (17) of this 346
+section: 347
+"Peace officer" has the meaning defined in section 109.71 348
+of the Revised Code and also includes the superintendent and 349
+troopers of the state highway patrol; it does not include the 350
+sheriff of a county or a supervisory employee who, in the 351
+absence of the sheriff, is authorized to stand in for, exercise 352
+the authority of, and perform the duties of the sheriff. 353
+"Correctional employee" means any employee of the 354
+department of rehabilitation and correction who in the course of 355
+performing the employee's job duties has or has had contact with 356
+inmates and persons under supervision. 357
+"County or multicounty corrections officer" means any 358
+corrections officer employed by any county or multicounty 359
+correctional facility. 360
+"Designated Ohio national guard member" means a member of 361
+the Ohio national guard who is participating in duties related 362
+to remotely piloted aircraft, including, but not limited to, 363
+pilots, sensor operators, and mission intelligence personnel, 364
+duties related to special forces operations, or duties related 365
+to cybersecurity, and is designated by the adjutant general as a 366
+designated public service worker for those purposes. 367
+
+H. B. No. 314 Page 14
+As Introduced
+"Protective services worker" means any employee of a 368
+county agency who is responsible for child protective services, 369
+child support services, or adult protective services. 370
+"Youth services employee" means any employee of the 371
+department of youth services who in the course of performing the 372
+employee's job duties has or has had contact with children 373
+committed to the custody of the department of youth services. 374
+"Firefighter" means any regular, paid or volunteer, member 375
+of a lawfully constituted fire department of a municipal 376
+corporation, township, fire district, or village. 377
+"EMT" means EMTs-basic, EMTs-I, and paramedics that 378
+provide emergency medical services for a public emergency 379
+medical service organization. "Emergency medical service 380
+organization," "EMT-basic," "EMT-I," and "paramedic" have the 381
+meanings defined in section 4765.01 of the Revised Code. 382
+"Investigator of the bureau of criminal identification and 383
+investigation" has the meaning defined in section 2903.11 of the 384
+Revised Code. 385
+"Emergency service telecommunicator" means an individual 386
+employed by an emergency service provider as defined under 387
+section 128.01 of the Revised Code, whose primary responsibility 388
+is to be an operator for the receipt or processing of calls for 389
+emergency services made by telephone, radio, or other electronic 390
+means. 391
+"Forensic mental health provider" means any employee of a 392
+community mental health service provider or local alcohol, drug 393
+addiction, and mental health services board who, in the course 394
+of the employee's duties, has contact with persons committed to 395
+a local alcohol, drug addiction, and mental health services 396
+
+H. B. No. 314 Page 15
+As Introduced
+board by a court order pursuant to section 2945.38, 2945.39, 397
+2945.40, or 2945.402 of the Revised Code. 398
+"Mental health evaluation provider" means an individual 399
+who, under Chapter 5122. of the Revised Code, examines a 400
+respondent who is alleged to be a mentally ill person subject to 401
+court order, as defined in section 5122.01 of the Revised Code, 402
+and reports to the probate court the respondent's mental 403
+condition. 404
+"Regional psychiatric hospital employee" means any 405
+employee of the department of mental health and addiction 406
+services who, in the course of performing the employee's duties, 407
+has contact with patients committed to the department of mental 408
+health and addiction services by a court order pursuant to 409
+section 2945.38, 2945.39, 2945.40, or 2945.402 of the Revised 410
+Code. 411
+"Federal law enforcement officer" has the meaning defined 412
+in section 9.88 of the Revised Code. 413
+(10) "Information pertaining to the recreational 414
+activities of a person under the age of eighteen" means 415
+information that is kept in the ordinary course of business by a 416
+public office, that pertains to the recreational activities of a 417
+person under the age of eighteen years, and that discloses any 418
+of the following: 419
+(a) The address or telephone number of a person under the 420
+age of eighteen or the address or telephone number of that 421
+person's parent, guardian, custodian, or emergency contact 422
+person; 423
+(b) The social security number, birth date, or 424
+photographic image of a person under the age of eighteen; 425
+
+H. B. No. 314 Page 16
+As Introduced
+(c) Any medical record, history, or information pertaining 426
+to a person under the age of eighteen; 427
+(d) Any additional information sought or required about a 428
+person under the age of eighteen for the purpose of allowing 429
+that person to participate in any recreational activity 430
+conducted or sponsored by a public office or to use or obtain 431
+admission privileges to any recreational facility owned or 432
+operated by a public office. 433
+(11) "Community control sanction" has the meaning defined 434
+in section 2929.01 of the Revised Code. 435
+(12) "Post-release control sanction" has the meaning 436
+defined in section 2967.01 of the Revised Code. 437
+(13) "Redaction" means obscuring or deleting any 438
+information that is exempt from the duty to permit public 439
+inspection or copying from an item that otherwise meets the 440
+definition of a "record" in section 149.011 of the Revised Code. 441
+(14) "Designee," "elected official," and "future official" 442
+have the meanings defined in section 109.43 of the Revised Code. 443
+(15) "Body-worn camera" means a visual and audio recording 444
+device worn on the person of a correctional employee, youth 445
+services employee, or peace officer while the correctional 446
+employee, youth services employee, or peace officer is engaged 447
+in the performance of official duties. 448
+(16) "Dashboard camera" means a visual and audio recording 449
+device mounted on a peace officer's vehicle or vessel that is 450
+used while the peace officer is engaged in the performance of 451
+the peace officer's duties. 452
+(17) "Restricted portions of a body-worn camera or 453
+
+H. B. No. 314 Page 17
+As Introduced
+dashboard camera recording" means any visual or audio portion of 454
+a body-worn camera or dashboard camera recording that shows, 455
+communicates, or discloses any of the following: 456
+(a) The image or identity of a child or information that 457
+could lead to the identification of a child who is a primary 458
+subject of the recording when the department of rehabilitation 459
+and correction, department of youth services, or the law 460
+enforcement agency knows or has reason to know the person is a 461
+child based on the department's or law enforcement agency's 462
+records or the content of the recording; 463
+(b) The death of a person or a deceased person's body, 464
+unless the death was caused by a correctional employee, youth 465
+services employee, or peace officer or, subject to division (H) 466
+(1) of this section, the consent of the decedent's executor or 467
+administrator has been obtained; 468
+(c) The death of a correctional employee, youth services 469
+employee, peace officer, firefighter, paramedic, or other first 470
+responder, occurring while the decedent was engaged in the 471
+performance of official duties, unless, subject to division (H) 472
+(1) of this section, the consent of the decedent's executor or 473
+administrator has been obtained; 474
+(d) Grievous bodily harm, unless the injury was effected 475
+by a correctional employee, youth services employee, or peace 476
+officer or, subject to division (H)(1) of this section, the 477
+consent of the injured person or the injured person's guardian 478
+has been obtained; 479
+(e) An act of severe violence against a person that 480
+results in serious physical harm to the person, unless the act 481
+and injury was effected by a correctional employee, youth 482
+
+H. B. No. 314 Page 18
+As Introduced
+services employee, or peace officer or, subject to division (H) 483
+(1) of this section, the consent of the injured person or the 484
+injured person's guardian has been obtained; 485
+(f) Grievous bodily harm to a correctional employee, youth 486
+services employee, peace officer, firefighter, paramedic, or 487
+other first responder, occurring while the injured person was 488
+engaged in the performance of official duties, unless, subject 489
+to division (H)(1) of this section, the consent of the injured 490
+person or the injured person's guardian has been obtained; 491
+(g) An act of severe violence resulting in serious 492
+physical harm against a correctional employee, youth services 493
+employee, peace officer, firefighter, paramedic, or other first 494
+responder, occurring while the injured person was engaged in the 495
+performance of official duties, unless, subject to division (H) 496
+(1) of this section, the consent of the injured person or the 497
+injured person's guardian has been obtained; 498
+(h) A person's nude body, unless, subject to division (H) 499
+(1) of this section, the person's consent has been obtained; 500
+(i) Protected health information, the identity of a person 501
+in a health care facility who is not the subject of a 502
+correctional, youth services, or law enforcement encounter, or 503
+any other information in a health care facility that could 504
+identify a person who is not the subject of a correctional, 505
+youth services, or law enforcement encounter; 506
+(j) Information that could identify the alleged victim of 507
+a sex offense, menacing by stalking, or domestic violence; 508
+(k) Information, that does not constitute a confidential 509
+law enforcement investigatory record, that could identify a 510
+person who provides sensitive or confidential information to the 511
+
+H. B. No. 314 Page 19
+As Introduced
+department of rehabilitation and correction, the department of 512
+youth services, or a law enforcement agency when the disclosure 513
+of the person's identity or the information provided could 514
+reasonably be expected to threaten or endanger the safety or 515
+property of the person or another person; 516
+(l) Personal information of a person who is not arrested, 517
+cited, charged, or issued a written warning by a peace officer; 518
+(m) Proprietary correctional, youth services, or police 519
+contingency plans or tactics that are intended to prevent crime 520
+and maintain public order and safety; 521
+(n) A personal conversation unrelated to work between 522
+correctional employees, youth services employees, or peace 523
+officers or between a correctional employee, youth services 524
+employee, or peace officer and an employee of a law enforcement 525
+agency; 526
+(o) A conversation between a correctional employee, youth 527
+services employee, or peace officer and a member of the public 528
+that does not concern correctional, youth services, or law 529
+enforcement activities; 530
+(p) The interior of a residence, unless the interior of a 531
+residence is the location of an adversarial encounter with, or a 532
+use of force by, a correctional employee, youth services 533
+employee, or peace officer; 534
+(q) Any portion of the interior of a private business that 535
+is not open to the public, unless an adversarial encounter with, 536
+or a use of force by, a correctional employee, youth services 537
+employee, or peace officer occurs in that location. 538
+As used in division (A)(17) of this section: 539
+
+H. B. No. 314 Page 20
+As Introduced
+"Grievous bodily harm" has the same meaning as in section 540
+5924.120 of the Revised Code. 541
+"Health care facility" has the same meaning as in section 542
+1337.11 of the Revised Code. 543
+"Protected health information" has the same meaning as in 544
+45 C.F.R. 160.103. 545
+"Law enforcement agency" means a government entity that 546
+employs peace officers to perform law enforcement duties. 547
+"Personal information" means any government-issued 548
+identification number, date of birth, address, financial 549
+information, or criminal justice information from the law 550
+enforcement automated data system or similar databases. 551
+"Sex offense" has the same meaning as in section 2907.10 552
+of the Revised Code. 553
+"Firefighter," "paramedic," and "first responder" have the 554
+same meanings as in section 4765.01 of the Revised Code. 555
+(18) "Public defender" means an attorney employed by a 556
+public defender's office or who is selected or appointed 557
+pursuant to section 120.33 of the Revised Code. 558
+(B)(1) Upon request by any person and subject to division 559
+(B)(8) of this section, all public records responsive to the 560
+request shall be promptly prepared and made available for 561
+inspection to the requester at all reasonable times during 562
+regular business hours. Subject to division (B)(8) of this 563
+section, upon request by any person, a public office or person 564
+responsible for public records shall make copies of the 565
+requested public record available to the requester at cost and 566
+within a reasonable period of time. 567
+
+H. B. No. 314 Page 21
+As Introduced
+When considering whether a state or local law enforcement 568
+agency promptly prepared a video record for inspection or 569
+provided a video record for production within a reasonable 570
+period of time, in addition to any other factors, a court shall 571
+consider the time required for a state or local law enforcement 572
+agency to retrieve, download, review, redact, seek legal advice 573
+regarding, and produce the video record. Notwithstanding any 574
+other requirement set forth in Chapter 149. of the Revised Code, 575
+a state or local law enforcement agency may charge a requester 576
+the actual cost associated with preparing a video record for 577
+inspection or production, not to exceed seventy-five dollars per 578
+hour of video produced, nor seven hundred fifty dollars total. 579
+As used in this division, "actual cost," with respect to video 580
+records only, means all costs incurred by the state or local law 581
+enforcement agency in reviewing, blurring or otherwise 582
+obscuring, redacting, uploading, or producing the video records, 583
+including but not limited to the storage medium on which the 584
+record is produced, staff time, and any other relevant overhead 585
+necessary to comply with the request. A state or local law 586
+enforcement agency may include in its public records policy the 587
+requirement that a requester pay the estimated actual cost 588
+before beginning the process of preparing a video record for 589
+inspection or production. Where a state or local law enforcement 590
+agency imposes such a requirement, its obligation to produce a 591
+video or make it available for inspection begins once the 592
+estimated actual cost is paid in full by the requester. A state 593
+or local law enforcement agency shall provide the requester with 594
+the estimated actual cost within five business days of receipt 595
+of the public records request. If the actual cost exceeds the 596
+estimated actual cost, a state or local law enforcement agency 597
+may charge a requester for the difference upon fulfilling a 598
+request for video records if the requester is notified in 599
+
+H. B. No. 314 Page 22
+As Introduced
+advance that the actual cost may be up to twenty per cent higher 600
+than the estimated actual cost. A state or local law enforcement 601
+agency shall not charge a requester a difference that exceeds 602
+twenty per cent of the estimated actual cost. 603
+If a public record contains information that is exempt 604
+from the duty to permit public inspection or to copy the public 605
+record, the public office or the person responsible for the 606
+public record shall make available all of the information within 607
+the public record that is not exempt. When making that public 608
+record available for public inspection or copying that public 609
+record, the public office or the person responsible for the 610
+public record shall notify the requester of any redaction or 611
+make the redaction plainly visible. A redaction shall be deemed 612
+a denial of a request to inspect or copy the redacted 613
+information, except if federal or state law authorizes or 614
+requires a public office to make the redaction. When the auditor 615
+of state receives a request to inspect or to make a copy of a 616
+record that was provided to the auditor of state for purposes of 617
+an audit, but the original public office has asserted to the 618
+auditor of state that the record is not a public record, the 619
+auditor of state may handle the requests by directing the 620
+requestor to the original public office that provided the record 621
+to the auditor of state. 622
+(2)(2)(a) To facilitate broader access to public records, 623
+a public office or the person responsible for public records 624
+shall organize and maintain public records in a manner that they 625
+can be made available for inspection or copying in accordance 626
+with division (B) of this section. A public office also shall 627
+have available a copy of its current records retention schedule 628
+at a location readily available to the public. 629
+
+H. B. No. 314 Page 23
+As Introduced
+(b) If a requester makes an ambiguous or overly broad 630
+request or has difficulty in making a request for copies or 631
+inspection of public records under this section such that the 632
+public office or the person responsible for the requested public 633
+record cannot reasonably identify what public records are being 634
+requested, the public office or the person responsible for the 635
+requested public record may deny the request but shall provide 636
+the requester with an opportunity to revise the request by 637
+informing the requester of the manner in which records are 638
+maintained by the public office and accessed in the ordinary 639
+course of the public office's or person's duties. 640
+(c)(i) If a requester submits multiple related or 641
+unrelated requests for copying or inspection of public records 642
+to the same public office or person responsible for a public 643
+record and, based on the volume or the repeated nature of the 644
+requests, the public office or person has reason to believe that 645
+the requests are intended to harass the public office or person 646
+or to disrupt the essential functions of the public office or 647
+person, the public office or person may bring an action in the 648
+court of common pleas of the county in which the public office 649
+or person is located requesting the court to limit or deny the 650
+requests. 651
+(ii) The action shall proceed as any other civil action, 652
+and the Ohio Rules of Civil Procedure apply to the action. The 653
+court shall provide the requester with notice of the action and 654
+an opportunity to be heard. While the action or any appeal from 655
+a final order of the court is pending, the requirement that the 656
+public office or person respond to the requests under this 657
+section is tolled. 658
+(iii) If the court determines by a preponderance of the 659
+
+H. B. No. 314 Page 24
+As Introduced
+evidence that the requests are intended to harass the public 660
+office or person or to disrupt the essential functions of the 661
+public office or person, the court may limit or deny the 662
+requests. If the court determines by a preponderance of the 663
+evidence that the requester is likely to submit future requests 664
+for copying or inspection of public records to that public 665
+office or person for the purpose of harassing the public office 666
+or person or disrupting the essential functions of the public 667
+office or person, the court also may issue an order that limits 668
+or denies any such future requests submitted to the public 669
+office or person by that requester. An order issued under this 670
+division remains in force indefinitely unless the order provides 671
+for its expiration after a specified period of time. 672
+(iv) Division (B)(2)(c) of this section does not apply to 673
+a requester who is any of the following: 674
+(I) A journalist as defined in division (B)(9)(c) of this 675
+section; 676
+(II) A pro se litigant who requests records pertaining to 677
+litigation in which the pro se litigant is a named party; 678
+(III) A state agency, including a public college or 679
+university or subsidiary of a public college or university, as 680
+well as a public defender or other government attorney, or the 681
+staff or agent of a public defender or government attorney. This 682
+exemption does not apply to a public defender whose request for 683
+records is not related to a matter that is within the scope of 684
+the public defender's employment with a public defender's office 685
+or selection or appointment under section 120.33 of the Revised 686
+Code. 687
+(v) No court shall limit, deny, or restrict the access of 688
+
+H. B. No. 314 Page 25
+As Introduced
+any requester listed under division (B)(2)(c)(iv) of this 689
+section to any public record under division (B)(2)(c) of this 690
+section. 691
+(vi) A public office or person responsible for public 692
+records shall not bring an action under division (B)(2)(c)(i) of 693
+this section against a requester who the public office or person 694
+knows or has reason to believe is a public defender unless the 695
+requester fails to provide sufficient evidence in response to a 696
+request for evidence made pursuant to division (B)(11) of this 697
+section within five business days of the transmission of the 698
+request for evidence. 699
+(3) If a request is ultimately denied, in part or in 700
+whole, the public office or the person responsible for the 701
+requested public record shall provide the requester with an 702
+explanation, including legal authority, setting forth why the 703
+request was denied. If the initial request was provided in 704
+writing, the explanation also shall be provided to the requester 705
+in writing. The explanation shall not preclude the public office 706
+or the person responsible for the requested public record from 707
+relying upon additional reasons or legal authority in defending 708
+an action commenced under division (C) of this section. 709
+(4) Unless specifically required or authorized by state or 710
+federal law or in accordance with division (B) of this section, 711
+no public office or person responsible for public records may 712
+limit or condition the availability of public records by 713
+requiring disclosure of the requester's identity or the intended 714
+use of the requested public record. Any requirement that the 715
+requester disclose the requester's identity or the intended use 716
+of the requested public record constitutes a denial of the 717
+request. 718
+
+H. B. No. 314 Page 26
+As Introduced
+(5) A public office or person responsible for public 719
+records may ask a requester to make the request in writing, may 720
+ask for the requester's identity, and may inquire about the 721
+intended use of the information requested, but may do so only 722
+after disclosing to the requester that a written request is not 723
+mandatory, that the requester may decline to reveal the 724
+requester's identity or the intended use, and when a written 725
+request or disclosure of the identity or intended use would 726
+benefit the requester by enhancing the ability of the public 727
+office or person responsible for public records to identify, 728
+locate, or deliver the public records sought by the requester. 729
+(6)(6)(a) If any person requests a copy of a public record 730
+in accordance with division (B) of this section, the public 731
+office or person responsible for the public record may require 732
+the requester to pay in advance the cost involved in providing 733
+the copy of the public record in accordance with the choice made 734
+by the requester under this division. If the request is 735
+voluminous and it is therefore reasonable to do so, the public 736
+office or person responsible for the public record may engage a 737
+private contractor to respond to the request, including making 738
+any required redactions, on behalf of the public office or 739
+person. The public office or person responsible for the public 740
+record may include the cost of the contractor's services in 741
+calculating the cost involved in providing the copy of the 742
+public record. 743
+(b) The public office or the person responsible for the 744
+public record shall permit the requester to choose to have the 745
+public record duplicated upon paper, upon the same medium upon 746
+which the public office or person responsible for the public 747
+record keeps it, or upon any other medium upon which the public 748
+office or person responsible for the public record determines 749
+
+H. B. No. 314 Page 27
+As Introduced
+that it reasonably can be duplicated as an integral part of the 750
+normal operations of the public office or person responsible for 751
+the public record. When the requester makes a choice under this 752
+division, the public office or person responsible for the public 753
+record shall provide a copy of it in accordance with the choice 754
+made by the requester. Nothing 755
+(c) Nothing in this section requires a public office or 756
+person responsible for the public record to allow the requester 757
+of a copy of the public record to make the copies of the public 758
+record. 759
+(7)(a) Upon a request made in accordance with division (B) 760
+of this section and subject to division (B)(6) of this section, 761
+a public office or person responsible for public records shall 762
+transmit a copy of a public record to any person by United 763
+States mail or by any other means of delivery or transmission 764
+within a reasonable period of time after receiving the request 765
+for the copy. The public office or person responsible for the 766
+public record may require the person making the request to pay 767
+in advance the cost of postage if the copy is transmitted by 768
+United States mail or the cost of delivery if the copy is 769
+transmitted other than by United States mail, and to pay in 770
+advance the costs incurred for other supplies used in the 771
+mailing, delivery, or transmission. 772
+(b) Any public office may adopt a policy and procedures 773
+that it will follow in transmitting, within a reasonable period 774
+of time after receiving a request, copies of public records by 775
+United States mail or by any other means of delivery or 776
+transmission pursuant to division (B)(7) of this section. A 777
+public office that adopts a policy and procedures under division 778
+(B)(7) of this section shall comply with them in performing its 779
+
+H. B. No. 314 Page 28
+As Introduced
+duties under that division. 780
+(c) In any policy and procedures adopted under division 781
+(B)(7) of this section: 782
+(i) A public office may limit the number of records 783
+requested by a person that the office will physically deliver by 784
+United States mail or by another delivery service to ten per 785
+month, unless the person certifies to the office in writing that 786
+the person does not intend to use or forward the requested 787
+records, or the information contained in them, for commercial 788
+purposes; 789
+(ii) A public office that chooses to provide some or all 790
+of its public records on a web site that is fully accessible to 791
+and searchable by members of the public at all times, other than 792
+during acts of God outside the public office's control or 793
+maintenance, and that charges no fee to search, access, 794
+download, or otherwise receive records provided on the web site, 795
+may limit to ten per month the number of records requested by a 796
+person that the office will deliver in a digital format, unless 797
+the requested records are not provided on the web site and 798
+unless the person certifies to the office in writing that the 799
+person does not intend to use or forward the requested records, 800
+or the information contained in them, for commercial purposes. 801
+(iii) For purposes of division (B)(7) of this section, 802
+"commercial" shall be narrowly construed and does not include 803
+reporting or gathering news, reporting or gathering information 804
+to assist citizen oversight or understanding of the operation or 805
+activities of government, or nonprofit educational research. 806
+(8) A public office or person responsible for public 807
+records is not required to permit a person who to inspect or 808
+
+H. B. No. 314 Page 29
+As Introduced
+obtain a copy of a public record if either of the following 809
+apply: 810
+(a) The person is incarcerated pursuant to a criminal 811
+conviction or a juvenile adjudication and requests to inspect or 812
+to obtain a copy of any public record concerning a criminal 813
+investigation or prosecution or concerning what would be a 814
+criminal investigation or prosecution if the subject of the 815
+investigation or prosecution were an adult, unless the request 816
+to inspect or to obtain a copy of the record is for the purpose 817
+of acquiring information that is subject to release as a public 818
+record under this section and the judge who imposed the sentence 819
+or made the adjudication with respect to the person, or the 820
+judge's successor in office, finds that the information sought 821
+in the public record is necessary to support what appears to be 822
+a justiciable claim of the person. As used in this division, 823
+"public record concerning a criminal investigation or 824
+prosecution or concerning what would be a criminal investigation 825
+or prosecution if the subject of the investigation were an 826
+adult" includes, but is not limited to, personnel files and 827
+payroll and attendance records of designated public service 828
+workers. 829
+(b) A court order issued under division (B)(2)(c) of this 830
+section permits the public office or the person responsible for 831
+public records to deny the request. 832
+(9)(a) Upon written request made and signed by a 833
+journalist, a public office, or person responsible for public 834
+records, having custody of the records of the agency employing a 835
+specified designated public service worker shall disclose to the 836
+journalist the address of the actual personal residence of the 837
+designated public service worker and, if the designated public 838
+
+H. B. No. 314 Page 30
+As Introduced
+service worker's spouse, former spouse, or child is employed by 839
+a public office, the name and address of the employer of the 840
+designated public service worker's spouse, former spouse, or 841
+child, and any past, current, and future work schedules of the 842
+designated public service worker. The request shall include the 843
+journalist's name and title and the name and address of the 844
+journalist's employer and shall state that disclosure of the 845
+information sought would be in the public interest. 846
+(b) Division (B)(9)(a) of this section also applies to 847
+journalist requests for: 848
+(i) Customer information maintained by a municipally owned 849
+or operated public utility, other than social security numbers 850
+and any private financial information such as credit reports, 851
+payment methods, credit card numbers, and bank account 852
+information; 853
+(ii) Information about minors involved in a school vehicle 854
+accident as provided in division (A)(1)(gg) of this section, 855
+other than personal information as defined in section 149.45 of 856
+the Revised Code; 857
+(iii) A request form submitted to a public office under 858
+section 149.45 of the Revised Code; 859
+(iv) An affidavit submitted under section 319.28 of the 860
+Revised Code. 861
+(c) As used in division (B)(9) of this section, 862
+"journalist" means a person engaged in, connected with, or 863
+employed by any news medium, including a newspaper, magazine, 864
+press association, news agency, or wire service, a radio or 865
+television station, or a similar medium, for the purpose of 866
+gathering, processing, transmitting, compiling, editing, or 867
+
+H. B. No. 314 Page 31
+As Introduced
+disseminating information for the general public. 868
+(10) Upon a request made by a victim, victim's attorney, 869
+or victim's representative, as that term is used in section 870
+2930.02 of the Revised Code, a public office or person 871
+responsible for public records shall transmit a copy of a 872
+depiction of the victim as described in division (A)(1)(ii) of 873
+this section to the victim, victim's attorney, or victim's 874
+representative. 875
+(11) A public office or person responsible for public 876
+records may require a requester who the public office or person 877
+knows or has reason to believe is a public defender to provide 878
+documentary evidence sufficient to prove that the requested 879
+records relate to a matter that is within the scope of the 880
+requester's employment with a public defender's office or 881
+selection or appointment under section 120.33 of the Revised 882
+Code. A public office or person responsible for public records 883
+shall not require a requester who the public office or person 884
+knows or has reason to believe is a public defender to provide, 885
+nor condition the availability of public records on the 886
+provision of, materials protected by the attorney-client 887
+privilege or attorney work product privilege in response to a 888
+request for evidence made pursuant to this division. 889
+(C)(1) If a person allegedly is aggrieved by the failure 890
+of a public office or the person responsible for public records 891
+to promptly prepare a public record and to make it available to 892
+the person for inspection in accordance with division (B) of 893
+this section or by any other failure of a public office or the 894
+person responsible for public records to comply with an 895
+obligation in accordance with division (B) of this section, the 896
+person allegedly aggrieved may serve pursuant to Rule 4 of the 897
+
+H. B. No. 314 Page 32
+As Introduced
+Ohio Rules of Civil Procedure a complaint, on a form prescribed 898
+by the clerk of the court of claims, to the public office or 899
+person responsible for public records allegedly responsible for 900
+the alleged failure. Upon receipt of the complaint of the person 901
+allegedly aggrieved, the public office or person responsible for 902
+public records has three business days to cure or otherwise 903
+address the failure alleged in the complaint. The person 904
+allegedly aggrieved shall not file a complaint with a court or 905
+commence a mandamus action under this section within the three- 906
+day period. Upon the expiration of the three-day period, the 907
+person allegedly aggrieved may, subject to the requirements of 908
+division (C)(2) of this section, do only one of the following, 909
+and not both: 910
+(a) File a complaint with the clerk of the court of claims 911
+or the clerk of the court of common pleas under section 2743.75 912
+of the Revised Code; 913
+(b) Commence a mandamus action to obtain a judgment that 914
+orders the public office or the person responsible for the 915
+public record to comply with division (B) of this section, that 916
+awards court costs and reasonable attorney's fees to the person 917
+that instituted the mandamus action, and, if applicable, that 918
+includes an order fixing statutory damages under division (C)(3) 919
+of this section. The mandamus action may be commenced in the 920
+court of common pleas of the county in which division (B) of 921
+this section allegedly was not complied with, in the supreme 922
+court pursuant to its original jurisdiction under Section 2 of 923
+Article IV, Ohio Constitution, or in the court of appeals for 924
+the appellate district in which division (B) of this section 925
+allegedly was not complied with pursuant to its original 926
+jurisdiction under Section 3 of Article IV, Ohio Constitution. 927
+
+H. B. No. 314 Page 33
+As Introduced
+(2) Upon filing a complaint or mandamus action with a 928
+court under divisions (C)(1)(a) or (b) of this section, a person 929
+allegedly aggrieved shall file with the court, in conjunction 930
+with the person's complaint or petition, a written affirmation 931
+stating that the person properly transmitted a complaint to the 932
+public office or person responsible for public records, the 933
+failure alleged in the complaint has not been cured or otherwise 934
+resolved to the person's satisfaction, and that the complaint 935
+was transmitted to the public office or person responsible for 936
+public records at least three business days before the filing of 937
+the suit. If the person fails to file an affirmation pursuant to 938
+this division, the suit shall be dismissed. 939
+(3) If a requester transmits a written request by hand 940
+delivery, electronic submission, or certified mail to inspect or 941
+receive copies of any public record in a manner that fairly 942
+describes the public record or class of public records to the 943
+public office or person responsible for the requested public 944
+records, except as otherwise provided in this section, the 945
+requester shall be entitled to recover the amount of statutory 946
+damages set forth in this division if a court determines that 947
+the public office or the person responsible for public records 948
+failed to comply with an obligation in accordance with division 949
+(B) of this section. Statutory damages are not available 950
+pursuant to this section to a person committed to the custody of 951
+the department of rehabilitation and correction or the United 952
+States bureau of prisons, or a child committed to the department 953
+of youth services as permitted in Chapter 2152. of the Revised 954
+Code. 955
+The amount of statutory damages shall be fixed at one 956
+hundred dollars for each business day during which the public 957
+office or person responsible for the requested public records 958
+
+H. B. No. 314 Page 34
+As Introduced
+failed to comply with an obligation in accordance with division 959
+(B) of this section, beginning with the day on which the 960
+requester files a mandamus action to recover statutory damages, 961
+up to a maximum of one thousand dollars. The award of statutory 962
+damages shall not be construed as a penalty, but as compensation 963
+for injury arising from lost use of the requested information. 964
+The existence of this injury shall be conclusively presumed. The 965
+award of statutory damages shall be in addition to all other 966
+remedies authorized by this section. 967
+The court may reduce an award of statutory damages or not 968
+award statutory damages if the court determines both of the 969
+following: 970
+(a) That, based on the ordinary application of statutory 971
+law and case law as it existed at the time of the conduct or 972
+threatened conduct of the public office or person responsible 973
+for the requested public records that allegedly constitutes a 974
+failure to comply with an obligation in accordance with division 975
+(B) of this section and that was the basis of the mandamus 976
+action, a well-informed public office or person responsible for 977
+the requested public records reasonably would believe that the 978
+conduct or threatened conduct of the public office or person 979
+responsible for the requested public records did not constitute 980
+a failure to comply with an obligation in accordance with 981
+division (B) of this section; 982
+(b) That a well-informed public office or person 983
+responsible for the requested public records reasonably would 984
+believe that the conduct or threatened conduct of the public 985
+office or person responsible for the requested public records 986
+would serve the public policy that underlies the authority that 987
+is asserted as permitting that conduct or threatened conduct. 988
+
+H. B. No. 314 Page 35
+As Introduced
+(4) In a mandamus action filed under division (C)(1) of 989
+this section, the following apply: 990
+(a)(i) If the court orders the public office or the person 991
+responsible for the public record to comply with division (B) of 992
+this section, the court shall determine and award to the relator 993
+all court costs, which shall be construed as remedial and not 994
+punitive. 995
+(ii) If the court makes a determination described in 996
+division (C)(4)(b)(iii) of this section, the court shall 997
+determine and award to the relator all court costs, which shall 998
+be construed as remedial and not punitive. 999
+(b) If the court renders a judgment that orders the public 1000
+office or the person responsible for the public record to comply 1001
+with division (B) of this section or if the court determines any 1002
+of the following, the court may award reasonable attorney's fees 1003
+to the relator, subject to division (C)(5) of this section: 1004
+(i) The public office or the person responsible for the 1005
+public records failed to respond affirmatively or negatively to 1006
+the public records request in accordance with the time allowed 1007
+under division (B) of this section. 1008
+(ii) The public office or the person responsible for the 1009
+public records promised to permit the relator to inspect or 1010
+receive copies of the public records requested within a 1011
+specified period of time but failed to fulfill that promise 1012
+within that specified period of time. 1013
+(iii) The public office or the person responsible for the 1014
+public records acted in bad faith when the office or person 1015
+voluntarily made the public records available to the relator for 1016
+the first time after the relator commenced the mandamus action, 1017
+
+H. B. No. 314 Page 36
+As Introduced
+but before the court issued any order concluding whether or not 1018
+the public office or person was required to comply with division 1019
+(B) of this section. No discovery may be conducted on the issue 1020
+of the alleged bad faith of the public office or person 1021
+responsible for the public records. This division shall not be 1022
+construed as creating a presumption that the public office or 1023
+the person responsible for the public records acted in bad faith 1024
+when the office or person voluntarily made the public records 1025
+available to the relator for the first time after the relator 1026
+commenced the mandamus action, but before the court issued any 1027
+order described in this division. 1028
+(c) The court shall not award attorney's fees to the 1029
+relator if the court determines both of the following: 1030
+(i) That, based on the ordinary application of statutory 1031
+law and case law as it existed at the time of the conduct or 1032
+threatened conduct of the public office or person responsible 1033
+for the requested public records that allegedly constitutes a 1034
+failure to comply with an obligation in accordance with division 1035
+(B) of this section and that was the basis of the mandamus 1036
+action, a well-informed public office or person responsible for 1037
+the requested public records reasonably would believe that the 1038
+conduct or threatened conduct of the public office or person 1039
+responsible for the requested public records did not constitute 1040
+a failure to comply with an obligation in accordance with 1041
+division (B) of this section; 1042
+(ii) That a well-informed public office or person 1043
+responsible for the requested public records reasonably would 1044
+believe that the conduct or threatened conduct of the public 1045
+office or person responsible for the requested public records 1046
+would serve the public policy that underlies the authority that 1047
+
+H. B. No. 314 Page 37
+As Introduced
+is asserted as permitting that conduct or threatened conduct. 1048
+(5) All of the following apply to any award of reasonable 1049
+attorney's fees awarded under division (C)(4)(b) of this 1050
+section: 1051
+(a) The fees shall be construed as remedial and not 1052
+punitive. 1053
+(b) The fees awarded shall not exceed the total of the 1054
+reasonable attorney's fees incurred before the public record was 1055
+made available to the relator and the fees described in division 1056
+(C)(5)(c) of this section. 1057
+(c) Reasonable attorney's fees shall include reasonable 1058
+fees incurred to produce proof of the reasonableness and amount 1059
+of the fees and to otherwise litigate entitlement to the fees. 1060
+(d) The court may reduce the amount of fees awarded if the 1061
+court determines that, given the factual circumstances involved 1062
+with the specific public records request, an alternative means 1063
+should have been pursued to more effectively and efficiently 1064
+resolve the dispute that was subject to the mandamus action 1065
+filed under division (C)(1) of this section. 1066
+(6) If the court does not issue a writ of mandamus under 1067
+division (C) of this section and the court determines at that 1068
+time that the bringing of the mandamus action was frivolous 1069
+conduct as defined in division (A) of section 2323.51 of the 1070
+Revised Code, the court may award to the public office all court 1071
+costs, expenses, and reasonable attorney's fees, as determined 1072
+by the court. 1073
+(D) Chapter 1347. of the Revised Code does not limit the 1074
+provisions of this section. 1075
+
+H. B. No. 314 Page 38
+As Introduced
+(E)(1) To ensure that all employees of public offices are 1076
+appropriately educated about a public office's obligations under 1077
+division (B) of this section, all elected officials or their 1078
+appropriate designees shall attend training approved by the 1079
+attorney general as provided in section 109.43 of the Revised 1080
+Code. A future official may satisfy the requirements of this 1081
+division by attending the training before taking office, 1082
+provided that the future official may not send a designee in the 1083
+future official's place. 1084
+(2) All public offices shall adopt a public records policy 1085
+in compliance with this section for responding to public records 1086
+requests. In adopting a public records policy under this 1087
+division, a public office may obtain guidance from the model 1088
+public records policy developed and provided to the public 1089
+office by the attorney general under section 109.43 of the 1090
+Revised Code. Except as otherwise provided in this section, the 1091
+policy may not limit the number of public records that the 1092
+public office will make available to a single person, may not 1093
+limit the number of public records that it will make available 1094
+during a fixed period of time, and may not establish a fixed 1095
+period of time before it will respond to a request for 1096
+inspection or copying of public records, unless that period is 1097
+less than eight hours. 1098
+The public office shall distribute the public records 1099
+policy adopted by the public office under this division to the 1100
+employee of the public office who is the records custodian or 1101
+records manager or otherwise has custody of the records of that 1102
+office. The public office shall require that employee to 1103
+acknowledge receipt of the copy of the public records policy. 1104
+The public office shall create a poster that describes its 1105
+public records policy and shall post the poster in a conspicuous 1106
+
+H. B. No. 314 Page 39
+As Introduced
+place in the public office and in all locations where the public 1107
+office has branch offices. The public office may post its public 1108
+records policy on the internet web site of the public office if 1109
+the public office maintains an internet web site. A public 1110
+office that has established a manual or handbook of its general 1111
+policies and procedures for all employees of the public office 1112
+shall include the public records policy of the public office in 1113
+the manual or handbook. 1114
+(F)(1) The bureau of motor vehicles may adopt rules 1115
+pursuant to Chapter 119. of the Revised Code to reasonably limit 1116
+the number of bulk commercial special extraction requests made 1117
+by a person for the same records or for updated records during a 1118
+calendar year. The rules may include provisions for charges to 1119
+be made for bulk commercial special extraction requests for the 1120
+actual cost of the bureau, plus special extraction costs, plus 1121
+ten per cent. The bureau may charge for expenses for redacting 1122
+information, the release of which is prohibited by law. 1123
+(2) As used in division (F)(1) of this section: 1124
+(a) "Actual cost" means the cost of depleted supplies, 1125
+records storage media costs, actual mailing and alternative 1126
+delivery costs, or other transmitting costs, and any direct 1127
+equipment operating and maintenance costs, including actual 1128
+costs paid to private contractors for copying services. 1129
+(b) "Bulk commercial special extraction request" means a 1130
+request for copies of a record for information in a format other 1131
+than the format already available, or information that cannot be 1132
+extracted without examination of all items in a records series, 1133
+class of records, or database by a person who intends to use or 1134
+forward the copies for surveys, marketing, solicitation, or 1135
+resale for commercial purposes. "Bulk commercial special 1136
+
+H. B. No. 314 Page 40
+As Introduced
+extraction request" does not include a request by a person who 1137
+gives assurance to the bureau that the person making the request 1138
+does not intend to use or forward the requested copies for 1139
+surveys, marketing, solicitation, or resale for commercial 1140
+purposes. 1141
+(c) "Commercial" means profit-seeking production, buying, 1142
+or selling of any good, service, or other product. 1143
+(d) "Special extraction costs" means the cost of the time 1144
+spent by the lowest paid employee competent to perform the task, 1145
+the actual amount paid to outside private contractors employed 1146
+by the bureau, or the actual cost incurred to create computer 1147
+programs to make the special extraction. "Special extraction 1148
+costs" include any charges paid to a public agency for computer 1149
+or records services. 1150
+(3) For purposes of divisions (F)(1) and (2) of this 1151
+section, "surveys, marketing, solicitation, or resale for 1152
+commercial purposes" shall be narrowly construed and does not 1153
+include reporting or gathering news, reporting or gathering 1154
+information to assist citizen oversight or understanding of the 1155
+operation or activities of government, or nonprofit educational 1156
+research. 1157
+(G) A request by a defendant, counsel of a defendant, or 1158
+any agent of a defendant in a criminal action that public 1159
+records related to that action be made available under this 1160
+section shall be considered a demand for discovery pursuant to 1161
+the Criminal Rules, except to the extent that the Criminal Rules 1162
+plainly indicate a contrary intent. The defendant, counsel of 1163
+the defendant, or agent of the defendant making a request under 1164
+this division shall serve a copy of the request on the 1165
+prosecuting attorney, director of law, or other chief legal 1166
+
+H. B. No. 314 Page 41
+As Introduced
+officer responsible for prosecuting the action. 1167
+(H)(1) Any portion of a body-worn camera or dashboard 1168
+camera recording described in divisions (A)(17)(b) to (h) of 1169
+this section may be released by consent of the subject of the 1170
+recording or a representative of that person, as specified in 1171
+those divisions, only if either of the following applies: 1172
+(a) The recording will not be used in connection with any 1173
+probable or pending criminal proceedings; 1174
+(b) The recording has been used in connection with a 1175
+criminal proceeding that was dismissed or for which a judgment 1176
+has been entered pursuant to Rule 32 of the Rules of Criminal 1177
+Procedure, and will not be used again in connection with any 1178
+probable or pending criminal proceedings. 1179
+(2) If a public office denies a request to release a 1180
+restricted portion of a body-worn camera or dashboard camera 1181
+recording, as defined in division (A)(17) of this section, any 1182
+person may file a mandamus action pursuant to this section or a 1183
+complaint with the clerk of the court of claims pursuant to 1184
+section 2743.75 of the Revised Code, requesting the court to 1185
+order the release of all or portions of the recording. If the 1186
+court considering the request determines that the filing 1187
+articulates by clear and convincing evidence that the public 1188
+interest in the recording substantially outweighs privacy 1189
+interests and other interests asserted to deny release, the 1190
+court shall order the public office to release the recording. 1191
+Section 2. That existing section 149.43 of the Revised 1192
+Code is hereby repealed. 1193
+Section 3. Section 149.43 of the Revised Code is presented 1194
+in this act as a composite of the section as amended by H.B. 1195
+
+H. B. No. 314 Page 42
+As Introduced
+265, H.B. 315, S.B. 29, and S.B. 109, all of the 135th General 1196
+Assembly. The General Assembly, applying the principle stated in 1197
+division (B) of section 1.52 of the Revised Code that amendments 1198
+are to be harmonized and reconciled if reasonably capable of 1199
+simultaneous operation, finds that the composite is the 1200
+resulting version of the section in effect prior to the 1201
+effective date of the section as presented in this act. 1202
+
+[DELETED: nH   . :    1 1-1 1 1 1 1 1 1 1 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2;2 2 2 2 2 2;2 2;2]
+[DELETED: 4  2;2 2 2 2 2 2;2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3:3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 4 4 4 4 4 4 4 4 4 4 4)4 4 4 4 4 4)4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 4 )4 4 4 4 4 4 4 4 4 4 4 4 4)4 4 4)4 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6.6 6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6 6 6 6.6 6:6 6;6 6;6 6 6 6 6 6 6 6 6.6 6]
+[DELETED: 4  6 6.6 6 6 6 6 6 6 6.6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8]
+[DELETED: 4  8:8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8.8 8 8 8 8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8;8 8;8 8.8 8 8 8 8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8 8 8 8 8 8 8]
+[DELETED: 4  8 8 9 9 9 9 9 9-9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9.9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9.9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9]
+[DELETED: 4  9 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1 1.1 1 1]
+[DELETED: 4  1 1 1 1 1 1.1]

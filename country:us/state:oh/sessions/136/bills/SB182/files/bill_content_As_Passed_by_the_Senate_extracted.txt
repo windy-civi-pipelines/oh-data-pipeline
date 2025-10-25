@@ -1,0 +1,63 @@
+Title: Cosponsors: Senators Antonio, Cirino, Craig, DeMora, Gavarone, Hicks-Hudson,
+Official Title: Cosponsors: Senators Antonio, Cirino, Craig, DeMora, Gavarone, Hicks-Hudson,
+Number of Sections: 2
+Source: versions - As Passed by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 182
+2025-2026
+Senator Patton
+Johnson, Landis, Lang, Liston, O'Brien, Reineke, Romanchuk, Schaffer, Smith,
+Timken, Weinstein, Wilkin
+To enact section 5534.926 of the Revised Code to 1
+designate a portion of State Route 10 in 2
+Cleveland as "John E. Gallagher Way." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5534.926 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5534.926. In addition to any other name prescribed i n 6
+the Revised Code or otherwise, the northeastbound and 7
+southwestbound lanes of state route number ten between west 8
+forty-seventh street and west fiftieth street, in the municipal 9
+corporation of Cleveland in Cuyahoga county, shall be known as 10
+the "John E. Gallagher Way." 11
+The director of transportation may erect suitable markers 12
+along the highway indicating its name. 13
+[DELETED: nS  " :     1"1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 182
+2025-2026
+Senator Patton
+Cosponsors: Senators Antonio, Cirino, Craig, DeMora, Gavarone, Hicks-Hudson,
+Johnson, Landis, Lang, Liston, O'Brien, Reineke, Romanchuk, Schaffer, Smith,
+Timken, Weinstein, Wilkin
+To enact section 5534.926 of the Revised Code to 1
+designate a portion of State Route 10 in 2
+Cleveland as "John E. Gallagher Way." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5534.926 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5534.926. In addition to any other name prescribed i n 6
+the Revised Code or otherwise, the northeastbound and 7
+southwestbound lanes of state route number ten between west 8
+forty-seventh street and west fiftieth street, in the municipal 9
+corporation of Cleveland in Cuyahoga county, shall be known as 10
+the "John E. Gallagher Way." 11
+The director of transportation may erect suitable markers 12
+along the highway indicating its name. 13
+
+[DELETED: nS  " :     1"1 1.1]

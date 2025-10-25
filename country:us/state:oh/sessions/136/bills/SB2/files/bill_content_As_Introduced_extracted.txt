@@ -1,0 +1,47 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 2
+2025-2026
+Senator Reineke
+It is the intent of the General Assembly to provide 1
+increased power generation and improved 2
+affordability and reliability for Ohio's 3
+electric grid. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. The General Assembly declares its intent to 5
+provide increased power generation and improved affordability 6
+and reliability for Ohio's electric grid. 7
+[DELETED: nS BILe  .  .]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 2
+2025-2026
+Senator Reineke
+A BILL
+It is the intent of the General Assembly to provide 1
+increased power generation and improved 2
+affordability and reliability for Ohio's 3
+electric grid. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. The General Assembly declares its intent to 5
+provide increased power generation and improved affordability 6
+and reliability for Ohio's electric grid. 7
+
+[DELETED: nS BILe  .  .]

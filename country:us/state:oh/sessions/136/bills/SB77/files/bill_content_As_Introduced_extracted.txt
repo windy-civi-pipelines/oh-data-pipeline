@@ -1,0 +1,63 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 77
+2025-2026
+Senators Hicks-Hudson, Smith
+Cosponsors: Senators Weinstein, Craig
+To enact section 4112.041 of the Revised Code to 1
+require the Ohio Civil Rights Commission to 2
+establish a system for individuals to 3
+anonymously report wage discrimination. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 4112.041 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 4112.041. The Ohio civil rights commission shall 7
+establish and maintain a system for an individual to report 8
+discrimination in the payment of wages by an employer in 9
+violation of division (A) of section 4112.02 of the Revised 10
+Code. The system shall allow an individual to make an anonymous 11
+complaint through a toll-free telephone number or the web site 12
+maintained by the commission. The commission shall review all 13
+complaints received through this system in a timely manner. 14
+[DELETED: nS BIL   . :    1 1 1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 77
+2025-2026
+Senators Hicks-Hudson, Smith
+Cosponsors: Senators Weinstein, Craig
+A BILL
+To enact section 4112.041 of the Revised Code to 1
+require the Ohio Civil Rights Commission to 2
+establish a system for individuals to 3
+anonymously report wage discrimination. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 4112.041 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 4112.041. The Ohio civil rights commission shall 7
+establish and maintain a system for an individual to report 8
+discrimination in the payment of wages by an employer in 9
+violation of division (A) of section 4112.02 of the Revised 10
+Code. The system shall allow an individual to make an anonymous 11
+complaint through a toll-free telephone number or the web site 12
+maintained by the commission. The commission shall review all 13
+complaints received through this system in a timely manner. 14
+
+[DELETED: nS BIL   . :    1 1 1 1.1]

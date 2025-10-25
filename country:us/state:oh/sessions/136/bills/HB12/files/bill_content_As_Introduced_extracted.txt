@@ -1,0 +1,589 @@
+Title: Cosponsors: Representatives Barhorst, Fischer, Lorenz, Williams, Dean, Miller,
+Official Title: Cosponsors: Representatives Barhorst, Fischer, Lorenz, Williams, Dean, Miller,
+Number of Sections: 8
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 12
+2025-2026
+Representatives Gross, Swearingen
+K., Hall, T., Lear, King, Mullins, Creech, Ferguson, Click, Klopfenstein, Fowler
+Arthur, Pizzulli, Stephens, Mathews, T., Deeter, Demetriou, Newman, Teska, Ray,
+Miller, M., Claggett, Willis, Thomas, C., Schmidt, McClain, Thomas, D., Salvo,
+Workman, John, Richardson, Johnson, Holmes, Young, Mathews, A., Hiner
+A BILL
+To enact section 3792.08 of the Revised Code 1
+regarding prescribing, dispensing, and 2
+administering drugs and to name this act the 3
+Jeff, Dave, and Angie Patient Right to Try Act. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 3792.08 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 3792.08. (A) As used in this section : 7
+(1) "Health-related licensing board" has the same meaning 8
+as in section 3719.062 of the Revised Code. 9
+(2) "Hospital" has the same meaning as in section 3722.01 10
+of the Revised Code and includes a hospital owned or operated by 11
+the United States department of veterans affairs. 12
+(3) "In-house prescriber" means a prescriber who is 13
+employed or contracted by the hospital or inpatient facility 14
+H. B. No. 12 Page 2
+As Introduced
+where a patient is being treated. 15
+(4) "Inpatient facility" means either or both of the 16
+following: 17
+(a) A skilled nursing facility as defined in section 18
+
+Section 3:
+5165.01 of the Revised Code; 19
+(b) A freestanding inpatient rehabilitation facility 20
+licensed under section 3702.30 of the Revised Code. 21
+(5) "Off-label use" means the use of a drug that meets 22
+both of the following: 23
+(a) The drug is approved by the United States food and 24
+drug administration to treat or prevent a disease, illness, or 25
+infection, but prescribed for or used by a patient to treat or 26
+prevent another disease, illness, or infection. 27
+(b) The drug is legal for use in this state. 28
+(6) "Patient's personal representative" has the same 29
+meaning as in section 3701.74 of the Revised Code. 30
+(7) "Pharmacist" means an individual who holds a license 31
+issued under section 4729.08 of the Revised Code authorizing the 32
+individual to practice pharmacy. 33
+(8) "Prescriber" has the same meaning as in section 34
+
+Section 4:
+4729.01 of the Revised Code, except it does not include a 35
+veterinarian licensed under Chapter 4741. of the Revised Code. 36
+(9) "State agency" means any organized agency, board, 37
+body, commission, department, institution, office, or other 38
+entity established by the laws of the state for the exercise of 39
+any function of state government. "State agency" does not 40
+include a court. 41
+H. B. No. 12 Page 3
+As Introduced
+(B) Except as otherwise provided in Chapters 4715., 4723., 42
+
+Section 5:
+4725., and 4730. of the Revised Code and in compliance with 43
+other state law regarding prescribing drugs, a prescriber may 44
+issue for a patient a prescription for any drug, including for 45
+off-label use, if the prescriber has obtained the informed 46
+consent of the patient or the patient's personal representative. 47
+Informed consent means communication between the patient or the 48
+patient's personal representative and the prescriber that 49
+results in the patient or the patient's personal representative 50
+authorizing, or agreeing to accept, a specific drug. The 51
+prescriber, as part of such communication, shall provide all of 52
+the following information to the patient or the patient's 53
+personal representative: 54
+(1) The patient's diagnosis, if known; 55
+(2) Information about the drug consistent with current law 56
+and practices for on-label use; 57
+(3) Any other available information related to the risks 58
+and benefits of options pertaining to the drug's off-label uses, 59
+including the option of forgoing treatment with the drug; 60
+(4) Any known financial conflicts of interest the 61
+prescriber may have regarding the recommended drug. 62
+(C)(1) A pharmacist shall dispense, and a hospital, 63
+inpatient facility, or pharmacy shall allow the dispensing of a 64
+drug, including for off-label use, to a patient if a prescriber 65
+has issued for the patient a prescription for the drug as 66
+described in division (B) of this section, except in either of 67
+the following circumstances: 68
+(a) As provided in section 4743.10 of the Revised Code, 69
+the pharmacist, hospital, inpatient facility, or pharmacy has a 70
+H. B. No. 12 Page 4
+As Introduced
+moral, ethical, or religious belief or conviction that conflicts 71
+with the drug's dispensing. 72
+(b) The pharmacist has documented that the patient has a 73
+history of a life-threatening allergic reaction to the 74
+prescribed drug or there is a life-threatening contraindication 75
+or life-threatening drug interaction for that patient. 76
+(2) When neither exception in division (C)(1)(a) or (b) of 77
+this section applies and a pharmacist must dispense, or a 78
+hospital, inpatient facility, or pharmacy must allow the 79
+dispensing of, a drug, including for off-label use, for a 80
+patient pursuant to this section, but the pharmacist, hospital, 81
+inpatient facility, or pharmacy has an objective, good faith, 82
+and scientific objection to the administration or dosage of the 83
+drug for that patient or that patient's condition, then after 84
+explaining and discussing the objection with the prescriber, the 85
+pharmacist, hospital, inpatient facility, or pharmacy shall be 86
+immune from civil liability, professional discipline, and 87
+sanctions or fines imposed by a regulatory authority for any 88
+harm that may arise from the dispensing or use of the drug 89
+starting from the date of dispensing if, as soon as practicable 90
+and within twenty-four hours after dispensing, the pharmacist, 91
+hospital, inpatient facility, or pharmacy documents in the 92
+patient's medical record that the objection was explained and 93
+discussed with the prescriber before dispensing. 94
+(3)(a) In the case of a pharmacist who practices within a 95
+hospital's or inpatient facility's pharmacy and where an in- 96
+house prescriber issues a prescription for a drug, including for 97
+off-label use, that is neither in stock nor listed on the 98
+hospital's or facility's formulary, the pharmacist must document 99
+in the patient's medical record that a good faith effort was 100
+H. B. No. 12 Page 5
+As Introduced
+made to find out if the drug is available from another hospital 101
+or inpatient facility or another distributor located in the 102
+United States. 103
+(b) If the hospital or inpatient facility pharmacist is 104
+unable to obtain the drug from another hospital, inpatient 105
+facility, or distributor, or if the hospital, inpatient 106
+facility, or pharmacist declines to dispense the prescription 107
+for the reasons provided in section 4743.10 of the Revised Code, 108
+and the patient has access to the drug through a pharmacy 109
+outside the hospital or inpatient facility or has the drug 110
+available at home, then both of the following apply: 111
+(i) The hospital or inpatient facility must permit the 112
+drug to be brought into the hospital or inpatient facility to be 113
+identified for the patient's use. To be identified for the 114
+patient's use, the hospital or inpatient facility must determine 115
+that the drug was prescribed for the patient, is in the original 116
+manufacturer's packaging or is labeled from an outpatient retail 117
+pharmacy for the patient, has been approved by the prescriber 118
+for the patient's use, and is not outside of its beyond-use or 119
+expiration date. If the drug is able to be identified according 120
+to the hospital or inpatient facility's drug identification 121
+procedure, then the drug shall be administered to the patient in 122
+the hospital or inpatient facility. 123
+(ii) If the patient's in-house prescriber is not available 124
+to administer the identified drug, and the medical staff 125
+employed or contracted by the hospital or inpatient facility who 126
+are involved in the patient's care are, pursuant to section 127
+
+Section 6:
+4743.10 of the Revised Code, unwilling to administer the 128
+identified drug to the patient, then the patient's prescriber 129
+may designate a delegate pursuant to sections 4723.48, 4723.489, 130
+H. B. No. 12 Page 6
+As Introduced
+
+Section 7:
+4730.203, and 4731.053 of the Revised Code to administer the 131
+drug. Such a delegate must meet the hospital or inpatient 132
+facility's guidelines and accreditation standards for drug 133
+administration. 134
+(4) When the patient's in-house prescriber is absent from 135
+the hospital or inpatient facility, the prescriber's orders for 136
+a drug, including for off-label use, shall not be modified or 137
+discontinued unless one of the following circumstances applies: 138
+(a) The in-house prescriber is consulted and agrees to the 139
+modification or discontinuation; 140
+(b) The patient or the patient's personal representative 141
+requests in writing to discontinue the drug or consents to the 142
+modification; 143
+(c) In an emergency when there is not time to contact the 144
+in-house prescriber for consent or it is not possible to contact 145
+the in-house prescriber, the hospital or inpatient facility 146
+shall follow the hospital or inpatient facility's existing 147
+protocol for patient care. 148
+(5) When there is a disagreement between the patient's in- 149
+house prescriber and other medical staff employed or contracted 150
+by the hospital or inpatient facility who are involved in the 151
+patient's care regarding whether to continue a drug, including 152
+for off-label use, the decision to continue the use of the drug 153
+shall be made by the patient or the patient's personal 154
+representative after discussing the risks and benefits of 155
+continuing the drug with the in-house prescriber and the other 156
+medical staff involved in the patient's care and giving informed 157
+consent. 158
+(6) When a hospital or inpatient facility patient or a 159
+H. B. No. 12 Page 7
+As Introduced
+patient's personal representative wishes to try a drug to treat 160
+a patient's condition, but there is no in-house prescriber 161
+willing to prescribe the drug, the hospital or inpatient 162
+facility shall not obstruct or intentionally delay the transfer 163
+of that patient to another hospital, inpatient facility, or 164
+hospice that is willing to accept and treat the patient, nor 165
+shall the hospital or inpatient facility prevent the patient's 166
+discharge if that is the wish of the patient or the patient's 167
+personal representative. 168
+(7) Nothing in this section prevents a pharmacist from 169
+discussing a prescription or expressing any dosage 170
+recommendations or other concerns with the prescriber, the 171
+patient, or the patient's personal representative. The ultimate 172
+decision to accept a drug prescribed by the prescriber shall be 173
+made by the patient or the patient's personal representative. 174
+(D)(1) In an outpatient pharmacy setting, if a drug is not 175
+covered by a patient's health benefit plan or the patient does 176
+not want to wait for prior authorization, the prescriber or 177
+pharmacist shall notify the patient of the option to pay for the 178
+drug out of pocket. The prescriber or pharmacist must notify the 179
+patient of the estimated out-of-pocket costs for the drug, and 180
+the pharmacist must offer the drug at an upfront, out-of-pocket 181
+cost to the patient. 182
+(2) When a hospital or inpatient facility pharmacist has 183
+located a drug pursuant to division (C)(3)(a) of this section, 184
+but the drug is not covered by the patient's health benefit plan 185
+or the patient does not want to wait for prior authorization, 186
+the prescriber or pharmacist must notify the patient of the 187
+estimated out-of-pocket costs for the drug, and the pharmacist 188
+must offer the drug at an upfront, out-of-pocket cost to the 189
+H. B. No. 12 Page 8
+As Introduced
+patient. The hospital or inpatient facility may require payment 190
+before ordering the drug. 191
+(E) Except as provided in division (G) of this section, a 192
+health-related licensing board, the department of health, or 193
+another state agency responsible for the licensure or regulation 194
+of health care professionals or health care facilities shall not 195
+consider the action of prescribing, dispensing, or administering 196
+a drug to a consenting patient or with the informed consent of 197
+the patient's personal representative, including for off-label 198
+use, by a prescriber, pharmacist, hospital, inpatient facility, 199
+or pharmacy under this section to be unlawful, unethical, 200
+unauthorized, or unprofessional conduct and shall not pursue 201
+professional discipline or fines or other regulatory sanctions 202
+against the prescriber, pharmacist, hospital, facility, or 203
+pharmacy except in cases where prescribing, dispensing, or 204
+administering the drug to that patient was done with 205
+recklessness or gross negligence. The prescriber is not immune 206
+from civil liability if harm comes to the patient. 207
+(F) Free speech is a protected right under the United 208
+States and Ohio Constitutions. Health care professionals are not 209
+exempt from constitutional protections. A health-related 210
+licensing board, the department of health, or other state agency 211
+responsible for the licensure or regulation of health care 212
+professionals shall neither infringe on free speech nor pursue 213
+or threaten to pursue professional discipline or fines or other 214
+regulatory sanctions against a prescriber, pharmacist, or other 215
+licensed health care professional for publicly or privately 216
+expressing an opinion regarding the safety, risks, benefits, or 217
+efficacy of a drug or other medical intervention because that 218
+opinion does not align with the opinions of the board, 219
+department, other state agency, a board of health of a city or 220
+H. B. No. 12 Page 9
+As Introduced
+general health district, or other health authority. This 221
+division does not limit liability for a medical act that causes 222
+actual patient harm. 223
+(G) Except for division (F) of this section, no portion of 224
+this section applies to, repeals, or supersedes existing law 225
+regarding prescribing, dispensing, or administering any of the 226
+following: 227
+(1) Controlled substances, including opioids; 228
+(2) Drugs subject to a United States food and drug 229
+administration risk evaluation and mitigation strategy; 230
+(3) Cross-sex hormones or puberty-blocking drugs, as 231
+defined in section 3129.01 of the Revised Code, to be used in 232
+violation of section 3129.02 of the Revised Code; 233
+(4) Abortifacients when prescribed, dispensed, or 234
+administered to patients who are known to be pregnant; 235
+(5) Drugs that are known to be used for the intent or 236
+purpose of euthanasia. 237
+
+Section 8:
+Section 2. This act shall be known as the Jeff, Dave, and 238
+Angie Patient Right to Try Act. 239
+[DELETED: nH BIL   . :: . 1 1.1 1 1]
+[DELETED: 2 .1 1:1 1;1 2.2 2:2 2 2 2.2.2 2.3 3 3.3 3 3.3 3 3 3 4.4]
+[DELETED: 2  4 4 4 4 4 4 4 4 5 5 5 5:5;5 5;5 5 5;6 6.6 6 6 6 6 6:6 6 7]
+[DELETED: 2  7.7 7 7 7.7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9.9 9-9 9 9 9 1]
+[DELETED: 2  1 1.1 1 1 1 1 1 1 1:1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1.1 1 1 1:1 1;1 1 1;1 1 1 1 1 1-1 1 1 1 1 1 1 1 1.1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 2  1.1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2.2 2 2 2:2;2 2;2 2 2;2 2;2 2.2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 12
+2025-2026
+Representatives Gross, Swearingen
+Cosponsors: Representatives Barhorst, Fischer, Lorenz, Williams, Dean, Miller,
+K., Hall, T., Lear, King, Mullins, Creech, Ferguson, Click, Klopfenstein, Fowler
+Arthur, Pizzulli, Stephens, Mathews, T., Deeter, Demetriou, Newman, Teska, Ray,
+Miller, M., Claggett, Willis, Thomas, C., Schmidt, McClain, Thomas, D., Salvo,
+Workman, John, Richardson, Johnson, Holmes, Young, Mathews, A., Hiner
+A BILL
+To enact section 3792.08 of the Revised Code 1
+regarding prescribing, dispensing, and 2
+administering drugs and to name this act the 3
+Jeff, Dave, and Angie Patient Right to Try Act. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3792.08 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 3792.08. (A) As used in this section : 7
+(1) "Health-related licensing board" has the same meaning 8
+as in section 3719.062 of the Revised Code. 9
+(2) "Hospital" has the same meaning as in section 3722.01 10
+of the Revised Code and includes a hospital owned or operated by 11
+the United States department of veterans affairs. 12
+(3) "In-house prescriber" means a prescriber who is 13
+employed or contracted by the hospital or inpatient facility 14
+
+H. B. No. 12 Page 2
+As Introduced
+where a patient is being treated. 15
+(4) "Inpatient facility" means either or both of the 16
+following: 17
+(a) A skilled nursing facility as defined in section 18
+5165.01 of the Revised Code; 19
+(b) A freestanding inpatient rehabilitation facility 20
+licensed under section 3702.30 of the Revised Code. 21
+(5) "Off-label use" means the use of a drug that meets 22
+both of the following: 23
+(a) The drug is approved by the United States food and 24
+drug administration to treat or prevent a disease, illness, or 25
+infection, but prescribed for or used by a patient to treat or 26
+prevent another disease, illness, or infection. 27
+(b) The drug is legal for use in this state. 28
+(6) "Patient's personal representative" has the same 29
+meaning as in section 3701.74 of the Revised Code. 30
+(7) "Pharmacist" means an individual who holds a license 31
+issued under section 4729.08 of the Revised Code authorizing the 32
+individual to practice pharmacy. 33
+(8) "Prescriber" has the same meaning as in section 34
+4729.01 of the Revised Code, except it does not include a 35
+veterinarian licensed under Chapter 4741. of the Revised Code. 36
+(9) "State agency" means any organized agency, board, 37
+body, commission, department, institution, office, or other 38
+entity established by the laws of the state for the exercise of 39
+any function of state government. "State agency" does not 40
+include a court. 41
+
+H. B. No. 12 Page 3
+As Introduced
+(B) Except as otherwise provided in Chapters 4715., 4723., 42
+4725., and 4730. of the Revised Code and in compliance with 43
+other state law regarding prescribing drugs, a prescriber may 44
+issue for a patient a prescription for any drug, including for 45
+off-label use, if the prescriber has obtained the informed 46
+consent of the patient or the patient's personal representative. 47
+Informed consent means communication between the patient or the 48
+patient's personal representative and the prescriber that 49
+results in the patient or the patient's personal representative 50
+authorizing, or agreeing to accept, a specific drug. The 51
+prescriber, as part of such communication, shall provide all of 52
+the following information to the patient or the patient's 53
+personal representative: 54
+(1) The patient's diagnosis, if known; 55
+(2) Information about the drug consistent with current law 56
+and practices for on-label use; 57
+(3) Any other available information related to the risks 58
+and benefits of options pertaining to the drug's off-label uses, 59
+including the option of forgoing treatment with the drug; 60
+(4) Any known financial conflicts of interest the 61
+prescriber may have regarding the recommended drug. 62
+(C)(1) A pharmacist shall dispense, and a hospital, 63
+inpatient facility, or pharmacy shall allow the dispensing of a 64
+drug, including for off-label use, to a patient if a prescriber 65
+has issued for the patient a prescription for the drug as 66
+described in division (B) of this section, except in either of 67
+the following circumstances: 68
+(a) As provided in section 4743.10 of the Revised Code, 69
+the pharmacist, hospital, inpatient facility, or pharmacy has a 70
+
+H. B. No. 12 Page 4
+As Introduced
+moral, ethical, or religious belief or conviction that conflicts 71
+with the drug's dispensing. 72
+(b) The pharmacist has documented that the patient has a 73
+history of a life-threatening allergic reaction to the 74
+prescribed drug or there is a life-threatening contraindication 75
+or life-threatening drug interaction for that patient. 76
+(2) When neither exception in division (C)(1)(a) or (b) of 77
+this section applies and a pharmacist must dispense, or a 78
+hospital, inpatient facility, or pharmacy must allow the 79
+dispensing of, a drug, including for off-label use, for a 80
+patient pursuant to this section, but the pharmacist, hospital, 81
+inpatient facility, or pharmacy has an objective, good faith, 82
+and scientific objection to the administration or dosage of the 83
+drug for that patient or that patient's condition, then after 84
+explaining and discussing the objection with the prescriber, the 85
+pharmacist, hospital, inpatient facility, or pharmacy shall be 86
+immune from civil liability, professional discipline, and 87
+sanctions or fines imposed by a regulatory authority for any 88
+harm that may arise from the dispensing or use of the drug 89
+starting from the date of dispensing if, as soon as practicable 90
+and within twenty-four hours after dispensing, the pharmacist, 91
+hospital, inpatient facility, or pharmacy documents in the 92
+patient's medical record that the objection was explained and 93
+discussed with the prescriber before dispensing. 94
+(3)(a) In the case of a pharmacist who practices within a 95
+hospital's or inpatient facility's pharmacy and where an in- 96
+house prescriber issues a prescription for a drug, including for 97
+off-label use, that is neither in stock nor listed on the 98
+hospital's or facility's formulary, the pharmacist must document 99
+in the patient's medical record that a good faith effort was 100
+
+H. B. No. 12 Page 5
+As Introduced
+made to find out if the drug is available from another hospital 101
+or inpatient facility or another distributor located in the 102
+United States. 103
+(b) If the hospital or inpatient facility pharmacist is 104
+unable to obtain the drug from another hospital, inpatient 105
+facility, or distributor, or if the hospital, inpatient 106
+facility, or pharmacist declines to dispense the prescription 107
+for the reasons provided in section 4743.10 of the Revised Code, 108
+and the patient has access to the drug through a pharmacy 109
+outside the hospital or inpatient facility or has the drug 110
+available at home, then both of the following apply: 111
+(i) The hospital or inpatient facility must permit the 112
+drug to be brought into the hospital or inpatient facility to be 113
+identified for the patient's use. To be identified for the 114
+patient's use, the hospital or inpatient facility must determine 115
+that the drug was prescribed for the patient, is in the original 116
+manufacturer's packaging or is labeled from an outpatient retail 117
+pharmacy for the patient, has been approved by the prescriber 118
+for the patient's use, and is not outside of its beyond-use or 119
+expiration date. If the drug is able to be identified according 120
+to the hospital or inpatient facility's drug identification 121
+procedure, then the drug shall be administered to the patient in 122
+the hospital or inpatient facility. 123
+(ii) If the patient's in-house prescriber is not available 124
+to administer the identified drug, and the medical staff 125
+employed or contracted by the hospital or inpatient facility who 126
+are involved in the patient's care are, pursuant to section 127
+4743.10 of the Revised Code, unwilling to administer the 128
+identified drug to the patient, then the patient's prescriber 129
+may designate a delegate pursuant to sections 4723.48, 4723.489, 130
+
+H. B. No. 12 Page 6
+As Introduced
+4730.203, and 4731.053 of the Revised Code to administer the 131
+drug. Such a delegate must meet the hospital or inpatient 132
+facility's guidelines and accreditation standards for drug 133
+administration. 134
+(4) When the patient's in-house prescriber is absent from 135
+the hospital or inpatient facility, the prescriber's orders for 136
+a drug, including for off-label use, shall not be modified or 137
+discontinued unless one of the following circumstances applies: 138
+(a) The in-house prescriber is consulted and agrees to the 139
+modification or discontinuation; 140
+(b) The patient or the patient's personal representative 141
+requests in writing to discontinue the drug or consents to the 142
+modification; 143
+(c) In an emergency when there is not time to contact the 144
+in-house prescriber for consent or it is not possible to contact 145
+the in-house prescriber, the hospital or inpatient facility 146
+shall follow the hospital or inpatient facility's existing 147
+protocol for patient care. 148
+(5) When there is a disagreement between the patient's in- 149
+house prescriber and other medical staff employed or contracted 150
+by the hospital or inpatient facility who are involved in the 151
+patient's care regarding whether to continue a drug, including 152
+for off-label use, the decision to continue the use of the drug 153
+shall be made by the patient or the patient's personal 154
+representative after discussing the risks and benefits of 155
+continuing the drug with the in-house prescriber and the other 156
+medical staff involved in the patient's care and giving informed 157
+consent. 158
+(6) When a hospital or inpatient facility patient or a 159
+
+H. B. No. 12 Page 7
+As Introduced
+patient's personal representative wishes to try a drug to treat 160
+a patient's condition, but there is no in-house prescriber 161
+willing to prescribe the drug, the hospital or inpatient 162
+facility shall not obstruct or intentionally delay the transfer 163
+of that patient to another hospital, inpatient facility, or 164
+hospice that is willing to accept and treat the patient, nor 165
+shall the hospital or inpatient facility prevent the patient's 166
+discharge if that is the wish of the patient or the patient's 167
+personal representative. 168
+(7) Nothing in this section prevents a pharmacist from 169
+discussing a prescription or expressing any dosage 170
+recommendations or other concerns with the prescriber, the 171
+patient, or the patient's personal representative. The ultimate 172
+decision to accept a drug prescribed by the prescriber shall be 173
+made by the patient or the patient's personal representative. 174
+(D)(1) In an outpatient pharmacy setting, if a drug is not 175
+covered by a patient's health benefit plan or the patient does 176
+not want to wait for prior authorization, the prescriber or 177
+pharmacist shall notify the patient of the option to pay for the 178
+drug out of pocket. The prescriber or pharmacist must notify the 179
+patient of the estimated out-of-pocket costs for the drug, and 180
+the pharmacist must offer the drug at an upfront, out-of-pocket 181
+cost to the patient. 182
+(2) When a hospital or inpatient facility pharmacist has 183
+located a drug pursuant to division (C)(3)(a) of this section, 184
+but the drug is not covered by the patient's health benefit plan 185
+or the patient does not want to wait for prior authorization, 186
+the prescriber or pharmacist must notify the patient of the 187
+estimated out-of-pocket costs for the drug, and the pharmacist 188
+must offer the drug at an upfront, out-of-pocket cost to the 189
+
+H. B. No. 12 Page 8
+As Introduced
+patient. The hospital or inpatient facility may require payment 190
+before ordering the drug. 191
+(E) Except as provided in division (G) of this section, a 192
+health-related licensing board, the department of health, or 193
+another state agency responsible for the licensure or regulation 194
+of health care professionals or health care facilities shall not 195
+consider the action of prescribing, dispensing, or administering 196
+a drug to a consenting patient or with the informed consent of 197
+the patient's personal representative, including for off-label 198
+use, by a prescriber, pharmacist, hospital, inpatient facility, 199
+or pharmacy under this section to be unlawful, unethical, 200
+unauthorized, or unprofessional conduct and shall not pursue 201
+professional discipline or fines or other regulatory sanctions 202
+against the prescriber, pharmacist, hospital, facility, or 203
+pharmacy except in cases where prescribing, dispensing, or 204
+administering the drug to that patient was done with 205
+recklessness or gross negligence. The prescriber is not immune 206
+from civil liability if harm comes to the patient. 207
+(F) Free speech is a protected right under the United 208
+States and Ohio Constitutions. Health care professionals are not 209
+exempt from constitutional protections. A health-related 210
+licensing board, the department of health, or other state agency 211
+responsible for the licensure or regulation of health care 212
+professionals shall neither infringe on free speech nor pursue 213
+or threaten to pursue professional discipline or fines or other 214
+regulatory sanctions against a prescriber, pharmacist, or other 215
+licensed health care professional for publicly or privately 216
+expressing an opinion regarding the safety, risks, benefits, or 217
+efficacy of a drug or other medical intervention because that 218
+opinion does not align with the opinions of the board, 219
+department, other state agency, a board of health of a city or 220
+
+H. B. No. 12 Page 9
+As Introduced
+general health district, or other health authority. This 221
+division does not limit liability for a medical act that causes 222
+actual patient harm. 223
+(G) Except for division (F) of this section, no portion of 224
+this section applies to, repeals, or supersedes existing law 225
+regarding prescribing, dispensing, or administering any of the 226
+following: 227
+(1) Controlled substances, including opioids; 228
+(2) Drugs subject to a United States food and drug 229
+administration risk evaluation and mitigation strategy; 230
+(3) Cross-sex hormones or puberty-blocking drugs, as 231
+defined in section 3129.01 of the Revised Code, to be used in 232
+violation of section 3129.02 of the Revised Code; 233
+(4) Abortifacients when prescribed, dispensed, or 234
+administered to patients who are known to be pregnant; 235
+(5) Drugs that are known to be used for the intent or 236
+purpose of euthanasia. 237
+Section 2. This act shall be known as the Jeff, Dave, and 238
+Angie Patient Right to Try Act. 239
+
+[DELETED: nH BIL   . :: . 1 1.1 1 1]
+[DELETED: 2 .1 1:1 1;1 2.2 2:2 2 2 2.2.2 2.3 3 3.3 3 3.3 3 3 3 4.4]
+[DELETED: 2  4 4 4 4 4 4 4 4 5 5 5 5:5;5 5;5 5 5;6 6.6 6 6 6 6 6:6 6 7]
+[DELETED: 2  7.7 7 7 7.7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9.9 9-9 9 9 9 1]
+[DELETED: 2  1 1.1 1 1 1 1 1 1 1:1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1.1 1 1 1:1 1;1 1 1;1 1 1 1 1 1-1 1 1 1 1 1 1 1 1.1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1]
+[DELETED: 2  1.1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2.2 2 2 2:2;2 2;2 2 2;2 2;2 2.2 2.2]

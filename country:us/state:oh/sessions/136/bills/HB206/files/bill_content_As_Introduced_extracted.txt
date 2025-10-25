@@ -1,0 +1,449 @@
+Title: Cosponsors: Representatives Dean, Fischer, Ferguson, Demetriou, Lorenz, Ritter,
+Official Title: Cosponsors: Representatives Dean, Fischer, Ferguson, Demetriou, Lorenz, Ritter,
+Number of Sections: 9
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 206
+2025-2026
+Representatives Gross, McClain
+Newman, King, Mullins, Lear
+A BILL
+To enact sections 113.81, 113.82, 113.83, 113.84, 1
+
+Section 2:
+113.85, 113.86, 113.87, 113.88, 113.89, and 2
+
+Section 3:
+113.90 of the Revised Code to establish a 3
+transactional currency based on gold and silver 4
+held in a bullion depository approved by the 5
+treasurer of state. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 4:
+Section 1. That sections 113.81, 113.82, 113.83, 113.84, 7
+
+Section 5:
+113.85, 113.86, 113.87, 113.88, 113.89, and 113.90 of the 8
+Revised Code be enacted to read as follows: 9
+Sec. 113.81. As used in sections 113.81 to 113.90 of the 10
+Revised Code: 11
+(A) "Approved bullion depository" means either of the 12
+following: 13
+(1) A bullion depository located in this state, controlled 14
+by this state, and operating pursuant to regulations and 15
+safeguards reasonably acceptable to the treasurer of state; 16
+H. B. No. 206 Page 2
+As Introduced
+(2) The Texas bullion depository or such other depository 17
+within the United States similar in mission and operation to the 18
+Texas bullion depository, provided that agreements and standards 19
+reasonably acceptable to the treasurer of state govern the use 20
+of the bullion depository with respect to deposits from this 21
+state or this state's designees. 22
+(B) "Bullion" means precious metals that are formed into 23
+uniform shapes and quantities such as ingots, bars, or plates, 24
+with uniform content and purity, as are suitable for or 25
+customarily used in the purchase, sale, storage, transfer, and 26
+delivery of bulk or wholesale transactions in precious metals. 27
+(C) "Bullion depository" means a secured physical vault 28
+for the reception, authentication, storage, and security of 29
+bullion. 30
+(D) "Depository account" means the rights, interests, and 31
+entitlements established in favor of a depositor with respect to 32
+a deposit in accordance with sections 113.81 to 113.90 of the 33
+Revised Code and rules adopted under those sections. 34
+(E) "Depository account holder" means the original 35
+depositor of a depository account or a successor or assignee of 36
+the depositor. 37
+(F) "Pooled depository account" means the account 38
+established under section 113.83 of the Revised Code. 39
+(G) "Precious metal" means gold or silver that bears a 40
+high value-to-weight ratio relative to common industrial metals 41
+and that customarily is formed into bullion or specie. 42
+(H) "Specie" means a precious metal stamped into coins of 43
+uniform shape, size, design, content, and purity, suitable for 44
+or customarily used as a currency, a medium of exchange, or the 45
+H. B. No. 206 Page 3
+As Introduced
+medium for purchase, sale, storage, transfer, or delivery of 46
+precious metals in retail or wholesale transactions. 47
+(I) "Transactional currency" means a representation of 48
+actual specie and bullion held in a depository account by a 49
+depository account holder and which may be transferred by 50
+electronic instruction, which must reflect the exact fractional 51
+troy ounce measurement of physical specie or bullion in the 52
+pooled depository account as provided by sections 113.81 to 53
+
+Section 6:
+113.90 of the Revised Code. 54
+Sec. 113.82. (A) As authorized by Section 10 of Article I 55
+of the Constitution of the United States, the treasurer of state 56
+shall issue specie and establish a transactional currency as the 57
+treasurer of state determines practicable. 58
+(B) The treasurer of state may contract with a private 59
+vendor to establish the transactional currency or perform other 60
+duties under sections 113.81 to 113.90 of the Revised Code. In 61
+selecting such a vendor, the treasurer of state may give 62
+preference to vendors with a principal place of business in this 63
+state. 64
+(C) In establishing the transactional currency, the 65
+treasurer of state shall establish a means to ensure that a 66
+person or state that holds the transactional currency may use 67
+the currency as legal tender in payment of debt and readily 68
+transfer or assign the transactional currency to any other 69
+person or state by electronic means. 70
+(D) In establishing specie, the treasurer of state shall 71
+exclusively authorize an approved bullion depository as the 72
+state's issuer, ensure that the holder of the specie may use the 73
+specie as legal tender in payment of debt, and ensure that the 74
+H. B. No. 206 Page 4
+As Introduced
+specie is readily transferable to any other person or state. 75
+Sec. 113.83. (A) The treasurer of state, or the treasurer 76
+of state's designee, serving as trustee, shall hold in trust on 77
+behalf of the transactional currency holders all specie and 78
+bullion owned or purchased for such purposes. The trustee shall 79
+maintain enough specie or bullion to provide for the redemption 80
+of all units of the transactional currency issued but not 81
+redeemed. 82
+(B) The trustee shall establish an account in the approved 83
+bullion depository to hold in trust as trustee on behalf of the 84
+transactional currency holders all specie and bullion owned and 85
+allocated or purchased for such purposes. 86
+Sec. 113.84. (A) The treasurer of state shall issue 87
+transactional currency to a person or a state of the United 88
+States to which either of the following apply: 89
+(1) The person or state makes payment to the treasurer of 90
+state for the purpose of purchasing specie or bullion to be 91
+represented by transactional currency and pays any fee charged 92
+under section 113.89 of the Revised Code; 93
+(2) The person or state designates specie or bullion held 94
+on account in the approved bullion depository for the purpose of 95
+being represented by transactional currency and pays any fee 96
+charged under section 113.89 of the Revised Code. 97
+(B) Upon receiving payment under division (A)(1) of this 98
+
+Section 7:
+section or an account holder's designation and payment under 99
+division (A)(2) of this section, the treasurer of state shall do 100
+all of the following: 101
+(1) Using the money received, buy specie or bullion in the 102
+number of troy ounces of precious metal equal to the number of 103
+H. B. No. 206 Page 5
+As Introduced
+units of the transactional currency to be issued to the 104
+purchaser under division (A) of this section; 105
+(2) Deposit the specie or bullion into the pooled 106
+depository account for the purchaser; 107
+(3) Issue to the purchaser a depository account with, or 108
+add to an existing depository account, a number of units of the 109
+transactional currency equal to the amount of specie or bullion 110
+that the purchase money received from the account holder would 111
+buy at the market price on that date as published by the 112
+approved bullion depository. 113
+Sec. 113.85. (A) A person that holds transactional 114
+currency may present to the treasurer of state any number of 115
+units of the transactional currency to redeem for United States 116
+dollars. 117
+(B) On receipt of a person's request for redemption, the 118
+treasurer of state shall do both of the following: 119
+(1) Sell from the specie or bullion held in the pooled 120
+depository account a number of troy ounces equal to the number 121
+of units of the transactional currency being redeemed; 122
+(2) Provide to the person an amount of United States 123
+dollars equal to the amount received from the sale of specie or 124
+bullion under division (A) of this section, less a fee charged 125
+under section 113.89 of the Revised Code. 126
+Sec. 113.86. (A) Subject to section 113.82 of the Revised 127
+Code, an account holder that holds the transactional currency 128
+may present to the treasurer of state any number of units of the 129
+transactional currency to redeem for an equal number of troy 130
+ounces of specie or bullion from the pooled depository account. 131
+H. B. No. 206 Page 6
+As Introduced
+(B) On receipt of a request for redemption, the treasurer 132
+of state shall do all of the following: 133
+(1) Withdraw the equivalent number of troy ounces of 134
+specie or bullion from the pooled depository account; 135
+(2) On the payment of the fee charged under section 113.89 136
+of the Revised Code, deliver the specie or bullion to the 137
+requestor. 138
+Sec. 113.87. (A) At the time of each transaction involvin g 139
+the issuance or redemption of the transactional currency, the 140
+treasurer of state shall determine the value of a unit of the 141
+transaction currency as published by the approved bullion 142
+depository. 143
+(B) The value of a unit of the transactional currency at 144
+the time of a transaction must be equal to the value of the 145
+appropriate fraction of a troy ounce of gold or silver, 146
+respectively, at the time of that transaction as published by 147
+the approved bullion depository. 148
+Sec. 113.88. The treasurer of state, as trustee, shall 149
+hold outside the state treasury on the behalf of persons who 150
+hold the transactional currency money received under division 151
+(A) of section 113.84 of the Revised Code, specie or bullion 152
+purchased or deposited in the pooled depository account as 153
+provided by division (B)(1) of section 113.84 of the Revised 154
+Code, and money received from the sale of specie or bullion in 155
+the pooled depository account in response to a request for 156
+redemption under section 113.85 of the Revised Code. Such money, 157
+specie, and bullion is not available for appropriation by the 158
+general assembly. 159
+Sec. 113.89. The treasurer of state may establish a fee 160
+H. B. No. 206 Page 7
+As Introduced
+for the issuance or redemption of the transactional currency to 161
+cover the treasurer of state's costs in administering sections 162
+
+Section 8:
+113.80 to 113.89 of the Revised Code and an industry standard 163
+merchant fee for use. Fees collected by the treasurer of state 164
+under this section shall be considered repayment receipts to be 165
+used for such purposes. Fees collected in excess of the amount 166
+necessary for such purposes shall be deposited in the general 167
+revenue fund. 168
+Sec. 113.90. The treasurer of state may adopt rules in 169
+accordance with Chapter 119. of the Revised Code to administer 170
+
+Section 9:
+sections 113.81 to 113.89 of the Revised Code, including rules 171
+to do the following: 172
+(A) Ensure the security of the specie, bullion, 173
+transactional currency, transactions, and related data; 174
+(B) Prevent fraud; 175
+(C) Prevent the release of data related to depository 176
+accounts or depository account holders other than by order of a 177
+court with proper jurisdiction. 178
+[DELETED: nH BIL     .  : 1:1 1:1 1 1;1]
+[DELETED: 6  1 1 1 2 2.2 2 2 2 2.2 2 2.3 3 3 3.3 3 3.3 3.3 4 4.4 4 4 4]
+[DELETED: 6  4.4 4 4 5 5 5 5.5 5 5 5.5 5 6 6 6 6.6 6 6 6 6 6.7 7 7 7 7]
+[DELETED: 6 .7 7 7 7 7 8 8.8 8 8 8.8 8 8:8 9 9 9;9 9 9 9.9 9 9 1:1 1 1]
+[DELETED: 6  1;1 1;1 1 1 1 1 1.1 1 1 1.1 1:1 1 1;1 1 1 1.1 1 1 1 1.1]
+[DELETED: 6  1:1 1;1 1 1.1 1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1]
+[DELETED: 6  1 1 1 1 1 1 1.1 1 1 1:1 1;1;1 1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 206
+2025-2026
+Representatives Gross, McClain
+Cosponsors: Representatives Dean, Fischer, Ferguson, Demetriou, Lorenz, Ritter,
+Newman, King, Mullins, Lear
+A BILL
+To enact sections 113.81, 113.82, 113.83, 113.84, 1
+113.85, 113.86, 113.87, 113.88, 113.89, and 2
+113.90 of the Revised Code to establish a 3
+transactional currency based on gold and silver 4
+held in a bullion depository approved by the 5
+treasurer of state. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 113.81, 113.82, 113.83, 113.84, 7
+113.85, 113.86, 113.87, 113.88, 113.89, and 113.90 of the 8
+Revised Code be enacted to read as follows: 9
+Sec. 113.81. As used in sections 113.81 to 113.90 of the 10
+Revised Code: 11
+(A) "Approved bullion depository" means either of the 12
+following: 13
+(1) A bullion depository located in this state, controlled 14
+by this state, and operating pursuant to regulations and 15
+safeguards reasonably acceptable to the treasurer of state; 16
+
+H. B. No. 206 Page 2
+As Introduced
+(2) The Texas bullion depository or such other depository 17
+within the United States similar in mission and operation to the 18
+Texas bullion depository, provided that agreements and standards 19
+reasonably acceptable to the treasurer of state govern the use 20
+of the bullion depository with respect to deposits from this 21
+state or this state's designees. 22
+(B) "Bullion" means precious metals that are formed into 23
+uniform shapes and quantities such as ingots, bars, or plates, 24
+with uniform content and purity, as are suitable for or 25
+customarily used in the purchase, sale, storage, transfer, and 26
+delivery of bulk or wholesale transactions in precious metals. 27
+(C) "Bullion depository" means a secured physical vault 28
+for the reception, authentication, storage, and security of 29
+bullion. 30
+(D) "Depository account" means the rights, interests, and 31
+entitlements established in favor of a depositor with respect to 32
+a deposit in accordance with sections 113.81 to 113.90 of the 33
+Revised Code and rules adopted under those sections. 34
+(E) "Depository account holder" means the original 35
+depositor of a depository account or a successor or assignee of 36
+the depositor. 37
+(F) "Pooled depository account" means the account 38
+established under section 113.83 of the Revised Code. 39
+(G) "Precious metal" means gold or silver that bears a 40
+high value-to-weight ratio relative to common industrial metals 41
+and that customarily is formed into bullion or specie. 42
+(H) "Specie" means a precious metal stamped into coins of 43
+uniform shape, size, design, content, and purity, suitable for 44
+or customarily used as a currency, a medium of exchange, or the 45
+
+H. B. No. 206 Page 3
+As Introduced
+medium for purchase, sale, storage, transfer, or delivery of 46
+precious metals in retail or wholesale transactions. 47
+(I) "Transactional currency" means a representation of 48
+actual specie and bullion held in a depository account by a 49
+depository account holder and which may be transferred by 50
+electronic instruction, which must reflect the exact fractional 51
+troy ounce measurement of physical specie or bullion in the 52
+pooled depository account as provided by sections 113.81 to 53
+113.90 of the Revised Code. 54
+Sec. 113.82. (A) As authorized by Section 10 of Article I 55
+of the Constitution of the United States, the treasurer of state 56
+shall issue specie and establish a transactional currency as the 57
+treasurer of state determines practicable. 58
+(B) The treasurer of state may contract with a private 59
+vendor to establish the transactional currency or perform other 60
+duties under sections 113.81 to 113.90 of the Revised Code. In 61
+selecting such a vendor, the treasurer of state may give 62
+preference to vendors with a principal place of business in this 63
+state. 64
+(C) In establishing the transactional currency, the 65
+treasurer of state shall establish a means to ensure that a 66
+person or state that holds the transactional currency may use 67
+the currency as legal tender in payment of debt and readily 68
+transfer or assign the transactional currency to any other 69
+person or state by electronic means. 70
+(D) In establishing specie, the treasurer of state shall 71
+exclusively authorize an approved bullion depository as the 72
+state's issuer, ensure that the holder of the specie may use the 73
+specie as legal tender in payment of debt, and ensure that the 74
+
+H. B. No. 206 Page 4
+As Introduced
+specie is readily transferable to any other person or state. 75
+Sec. 113.83. (A) The treasurer of state, or the treasurer 76
+of state's designee, serving as trustee, shall hold in trust on 77
+behalf of the transactional currency holders all specie and 78
+bullion owned or purchased for such purposes. The trustee shall 79
+maintain enough specie or bullion to provide for the redemption 80
+of all units of the transactional currency issued but not 81
+redeemed. 82
+(B) The trustee shall establish an account in the approved 83
+bullion depository to hold in trust as trustee on behalf of the 84
+transactional currency holders all specie and bullion owned and 85
+allocated or purchased for such purposes. 86
+Sec. 113.84. (A) The treasurer of state shall issue 87
+transactional currency to a person or a state of the United 88
+States to which either of the following apply: 89
+(1) The person or state makes payment to the treasurer of 90
+state for the purpose of purchasing specie or bullion to be 91
+represented by transactional currency and pays any fee charged 92
+under section 113.89 of the Revised Code; 93
+(2) The person or state designates specie or bullion held 94
+on account in the approved bullion depository for the purpose of 95
+being represented by transactional currency and pays any fee 96
+charged under section 113.89 of the Revised Code. 97
+(B) Upon receiving payment under division (A)(1) of this 98
+section or an account holder's designation and payment under 99
+division (A)(2) of this section, the treasurer of state shall do 100
+all of the following: 101
+(1) Using the money received, buy specie or bullion in the 102
+number of troy ounces of precious metal equal to the number of 103
+
+H. B. No. 206 Page 5
+As Introduced
+units of the transactional currency to be issued to the 104
+purchaser under division (A) of this section; 105
+(2) Deposit the specie or bullion into the pooled 106
+depository account for the purchaser; 107
+(3) Issue to the purchaser a depository account with, or 108
+add to an existing depository account, a number of units of the 109
+transactional currency equal to the amount of specie or bullion 110
+that the purchase money received from the account holder would 111
+buy at the market price on that date as published by the 112
+approved bullion depository. 113
+Sec. 113.85. (A) A person that holds transactional 114
+currency may present to the treasurer of state any number of 115
+units of the transactional currency to redeem for United States 116
+dollars. 117
+(B) On receipt of a person's request for redemption, the 118
+treasurer of state shall do both of the following: 119
+(1) Sell from the specie or bullion held in the pooled 120
+depository account a number of troy ounces equal to the number 121
+of units of the transactional currency being redeemed; 122
+(2) Provide to the person an amount of United States 123
+dollars equal to the amount received from the sale of specie or 124
+bullion under division (A) of this section, less a fee charged 125
+under section 113.89 of the Revised Code. 126
+Sec. 113.86. (A) Subject to section 113.82 of the Revised 127
+Code, an account holder that holds the transactional currency 128
+may present to the treasurer of state any number of units of the 129
+transactional currency to redeem for an equal number of troy 130
+ounces of specie or bullion from the pooled depository account. 131
+
+H. B. No. 206 Page 6
+As Introduced
+(B) On receipt of a request for redemption, the treasurer 132
+of state shall do all of the following: 133
+(1) Withdraw the equivalent number of troy ounces of 134
+specie or bullion from the pooled depository account; 135
+(2) On the payment of the fee charged under section 113.89 136
+of the Revised Code, deliver the specie or bullion to the 137
+requestor. 138
+Sec. 113.87. (A) At the time of each transaction involvin g 139
+the issuance or redemption of the transactional currency, the 140
+treasurer of state shall determine the value of a unit of the 141
+transaction currency as published by the approved bullion 142
+depository. 143
+(B) The value of a unit of the transactional currency at 144
+the time of a transaction must be equal to the value of the 145
+appropriate fraction of a troy ounce of gold or silver, 146
+respectively, at the time of that transaction as published by 147
+the approved bullion depository. 148
+Sec. 113.88. The treasurer of state, as trustee, shall 149
+hold outside the state treasury on the behalf of persons who 150
+hold the transactional currency money received under division 151
+(A) of section 113.84 of the Revised Code, specie or bullion 152
+purchased or deposited in the pooled depository account as 153
+provided by division (B)(1) of section 113.84 of the Revised 154
+Code, and money received from the sale of specie or bullion in 155
+the pooled depository account in response to a request for 156
+redemption under section 113.85 of the Revised Code. Such money, 157
+specie, and bullion is not available for appropriation by the 158
+general assembly. 159
+Sec. 113.89. The treasurer of state may establish a fee 160
+
+H. B. No. 206 Page 7
+As Introduced
+for the issuance or redemption of the transactional currency to 161
+cover the treasurer of state's costs in administering sections 162
+113.80 to 113.89 of the Revised Code and an industry standard 163
+merchant fee for use. Fees collected by the treasurer of state 164
+under this section shall be considered repayment receipts to be 165
+used for such purposes. Fees collected in excess of the amount 166
+necessary for such purposes shall be deposited in the general 167
+revenue fund. 168
+Sec. 113.90. The treasurer of state may adopt rules in 169
+accordance with Chapter 119. of the Revised Code to administer 170
+sections 113.81 to 113.89 of the Revised Code, including rules 171
+to do the following: 172
+(A) Ensure the security of the specie, bullion, 173
+transactional currency, transactions, and related data; 174
+(B) Prevent fraud; 175
+(C) Prevent the release of data related to depository 176
+accounts or depository account holders other than by order of a 177
+court with proper jurisdiction. 178
+
+[DELETED: nH BIL     .  : 1:1 1:1 1 1;1]
+[DELETED: 6  1 1 1 2 2.2 2 2 2 2.2 2 2.3 3 3 3.3 3 3.3 3.3 4 4.4 4 4 4]
+[DELETED: 6  4.4 4 4 5 5 5 5.5 5 5 5.5 5 6 6 6 6.6 6 6 6 6 6.7 7 7 7 7]
+[DELETED: 6 .7 7 7 7 7 8 8.8 8 8 8.8 8 8:8 9 9 9;9 9 9 9.9 9 9 1:1 1 1]
+[DELETED: 6  1;1 1;1 1 1 1 1 1.1 1 1 1.1 1:1 1 1;1 1 1 1.1 1 1 1 1.1]
+[DELETED: 6  1:1 1;1 1 1.1 1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1]
+[DELETED: 6  1 1 1 1 1 1 1.1 1 1 1:1 1;1;1 1 1.1]

@@ -1,0 +1,1451 @@
+Title: Cosponsors: Representatives Russo, Glassburn, Rogers, Brownlee,
+Official Title: Cosponsors: Representatives Russo, Glassburn, Rogers, Brownlee,
+Number of Sections: 47
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 365
+2025-2026
+Representatives Brennan, Hall, D.
+Piccolantonio, Isaacsohn, Grim, Somani, Upchurch, Mohamed, Sigrist, Thomas,
+C., Sweeney, Brent, McNally, Lawson-Rowe, Miller, J., White, E.
+To amend sections 5747.08 and 5747.98 and to enact 1
+
+Section 2:
+section 5747.87 of the Revised Code to authorize 2
+a refundable income tax credit or rebate for 3
+homeowners and renters whose property taxes or a 4
+portion of their rent exceed five per cent of 5
+their income and to name this act the Property 6
+Tax Refund Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 5747.08 and 5747.98 be amended 8
+and section 5747.87 of the Revised Code be enacted to read as 9
+follows: 10
+Sec. 5747.08. An annual return with respect to the tax 11
+imposed by section 5747.02 of the Revised Code and each tax 12
+imposed under Chapter 5748. of the Revised Code shall be made by 13
+every taxpayer for any taxable year for which the taxpayer is 14
+liable for the tax imposed by that section or under that 15
+chapter, unless the total credits allowed under division (E) of 16
+
+Section 4:
+section 5747.05 and divisions (F) and (G) of section 5747.055 of 17
+the Revised Code for the year are equal to or exceed the tax 18
+H. B. No. 365 Page 2
+As Introduced
+imposed by section 5747.02 of the Revised Code, in which case no 19
+return shall be required unless the taxpayer is liable for a tax 20
+imposed pursuant to Chapter 5748. of the Revised Code. 21
+(A) If an individual is deceased, any return or notice 22
+required of that individual under this chapter shall be made and 23
+filed by that decedent's executor, administrator, or other 24
+person charged with the property of that decedent. 25
+(B) If an individual is unable to make a return or notice 26
+required by this chapter, the return or notice required of that 27
+individual shall be made and filed by the individual's duly 28
+authorized agent, guardian, conservator, fiduciary, or other 29
+person charged with the care of the person or property of that 30
+individual. 31
+(C) Returns or notices required of an estate or a trust 32
+shall be made and filed by the fiduciary of the estate or trust. 33
+(D)(1)(a) Except as otherwise provided in division (D)(1) 34
+(b) of this section, any pass-through entity may file a single 35
+return on behalf of one or more of the entity's investors other 36
+than an investor that is a person subject to the tax imposed 37
+under section 5733.06 of the Revised Code. The single return 38
+shall set forth the name, address, and social security number or 39
+other identifying number of each of those pass-through entity 40
+investors and shall indicate the distributive share of each of 41
+those pass-through entity investor's income taxable in this 42
+state in accordance with sections 5747.20 to 5747.231 of the 43
+Revised Code. Such pass-through entity investors for whom the 44
+pass-through entity elects to file a single return are not 45
+entitled to the exemption or credit provided for by sections 46
+
+Section 5:
+5747.02 and 5747.022 of the Revised Code; shall calculate the 47
+tax before business credits at the highest rate of tax set forth 48
+H. B. No. 365 Page 3
+As Introduced
+in section 5747.02 of the Revised Code for the taxable year for 49
+which the return is filed; and are entitled to only their 50
+distributive share of the business credits as defined in 51
+division (D)(2) of this section. A single check drawn by the 52
+pass-through entity shall accompany the return in full payment 53
+of the tax due, as shown on the single return, for such 54
+investors, other than investors who are persons subject to the 55
+tax imposed under section 5733.06 of the Revised Code. 56
+(b)(i) A pass-through entity shall not include in such a 57
+single return any investor that is a trust to the extent that 58
+any direct or indirect current, future, or contingent 59
+beneficiary of the trust is a person subject to the tax imposed 60
+under section 5733.06 of the Revised Code. 61
+(ii) A pass-through entity shall not include in such a 62
+single return any investor that is itself a pass-through entity 63
+to the extent that any direct or indirect investor in the second 64
+pass-through entity is a person subject to the tax imposed under 65
+
+Section 6:
+section 5733.06 of the Revised Code. 66
+(c) Except as provided by division (L) of this section, 67
+nothing in division (D) of this section precludes the tax 68
+commissioner from requiring such investors to file the return 69
+and make the payment of taxes and related interest, penalty, and 70
+interest penalty required by this section or section 5747.02, 71
+
+Section 7:
+5747.09, or 5747.15 of the Revised Code. Nothing in division (D) 72
+of this section precludes such an investor from filing the 73
+annual return under this section, utilizing the refundable 74
+credit equal to the investor's proportionate share of the tax 75
+paid by the pass-through entity on behalf of the investor under 76
+division (I) of this section, and making the payment of taxes 77
+imposed under section 5747.02 of the Revised Code. Nothing in 78
+H. B. No. 365 Page 4
+As Introduced
+division (D) of this section shall be construed to provide to 79
+such an investor or pass-through entity any additional deduction 80
+or credit, other than the credit provided by division (I) of 81
+this section, solely on account of the entity's filing a return 82
+in accordance with this section. Such a pass-through entity also 83
+shall make the filing and payment of estimated taxes on behalf 84
+of the pass-through entity investors other than an investor that 85
+is a person subject to the tax imposed under section 5733.06 of 86
+the Revised Code. 87
+(2) For the purposes of this section, "business credits" 88
+means the credits listed in section 5747.98 of the Revised Code 89
+excluding the following credits: 90
+(a) The retirement income credit under division (B) of 91
+
+Section 8:
+section 5747.055 of the Revised Code; 92
+(b) The senior citizen credit under division (F) of 93
+
+Section 9:
+section 5747.055 of the Revised Code; 94
+(c) The lump sum distribution credit under division (G) of 95
+
+Section 10:
+section 5747.055 of the Revised Code; 96
+(d) The dependent care credit under section 5747.054 of 97
+the Revised Code; 98
+(e) The lump sum retirement income credit under division 99
+(C) of section 5747.055 of the Revised Code; 100
+(f) The lump sum retirement income credit under division 101
+(D) of section 5747.055 of the Revised Code; 102
+(g) The lump sum retirement income credit under division 103
+(E) of section 5747.055 of the Revised Code; 104
+(h) The credit for displaced workers who pay for job 105
+training under section 5747.27 of the Revised Code; 106
+H. B. No. 365 Page 5
+As Introduced
+(i) The twenty-dollar personal exemption credit under 107
+
+Section 11:
+section 5747.022 of the Revised Code; 108
+(j) The joint filing credit under division (E) of section 109
+
+Section 12:
+5747.05 of the Revised Code; 110
+(k) The nonresident credit under division (A) of section 111
+
+Section 13:
+5747.05 of the Revised Code; 112
+(l) The credit for a resident's out-of-state income under 113
+division (B) of section 5747.05 of the Revised Code; 114
+(m) The earned income tax credit under section 5747.71 of 115
+the Revised Code; 116
+(n) The lead abatement credit under section 5747.26 of the 117
+Revised Code; 118
+(o) The credit for education expenses under section 119
+
+Section 14:
+5747.72 of the Revised Code; 120
+(p) The credit for tuition paid to a nonchartered 121
+nonpublic school under section 5747.75 of the Revised Code; 122
+(q) The credit for property taxes or rent-equivalent taxes 123
+paid under section 5747.87 of the Revised Code. 124
+(3) The election provided for under division (D) of this 125
+
+Section 15:
+section applies only to the taxable year for which the election 126
+is made by the pass-through entity. Unless the tax commissioner 127
+provides otherwise, this election, once made, is binding and 128
+irrevocable for the taxable year for which the election is made. 129
+Nothing in this division shall be construed to provide for any 130
+deduction or credit that would not be allowable if a nonresident 131
+pass-through entity investor were to file an annual return. 132
+(4) If a pass-through entity makes the election provided 133
+H. B. No. 365 Page 6
+As Introduced
+for under division (D) of this section, the pass-through entity 134
+shall be liable for any additional taxes, interest, interest 135
+penalty, or penalties imposed by this chapter if the tax 136
+commissioner finds that the single return does not reflect the 137
+correct tax due by the pass-through entity investors covered by 138
+that return. Nothing in this division shall be construed to 139
+limit or alter the liability, if any, imposed on pass-through 140
+entity investors for unpaid or underpaid taxes, interest, 141
+interest penalty, or penalties as a result of the pass-through 142
+entity's making the election provided for under division (D) of 143
+this section. For the purposes of division (D) of this section, 144
+"correct tax due" means the tax that would have been paid by the 145
+pass-through entity had the single return been filed in a manner 146
+reflecting the commissioner's findings. Nothing in division (D) 147
+of this section shall be construed to make or hold a pass- 148
+through entity liable for tax attributable to a pass-through 149
+entity investor's income from a source other than the pass- 150
+through entity electing to file the single return. 151
+(E) If a husband and wife file a joint federal income tax 152
+return for a taxable year, they shall file a joint return under 153
+this section for that taxable year, and their liabilities are 154
+joint and several, but, if the federal income tax liability of 155
+either spouse is determined on a separate federal income tax 156
+return, they shall file separate returns under this section. 157
+If either spouse is not required to file a federal income 158
+tax return and either or both are required to file a return 159
+pursuant to this chapter, they may elect to file separate or 160
+joint returns, and, pursuant to that election, their liabilities 161
+are separate or joint and several. If a husband and wife file 162
+separate returns pursuant to this chapter, each must claim the 163
+taxpayer's own exemption, but not both, as authorized under 164
+H. B. No. 365 Page 7
+As Introduced
+
+Section 16:
+section 5747.02 of the Revised Code on the taxpayer's own 165
+return. 166
+(F) Each return or notice required to be filed under this 167
+
+Section 17:
+section shall contain the signature of the taxpayer or the 168
+taxpayer's duly authorized agent and of the person who prepared 169
+the return for the taxpayer, and shall include the taxpayer's 170
+social security number. Each return shall be verified by a 171
+declaration under the penalties of perjury. The tax commissioner 172
+shall prescribe the form that the signature and declaration 173
+shall take. 174
+(G) Each return or notice required to be filed under this 175
+
+Section 18:
+section shall be made and filed as required by section 5747.04 176
+of the Revised Code, on or before the fifteenth day of April of 177
+each year, on forms that the tax commissioner shall prescribe, 178
+together with remittance made payable to the treasurer of state 179
+in the combined amount of the state and all school district 180
+income taxes shown to be due on the form. 181
+Upon good cause shown, the commissioner may extend the 182
+period for filing any notice or return required to be filed 183
+under this section and may adopt rules relating to extensions. 184
+If the extension results in an extension of time for the payment 185
+of any state or school district income tax liability with 186
+respect to which the return is filed, the taxpayer shall pay at 187
+the time the tax liability is paid an amount of interest 188
+computed at the rate per annum prescribed by section 5703.47 of 189
+the Revised Code on that liability from the time that payment is 190
+due without extension to the time of actual payment. Except as 191
+provided in section 5747.132 of the Revised Code, in addition to 192
+all other interest charges and penalties, all taxes imposed 193
+under this chapter or Chapter 5748. of the Revised Code and 194
+H. B. No. 365 Page 8
+As Introduced
+remaining unpaid after they become due, except combined amounts 195
+due of one dollar or less, bear interest at the rate per annum 196
+prescribed by section 5703.47 of the Revised Code until paid or 197
+until the day an assessment is issued under section 5747.13 of 198
+the Revised Code, whichever occurs first. 199
+If the commissioner considers it necessary in order to 200
+ensure the payment of the tax imposed by section 5747.02 of the 201
+Revised Code or any tax imposed under Chapter 5748. of the 202
+Revised Code, the commissioner may require returns and payments 203
+to be made otherwise than as provided in this section. 204
+To the extent that any provision in this division 205
+conflicts with any provision in section 5747.026 of the Revised 206
+Code, the provision in that section prevails. 207
+(H) The amounts withheld pursuant to section 5747.06, 208
+
+Section 19:
+5747.062, 5747.063, 5747.064, 5747.065, or 5747.071 of the 209
+Revised Code shall be allowed to the ultimate recipient of the 210
+income as credits against payment of the appropriate taxes 211
+imposed on the ultimate recipient by section 5747.02 and under 212
+Chapter 5748. of the Revised Code. As used in this division, 213
+"ultimate recipient" means the person who is required to report 214
+income from which amounts are withheld pursuant to section 215
+
+Section 20:
+5747.06, 5747.062, 5747.063, 5747.064, 5747.065, or 5747.071 of 216
+the Revised Code on the annual return required to be filed under 217
+this section. 218
+(I) If a pass-through entity elects to file a single 219
+return under division (D) of this section and if any investor is 220
+required to file the annual return and make the payment of taxes 221
+required by this chapter on account of the investor's other 222
+income that is not included in a single return filed by a pass- 223
+through entity or any other investor elects to file the annual 224
+H. B. No. 365 Page 9
+As Introduced
+return, the investor is entitled to a refundable credit equal to 225
+the investor's proportionate share of the tax paid by the pass- 226
+through entity on behalf of the investor. The investor shall 227
+claim the credit for the investor's taxable year in which or 228
+with which ends the taxable year of the pass-through entity. 229
+Nothing in this chapter shall be construed to allow any credit 230
+provided in this chapter to be claimed more than once. For the 231
+purpose of computing any interest, penalty, or interest penalty, 232
+the investor shall be deemed to have paid the refundable credit 233
+provided by this division on the day that the pass-through 234
+entity paid the estimated tax or the tax giving rise to the 235
+credit. 236
+(J) The tax commissioner shall ensure that each return 237
+required to be filed under this section includes a box that the 238
+taxpayer may check to authorize a paid tax preparer who prepared 239
+the return to communicate with the department of taxation about 240
+matters pertaining to the return. The return or instructions 241
+accompanying the return shall indicate that by checking the box 242
+the taxpayer authorizes the department of taxation to contact 243
+the preparer concerning questions that arise during the 244
+processing of the return and authorizes the preparer only to 245
+provide the department with information that is missing from the 246
+return, to contact the department for information about the 247
+processing of the return or the status of the taxpayer's refund 248
+or payments, and to respond to notices about mathematical 249
+errors, offsets, or return preparation that the taxpayer has 250
+received from the department and has shown to the preparer. 251
+(K) The tax commissioner shall permit individual taxpayers 252
+to instruct the department of taxation to cause any refund of 253
+overpaid taxes to be deposited directly into a checking account, 254
+savings account, or an individual retirement account or 255
+H. B. No. 365 Page 10
+As Introduced
+individual retirement annuity, or preexisting college savings 256
+plan or program account offered by the Ohio tuition trust 257
+authority under Chapter 3334. of the Revised Code, as designated 258
+by the taxpayer, when the taxpayer files the annual return 259
+required by this section electronically. 260
+(L) If, for the taxable year, a nonresident or trust that 261
+is the owner of an electing pass-through entity, as defined in 262
+
+Section 21:
+section 5747.38 of the Revised Code, does not have Ohio adjusted 263
+gross income or, in the case of a trust, modified Ohio taxable 264
+income other than from one or more electing pass-through 265
+entities, the nonresident or trust shall not be required to file 266
+an annual return under this section. Nothing in this division 267
+precludes such an owner from filing the annual return under this 268
+
+Section 22:
+section, utilizing the refundable credit under section 5747.39 269
+of the Revised Code equal to the owner's proportionate share of 270
+the tax levied under section 5747.38 of the Revised Code and 271
+paid by the electing pass-through entity, and making the payment 272
+of taxes imposed under section 5747.02 of the Revised Code. 273
+(M) The tax commissioner may adopt rules to administer 274
+this section. 275
+Sec. 5747.87. (A) As used in this section : 276
+(1) "Claim year" means, for individuals required to file 277
+an income tax return pursuant to this chapter, the individual's 278
+taxable year and, for all other individuals, the calendar year 279
+preceding the year in which an application for credit is filed 280
+under this section. 281
+(2) "Eligible claimant" means an individual who has 282
+occupied a homestead as an owner or lessee for at least six 283
+months of the claim year and whose total household resources do 284
+H. B. No. 365 Page 11
+As Introduced
+not exceed the threshold described in division (G) of this 285
+
+Section 23:
+section. 286
+(3) "Gross rent" means the total rent paid during the 287
+claim year by a lessee for the right to occupy a homestead 288
+pursuant to an arm's length transaction with the property owner 289
+or the owner's representative. 290
+(4) "Qualifying homestead" means a dwelling, including a 291
+manufactured or mobile home or a unit in a multiple-unit 292
+dwelling or housing cooperative, that is located in this state, 293
+that is not fully exempt from property taxation for the claim 294
+year, and that meets one of the following requirements: 295
+(a) The dwelling is owned by an individual who occupies 296
+the dwelling as a primary residence and the true value of the 297
+property, as listed on the tax list for the tax year ending in 298
+the individual's claim year, does not exceed the home value 299
+limit for that claim year; 300
+(b) The dwelling is leased by an individual who occupies 301
+the dwelling as a primary residence and the gross rent paid by 302
+the lessee during the claim year did not exceed the product 303
+obtained by multiplying the rent limit for that claim year by 304
+the number of months the lessee occupied the dwelling as a 305
+primary residence. 306
+(5) "Household" means an individual and the individual's 307
+spouse. 308
+(6) "Income" means federal adjusted gross income, plus all 309
+income excluded or exempt from the computation of federal 310
+adjusted gross income, subtracted by all of the following: 311
+(a) Up to three hundred dollars of gifts in cash or kind 312
+from nongovernmental sources; 313
+H. B. No. 365 Page 12
+As Introduced
+(b) Up to three hundred dollars of lottery, casino gaming, 314
+or sports gaming winnings; 315
+(c) Benefits provided under the supplemental nutrition 316
+assistance program administered by the department of job and 317
+family services pursuant to section 5101.54 of the Revised Code; 318
+(d) Government payments made to a third party on behalf of 319
+an individual; 320
+(e) State or municipal tax refunds or tax credits; 321
+(f) Any government grant that a property owner must use 322
+for the rehabilitation of the owner's homestead; 323
+(g) Stipends received by a person who is acting as a 324
+foster grandparent under the foster grandparent program 325
+authorized pursuant to 42 U.S.C 5011 or as a senior companion 326
+pursuant to 42 U.S.C 5013; 327
+(h) Amounts deducted from benefits provided under Title II 328
+of the Social Security Act or from railroad retirement benefits 329
+for premiums paid pursuant to the medicare program established 330
+by Title XVIII of the Social Security Act; 331
+(i) Contributions by an employer to life, accident, or 332
+health insurance plans; 333
+(j) Any money received from a low-income customer 334
+assistance program, as defined in section 4928.01 of the Revised 335
+Code; 336
+(k) Loan proceeds; 337
+(l) Inheritance or life insurance benefits from a spouse; 338
+(m) Payments from a long-term care policy made to a 339
+nursing home or other care facility; 340
+H. B. No. 365 Page 13
+As Introduced
+(n) Accident or health insurance plan premiums paid by an 341
+employer for a plan that covers a member of the household or the 342
+member's family; 343
+(o) Compensation for wrongful imprisonment. 344
+(7) "Property tax due" means the property taxes or 345
+manufactured home taxes charged and payable against the 346
+homestead for the tax year ending in the eligible claimant's 347
+claim year, after any reductions allowed under the Revised Code. 348
+"Property tax due" does not include taxes that appeared on the 349
+general tax list or manufactured home tax list for any preceding 350
+tax year or any penalties, interest, or special assessments. 351
+(8) "Rent-equivalent tax paid" means fifteen per cent of 352
+gross rent. 353
+(9) "Total household resources" means all income received 354
+by all individuals of a household in the claim year while 355
+members of the household, increased by the following deductions 356
+from federal gross income: 357
+(a) Any net operating loss; 358
+(b) Any net rental or royalty loss; 359
+(c) Any carryback or carryforward of a net operating loss. 360
+(10) "Home value limit" means the median home value of 361
+owner-occupied housing units in the county in this state that 362
+has the highest such median home value according to the most 363
+recent one-year data published in the American community survey. 364
+(11) "Rent limit" means the median gross rent in the 365
+county in this state that has the highest such median gross rent 366
+according to the most recent one-year data published in the 367
+American community survey. 368
+H. B. No. 365 Page 14
+As Introduced
+(12) "American community survey" means the supplementary 369
+statistics collected and published annually by the United States 370
+census bureau in accordance with 13 U.S.C. 141 and 193. 371
+(B) A refundable credit or rebate is allowed to eligible 372
+claimants. In the case of eligible claimants required to file an 373
+annual return under this chapter for the claim year, a credit is 374
+allowed against the claimant's aggregate tax liability under 375
+
+Section 24:
+section 5747.02 of the Revised Code. For all other eligible 376
+claimants, a rebate may be claimed on the form prescribed by the 377
+tax commissioner pursuant to division (E) of this section. 378
+Subject to division (C) of this section, the credit or rebate 379
+shall equal one of the following: 380
+(1) For eligible claimants who own the homestead for which 381
+the claim is made, the amount by which the eligible claimant's 382
+property tax due exceeds five per cent of the eligible 383
+claimant's total household resources for that claim year. 384
+(2) For eligible claimants who lease the homestead for 385
+which the claim is made, the amount by which the eligible 386
+claimant's rent-equivalent tax paid in the claim year exceeds 387
+five per cent of the eligible claimant's total household 388
+resources for that year. 389
+(C) The credit or rebate allowed under this section for a 390
+claim year shall not exceed a specified limit based upon the 391
+eligible claimant's total household resources. For the first 392
+claim year ending on or after the effective date of this 393
+
+Section 25:
+section, the limits are as follows: 394
+395
+1 2
+A TOTAL HOUSEHOLD RESOURCES CREDIT OR REBATE LIMIT
+H. B. No. 365 Page 15
+As Introduced
+B $60,000 or less $1,000
+C More than $60,000 but not more $800
+than $70,000
+D More than $70,000 but not more $600
+than $80,000
+E More than $80,000 but not more $400
+than $90,000
+F More than $90,000 but not more $200
+than $100,000
+For each succeeding claim year, these household resources 396
+tiers and limits shall be adjusted as provided in division (G) 397
+of this section. 398
+(D) For eligible claimants required to file an annual 399
+return under this chapter for the claim year, the credit shall 400
+be claimed in the order required under section 5747.98 of the 401
+Revised Code. If the amount of the credit under this section 402
+exceeds the aggregate amount of tax otherwise due under section 403
+
+Section 26:
+5747.02 of the Revised Code after deduction of all other credits 404
+in that order, the taxpayer is entitled to a refund of the 405
+excess. 406
+(E)(1) The tax commissioner shall prescribe a form on 407
+which eligible claimants who are not required to file an annual 408
+return under this chapter may apply for the rebate authorized 409
+under this section. Except as provided in division (E)(2) of 410
+this section, such eligible claimants shall apply for the rebate 411
+on that form after the first day of January following the end of 412
+the claim year but before the fifteenth day of the fourth month 413
+H. B. No. 365 Page 16
+As Introduced
+following the end of that claim year. 414
+(2) An eligible claimant may request an extension of the 415
+time to file a rebate application under division (E)(1) of this 416
+
+Section 27:
+section, on a form prescribed by the commissioner. Upon receipt 417
+of such a request, the commissioner shall extend the due date 418
+for filing the application to the fifteenth day of the tenth 419
+month after the last day of the claim year. 420
+(F)(1) The credit or rebate authorized under this section 421
+shall be allowed to only one eligible claimant per homestead. 422
+(2) Only the lessee shall claim a credit or rebate with 423
+respect to property that is rented or leased as a homestead. 424
+(G) For the first claim year ending on or after the 425
+effective date of this section, an individual qualifies as an 426
+eligible claimant only if the individual's total household 427
+resources do not exceed one hundred thousand dollars. For each 428
+following claim year, the tax commissioner shall adjust this 429
+total household resources limit and the household resources 430
+tiers and credit or rebate limits described in division (C) of 431
+this section by completing the following calculations in 432
+September of each year: 433
+(1) Determine the percentage increase in the gross 434
+domestic product deflator determined by the bureau of economic 435
+analysis of the United States department of commerce from the 436
+first day of January of the preceding year to the last day of 437
+December of the preceding year; 438
+(2) Multiply that percentage increase by the total 439
+household resources limit, household resources tiers, and credit 440
+or rebate limits for the current year; 441
+(3) Add the resulting products to the respective tiers and 442
+H. B. No. 365 Page 17
+As Introduced
+limits for the current year; 443
+(4) Round the resulting sums to the nearest multiple of 444
+one thousand dollars, in the case of the total household 445
+resources limit and tiers, or nearest multiple of ten dollars, 446
+in the case of the credit or rebate limits. 447
+The adjusted amounts apply to claim years beginning in the 448
+calendar year in which the adjustment is made and to claim years 449
+beginning in each ensuing calendar year until a calendar year in 450
+which a new adjustment is made pursuant to this division. The 451
+commissioner shall not make a new adjustment in any calendar 452
+year in which the amount resulting from the adjustment would be 453
+less than the amount resulting from the adjustment in the 454
+preceding calendar year. 455
+(H) If a credit or rebate allowed under this section was 456
+based on an amount of property tax due that differs from the 457
+actual amount of such taxes paid by the eligible claimant for 458
+the tax year ending in that claim year, the eligible claimant 459
+shall file an annual return or application under division (E) of 460
+this section for the ensuing claim year that reports the 461
+difference. The claimant shall adjust the credit or rebate 462
+claimed for the ensuing year by the amount of the difference. If 463
+the claimant is not eligible for the credit or rebate for the 464
+ensuing claim year, the claimant shall pay or may request 465
+payment of the difference, as applicable. 466
+(I) On or before the first day of November of each year, 467
+the tax commissioner shall determine and publish a home value 468
+limit and rent limit. The limits shall apply to claim years 469
+beginning in the calendar year in which the limits are 470
+determined. 471
+H. B. No. 365 Page 18
+As Introduced
+Sec. 5747.98. (A) To provide a uniform procedure for 472
+calculating a taxpayer's aggregate tax liability under section 473
+
+Section 28:
+5747.02 of the Revised Code, a taxpayer shall claim any credits 474
+to which the taxpayer is entitled in the following order: 475
+Either the retirement income credit under division (B) of 476
+
+Section 29:
+section 5747.055 of the Revised Code or the lump sum retirement 477
+income credits under divisions (C), (D), and (E) of that 478
+
+Section 30:
+section; 479
+Either the senior citizen credit under division (F) of 480
+
+Section 31:
+section 5747.055 of the Revised Code or the lump sum 481
+distribution credit under division (G) of that section; 482
+The dependent care credit under section 5747.054 of the 483
+Revised Code; 484
+The credit for displaced workers who pay for job training 485
+under section 5747.27 of the Revised Code; 486
+The campaign contribution credit under section 5747.29 of 487
+the Revised Code; 488
+The twenty-dollar personal exemption credit under section 489
+
+Section 32:
+5747.022 of the Revised Code; 490
+The joint filing credit under division (G)(E) of section 491
+
+Section 33:
+5747.05 of the Revised Code; 492
+The earned income credit under section 5747.71 of the 493
+Revised Code; 494
+The nonrefundable credit for education expenses under 495
+
+Section 34:
+section 5747.72 of the Revised Code; 496
+The nonrefundable credit for donations to scholarship 497
+granting organizations under section 5747.73 of the Revised 498
+H. B. No. 365 Page 19
+As Introduced
+Code; 499
+The nonrefundable credit for tuition paid to a 500
+nonchartered nonpublic school under section 5747.75 of the 501
+Revised Code; 502
+The nonrefundable vocational job credit under section 503
+
+Section 35:
+5747.057 of the Revised Code; 504
+The nonrefundable job retention credit under division (B) 505
+of section 5747.058 of the Revised Code; 506
+The enterprise zone credit under section 5709.66 of the 507
+Revised Code; 508
+The credit for beginning farmers who participate in a 509
+financial management program under division (B) of section 510
+
+Section 36:
+5747.77 of the Revised Code; 511
+The credit for commercial vehicle operator training 512
+expenses under section 5747.82 of the Revised Code; 513
+The nonrefundable welcome home Ohio (WHO) program credit 514
+under section 122.633 of the Revised Code; 515
+The credit for selling or renting agricultural assets to 516
+beginning farmers under division (A) of section 5747.77 of the 517
+Revised Code; 518
+The credit for purchases of qualifying grape production 519
+property under section 5747.28 of the Revised Code; 520
+The small business investment credit under section 5747.81 521
+of the Revised Code; 522
+The nonrefundable lead abatement credit under section 523
+
+Section 37:
+5747.26 of the Revised Code; 524
+The opportunity zone investment credit under section 525
+H. B. No. 365 Page 20
+As Introduced
+
+Section 38:
+5747.86 of the Revised Code; 526
+The enterprise zone credits under section 5709.65 of the 527
+Revised Code; 528
+The research and development credit under section 5747.331 529
+of the Revised Code; 530
+The credit for rehabilitating a historic building under 531
+
+Section 39:
+section 5747.76 of the Revised Code; 532
+The nonrefundable Ohio low-income housing tax credit under 533
+
+Section 40:
+section 5747.83 of the Revised Code; 534
+The nonrefundable affordable single-family home credit 535
+under section 5747.84 of the Revised Code; 536
+The nonresident credit under division (A) of section 537
+
+Section 41:
+5747.05 of the Revised Code; 538
+The credit for a resident's out-of-state income under 539
+division (B) of section 5747.05 of the Revised Code; 540
+The refundable motion picture and broadway theatrical 541
+production credit under section 5747.66 of the Revised Code; 542
+The refundable credit for film and theater capital 543
+improvement projects under section 5747.67 of the Revised Code; 544
+The refundable jobs creation credit or job retention 545
+credit under division (A) of section 5747.058 of the Revised 546
+Code; 547
+The refundable credit for taxes paid by a qualifying 548
+entity granted under section 5747.059 of the Revised Code; 549
+The refundable credits for taxes paid by a qualifying 550
+pass-through entity granted under division (I) of section 551
+
+Section 42:
+5747.08 of the Revised Code; 552
+H. B. No. 365 Page 21
+As Introduced
+The refundable credit under section 5747.80 of the Revised 553
+Code for losses on loans made to the Ohio venture capital 554
+program under sections 150.01 to 150.10 of the Revised Code; 555
+The refundable credit for rehabilitating a historic 556
+building under section 5747.76 of the Revised Code; 557
+The refundable credit under section 5747.39 of the Revised 558
+Code for taxes levied under section 5747.38 of the Revised Code 559
+paid by an electing pass-through entity; 560
+The refundable credit for property taxes or rent- 561
+equivalent taxes paid under section 5747.87 of the Revised Code. 562
+(B) For any credit, except the refundable credits 563
+enumerated in this section and the credit granted under division 564
+(H) of section 5747.08 of the Revised Code, the amount of the 565
+credit for a taxable year shall not exceed the taxpayer's 566
+aggregate amount of tax due under section 5747.02 of the Revised 567
+Code, after allowing for any other credit that precedes it in 568
+the order required under this section. Any excess amount of a 569
+particular credit may be carried forward if authorized under the 570
+
+Section 43:
+section creating that credit. Nothing in this chapter shall be 571
+construed to allow a taxpayer to claim, directly or indirectly, 572
+a credit more than once for a taxable year. 573
+
+Section 44:
+Section 2. That existing sections 5747.08 and 5747.98 of 574
+the Revised Code are hereby repealed. 575
+
+Section 45:
+Section 3. The enactment by this act of section 5747.87 of 576
+the Revised Code applies to claim years, as defined in that 577
+
+Section 46:
+section, as enacted by this act, ending on or after the 578
+effective date of that enactment. 579
+
+Section 47:
+Section 4. This act shall be known as the Property Tax 580
+Refund Act. 581
+[DELETED: nH      .  :1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3)3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7]
+[DELETED: 5  7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1-1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2-2 2]
+[DELETED: 5  2-2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2:2 2 2 2 2.2 2 2 2]
+[DELETED: 5  2.2 2 2 2 2 2 2 2 2:2 2 2 2 2;3 3 3 3 3 3.3 3.3 3 3:3 3;3]
+[DELETED: 5  3;3 3 3;3 3;3;3 3;3 3 3 3;3 3 3 3;3 3;3 3 3;3;3;3 3;3]
+[DELETED: 5  3 3;3.3 3 3 3 3 3 3.3 3.3 3 3 3:3;3;3.3 3 3 3 3 3 3 3.3]
+[DELETED: 5  3 3.3 3 3 3 3 3 3 3 3:3 3 3 3.3 3 3 3 3.3 3 3 3 3:3TSC]
+[DELETED: 5 $s$M $M $M $M $ 3 3.3 3 4 4 4 4 4 4.4 4 4 4 4 4 4 4]
+[DELETED: 5 .4 4 4 4 4 4.4 4.4 4.4 4 4 4 4 4 4 4 4:4 4 4 4 4;4 4 4;4 4]
+[DELETED: 5 ;4 4 4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4.4]
+[DELETED: 5  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 5  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 5  5 5 5 5 5 5 5;5-5 5 5 5 5 5 5 5 5 5 5 5.5 5.5 5 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 365
+2025-2026
+Representatives Brennan, Hall, D.
+Cosponsors: Representatives Russo, Glassburn, Rogers, Brownlee,
+Piccolantonio, Isaacsohn, Grim, Somani, Upchurch, Mohamed, Sigrist, Thomas,
+C., Sweeney, Brent, McNally, Lawson-Rowe, Miller, J., White, E.
+To amend sections 5747.08 and 5747.98 and to enact 1
+section 5747.87 of the Revised Code to authorize 2
+a refundable income tax credit or rebate for 3
+homeowners and renters whose property taxes or a 4
+portion of their rent exceed five per cent of 5
+their income and to name this act the Property 6
+Tax Refund Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 5747.08 and 5747.98 be amended 8
+and section 5747.87 of the Revised Code be enacted to read as 9
+follows: 10
+Sec. 5747.08. An annual return with respect to the tax 11
+imposed by section 5747.02 of the Revised Code and each tax 12
+imposed under Chapter 5748. of the Revised Code shall be made by 13
+every taxpayer for any taxable year for which the taxpayer is 14
+liable for the tax imposed by that section or under that 15
+chapter, unless the total credits allowed under division (E) of 16
+section 5747.05 and divisions (F) and (G) of section 5747.055 of 17
+the Revised Code for the year are equal to or exceed the tax 18
+
+H. B. No. 365 Page 2
+As Introduced
+imposed by section 5747.02 of the Revised Code, in which case no 19
+return shall be required unless the taxpayer is liable for a tax 20
+imposed pursuant to Chapter 5748. of the Revised Code. 21
+(A) If an individual is deceased, any return or notice 22
+required of that individual under this chapter shall be made and 23
+filed by that decedent's executor, administrator, or other 24
+person charged with the property of that decedent. 25
+(B) If an individual is unable to make a return or notice 26
+required by this chapter, the return or notice required of that 27
+individual shall be made and filed by the individual's duly 28
+authorized agent, guardian, conservator, fiduciary, or other 29
+person charged with the care of the person or property of that 30
+individual. 31
+(C) Returns or notices required of an estate or a trust 32
+shall be made and filed by the fiduciary of the estate or trust. 33
+(D)(1)(a) Except as otherwise provided in division (D)(1) 34
+(b) of this section, any pass-through entity may file a single 35
+return on behalf of one or more of the entity's investors other 36
+than an investor that is a person subject to the tax imposed 37
+under section 5733.06 of the Revised Code. The single return 38
+shall set forth the name, address, and social security number or 39
+other identifying number of each of those pass-through entity 40
+investors and shall indicate the distributive share of each of 41
+those pass-through entity investor's income taxable in this 42
+state in accordance with sections 5747.20 to 5747.231 of the 43
+Revised Code. Such pass-through entity investors for whom the 44
+pass-through entity elects to file a single return are not 45
+entitled to the exemption or credit provided for by sections 46
+5747.02 and 5747.022 of the Revised Code; shall calculate the 47
+tax before business credits at the highest rate of tax set forth 48
+
+H. B. No. 365 Page 3
+As Introduced
+in section 5747.02 of the Revised Code for the taxable year for 49
+which the return is filed; and are entitled to only their 50
+distributive share of the business credits as defined in 51
+division (D)(2) of this section. A single check drawn by the 52
+pass-through entity shall accompany the return in full payment 53
+of the tax due, as shown on the single return, for such 54
+investors, other than investors who are persons subject to the 55
+tax imposed under section 5733.06 of the Revised Code. 56
+(b)(i) A pass-through entity shall not include in such a 57
+single return any investor that is a trust to the extent that 58
+any direct or indirect current, future, or contingent 59
+beneficiary of the trust is a person subject to the tax imposed 60
+under section 5733.06 of the Revised Code. 61
+(ii) A pass-through entity shall not include in such a 62
+single return any investor that is itself a pass-through entity 63
+to the extent that any direct or indirect investor in the second 64
+pass-through entity is a person subject to the tax imposed under 65
+section 5733.06 of the Revised Code. 66
+(c) Except as provided by division (L) of this section, 67
+nothing in division (D) of this section precludes the tax 68
+commissioner from requiring such investors to file the return 69
+and make the payment of taxes and related interest, penalty, and 70
+interest penalty required by this section or section 5747.02, 71
+5747.09, or 5747.15 of the Revised Code. Nothing in division (D) 72
+of this section precludes such an investor from filing the 73
+annual return under this section, utilizing the refundable 74
+credit equal to the investor's proportionate share of the tax 75
+paid by the pass-through entity on behalf of the investor under 76
+division (I) of this section, and making the payment of taxes 77
+imposed under section 5747.02 of the Revised Code. Nothing in 78
+
+H. B. No. 365 Page 4
+As Introduced
+division (D) of this section shall be construed to provide to 79
+such an investor or pass-through entity any additional deduction 80
+or credit, other than the credit provided by division (I) of 81
+this section, solely on account of the entity's filing a return 82
+in accordance with this section. Such a pass-through entity also 83
+shall make the filing and payment of estimated taxes on behalf 84
+of the pass-through entity investors other than an investor that 85
+is a person subject to the tax imposed under section 5733.06 of 86
+the Revised Code. 87
+(2) For the purposes of this section, "business credits" 88
+means the credits listed in section 5747.98 of the Revised Code 89
+excluding the following credits: 90
+(a) The retirement income credit under division (B) of 91
+section 5747.055 of the Revised Code; 92
+(b) The senior citizen credit under division (F) of 93
+section 5747.055 of the Revised Code; 94
+(c) The lump sum distribution credit under division (G) of 95
+section 5747.055 of the Revised Code; 96
+(d) The dependent care credit under section 5747.054 of 97
+the Revised Code; 98
+(e) The lump sum retirement income credit under division 99
+(C) of section 5747.055 of the Revised Code; 100
+(f) The lump sum retirement income credit under division 101
+(D) of section 5747.055 of the Revised Code; 102
+(g) The lump sum retirement income credit under division 103
+(E) of section 5747.055 of the Revised Code; 104
+(h) The credit for displaced workers who pay for job 105
+training under section 5747.27 of the Revised Code; 106
+
+H. B. No. 365 Page 5
+As Introduced
+(i) The twenty-dollar personal exemption credit under 107
+section 5747.022 of the Revised Code; 108
+(j) The joint filing credit under division (E) of section 109
+5747.05 of the Revised Code; 110
+(k) The nonresident credit under division (A) of section 111
+5747.05 of the Revised Code; 112
+(l) The credit for a resident's out-of-state income under 113
+division (B) of section 5747.05 of the Revised Code; 114
+(m) The earned income tax credit under section 5747.71 of 115
+the Revised Code; 116
+(n) The lead abatement credit under section 5747.26 of the 117
+Revised Code; 118
+(o) The credit for education expenses under section 119
+5747.72 of the Revised Code; 120
+(p) The credit for tuition paid to a nonchartered 121
+nonpublic school under section 5747.75 of the Revised Code; 122
+(q) The credit for property taxes or rent-equivalent taxes 123
+paid under section 5747.87 of the Revised Code. 124
+(3) The election provided for under division (D) of this 125
+section applies only to the taxable year for which the election 126
+is made by the pass-through entity. Unless the tax commissioner 127
+provides otherwise, this election, once made, is binding and 128
+irrevocable for the taxable year for which the election is made. 129
+Nothing in this division shall be construed to provide for any 130
+deduction or credit that would not be allowable if a nonresident 131
+pass-through entity investor were to file an annual return. 132
+(4) If a pass-through entity makes the election provided 133
+
+H. B. No. 365 Page 6
+As Introduced
+for under division (D) of this section, the pass-through entity 134
+shall be liable for any additional taxes, interest, interest 135
+penalty, or penalties imposed by this chapter if the tax 136
+commissioner finds that the single return does not reflect the 137
+correct tax due by the pass-through entity investors covered by 138
+that return. Nothing in this division shall be construed to 139
+limit or alter the liability, if any, imposed on pass-through 140
+entity investors for unpaid or underpaid taxes, interest, 141
+interest penalty, or penalties as a result of the pass-through 142
+entity's making the election provided for under division (D) of 143
+this section. For the purposes of division (D) of this section, 144
+"correct tax due" means the tax that would have been paid by the 145
+pass-through entity had the single return been filed in a manner 146
+reflecting the commissioner's findings. Nothing in division (D) 147
+of this section shall be construed to make or hold a pass- 148
+through entity liable for tax attributable to a pass-through 149
+entity investor's income from a source other than the pass- 150
+through entity electing to file the single return. 151
+(E) If a husband and wife file a joint federal income tax 152
+return for a taxable year, they shall file a joint return under 153
+this section for that taxable year, and their liabilities are 154
+joint and several, but, if the federal income tax liability of 155
+either spouse is determined on a separate federal income tax 156
+return, they shall file separate returns under this section. 157
+If either spouse is not required to file a federal income 158
+tax return and either or both are required to file a return 159
+pursuant to this chapter, they may elect to file separate or 160
+joint returns, and, pursuant to that election, their liabilities 161
+are separate or joint and several. If a husband and wife file 162
+separate returns pursuant to this chapter, each must claim the 163
+taxpayer's own exemption, but not both, as authorized under 164
+
+H. B. No. 365 Page 7
+As Introduced
+section 5747.02 of the Revised Code on the taxpayer's own 165
+return. 166
+(F) Each return or notice required to be filed under this 167
+section shall contain the signature of the taxpayer or the 168
+taxpayer's duly authorized agent and of the person who prepared 169
+the return for the taxpayer, and shall include the taxpayer's 170
+social security number. Each return shall be verified by a 171
+declaration under the penalties of perjury. The tax commissioner 172
+shall prescribe the form that the signature and declaration 173
+shall take. 174
+(G) Each return or notice required to be filed under this 175
+section shall be made and filed as required by section 5747.04 176
+of the Revised Code, on or before the fifteenth day of April of 177
+each year, on forms that the tax commissioner shall prescribe, 178
+together with remittance made payable to the treasurer of state 179
+in the combined amount of the state and all school district 180
+income taxes shown to be due on the form. 181
+Upon good cause shown, the commissioner may extend the 182
+period for filing any notice or return required to be filed 183
+under this section and may adopt rules relating to extensions. 184
+If the extension results in an extension of time for the payment 185
+of any state or school district income tax liability with 186
+respect to which the return is filed, the taxpayer shall pay at 187
+the time the tax liability is paid an amount of interest 188
+computed at the rate per annum prescribed by section 5703.47 of 189
+the Revised Code on that liability from the time that payment is 190
+due without extension to the time of actual payment. Except as 191
+provided in section 5747.132 of the Revised Code, in addition to 192
+all other interest charges and penalties, all taxes imposed 193
+under this chapter or Chapter 5748. of the Revised Code and 194
+
+H. B. No. 365 Page 8
+As Introduced
+remaining unpaid after they become due, except combined amounts 195
+due of one dollar or less, bear interest at the rate per annum 196
+prescribed by section 5703.47 of the Revised Code until paid or 197
+until the day an assessment is issued under section 5747.13 of 198
+the Revised Code, whichever occurs first. 199
+If the commissioner considers it necessary in order to 200
+ensure the payment of the tax imposed by section 5747.02 of the 201
+Revised Code or any tax imposed under Chapter 5748. of the 202
+Revised Code, the commissioner may require returns and payments 203
+to be made otherwise than as provided in this section. 204
+To the extent that any provision in this division 205
+conflicts with any provision in section 5747.026 of the Revised 206
+Code, the provision in that section prevails. 207
+(H) The amounts withheld pursuant to section 5747.06, 208
+5747.062, 5747.063, 5747.064, 5747.065, or 5747.071 of the 209
+Revised Code shall be allowed to the ultimate recipient of the 210
+income as credits against payment of the appropriate taxes 211
+imposed on the ultimate recipient by section 5747.02 and under 212
+Chapter 5748. of the Revised Code. As used in this division, 213
+"ultimate recipient" means the person who is required to report 214
+income from which amounts are withheld pursuant to section 215
+5747.06, 5747.062, 5747.063, 5747.064, 5747.065, or 5747.071 of 216
+the Revised Code on the annual return required to be filed under 217
+this section. 218
+(I) If a pass-through entity elects to file a single 219
+return under division (D) of this section and if any investor is 220
+required to file the annual return and make the payment of taxes 221
+required by this chapter on account of the investor's other 222
+income that is not included in a single return filed by a pass- 223
+through entity or any other investor elects to file the annual 224
+
+H. B. No. 365 Page 9
+As Introduced
+return, the investor is entitled to a refundable credit equal to 225
+the investor's proportionate share of the tax paid by the pass- 226
+through entity on behalf of the investor. The investor shall 227
+claim the credit for the investor's taxable year in which or 228
+with which ends the taxable year of the pass-through entity. 229
+Nothing in this chapter shall be construed to allow any credit 230
+provided in this chapter to be claimed more than once. For the 231
+purpose of computing any interest, penalty, or interest penalty, 232
+the investor shall be deemed to have paid the refundable credit 233
+provided by this division on the day that the pass-through 234
+entity paid the estimated tax or the tax giving rise to the 235
+credit. 236
+(J) The tax commissioner shall ensure that each return 237
+required to be filed under this section includes a box that the 238
+taxpayer may check to authorize a paid tax preparer who prepared 239
+the return to communicate with the department of taxation about 240
+matters pertaining to the return. The return or instructions 241
+accompanying the return shall indicate that by checking the box 242
+the taxpayer authorizes the department of taxation to contact 243
+the preparer concerning questions that arise during the 244
+processing of the return and authorizes the preparer only to 245
+provide the department with information that is missing from the 246
+return, to contact the department for information about the 247
+processing of the return or the status of the taxpayer's refund 248
+or payments, and to respond to notices about mathematical 249
+errors, offsets, or return preparation that the taxpayer has 250
+received from the department and has shown to the preparer. 251
+(K) The tax commissioner shall permit individual taxpayers 252
+to instruct the department of taxation to cause any refund of 253
+overpaid taxes to be deposited directly into a checking account, 254
+savings account, or an individual retirement account or 255
+
+H. B. No. 365 Page 10
+As Introduced
+individual retirement annuity, or preexisting college savings 256
+plan or program account offered by the Ohio tuition trust 257
+authority under Chapter 3334. of the Revised Code, as designated 258
+by the taxpayer, when the taxpayer files the annual return 259
+required by this section electronically. 260
+(L) If, for the taxable year, a nonresident or trust that 261
+is the owner of an electing pass-through entity, as defined in 262
+section 5747.38 of the Revised Code, does not have Ohio adjusted 263
+gross income or, in the case of a trust, modified Ohio taxable 264
+income other than from one or more electing pass-through 265
+entities, the nonresident or trust shall not be required to file 266
+an annual return under this section. Nothing in this division 267
+precludes such an owner from filing the annual return under this 268
+section, utilizing the refundable credit under section 5747.39 269
+of the Revised Code equal to the owner's proportionate share of 270
+the tax levied under section 5747.38 of the Revised Code and 271
+paid by the electing pass-through entity, and making the payment 272
+of taxes imposed under section 5747.02 of the Revised Code. 273
+(M) The tax commissioner may adopt rules to administer 274
+this section. 275
+Sec. 5747.87. (A) As used in this section : 276
+(1) "Claim year" means, for individuals required to file 277
+an income tax return pursuant to this chapter, the individual's 278
+taxable year and, for all other individuals, the calendar year 279
+preceding the year in which an application for credit is filed 280
+under this section. 281
+(2) "Eligible claimant" means an individual who has 282
+occupied a homestead as an owner or lessee for at least six 283
+months of the claim year and whose total household resources do 284
+
+H. B. No. 365 Page 11
+As Introduced
+not exceed the threshold described in division (G) of this 285
+section. 286
+(3) "Gross rent" means the total rent paid during the 287
+claim year by a lessee for the right to occupy a homestead 288
+pursuant to an arm's length transaction with the property owner 289
+or the owner's representative. 290
+(4) "Qualifying homestead" means a dwelling, including a 291
+manufactured or mobile home or a unit in a multiple-unit 292
+dwelling or housing cooperative, that is located in this state, 293
+that is not fully exempt from property taxation for the claim 294
+year, and that meets one of the following requirements: 295
+(a) The dwelling is owned by an individual who occupies 296
+the dwelling as a primary residence and the true value of the 297
+property, as listed on the tax list for the tax year ending in 298
+the individual's claim year, does not exceed the home value 299
+limit for that claim year; 300
+(b) The dwelling is leased by an individual who occupies 301
+the dwelling as a primary residence and the gross rent paid by 302
+the lessee during the claim year did not exceed the product 303
+obtained by multiplying the rent limit for that claim year by 304
+the number of months the lessee occupied the dwelling as a 305
+primary residence. 306
+(5) "Household" means an individual and the individual's 307
+spouse. 308
+(6) "Income" means federal adjusted gross income, plus all 309
+income excluded or exempt from the computation of federal 310
+adjusted gross income, subtracted by all of the following: 311
+(a) Up to three hundred dollars of gifts in cash or kind 312
+from nongovernmental sources; 313
+
+H. B. No. 365 Page 12
+As Introduced
+(b) Up to three hundred dollars of lottery, casino gaming, 314
+or sports gaming winnings; 315
+(c) Benefits provided under the supplemental nutrition 316
+assistance program administered by the department of job and 317
+family services pursuant to section 5101.54 of the Revised Code; 318
+(d) Government payments made to a third party on behalf of 319
+an individual; 320
+(e) State or municipal tax refunds or tax credits; 321
+(f) Any government grant that a property owner must use 322
+for the rehabilitation of the owner's homestead; 323
+(g) Stipends received by a person who is acting as a 324
+foster grandparent under the foster grandparent program 325
+authorized pursuant to 42 U.S.C 5011 or as a senior companion 326
+pursuant to 42 U.S.C 5013; 327
+(h) Amounts deducted from benefits provided under Title II 328
+of the Social Security Act or from railroad retirement benefits 329
+for premiums paid pursuant to the medicare program established 330
+by Title XVIII of the Social Security Act; 331
+(i) Contributions by an employer to life, accident, or 332
+health insurance plans; 333
+(j) Any money received from a low-income customer 334
+assistance program, as defined in section 4928.01 of the Revised 335
+Code; 336
+(k) Loan proceeds; 337
+(l) Inheritance or life insurance benefits from a spouse; 338
+(m) Payments from a long-term care policy made to a 339
+nursing home or other care facility; 340
+
+H. B. No. 365 Page 13
+As Introduced
+(n) Accident or health insurance plan premiums paid by an 341
+employer for a plan that covers a member of the household or the 342
+member's family; 343
+(o) Compensation for wrongful imprisonment. 344
+(7) "Property tax due" means the property taxes or 345
+manufactured home taxes charged and payable against the 346
+homestead for the tax year ending in the eligible claimant's 347
+claim year, after any reductions allowed under the Revised Code. 348
+"Property tax due" does not include taxes that appeared on the 349
+general tax list or manufactured home tax list for any preceding 350
+tax year or any penalties, interest, or special assessments. 351
+(8) "Rent-equivalent tax paid" means fifteen per cent of 352
+gross rent. 353
+(9) "Total household resources" means all income received 354
+by all individuals of a household in the claim year while 355
+members of the household, increased by the following deductions 356
+from federal gross income: 357
+(a) Any net operating loss; 358
+(b) Any net rental or royalty loss; 359
+(c) Any carryback or carryforward of a net operating loss. 360
+(10) "Home value limit" means the median home value of 361
+owner-occupied housing units in the county in this state that 362
+has the highest such median home value according to the most 363
+recent one-year data published in the American community survey. 364
+(11) "Rent limit" means the median gross rent in the 365
+county in this state that has the highest such median gross rent 366
+according to the most recent one-year data published in the 367
+American community survey. 368
+
+H. B. No. 365 Page 14
+As Introduced
+(12) "American community survey" means the supplementary 369
+statistics collected and published annually by the United States 370
+census bureau in accordance with 13 U.S.C. 141 and 193. 371
+(B) A refundable credit or rebate is allowed to eligible 372
+claimants. In the case of eligible claimants required to file an 373
+annual return under this chapter for the claim year, a credit is 374
+allowed against the claimant's aggregate tax liability under 375
+section 5747.02 of the Revised Code. For all other eligible 376
+claimants, a rebate may be claimed on the form prescribed by the 377
+tax commissioner pursuant to division (E) of this section. 378
+Subject to division (C) of this section, the credit or rebate 379
+shall equal one of the following: 380
+(1) For eligible claimants who own the homestead for which 381
+the claim is made, the amount by which the eligible claimant's 382
+property tax due exceeds five per cent of the eligible 383
+claimant's total household resources for that claim year. 384
+(2) For eligible claimants who lease the homestead for 385
+which the claim is made, the amount by which the eligible 386
+claimant's rent-equivalent tax paid in the claim year exceeds 387
+five per cent of the eligible claimant's total household 388
+resources for that year. 389
+(C) The credit or rebate allowed under this section for a 390
+claim year shall not exceed a specified limit based upon the 391
+eligible claimant's total household resources. For the first 392
+claim year ending on or after the effective date of this 393
+section, the limits are as follows: 394
+395
+1 2
+A TOTAL HOUSEHOLD RESOURCES CREDIT OR REBATE LIMIT
+
+H. B. No. 365 Page 15
+As Introduced
+B $60,000 or less $1,000
+C More than $60,000 but not more $800
+than $70,000
+D More than $70,000 but not more $600
+than $80,000
+E More than $80,000 but not more $400
+than $90,000
+F More than $90,000 but not more $200
+than $100,000
+For each succeeding claim year, these household resources 396
+tiers and limits shall be adjusted as provided in division (G) 397
+of this section. 398
+(D) For eligible claimants required to file an annual 399
+return under this chapter for the claim year, the credit shall 400
+be claimed in the order required under section 5747.98 of the 401
+Revised Code. If the amount of the credit under this section 402
+exceeds the aggregate amount of tax otherwise due under section 403
+5747.02 of the Revised Code after deduction of all other credits 404
+in that order, the taxpayer is entitled to a refund of the 405
+excess. 406
+(E)(1) The tax commissioner shall prescribe a form on 407
+which eligible claimants who are not required to file an annual 408
+return under this chapter may apply for the rebate authorized 409
+under this section. Except as provided in division (E)(2) of 410
+this section, such eligible claimants shall apply for the rebate 411
+on that form after the first day of January following the end of 412
+the claim year but before the fifteenth day of the fourth month 413
+
+H. B. No. 365 Page 16
+As Introduced
+following the end of that claim year. 414
+(2) An eligible claimant may request an extension of the 415
+time to file a rebate application under division (E)(1) of this 416
+section, on a form prescribed by the commissioner. Upon receipt 417
+of such a request, the commissioner shall extend the due date 418
+for filing the application to the fifteenth day of the tenth 419
+month after the last day of the claim year. 420
+(F)(1) The credit or rebate authorized under this section 421
+shall be allowed to only one eligible claimant per homestead. 422
+(2) Only the lessee shall claim a credit or rebate with 423
+respect to property that is rented or leased as a homestead. 424
+(G) For the first claim year ending on or after the 425
+effective date of this section, an individual qualifies as an 426
+eligible claimant only if the individual's total household 427
+resources do not exceed one hundred thousand dollars. For each 428
+following claim year, the tax commissioner shall adjust this 429
+total household resources limit and the household resources 430
+tiers and credit or rebate limits described in division (C) of 431
+this section by completing the following calculations in 432
+September of each year: 433
+(1) Determine the percentage increase in the gross 434
+domestic product deflator determined by the bureau of economic 435
+analysis of the United States department of commerce from the 436
+first day of January of the preceding year to the last day of 437
+December of the preceding year; 438
+(2) Multiply that percentage increase by the total 439
+household resources limit, household resources tiers, and credit 440
+or rebate limits for the current year; 441
+(3) Add the resulting products to the respective tiers and 442
+
+H. B. No. 365 Page 17
+As Introduced
+limits for the current year; 443
+(4) Round the resulting sums to the nearest multiple of 444
+one thousand dollars, in the case of the total household 445
+resources limit and tiers, or nearest multiple of ten dollars, 446
+in the case of the credit or rebate limits. 447
+The adjusted amounts apply to claim years beginning in the 448
+calendar year in which the adjustment is made and to claim years 449
+beginning in each ensuing calendar year until a calendar year in 450
+which a new adjustment is made pursuant to this division. The 451
+commissioner shall not make a new adjustment in any calendar 452
+year in which the amount resulting from the adjustment would be 453
+less than the amount resulting from the adjustment in the 454
+preceding calendar year. 455
+(H) If a credit or rebate allowed under this section was 456
+based on an amount of property tax due that differs from the 457
+actual amount of such taxes paid by the eligible claimant for 458
+the tax year ending in that claim year, the eligible claimant 459
+shall file an annual return or application under division (E) of 460
+this section for the ensuing claim year that reports the 461
+difference. The claimant shall adjust the credit or rebate 462
+claimed for the ensuing year by the amount of the difference. If 463
+the claimant is not eligible for the credit or rebate for the 464
+ensuing claim year, the claimant shall pay or may request 465
+payment of the difference, as applicable. 466
+(I) On or before the first day of November of each year, 467
+the tax commissioner shall determine and publish a home value 468
+limit and rent limit. The limits shall apply to claim years 469
+beginning in the calendar year in which the limits are 470
+determined. 471
+
+H. B. No. 365 Page 18
+As Introduced
+Sec. 5747.98. (A) To provide a uniform procedure for 472
+calculating a taxpayer's aggregate tax liability under section 473
+5747.02 of the Revised Code, a taxpayer shall claim any credits 474
+to which the taxpayer is entitled in the following order: 475
+Either the retirement income credit under division (B) of 476
+section 5747.055 of the Revised Code or the lump sum retirement 477
+income credits under divisions (C), (D), and (E) of that 478
+section; 479
+Either the senior citizen credit under division (F) of 480
+section 5747.055 of the Revised Code or the lump sum 481
+distribution credit under division (G) of that section; 482
+The dependent care credit under section 5747.054 of the 483
+Revised Code; 484
+The credit for displaced workers who pay for job training 485
+under section 5747.27 of the Revised Code; 486
+The campaign contribution credit under section 5747.29 of 487
+the Revised Code; 488
+The twenty-dollar personal exemption credit under section 489
+5747.022 of the Revised Code; 490
+The joint filing credit under division (G)(E) of section 491
+5747.05 of the Revised Code; 492
+The earned income credit under section 5747.71 of the 493
+Revised Code; 494
+The nonrefundable credit for education expenses under 495
+section 5747.72 of the Revised Code; 496
+The nonrefundable credit for donations to scholarship 497
+granting organizations under section 5747.73 of the Revised 498
+
+H. B. No. 365 Page 19
+As Introduced
+Code; 499
+The nonrefundable credit for tuition paid to a 500
+nonchartered nonpublic school under section 5747.75 of the 501
+Revised Code; 502
+The nonrefundable vocational job credit under section 503
+5747.057 of the Revised Code; 504
+The nonrefundable job retention credit under division (B) 505
+of section 5747.058 of the Revised Code; 506
+The enterprise zone credit under section 5709.66 of the 507
+Revised Code; 508
+The credit for beginning farmers who participate in a 509
+financial management program under division (B) of section 510
+5747.77 of the Revised Code; 511
+The credit for commercial vehicle operator training 512
+expenses under section 5747.82 of the Revised Code; 513
+The nonrefundable welcome home Ohio (WHO) program credit 514
+under section 122.633 of the Revised Code; 515
+The credit for selling or renting agricultural assets to 516
+beginning farmers under division (A) of section 5747.77 of the 517
+Revised Code; 518
+The credit for purchases of qualifying grape production 519
+property under section 5747.28 of the Revised Code; 520
+The small business investment credit under section 5747.81 521
+of the Revised Code; 522
+The nonrefundable lead abatement credit under section 523
+5747.26 of the Revised Code; 524
+The opportunity zone investment credit under section 525
+
+H. B. No. 365 Page 20
+As Introduced
+5747.86 of the Revised Code; 526
+The enterprise zone credits under section 5709.65 of the 527
+Revised Code; 528
+The research and development credit under section 5747.331 529
+of the Revised Code; 530
+The credit for rehabilitating a historic building under 531
+section 5747.76 of the Revised Code; 532
+The nonrefundable Ohio low-income housing tax credit under 533
+section 5747.83 of the Revised Code; 534
+The nonrefundable affordable single-family home credit 535
+under section 5747.84 of the Revised Code; 536
+The nonresident credit under division (A) of section 537
+5747.05 of the Revised Code; 538
+The credit for a resident's out-of-state income under 539
+division (B) of section 5747.05 of the Revised Code; 540
+The refundable motion picture and broadway theatrical 541
+production credit under section 5747.66 of the Revised Code; 542
+The refundable credit for film and theater capital 543
+improvement projects under section 5747.67 of the Revised Code; 544
+The refundable jobs creation credit or job retention 545
+credit under division (A) of section 5747.058 of the Revised 546
+Code; 547
+The refundable credit for taxes paid by a qualifying 548
+entity granted under section 5747.059 of the Revised Code; 549
+The refundable credits for taxes paid by a qualifying 550
+pass-through entity granted under division (I) of section 551
+5747.08 of the Revised Code; 552
+
+H. B. No. 365 Page 21
+As Introduced
+The refundable credit under section 5747.80 of the Revised 553
+Code for losses on loans made to the Ohio venture capital 554
+program under sections 150.01 to 150.10 of the Revised Code; 555
+The refundable credit for rehabilitating a historic 556
+building under section 5747.76 of the Revised Code; 557
+The refundable credit under section 5747.39 of the Revised 558
+Code for taxes levied under section 5747.38 of the Revised Code 559
+paid by an electing pass-through entity; 560
+The refundable credit for property taxes or rent- 561
+equivalent taxes paid under section 5747.87 of the Revised Code. 562
+(B) For any credit, except the refundable credits 563
+enumerated in this section and the credit granted under division 564
+(H) of section 5747.08 of the Revised Code, the amount of the 565
+credit for a taxable year shall not exceed the taxpayer's 566
+aggregate amount of tax due under section 5747.02 of the Revised 567
+Code, after allowing for any other credit that precedes it in 568
+the order required under this section. Any excess amount of a 569
+particular credit may be carried forward if authorized under the 570
+section creating that credit. Nothing in this chapter shall be 571
+construed to allow a taxpayer to claim, directly or indirectly, 572
+a credit more than once for a taxable year. 573
+Section 2. That existing sections 5747.08 and 5747.98 of 574
+the Revised Code are hereby repealed. 575
+Section 3. The enactment by this act of section 5747.87 of 576
+the Revised Code applies to claim years, as defined in that 577
+section, as enacted by this act, ending on or after the 578
+effective date of that enactment. 579
+Section 4. This act shall be known as the Property Tax 580
+Refund Act. 581
+
+[DELETED: nH      .  :1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3)3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7]
+[DELETED: 5  7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1;1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1-1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2-2 2]
+[DELETED: 5  2-2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2:2 2 2 2 2.2 2 2 2]
+[DELETED: 5  2.2 2 2 2 2 2 2 2 2:2 2 2 2 2;3 3 3 3 3 3.3 3.3 3 3:3 3;3]
+[DELETED: 5  3;3 3 3;3 3;3;3 3;3 3 3 3;3 3 3 3;3 3;3 3 3;3;3;3 3;3]
+[DELETED: 5  3 3;3.3 3 3 3 3 3 3.3 3.3 3 3 3:3;3;3.3 3 3 3 3 3 3 3.3]
+[DELETED: 5  3 3.3 3 3 3 3 3 3 3 3:3 3 3 3.3 3 3 3 3.3 3 3 3 3:3TSC]
+[DELETED: 5 $s$M $M $M $M $ 3 3.3 3 4 4 4 4 4 4.4 4 4 4 4 4 4 4]
+[DELETED: 5 .4 4 4 4 4 4.4 4.4 4.4 4 4 4 4 4 4 4 4:4 4 4 4 4;4 4 4;4 4]
+[DELETED: 5 ;4 4 4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4.4]
+[DELETED: 5  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 5  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 5  5 5 5 5 5 5 5;5-5 5 5 5 5 5 5 5 5 5 5 5.5 5.5 5 5 5.5 5.5]

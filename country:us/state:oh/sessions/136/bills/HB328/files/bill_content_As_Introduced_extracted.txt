@@ -1,0 +1,224 @@
+Title: Cosponsors: Representatives McNally, Rogers, Sigrist, Brownlee, Synenberg,
+Official Title: Cosponsors: Representatives McNally, Rogers, Sigrist, Brownlee, Synenberg,
+Number of Sections: 6
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 328
+2025-2026
+Representatives Brewer, Robb Blasdel
+Brennan, Glassburn, Grim, Piccolantonio, Russo
+To establish a grant program to reimburse local 1
+government entities for the acquisition, 2
+development, and rehabilitation of community 3
+recreation spaces, to name this act the Fit, 4
+Safe, and Strong Communities Act, and to make an 5
+appropriation. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. (A) The Director of Children and Youth shall 7
+establish and administer, with the assistance of the Director of 8
+Natural Resources, a one-time grant program that provides up to 9
+seventy-five per cent reimbursement to local government entities 10
+for the acquisition, development, or rehabilitation of outdoor 11
+spaces, parks, playgrounds, pools, splash pads, and recreation 12
+centers. 13
+(B) A local government entity, including a township, 14
+village, city, county, park district, joint recreation district, 15
+and conservancy district may apply to the Director of Children 16
+and Youth for a grant under this section. The applicant shall 17
+include the following in the application: 18
+(1) Proof that the applicant holds the title to or has a 19
+H. B. No. 328 Page 2
+As Introduced
+non-revocable lease of at least fifteen years to the property 20
+listed for the grant; 21
+(2) A plan that details the proposed development or 22
+rehabilitation of the property; 23
+(3) A plan to partner with a nonprofit organization or 24
+community partner for the development of the property. 25
+(C) Local government entities applying for a grant under 26
+this section shall be given priority if they include either of 27
+the following in the application: 28
+(1) A plan developed with a nonprofit organization or 29
+community partner that includes initiatives to create play area 30
+capacity within their communities, including how to create 31
+ongoing sustainability to support capacity-expanding initiatives 32
+and identify the needs it would address; 33
+(2) A plan to develop a learning lab on the property. 34
+(D) As used in this section, "learning lab" means a 35
+dedicated space within a facility designed for educational 36
+activities that focus on teaching new skills, promoting 37
+knowledge of health and wellness, or providing technology 38
+training in an accessible setting for engagement by all members 39
+of the community. 40
+
+Section 3:
+Section 2. All items in this act are hereby appropriated 41
+as designated out of any moneys in the state treasury to the 42
+credit of the designated fund. For all operating appropriations 43
+made in this act, those in the first column are for fiscal year 44
+2026 and those in the second column are for fiscal year 2027. 45
+The operating appropriations made in this act are in addition to 46
+any other operating appropriations made for these fiscal years. 47
+H. B. No. 328 Page 3
+As Introduced
+
+Section 4:
+Section 3. 48
+49
+50
+1 2 3 4 5
+A KID DEPARTMENT OF CHILDREN AND YOUTH
+B General Revenue Fund
+C GRF 830420 Community Projects and $10,250,000 $10,250,000
+Assistance
+D TOTAL GRF General Revenue Fund $10,250,000 $10,250,000
+E TOTAL ALL BUDGET FUND GROUPS $10,250,000 $10,250,000
+COMMUNITY PROJECTS AND ASSISTANCE 51
+Of the foregoing appropriation item 830420, Community 52
+Projects and Assistance, $10,000,000 in each fiscal year shall 53
+be used for the grant program to provide reimbursement to local 54
+government entities for the acquisition, development, or 55
+rehabilitation of outdoor spaces, parks, playgrounds, pools, 56
+splash pads, and recreation centers described in Section 1 of 57
+this act. 58
+Of the foregoing appropriation item 830420, Community 59
+Projects and Assistance, $250,000 in each fiscal year shall be 60
+used to establish learning labs within local government 61
+subdivision recreation centers. 62
+
+Section 5:
+Section 4. Within the limits set forth in this act, the 63
+Director of Budget and Management shall establish accounts 64
+indicating the source and amount of funds for each appropriation 65
+H. B. No. 328 Page 4
+As Introduced
+made in this act, and shall determine the manner in which 66
+appropriation accounts shall be maintained. Expenditures from 67
+operating appropriations contained in this act shall be 68
+accounted for as though made in, and are subject to all 69
+applicable provisions of, the main operating appropriations act 70
+of the 136th General Assembly. 71
+
+Section 6:
+Section 5. This act shall be known as the Fit, Safe, and 72
+Strong Communities Act. 73
+[DELETED: nH     .    1 1 1.1 1 1 1 1:1 1]
+[DELETED: 8  2;2 2;2 2 2 2 2:2 2 3 3 3;3.3 3 3 3 3 3.4 4 4 4 4 4 4.4]
+[DELETED: 8  4234KGGF80C $0$Td$0$TS$0$E5 5 5 5 5 5 5 5 5 6 6 6 6 6 6]
+[DELETED: 8  6 6 6 6 7.7 7.7]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 328
+2025-2026
+Representatives Brewer, Robb Blasdel
+Cosponsors: Representatives McNally, Rogers, Sigrist, Brownlee, Synenberg,
+Brennan, Glassburn, Grim, Piccolantonio, Russo
+To establish a grant program to reimburse local 1
+government entities for the acquisition, 2
+development, and rehabilitation of community 3
+recreation spaces, to name this act the Fit, 4
+Safe, and Strong Communities Act, and to make an 5
+appropriation. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. (A) The Director of Children and Youth shall 7
+establish and administer, with the assistance of the Director of 8
+Natural Resources, a one-time grant program that provides up to 9
+seventy-five per cent reimbursement to local government entities 10
+for the acquisition, development, or rehabilitation of outdoor 11
+spaces, parks, playgrounds, pools, splash pads, and recreation 12
+centers. 13
+(B) A local government entity, including a township, 14
+village, city, county, park district, joint recreation district, 15
+and conservancy district may apply to the Director of Children 16
+and Youth for a grant under this section. The applicant shall 17
+include the following in the application: 18
+(1) Proof that the applicant holds the title to or has a 19
+
+H. B. No. 328 Page 2
+As Introduced
+non-revocable lease of at least fifteen years to the property 20
+listed for the grant; 21
+(2) A plan that details the proposed development or 22
+rehabilitation of the property; 23
+(3) A plan to partner with a nonprofit organization or 24
+community partner for the development of the property. 25
+(C) Local government entities applying for a grant under 26
+this section shall be given priority if they include either of 27
+the following in the application: 28
+(1) A plan developed with a nonprofit organization or 29
+community partner that includes initiatives to create play area 30
+capacity within their communities, including how to create 31
+ongoing sustainability to support capacity-expanding initiatives 32
+and identify the needs it would address; 33
+(2) A plan to develop a learning lab on the property. 34
+(D) As used in this section, "learning lab" means a 35
+dedicated space within a facility designed for educational 36
+activities that focus on teaching new skills, promoting 37
+knowledge of health and wellness, or providing technology 38
+training in an accessible setting for engagement by all members 39
+of the community. 40
+Section 2. All items in this act are hereby appropriated 41
+as designated out of any moneys in the state treasury to the 42
+credit of the designated fund. For all operating appropriations 43
+made in this act, those in the first column are for fiscal year 44
+2026 and those in the second column are for fiscal year 2027. 45
+The operating appropriations made in this act are in addition to 46
+any other operating appropriations made for these fiscal years. 47
+
+H. B. No. 328 Page 3
+As Introduced
+Section 3. 48
+49
+50
+1 2 3 4 5
+A KID DEPARTMENT OF CHILDREN AND YOUTH
+B General Revenue Fund
+C GRF 830420 Community Projects and $10,250,000 $10,250,000
+Assistance
+D TOTAL GRF General Revenue Fund $10,250,000 $10,250,000
+E TOTAL ALL BUDGET FUND GROUPS $10,250,000 $10,250,000
+COMMUNITY PROJECTS AND ASSISTANCE 51
+Of the foregoing appropriation item 830420, Community 52
+Projects and Assistance, $10,000,000 in each fiscal year shall 53
+be used for the grant program to provide reimbursement to local 54
+government entities for the acquisition, development, or 55
+rehabilitation of outdoor spaces, parks, playgrounds, pools, 56
+splash pads, and recreation centers described in Section 1 of 57
+this act. 58
+Of the foregoing appropriation item 830420, Community 59
+Projects and Assistance, $250,000 in each fiscal year shall be 60
+used to establish learning labs within local government 61
+subdivision recreation centers. 62
+Section 4. Within the limits set forth in this act, the 63
+Director of Budget and Management shall establish accounts 64
+indicating the source and amount of funds for each appropriation 65
+
+H. B. No. 328 Page 4
+As Introduced
+made in this act, and shall determine the manner in which 66
+appropriation accounts shall be maintained. Expenditures from 67
+operating appropriations contained in this act shall be 68
+accounted for as though made in, and are subject to all 69
+applicable provisions of, the main operating appropriations act 70
+of the 136th General Assembly. 71
+Section 5. This act shall be known as the Fit, Safe, and 72
+Strong Communities Act. 73
+
+[DELETED: nH     .    1 1 1.1 1 1 1 1:1 1]
+[DELETED: 8  2;2 2;2 2 2 2 2:2 2 3 3 3;3.3 3 3 3 3 3.4 4 4 4 4 4 4.4]
+[DELETED: 8  4234KGGF80C $0$Td$0$TS$0$E5 5 5 5 5 5 5 5 5 6 6 6 6 6 6]
+[DELETED: 8  6 6 6 6 7.7 7.7]

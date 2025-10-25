@@ -1,0 +1,187 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 180
+2025-2026
+Senator Johnson
+Cosponsors: Senators Brenner, Cirino
+To enact section 5501.84 of the Revised Code to 1
+prohibit the purchase of small unmanned aircraft 2
+systems manufactured or assembled by a covered 3
+foreign entity. 4
+
+Section 2:
+Section 1. That section 5501.84 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5501.84. (A) As used in this section : 7
+(1) "Foreign adversary" means 8
+a country listed on the registry published by the 9
+secretary of state under division (C) of this section. 10
+(2) "Public entity" means the state and all political 11
+subdivisions of the state, including all boards, authorities, 12
+commissions, agencies, committees, councils, state colleges or 13
+universities, and other state entities created by the Ohio 14
+Constitution or the Revised Code. 15
+(3) "Small unmanned aircraft system" means a powered, 16
+aerial vehicle to which all of the following apply: 17
+(a) The vehicle does not carry a human operator and is 18
+S. B. No. 180 Page 2
+As Introduced
+operated without the possibility of direct human intervention 19
+from within or on the vehicle. 20
+(b) The aircraft uses aerodynamic forces to provide lift. 21
+(c) The vehicle can fly autonomously or be piloted 22
+remotely. 23
+(d) The vehicle is either expendable or recoverable. 24
+"Small unmanned aircraft system" is commonly referred to 25
+as a drone and does not include a satellite. 26
+(B)(1) A public entity shall not purchase or otherwise 27
+acquire a small unmanned aircraft system that is manufactured or 28
+assembled by a foreign adversary. 29
+(2) No state funds shall be used in connection with small 30
+unmanned aircraft systems manufactured or assembled by a foreign 31
+adversary, including state funds that are awarded through a 32
+contract, grant, or cooperative agreement or that are otherwise 33
+made available. 34
+(3) On or after May 1, 2027, a public entity shall not 35
+operate a small unmanned aircraft system manufactured or 36
+assembled by a foreign adversary. 37
+(C)(1) The secretary of state shall compile and update at 38
+least one time every six months a registry of foreign 39
+adversaries and other persons that, based on the best 40
+information available to the secretary of state, constitute a 41
+threat to the agricultural production, critical infrastructure, 42
+security, or military defense of this state or the United 43
+States. 44
+(2) The registry shall be published on the secretary of 45
+state's web site. 46
+S. B. No. 180 Page 3
+As Introduced
+(3) The secretary of state shall consult all of the 47
+following in compiling the registry: 48
+(a) The list of persons determined by the secretary of 49
+commerce of the United States to have engaged in a long-term 50
+pattern or serious instances of conduct significantly adverse to 51
+the national security of the United States or the security and 52
+safety of United States persons and, therefore, to constitute 53
+foreign adversaries for the purposes of Executive Order 13873, 54
+issued by the president of the United States on May 15, 2019; 55
+(b) The terrorist exclusion list compiled by the secretary 56
+of state of the United States in consultation with the attorney 57
+general of the United States under 8 U.S.C. 1182; 58
+(c) The list of countries determined by the secretary of 59
+state of the United States that have repeatedly provided support 60
+for acts of international terrorism under 50 U.S.C. 4813(c) and 61
+22 U.S.C. 2780(d); 62
+(d) The list of individuals and entities designated by or 63
+in accordance with Executive Order 13224, issued by the 64
+president of the United States on September 23, 2021, or 65
+Executive Order 13268, issued by the president of the United 66
+States on July 2, 2002. 67
+(4) The secretary of state shall not include on the 68
+registry any person that does not appear on at least one of the 69
+federal lists described in division (C)(3) of this section. 70
+[DELETED: nS   . ::  .1 1 1 1 1.1 1:1 1]
+[DELETED: 0  1.2.2 2.2.2 2.2 2 2.2 3 3 3 3.3 3 3.3 3 3 4 4 4 4.4 4.4]
+[DELETED: 0  4:4 4 5 5 5 5 5;5 5 5;5 5 6 6;6 6 6 6 6.6 6 6.7]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 180
+2025-2026
+Senator Johnson
+Cosponsors: Senators Brenner, Cirino
+To enact section 5501.84 of the Revised Code to 1
+prohibit the purchase of small unmanned aircraft 2
+systems manufactured or assembled by a covered 3
+foreign entity. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5501.84 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5501.84. (A) As used in this section : 7
+(1) "Foreign adversary" means 8
+a country listed on the registry published by the 9
+secretary of state under division (C) of this section. 10
+(2) "Public entity" means the state and all political 11
+subdivisions of the state, including all boards, authorities, 12
+commissions, agencies, committees, councils, state colleges or 13
+universities, and other state entities created by the Ohio 14
+Constitution or the Revised Code. 15
+(3) "Small unmanned aircraft system" means a powered, 16
+aerial vehicle to which all of the following apply: 17
+(a) The vehicle does not carry a human operator and is 18
+
+S. B. No. 180 Page 2
+As Introduced
+operated without the possibility of direct human intervention 19
+from within or on the vehicle. 20
+(b) The aircraft uses aerodynamic forces to provide lift. 21
+(c) The vehicle can fly autonomously or be piloted 22
+remotely. 23
+(d) The vehicle is either expendable or recoverable. 24
+"Small unmanned aircraft system" is commonly referred to 25
+as a drone and does not include a satellite. 26
+(B)(1) A public entity shall not purchase or otherwise 27
+acquire a small unmanned aircraft system that is manufactured or 28
+assembled by a foreign adversary. 29
+(2) No state funds shall be used in connection with small 30
+unmanned aircraft systems manufactured or assembled by a foreign 31
+adversary, including state funds that are awarded through a 32
+contract, grant, or cooperative agreement or that are otherwise 33
+made available. 34
+(3) On or after May 1, 2027, a public entity shall not 35
+operate a small unmanned aircraft system manufactured or 36
+assembled by a foreign adversary. 37
+(C)(1) The secretary of state shall compile and update at 38
+least one time every six months a registry of foreign 39
+adversaries and other persons that, based on the best 40
+information available to the secretary of state, constitute a 41
+threat to the agricultural production, critical infrastructure, 42
+security, or military defense of this state or the United 43
+States. 44
+(2) The registry shall be published on the secretary of 45
+state's web site. 46
+
+S. B. No. 180 Page 3
+As Introduced
+(3) The secretary of state shall consult all of the 47
+following in compiling the registry: 48
+(a) The list of persons determined by the secretary of 49
+commerce of the United States to have engaged in a long-term 50
+pattern or serious instances of conduct significantly adverse to 51
+the national security of the United States or the security and 52
+safety of United States persons and, therefore, to constitute 53
+foreign adversaries for the purposes of Executive Order 13873, 54
+issued by the president of the United States on May 15, 2019; 55
+(b) The terrorist exclusion list compiled by the secretary 56
+of state of the United States in consultation with the attorney 57
+general of the United States under 8 U.S.C. 1182; 58
+(c) The list of countries determined by the secretary of 59
+state of the United States that have repeatedly provided support 60
+for acts of international terrorism under 50 U.S.C. 4813(c) and 61
+22 U.S.C. 2780(d); 62
+(d) The list of individuals and entities designated by or 63
+in accordance with Executive Order 13224, issued by the 64
+president of the United States on September 23, 2021, or 65
+Executive Order 13268, issued by the president of the United 66
+States on July 2, 2002. 67
+(4) The secretary of state shall not include on the 68
+registry any person that does not appear on at least one of the 69
+federal lists described in division (C)(3) of this section. 70
+
+[DELETED: nS   . ::  .1 1 1 1 1.1 1:1 1]
+[DELETED: 0  1.2.2 2.2.2 2.2 2 2.2 3 3 3 3.3 3 3.3 3 3 4 4 4 4.4 4.4]
+[DELETED: 0  4:4 4 5 5 5 5 5;5 5 5;5 5 6 6;6 6 6 6 6.6 6 6.7]
