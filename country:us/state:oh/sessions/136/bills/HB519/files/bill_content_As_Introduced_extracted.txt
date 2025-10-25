@@ -1,0 +1,120 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 519
+2025-2026
+Representative White, A.
+To amend section 2923.24 of the Revised Code to 1
+prohibit possession of an electronic device 2
+under circumstances indicating an intent to 3
+steal a motor vehicle. 4
+
+Section 2:
+Section 1. That section 2923.24 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 2923.24. (A) As used in this section, "electronic 7
+device or tool" means a device or tool designed or adapted for 8
+use in unlocking or turning on a motor vehicle and does not 9
+include a previously issued or activated electronic card, key, 10
+or other electronic device assigned to the lawful owner of a 11
+motor vehicle. 12
+(B) No person shall possess or have under the person's 13
+control any substance, device, instrument, or article, with 14
+purpose to use it criminally. 15
+(B)(C) Each of the following constitutes prima-facie 16
+evidence of criminal purpose: 17
+(1) Possession or control of any dangerous ordnance, or 18
+the materials or parts for making dangerous ordnance, in the 19
+absence of circumstances indicating the dangerous ordnance, 20
+H. B. No. 519 Page 2
+As Introduced
+materials, or parts are intended for legitimate use; 21
+(2) Possession or control of any substance, device, 22
+instrument, or article designed or specially adapted for 23
+criminal use; 24
+(3) Possession or control of any substance, device, 25
+instrument, or article commonly used for criminal purposes, 26
+under circumstances indicating the item is intended for criminal 27
+use. 28
+(C)(4) Possession or control of an electronic device or 29
+tool under circumstances indicating an intent to steal a motor 30
+vehicle. 31
+(D) Whoever violates this section is guilty of possessing 32
+criminal tools. Except as otherwise provided in this division, 33
+possessing criminal tools is a misdemeanor of the first degree. 34
+If the circumstances indicate that the substance, device, 35
+instrument, or article involved in the offense was intended for 36
+use in the commission of a felony, possessing criminal tools is 37
+a felony of the fifth degree. 38
+
+Section 3:
+Section 2. That existing section 2923.24 of the Revised 39
+Code is hereby repealed. 40
+[DELETED: nH   . :    1 1.1 1 1.1 1:1 1 1 2]
+[DELETED: 9 ;2 2 2;2 2 2 2.2 2 3.3 3 3 3 3 3 3.3 3.4]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 519
+2025-2026
+Representative White, A.
+To amend section 2923.24 of the Revised Code to 1
+prohibit possession of an electronic device 2
+under circumstances indicating an intent to 3
+steal a motor vehicle. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 2923.24 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 2923.24. (A) As used in this section, "electronic 7
+device or tool" means a device or tool designed or adapted for 8
+use in unlocking or turning on a motor vehicle and does not 9
+include a previously issued or activated electronic card, key, 10
+or other electronic device assigned to the lawful owner of a 11
+motor vehicle. 12
+(B) No person shall possess or have under the person's 13
+control any substance, device, instrument, or article, with 14
+purpose to use it criminally. 15
+(B)(C) Each of the following constitutes prima-facie 16
+evidence of criminal purpose: 17
+(1) Possession or control of any dangerous ordnance, or 18
+the materials or parts for making dangerous ordnance, in the 19
+absence of circumstances indicating the dangerous ordnance, 20
+
+H. B. No. 519 Page 2
+As Introduced
+materials, or parts are intended for legitimate use; 21
+(2) Possession or control of any substance, device, 22
+instrument, or article designed or specially adapted for 23
+criminal use; 24
+(3) Possession or control of any substance, device, 25
+instrument, or article commonly used for criminal purposes, 26
+under circumstances indicating the item is intended for criminal 27
+use. 28
+(C)(4) Possession or control of an electronic device or 29
+tool under circumstances indicating an intent to steal a motor 30
+vehicle. 31
+(D) Whoever violates this section is guilty of possessing 32
+criminal tools. Except as otherwise provided in this division, 33
+possessing criminal tools is a misdemeanor of the first degree. 34
+If the circumstances indicate that the substance, device, 35
+instrument, or article involved in the offense was intended for 36
+use in the commission of a felony, possessing criminal tools is 37
+a felony of the fifth degree. 38
+Section 2. That existing section 2923.24 of the Revised 39
+Code is hereby repealed. 40
+
+[DELETED: nH   . :    1 1.1 1 1.1 1:1 1 1 2]
+[DELETED: 9 ;2 2 2;2 2 2 2.2 2 3.3 3 3 3 3 3 3.3 3.4]

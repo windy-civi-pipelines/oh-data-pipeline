@@ -1,0 +1,63 @@
+Title: Cosponsors: Senators Antonio, Cirino, Craig, Gavarone, Johnson, Landis, Lang,
+Official Title: Cosponsors: Senators Antonio, Cirino, Craig, Gavarone, Johnson, Landis, Lang,
+Number of Sections: 2
+Source: versions - As Passed by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 119
+2025-2026
+Senator Brenner
+Liston, Patton, Reineke, Roegner, Romanchuk, Schaffer, Timken, Weinstein,
+Wilkin, Wilson
+A BILL
+To enact section 5534.967 of the Revised Code to 1
+designate a portion of U.S. Route 36 in Delaware 2
+County as the "Freedom Parkway." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5534.967 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5534.967. In addition to any other name prescribed i n 6
+the Revised Code or otherwise, the eastbound and westbound lanes 7
+of United States route number thirty-six between interstate 8
+seventy-one and South Galena road, in Delaware county, shall be 9
+known as the "Freedom Parkway." 10
+The director of transportation may erect suitable markers 11
+along the highway indicating its name. 12
+[DELETED: nS BIL  " :    "1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 119
+2025-2026
+Senator Brenner
+Cosponsors: Senators Antonio, Cirino, Craig, Gavarone, Johnson, Landis, Lang,
+Liston, Patton, Reineke, Roegner, Romanchuk, Schaffer, Timken, Weinstein,
+Wilkin, Wilson
+A BILL
+To enact section 5534.967 of the Revised Code to 1
+designate a portion of U.S. Route 36 in Delaware 2
+County as the "Freedom Parkway." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5534.967 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5534.967. In addition to any other name prescribed i n 6
+the Revised Code or otherwise, the eastbound and westbound lanes 7
+of United States route number thirty-six between interstate 8
+seventy-one and South Galena road, in Delaware county, shall be 9
+known as the "Freedom Parkway." 10
+The director of transportation may erect suitable markers 11
+along the highway indicating its name. 12
+
+[DELETED: nS BIL  " :    "1 1.1]

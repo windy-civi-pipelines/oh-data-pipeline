@@ -1,0 +1,55 @@
+Title: BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE STATE OF
+Official Title: BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE STATE OF
+Number of Sections: 1
+Source: versions - As Offered
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Offered
+136th General Assembly
+Regular Session H. R. No. 159
+2025-2026
+Speaker Huffman, Representative Russo
+A R E S O L U T I O N
+Relative to travel allowance. 1
+OHIO:
+WHEREAS, Section 101.27 of the Revised Code provides that each 2
+member receive a travel reimbursement based upon the mileage from and 3
+to the member's place of residence, by the most direct highway route 4
+of public travel to and from the seat of government; therefore be it 5
+RESOLVED, That the Chief Administrative Officer of the House of 6
+Representatives is hereby authorized to pay the following member’s 7
+travel allowance based upon their round-trip mileage as set opposite 8
+their name and district number: 9
+Member's Name District Number Round-Trip Mileage
+Ty Moore 95 194
+[DELETED:   .        eDrRe 5 ]
+
+
+================================================================================
+
+Raw Text:
+As Offered
+136th General Assembly
+Regular Session H. R. No. 159
+2025-2026
+Speaker Huffman, Representative Russo
+A R E S O L U T I O N
+Relative to travel allowance. 1
+BE IT RESOLVED BY THE HOUSE OF REPRESENTATIVES OF THE STATE OF
+OHIO:
+WHEREAS, Section 101.27 of the Revised Code provides that each 2
+member receive a travel reimbursement based upon the mileage from and 3
+to the member's place of residence, by the most direct highway route 4
+of public travel to and from the seat of government; therefore be it 5
+RESOLVED, That the Chief Administrative Officer of the House of 6
+Representatives is hereby authorized to pay the following member’s 7
+travel allowance based upon their round-trip mileage as set opposite 8
+their name and district number: 9
+Member's Name District Number Round-Trip Mileage
+Ty Moore 95 194
+
+[DELETED:   .        eDrRe 5 ]

@@ -1,0 +1,325 @@
+Title: Cosponsors: Representatives Deeter, Click, Williams, Lear, Brennan
+Official Title: Cosponsors: Representatives Deeter, Click, Williams, Lear, Brennan
+Number of Sections: 5
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 106
+2025-2026
+Representatives King, Miller, M.
+A BILL
+To enact Alyssa's Law to establish a pilot grant 1
+program for public and chartered nonpublic 2
+schools to purchase panic alert systems or 3
+contract for artificial intelligence firearm 4
+detection software and to make an appropriation. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. All items in this act are hereby appropriated 6
+as designated out of any moneys in the state treasury to the 7
+credit of the designated fund. For all operating appropriations 8
+made in this act, those in the first column are for fiscal year 9
+2026 and those in the second column are for fiscal year 2027. 10
+The operating appropriations made in this act are in addition to 11
+any other operating appropriations made for these fiscal years. 12
+
+Section 3:
+Section 2. 13
+14
+1 2 3 4 5
+A DPS DEPARTMENT OF PUBLIC SAFETY
+B General Revenue Fund
+H. B. No. 106 Page 2
+As Introduced
+C GRF 769412 Ohio School Safety Center $25,000,000 $0
+D TOTAL GRF General Revenue Fund $25,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $25,000,000 $0
+OHIO SCHOOL SAFETY CENTER 15
+(A) The foregoing appropriation item 769412, Ohio School 16
+Safety Center, shall be used by the Department of Public Safety 17
+to distribute, beginning January 1, 2026, or as soon as possible 18
+thereafter, pilot grants to school districts, community schools 19
+established under Chapter 3314. of the Revised Code, STEM 20
+schools established under Chapter 3326. of the Revised Code, and 21
+chartered nonpublic schools to purchase a wearable panic alert 22
+system or other form of panic alert system or enter into a 23
+contract with a private vendor for artificial intelligence 24
+firearm detection software for the district's or school's 25
+facilities. 26
+(B) For the purposes of the pilot grant program, the 27
+Department shall develop an application process, a method to 28
+determine grant amounts, and criteria for approving grants 29
+awarded under the program. The method used to determine grant 30
+amounts shall, to the extent practicable, equally distribute 31
+funds to districts and schools in urban, suburban, and rural 32
+areas and to districts and schools with different student 33
+enrollment sizes and socioeconomic statuses. The criteria for 34
+approving grants shall include all of the following: 35
+(1) A requirement that the district or school not have a 36
+security system in place at the time the application is 37
+submitted; 38
+H. B. No. 106 Page 3
+As Introduced
+(2) A requirement that any panic alert system that a 39
+district or school intends to purchase meets all of the 40
+following criteria: 41
+(a) The system is capable of integrating with local public 42
+safety answering point infrastructure to transmit 9-1-1 calls 43
+and mobile activations. 44
+(b) The system is capable of initiating campus-wide 45
+lockdown notifications. 46
+(c) The system provides panic alert devices that allow for 47
+immediate contact with emergency response agencies. 48
+(d) The system was developed in the United States without 49
+the use of any third-party or open-source data. 50
+(e) The system is managed directly by the contracted 51
+vendor through a constantly monitored operations center. 52
+(f) The system has been successfully deployed in other 53
+districts, schools, or state organizations. 54
+(3) If a district or school intends to use a grant to 55
+purchase a panic alert system, a requirement that the district 56
+or school agrees to do all of the following to implement a panic 57
+alert system purchased under the program: 58
+(a) Provide each appropriate staff person in a school 59
+facility, as determined by the district or school in 60
+consultation with the device manufacturer or per the device 61
+manufacturer's recommendations, with a panic alert device; 62
+(b) Ensure that all school facility personnel receive 63
+training on the protocol for and appropriate use of the panic 64
+alert device; 65
+H. B. No. 106 Page 4
+As Introduced
+(c) Ensure that all security data within a school 66
+facility, including cameras, maps, and access control, is 67
+accessible by a local law enforcement agency; 68
+(d) Coordinate with the local law enforcement agency to 69
+establish appropriate access protocols for security data. 70
+(4) A requirement that any artificial intelligence firearm 71
+detection software that a district or school intends to use 72
+meets all of the following criteria: 73
+(a) The software detects and alerts school district 74
+personnel and first responders about the presence of visible, 75
+unholstered firearms on school property. 76
+(b) The software is designated as qualified anti-terrorism 77
+technology under the "Support Anti-terrorism by Fostering 78
+Effective Technologies Act of 2002," 6 U.S.C. 441, et seq. 79
+(c) The software is capable of integrating with a school 80
+building's security camera infrastructure. 81
+(d) The software was developed in the United States 82
+without the use of any third-party or open-source data. 83
+(e) The software is managed directly by the contracted 84
+vendor through a constantly monitored operations center that is 85
+staffed by highly trained analysts who are capable of rapidly 86
+communicating possible threats to law enforcement and 87
+appropriate district or school personnel. 88
+(f) The software has been successfully deployed in other 89
+districts, schools, or state organizations. 90
+(C) The Department shall distribute a grant to each 91
+district or school with an approved application. 92
+H. B. No. 106 Page 5
+As Introduced
+(D) A district or school that receives a grant under the 93
+pilot grant program shall use the grant to purchase a wearable 94
+panic alert system or other form of panic alert system or to 95
+enter into a contract with a private vendor for artificial 96
+intelligence firearm detection software. A district or school 97
+may use a grant distributed under the pilot grant program to 98
+purchase a panic alert system that uses firearm detection 99
+software fully designated as qualified anti-terrorism technology 100
+under the "Support Anti-terrorism by Fostering Effective 101
+Technologies Act of 2002," 6 U.S.C. 441, et seq. 102
+(E) Not later than December 1, 2027, the Department shall 103
+submit to the Governor and the General Assembly, in accordance 104
+with section 101.68 of the Revised Code, a report detailing the 105
+findings of the pilot grant program. The report shall include 106
+findings and data on program applications, grants awarded, 107
+program participation, outcomes, and information on types of 108
+devices purchased, firearm detection software utilized, types of 109
+staff members receiving devices, cost of devices or software, 110
+including annual renewal costs if applicable, frequency of 111
+device use, and types of accidents reported. 112
+
+Section 4:
+Section 3. Within the limits set forth in this act, the 113
+Director of Budget and Management shall establish accounts 114
+indicating the source and amount of funds for each appropriation 115
+made in this act, and shall determine the manner in which 116
+appropriation accounts shall be maintained. Expenditures from 117
+operating appropriations contained in this act shall be 118
+accounted for as though made in, and are subject to all 119
+applicable provisions of, the main operating appropriations act 120
+of the 136th General Assembly. 121
+
+Section 5:
+Section 4. This act shall be known as Alyssa's Law. 122
+[DELETED: nH BIL          1 1.1 1234DG]
+[DELETED: 6 GF72Or$0$Td$0$TS$0$R1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3:3 3 3;3]
+[DELETED: 6  3 4:4 4 4.4 4.4 4.4 4.5 5.5 5.5 5 5 5:5 5 6 6 6 6 6;6]
+[DELETED: 6  6 6;6 6 7 7 7:7 7 7.7 7 7.7 8.8 8.8 8 8 8 8.8 8.9 9.9]
+[DELETED: 6  9 9 9 9 9 9 9 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 106
+2025-2026
+Representatives King, Miller, M.
+Cosponsors: Representatives Deeter, Click, Williams, Lear, Brennan
+A BILL
+To enact Alyssa's Law to establish a pilot grant 1
+program for public and chartered nonpublic 2
+schools to purchase panic alert systems or 3
+contract for artificial intelligence firearm 4
+detection software and to make an appropriation. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. All items in this act are hereby appropriated 6
+as designated out of any moneys in the state treasury to the 7
+credit of the designated fund. For all operating appropriations 8
+made in this act, those in the first column are for fiscal year 9
+2026 and those in the second column are for fiscal year 2027. 10
+The operating appropriations made in this act are in addition to 11
+any other operating appropriations made for these fiscal years. 12
+Section 2. 13
+14
+1 2 3 4 5
+A DPS DEPARTMENT OF PUBLIC SAFETY
+B General Revenue Fund
+
+H. B. No. 106 Page 2
+As Introduced
+C GRF 769412 Ohio School Safety Center $25,000,000 $0
+D TOTAL GRF General Revenue Fund $25,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $25,000,000 $0
+OHIO SCHOOL SAFETY CENTER 15
+(A) The foregoing appropriation item 769412, Ohio School 16
+Safety Center, shall be used by the Department of Public Safety 17
+to distribute, beginning January 1, 2026, or as soon as possible 18
+thereafter, pilot grants to school districts, community schools 19
+established under Chapter 3314. of the Revised Code, STEM 20
+schools established under Chapter 3326. of the Revised Code, and 21
+chartered nonpublic schools to purchase a wearable panic alert 22
+system or other form of panic alert system or enter into a 23
+contract with a private vendor for artificial intelligence 24
+firearm detection software for the district's or school's 25
+facilities. 26
+(B) For the purposes of the pilot grant program, the 27
+Department shall develop an application process, a method to 28
+determine grant amounts, and criteria for approving grants 29
+awarded under the program. The method used to determine grant 30
+amounts shall, to the extent practicable, equally distribute 31
+funds to districts and schools in urban, suburban, and rural 32
+areas and to districts and schools with different student 33
+enrollment sizes and socioeconomic statuses. The criteria for 34
+approving grants shall include all of the following: 35
+(1) A requirement that the district or school not have a 36
+security system in place at the time the application is 37
+submitted; 38
+
+H. B. No. 106 Page 3
+As Introduced
+(2) A requirement that any panic alert system that a 39
+district or school intends to purchase meets all of the 40
+following criteria: 41
+(a) The system is capable of integrating with local public 42
+safety answering point infrastructure to transmit 9-1-1 calls 43
+and mobile activations. 44
+(b) The system is capable of initiating campus-wide 45
+lockdown notifications. 46
+(c) The system provides panic alert devices that allow for 47
+immediate contact with emergency response agencies. 48
+(d) The system was developed in the United States without 49
+the use of any third-party or open-source data. 50
+(e) The system is managed directly by the contracted 51
+vendor through a constantly monitored operations center. 52
+(f) The system has been successfully deployed in other 53
+districts, schools, or state organizations. 54
+(3) If a district or school intends to use a grant to 55
+purchase a panic alert system, a requirement that the district 56
+or school agrees to do all of the following to implement a panic 57
+alert system purchased under the program: 58
+(a) Provide each appropriate staff person in a school 59
+facility, as determined by the district or school in 60
+consultation with the device manufacturer or per the device 61
+manufacturer's recommendations, with a panic alert device; 62
+(b) Ensure that all school facility personnel receive 63
+training on the protocol for and appropriate use of the panic 64
+alert device; 65
+
+H. B. No. 106 Page 4
+As Introduced
+(c) Ensure that all security data within a school 66
+facility, including cameras, maps, and access control, is 67
+accessible by a local law enforcement agency; 68
+(d) Coordinate with the local law enforcement agency to 69
+establish appropriate access protocols for security data. 70
+(4) A requirement that any artificial intelligence firearm 71
+detection software that a district or school intends to use 72
+meets all of the following criteria: 73
+(a) The software detects and alerts school district 74
+personnel and first responders about the presence of visible, 75
+unholstered firearms on school property. 76
+(b) The software is designated as qualified anti-terrorism 77
+technology under the "Support Anti-terrorism by Fostering 78
+Effective Technologies Act of 2002," 6 U.S.C. 441, et seq. 79
+(c) The software is capable of integrating with a school 80
+building's security camera infrastructure. 81
+(d) The software was developed in the United States 82
+without the use of any third-party or open-source data. 83
+(e) The software is managed directly by the contracted 84
+vendor through a constantly monitored operations center that is 85
+staffed by highly trained analysts who are capable of rapidly 86
+communicating possible threats to law enforcement and 87
+appropriate district or school personnel. 88
+(f) The software has been successfully deployed in other 89
+districts, schools, or state organizations. 90
+(C) The Department shall distribute a grant to each 91
+district or school with an approved application. 92
+
+H. B. No. 106 Page 5
+As Introduced
+(D) A district or school that receives a grant under the 93
+pilot grant program shall use the grant to purchase a wearable 94
+panic alert system or other form of panic alert system or to 95
+enter into a contract with a private vendor for artificial 96
+intelligence firearm detection software. A district or school 97
+may use a grant distributed under the pilot grant program to 98
+purchase a panic alert system that uses firearm detection 99
+software fully designated as qualified anti-terrorism technology 100
+under the "Support Anti-terrorism by Fostering Effective 101
+Technologies Act of 2002," 6 U.S.C. 441, et seq. 102
+(E) Not later than December 1, 2027, the Department shall 103
+submit to the Governor and the General Assembly, in accordance 104
+with section 101.68 of the Revised Code, a report detailing the 105
+findings of the pilot grant program. The report shall include 106
+findings and data on program applications, grants awarded, 107
+program participation, outcomes, and information on types of 108
+devices purchased, firearm detection software utilized, types of 109
+staff members receiving devices, cost of devices or software, 110
+including annual renewal costs if applicable, frequency of 111
+device use, and types of accidents reported. 112
+Section 3. Within the limits set forth in this act, the 113
+Director of Budget and Management shall establish accounts 114
+indicating the source and amount of funds for each appropriation 115
+made in this act, and shall determine the manner in which 116
+appropriation accounts shall be maintained. Expenditures from 117
+operating appropriations contained in this act shall be 118
+accounted for as though made in, and are subject to all 119
+applicable provisions of, the main operating appropriations act 120
+of the 136th General Assembly. 121
+Section 4. This act shall be known as Alyssa's Law. 122
+
+[DELETED: nH BIL          1 1.1 1234DG]
+[DELETED: 6 GF72Or$0$Td$0$TS$0$R1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3:3 3 3;3]
+[DELETED: 6  3 4:4 4 4.4 4.4 4.4 4.5 5.5 5.5 5 5 5:5 5 6 6 6 6 6;6]
+[DELETED: 6  6 6;6 6 7 7 7:7 7 7.7 7 7.7 8.8 8.8 8 8 8 8.8 8.9 9.9]
+[DELETED: 6  9 9 9 9 9 9 9 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1.1]

@@ -1,0 +1,240 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 8
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 109
+2025-2026
+Senators Blessing, Smith
+To amend sections 3301.91 and 3313.819 of the 1
+Revised Code to provide breakfast and lunch at 2
+no cost to public and chartered nonpublic school 3
+students, and to make an appropriation. 4
+
+Section 2:
+Section 1. That sections 3301.91 and 3313.819 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 3301.91. (A) As used in this section: 7
+(1) "National school breakfast program" means the federal 8
+school breakfast program created under 42 U.S.C. 1773. 9
+(2) "National school lunch program" means the federal 10
+school lunch program created under 42 U.S.C. 1751. 11
+(3) "Public school" means a school building operated by a 12
+school district, a community school established under Chapter 13
+
+Section 3:
+3314. of the Revised Code, a STEM school established under 14
+Chapter 3326. of the Revised Code, a building operated by an 15
+educational service center, a special education program operated 16
+by the county board of developmental disabilities under section 17
+
+Section 4:
+3323.09 of the Revised Code, or a facility offering juvenile day 18
+treatment services. 19
+S. B. No. 109 Page 2
+As Introduced
+(B) The department of education and workforce shall 20
+reimburse each public and chartered nonpublic school that 21
+participates in the national school breakfast program, from 22
+funds appropriated by the general assembly for that purpose, an 23
+amount equal to the sum of the following: 24
+(1) The difference between the federal free reimbursement 25
+rate and the federal reimbursement for a reduced-price breakfast 26
+for each student eligible for a reduced-price breakfast and 27
+receiving breakfast; 28
+(2) The difference between the federal free reimbursement 29
+rate and the federal reimbursement for a paid breakfast for each 30
+student receiving breakfast who does not qualify for free or 31
+reduced-price breakfast. 32
+(C) The department shall reimburse each public school and 33
+chartered nonpublic school that participates in the national 34
+school lunch program, from funds appropriated by the general 35
+assembly for that purpose, an amount equal to the sum of the 36
+following: 37
+(1) The difference between the federal free reimbursement 38
+rate and the federal reimbursement for a reduced-price lunch for 39
+each student eligible for a reduced-price lunch and receiving 40
+lunch; 41
+(2) The difference between the federal free reimbursement 42
+rate and the federal reimbursement for a paid lunch for each 43
+student receiving lunch who does not qualify for free or 44
+reduced-price lunch. 45
+Sec. 3313.819. (A) As used in this section, "national 46
+school breakfast program," "national school lunch program," and 47
+"public school" all have the same meanings as in section 3301.91 48
+S. B. No. 109 Page 3
+As Introduced
+of the Revised Code. 49
+(B) A public or chartered nonpublic school that 50
+participates in the national school breakfast program shall 51
+provide each student eligible for a reduced-price breakfast a 52
+breakfast at no cost to the student. 53
+A public or chartered nonpublic school that participates 54
+in the national school lunch program shall provide each student 55
+eligible for a reduced-price lunch a lunch at no cost to the 56
+student. 57
+
+Section 5:
+Section 2. That existing sections 3301.91 and 3313.819 of 58
+the Revised Code are hereby repealed. 59
+
+Section 6:
+Section 3. All items in this act are hereby appropriated 60
+as designated out of any moneys in the state treasury to the 61
+credit of the designated fund. For all operating appropriations 62
+made in this act, those in the first column are for fiscal year 63
+2026 and those in the second column are for fiscal year 2027. 64
+The operating appropriations made in this act are in addition to 65
+any other operating appropriations made for these fiscal years. 66
+
+Section 7:
+Section 4. 67
+68
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B General Revenue Fund
+C GRF 200505 School Meal Programs $300,000,000 $300,000,000
+D TOTAL GRF General Revenue Fund $300,000,000 $300,000,000
+S. B. No. 109 Page 4
+As Introduced
+E TOTAL ALL BUDGET FUND GROUPS $300,000,000 $300,000,000
+SCHOOL MEAL PROGRAMS 69
+The foregoing appropriation item 200505, School Meal 70
+Programs, shall be used to support the reimbursements required 71
+by divisions (B)(2) and (C)(2) of section 3301.91 of the Revised 72
+Code. 73
+
+Section 8:
+Section 5. Within the limits set forth in this act, the 74
+Director of Budget and Management shall establish accounts 75
+indicating the source and amount of funds for each appropriation 76
+made in this act, and shall determine the manner in which 77
+appropriation accounts shall be maintained. Expenditures from 78
+operating appropriations contained in this act shall be 79
+accounted for as though made in, and are subject to all 80
+applicable provisions of, the main operating appropriations act 81
+of the 136th General Assembly. 82
+[DELETED: nS     :    1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  2 2 2 2:2 2 2 2;2 2 3 3 3 3 3 3 3:3 3 3 4;4 4 4 4.4 4 4 4]
+[DELETED: 9  4 5 5 5 5 5 5 5 5 5.5 6 6 6 6 6 6.6 6234EGGF25Ss$0$Td$0$]
+[DELETED: 9 TS$0$ 6 7 7 7.7 7 7 7 7 7 7 8 8.8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 109
+2025-2026
+Senators Blessing, Smith
+To amend sections 3301.91 and 3313.819 of the 1
+Revised Code to provide breakfast and lunch at 2
+no cost to public and chartered nonpublic school 3
+students, and to make an appropriation. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3301.91 and 3313.819 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 3301.91. (A) As used in this section: 7
+(1) "National school breakfast program" means the federal 8
+school breakfast program created under 42 U.S.C. 1773. 9
+(2) "National school lunch program" means the federal 10
+school lunch program created under 42 U.S.C. 1751. 11
+(3) "Public school" means a school building operated by a 12
+school district, a community school established under Chapter 13
+3314. of the Revised Code, a STEM school established under 14
+Chapter 3326. of the Revised Code, a building operated by an 15
+educational service center, a special education program operated 16
+by the county board of developmental disabilities under section 17
+3323.09 of the Revised Code, or a facility offering juvenile day 18
+treatment services. 19
+
+S. B. No. 109 Page 2
+As Introduced
+(B) The department of education and workforce shall 20
+reimburse each public and chartered nonpublic school that 21
+participates in the national school breakfast program, from 22
+funds appropriated by the general assembly for that purpose, an 23
+amount equal to the sum of the following: 24
+(1) The difference between the federal free reimbursement 25
+rate and the federal reimbursement for a reduced-price breakfast 26
+for each student eligible for a reduced-price breakfast and 27
+receiving breakfast; 28
+(2) The difference between the federal free reimbursement 29
+rate and the federal reimbursement for a paid breakfast for each 30
+student receiving breakfast who does not qualify for free or 31
+reduced-price breakfast. 32
+(C) The department shall reimburse each public school and 33
+chartered nonpublic school that participates in the national 34
+school lunch program, from funds appropriated by the general 35
+assembly for that purpose, an amount equal to the sum of the 36
+following: 37
+(1) The difference between the federal free reimbursement 38
+rate and the federal reimbursement for a reduced-price lunch for 39
+each student eligible for a reduced-price lunch and receiving 40
+lunch; 41
+(2) The difference between the federal free reimbursement 42
+rate and the federal reimbursement for a paid lunch for each 43
+student receiving lunch who does not qualify for free or 44
+reduced-price lunch. 45
+Sec. 3313.819. (A) As used in this section, "national 46
+school breakfast program," "national school lunch program," and 47
+"public school" all have the same meanings as in section 3301.91 48
+
+S. B. No. 109 Page 3
+As Introduced
+of the Revised Code. 49
+(B) A public or chartered nonpublic school that 50
+participates in the national school breakfast program shall 51
+provide each student eligible for a reduced-price breakfast a 52
+breakfast at no cost to the student. 53
+A public or chartered nonpublic school that participates 54
+in the national school lunch program shall provide each student 55
+eligible for a reduced-price lunch a lunch at no cost to the 56
+student. 57
+Section 2. That existing sections 3301.91 and 3313.819 of 58
+the Revised Code are hereby repealed. 59
+Section 3. All items in this act are hereby appropriated 60
+as designated out of any moneys in the state treasury to the 61
+credit of the designated fund. For all operating appropriations 62
+made in this act, those in the first column are for fiscal year 63
+2026 and those in the second column are for fiscal year 2027. 64
+The operating appropriations made in this act are in addition to 65
+any other operating appropriations made for these fiscal years. 66
+Section 4. 67
+68
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B General Revenue Fund
+C GRF 200505 School Meal Programs $300,000,000 $300,000,000
+D TOTAL GRF General Revenue Fund $300,000,000 $300,000,000
+
+S. B. No. 109 Page 4
+As Introduced
+E TOTAL ALL BUDGET FUND GROUPS $300,000,000 $300,000,000
+SCHOOL MEAL PROGRAMS 69
+The foregoing appropriation item 200505, School Meal 70
+Programs, shall be used to support the reimbursements required 71
+by divisions (B)(2) and (C)(2) of section 3301.91 of the Revised 72
+Code. 73
+Section 5. Within the limits set forth in this act, the 74
+Director of Budget and Management shall establish accounts 75
+indicating the source and amount of funds for each appropriation 76
+made in this act, and shall determine the manner in which 77
+appropriation accounts shall be maintained. Expenditures from 78
+operating appropriations contained in this act shall be 79
+accounted for as though made in, and are subject to all 80
+applicable provisions of, the main operating appropriations act 81
+of the 136th General Assembly. 82
+
+[DELETED: nS     :    1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  2 2 2 2:2 2 2 2;2 2 3 3 3 3 3 3 3:3 3 3 4;4 4 4 4.4 4 4 4]
+[DELETED: 9  4 5 5 5 5 5 5 5 5 5.5 6 6 6 6 6 6.6 6234EGGF25Ss$0$Td$0$]
+[DELETED: 9 TS$0$ 6 7 7 7.7 7 7 7 7 7 7 8 8.8]

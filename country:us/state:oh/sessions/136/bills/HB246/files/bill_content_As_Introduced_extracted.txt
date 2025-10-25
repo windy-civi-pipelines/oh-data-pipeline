@@ -1,0 +1,707 @@
+Title: Cosponsors: Representatives Williams, Thomas, D., Hall, T., Gross, Johnson,
+Official Title: Cosponsors: Representatives Williams, Thomas, D., Hall, T., Gross, Johnson,
+Number of Sections: 12
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 246
+2025-2026
+Representatives Swearingen, Fischer
+Plummer, Stephens
+To enact sections 4151.01, 4151.02, 4151.03, 1
+
+Section 2:
+4151.04, 4151.05, 4151.06, and 4151.07 of the 2
+Revised Code to require certain construction 3
+industry employers to use E-verify and to 4
+sanction specified hiring practices in the 5
+industry. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 4151.01, 4151.02, 4151.03, 7
+
+Section 4:
+4151.04, 4151.05, 4151.06, and 4151.07 of the Revised Code be 8
+enacted to read as follows: 9
+Sec. 4151.01. As used in this chapter : 10
+(A) "Alien" means an individual who is not a United States 11
+citizen or a United States national. 12
+(B) "Employee" means any individual who performs services 13
+for a contractor, subcontractor, or labor broker who satisfies 14
+both of the following conditions: 15
+(1) The individual is subject to the contractor's, 16
+subcontractor's, or labor broker's direction and control, not 17
+only as to the result accomplished but also as to the details of 18
+H. B. No. 246 Page 2
+As Introduced
+how the work is performed; 19
+(2) The individual receives compensation in the form of 20
+wages, salary, or any other form of remuneration in exchange for 21
+services rendered. 22
+(C) "E-verify" means the employment verification program 23
+as jointly administered by the United States department of 24
+homeland security and the social security administration under 25
+
+Section 5:
+section 101(a)(1) of the federal "Immigration Reform and Control 26
+Act of 1986," 8 U.S.C. 1324a, or any of its successor programs. 27
+(D)(1) "Labor broker" means any individual or entity who 28
+hires an employee and supplies the employee's labor to a 29
+nonresidential construction contractor or a subcontractor, 30
+regardless of tier, through the use of a contract. 31
+(2) "Labor broker" does not include any governmental 32
+entity or labor organization as defined in section 3517.01 of 33
+the Revised Code. 34
+(E) "Nonresidential construction contractor" means any 35
+individual or entity that has responsibility for the means, 36
+method, and manner of construction, improvement, renovation, or 37
+repair on a nonresidential construction project with respect to 38
+one or more trades and who offers, identifies, advertises, or 39
+otherwise holds out or represents that the individual or entity 40
+is permitted or qualified to perform or have responsibility for 41
+the means, method, and manner of construction, improvement, 42
+renovation, repair, or maintenance with respect to one or more 43
+trades on a nonresidential construction project. 44
+(F) "Nonresidential construction project" means the 45
+construction or renovation of any building, highway, bridge, 46
+utility, or related infrastructure, but does not include any of 47
+H. B. No. 246 Page 3
+As Introduced
+the following: 48
+(1) An industrialized unit, manufactured home, or a 49
+residential building as defined in section 3781.06 of the 50
+Revised Code; 51
+(2) A building or structure that is incidental to the use 52
+of the land on which the building or structure is located for 53
+agricultural purposes as defined in section 3781.06 of the 54
+Revised Code; 55
+(3) A mobile home as defined in section 4501.01 of the 56
+Revised Code. 57
+(G) "Subcontractor" means any individual or entity who 58
+enters into a contract with a nonresidential construction 59
+contractor or another subcontractor, regardless of tier, to 60
+perform work on a nonresidential construction project. 61
+(H) "Unauthorized alien" means an alien who is not 62
+authorized to be employed as determined in accordance with the 63
+federal "Immigration Reform and Control Act of 1986," 8 U.S.C. 64
+1324a. 65
+Sec. 4151.02. (A) Except as provided in division (C) of 66
+this section, no nonresidential construction contractor, 67
+subcontractor, or labor broker shall fail to verify the 68
+employment eligibility of each employee hired to perform work on 69
+a nonresidential construction project through the e-verify 70
+program. A nonresidential construction contractor shall use e- 71
+verify to confirm the identity and legal working status of each 72
+employee employed by the nonresidential construction contractor. 73
+A subcontractor shall use e-verify to confirm the identity and 74
+legal working status of each employee employed by the 75
+subcontractor. A labor broker shall use e-verify to confirm the 76
+H. B. No. 246 Page 4
+As Introduced
+identity and legal working status of each employee employed by 77
+the labor broker. 78
+(B) A nonresidential construction contractor, 79
+subcontractor, or labor broker shall keep a record of the 80
+verification required by division (A) of this section for three 81
+years after the date of hire or one year after the date the 82
+employee's employment is terminated, whichever is later. 83
+(C) A nonresidential construction contractor, 84
+subcontractor, or labor broker is not required to comply with 85
+division (A) of this section if both of the following apply: 86
+(1) The nonresidential construction contractor, 87
+subcontractor, or labor broker has previously verified an 88
+employee's employment eligibility using e-verify. 89
+(2) The employer is not required to verify or reverify the 90
+employee's eligibility to work under section 101(a)(1) of the 91
+federal "Immigration Reform and Control Act of 1986," 8 U.S.C. 92
+1324a(b). 93
+Sec. 4151.03. No nonresidential construction contractor, 94
+subcontractor, or labor broker shall continue to employ an 95
+individual after receiving a notice of final nonconfirmation for 96
+that individual from the e-verify program. For purposes of this 97
+
+Section 6:
+section, a final nonconfirmation occurs when the contractor, 98
+subcontractor, or labor broker receives a case result indicating 99
+that an employee's employment eligibility could not be confirmed 100
+and instructions that the contractor, subcontractor, or labor 101
+broker should close the e-verify case associated with the 102
+employee. 103
+Sec. 4151.04. (A)(1) The attorney general shall prescribe 104
+a complaint form for an individual to allege a violation of 105
+H. B. No. 246 Page 5
+As Introduced
+
+Section 7:
+section 4151.02 or 4151.03 of the Revised Code. The attorney 106
+general shall not require the complainant to list the 107
+complainant's social security number on the complaint form or to 108
+have the form notarized. A complainant shall submit the 109
+complaint to the attorney general. Except as provided in 110
+division (B) of this section, the attorney general shall 111
+investigate any violation alleged in a prescribed complaint form 112
+when the attorney general determines the complaint contains 113
+sufficient facts to reasonably conclude that a violation may 114
+have occurred. 115
+(2) This section does not prohibit an individual from 116
+filing an anonymous complaint on a form other than the 117
+prescribed complaint form. Except as provided in division (B) of 118
+this section, the attorney general may, but is not required to, 119
+investigate a violation alleged in a form other than a 120
+prescribed form, provided the complaint contains sufficient 121
+facts to reasonably conclude that a violation may have occurred. 122
+(B) The attorney general shall not investigate a complaint 123
+that is based solely on race, color, or national origin. 124
+(C) Any local law enforcement officer may assist in 125
+investigating a complaint filed under this section. 126
+(D) Except as provided in division (G) of this section, if 127
+the attorney general conducts an investigation under this 128
+
+Section 8:
+section and determines that reasonable evidence exists that a 129
+violation of section 4151.02 or 4151.03 of the Revised Code has 130
+occurred, the attorney general shall, after providing notice and 131
+an opportunity for a hearing in accordance with Chapter 119. of 132
+the Revised Code, issue an order that does both of the 133
+following: 134
+H. B. No. 246 Page 6
+As Introduced
+(1) Directs the contractor, subcontractor, or labor broker 135
+to provide satisfactory proof that any violation has been 136
+corrected; 137
+(2) Imposes any penalty that applies under division (E) of 138
+this section. 139
+(E)(1) Except as otherwise provided in this division, if 140
+the attorney general's investigation reveals one or more 141
+violations of section 4151.02 of the Revised Code, the attorney 142
+general shall order the contractor, subcontractor, or labor 143
+broker to pay a fine of two hundred fifty dollars for each 144
+violation. Except as otherwise provided in this division, if the 145
+attorney general's investigation reveals one or more violations 146
+of section 4151.03 of the Revised Code, the attorney general 147
+shall order the contractor, subcontractor, or labor broker to 148
+pay a fine of five thousand dollars for each violation. 149
+(2) Except as otherwise provided in this division, if the 150
+attorney general's investigation reveals one or more violations 151
+of 4151.02 of the Revised Code and the contractor, 152
+subcontractor, or labor broker has been ordered by the attorney 153
+general or a court to pay a fine under division (E)(1) of this 154
+
+Section 9:
+section during the preceding three years, the attorney general 155
+shall order the contractor, subcontractor, or labor broker to 156
+pay a fine of one thousand dollars for each violation. Except as 157
+provided in this division, if the attorney general's 158
+investigation reveals one or more violations of section 4151.03 159
+of the Revised Code and the contractor, subcontractor, or labor 160
+broker has been ordered by the attorney general or a court to 161
+pay a fine under division (E)(1) of this section during the 162
+preceding three years, the attorney general shall order the 163
+contractor, subcontractor, or labor broker to pay a fine of ten 164
+H. B. No. 246 Page 7
+As Introduced
+thousand dollars per violation. 165
+(3) If the attorney general's investigation reveals one or 166
+more violations of section 4151.02 of the Revised Code and the 167
+contractor, subcontractor, or labor broker has been ordered by 168
+the attorney general or a court to pay a fine under division (E) 169
+(2) of this section during the preceding three years, the 170
+attorney general shall order the contractor, subcontractor, or 171
+labor broker to pay a fine of one thousand five hundred dollars 172
+per violation. If the attorney general's investigation reveals 173
+one or more violations of section 4151.03 of the Revised Code 174
+and the contractor, subcontractor, or labor broker has been 175
+ordered by the attorney general or a court to pay a fine under 176
+division (E)(2) of this section during the preceding three 177
+years, the attorney general shall order the contractor, 178
+subcontractor, or labor broker to pay a fine of twenty-five 179
+thousand dollars for each violation. 180
+(F) If a contractor, subcontractor, or labor broker fails 181
+to comply with an order issued by the attorney general under 182
+division (D) of this section within thirty days after the 183
+attorney general issues the order, the attorney general shall 184
+bring a civil action against the contractor, subcontractor, or 185
+labor broker in accordance with section 4151.05 of the Revised 186
+Code. In the action, the attorney general also may present 187
+evidence that the contractor, subcontractor, or labor broker 188
+violated section 4151.06 of the Revised Code. 189
+(G) The attorney general shall not issue an order under 190
+this section or bring a civil action under section 4151.06 of 191
+the Revised Code if a violation of section 4151.02 or 4151.03 of 192
+the Revised Code was the result of an isolated technical error 193
+or a malfunction in the e-verify program. 194
+H. B. No. 246 Page 8
+As Introduced
+Sec. 4151.05. (A) If a contractor, subcontractor, or labo r 195
+broker fails to comply with an order issued by the attorney 196
+general under division (D) of section 4151.04 of the Revised 197
+Code within the period specified in division (F) of that 198
+
+Section 10:
+section, the attorney general shall bring a civil action against 199
+the contractor, subcontractor, or labor broker in the court of 200
+common pleas of the county where the contractor, subcontractor, 201
+or labor broker is located or does business or in the court of 202
+common pleas of the county where the violation is alleged to 203
+have occurred. 204
+(B)(1) If the court determines that a contractor, 205
+subcontractor, or labor broker violated section 4151.02 or 206
+
+Section 11:
+4151.03 of the Revised Code, the court shall do both of the 207
+following: 208
+(a) Order the contractor, subcontractor, or labor broker 209
+to pay any portion of the penalty imposed by the attorney 210
+general that the court determines to have been validly imposed 211
+based on the evidence presented plus an additional one thousand 212
+dollars for each violation; 213
+(b) Order that the contractor, subcontractor, or labor 214
+broker is not eligible to bid for or participate in any state 215
+contract for a period of two years. 216
+(2) The court shall provide a copy of an order issued 217
+under division (B)(1) of this section to the director of 218
+administrative services. 219
+(3) After the two-year period described in division (B)(1) 220
+(b) of this section has elapsed, a contractor, subcontractor, or 221
+labor broker that has been ordered ineligible may be eligible to 222
+bid for and participate in state contracts if the contractor, 223
+H. B. No. 246 Page 9
+As Introduced
+subcontractor, or labor broker files a sworn affidavit with the 224
+director that two years or more have elapsed since the order 225
+described in division (B)(1)(b) of this section and that the 226
+contractor, subcontractor, or labor broker has not violated 227
+
+Section 12:
+section 4151.02 or 4151.03 of the Revised Code during the two- 228
+year period. 229
+(C)(1) The director shall maintain a list of all 230
+contractors, subcontractors, and labor brokers ineligible to bid 231
+for or participate in any state contract for a period of two 232
+years under division (B)(1)(b) of this section. Except as 233
+provided in division (C)(2) of this section, the director shall 234
+remove a contractor, subcontractor, or labor broker from the 235
+list when the two-year period ends. The director also shall 236
+maintain a record of all affidavits filed with the director 237
+under division (B)(3) of this section. 238
+(2) The director shall not remove a contractor, 239
+subcontractor, or labor broker from the list maintained under 240
+division (C)(1) of this section if the contractor, 241
+subcontractor, or labor broker has not paid a fine ordered under 242
+this section. 243
+(D) The e-verify enforcement fund is created in the state 244
+treasury. Fines collected pursuant to this chapter shall be 245
+deposited to the credit of the fund. The attorney general shall 246
+use the fund to administer and enforce this chapter. 247
+Sec. 4151.06. (A) If a court, pursuant to an action 248
+brought under section 4151.05 of the Revised Code, determines 249
+that a nonresidential construction contractor, subcontractor, or 250
+labor broker has knowingly employed an unauthorized alien, the 251
+court shall order each appropriate agency to permanently revoke 252
+any license issued by the agency and held by the nonresidential 253
+H. B. No. 246 Page 10
+As Introduced
+construction contractor, subcontractor, or labor broker specific 254
+to the business location where the unauthorized alien performed 255
+work. If the nonresidential construction contractor, 256
+subcontractor, or labor broker does not hold a license specific 257
+to the business location where the unauthorized alien performed 258
+work, but a license is necessary to operate the nonresidential 259
+construction contractor's, subcontractor's, or labor broker's 260
+business in general, the court shall order the appropriate 261
+agency to permanently revoke all licenses issued by that agency 262
+that are held by the nonresidential construction contractor, 263
+subcontractor, or labor broker at the nonresidential 264
+construction contractor's, subcontractor's, or labor broker's 265
+primary place of business. On receipt of the order and 266
+notwithstanding any other law to the contrary, the appropriate 267
+agency immediately shall revoke the licenses. 268
+(B) For purposes of determining whether an employee is an 269
+unauthorized alien, a court shall consider only a determination 270
+with respect to that alien's immigration status made by the 271
+federal government pursuant to the federal "Omnibus Consolidated 272
+Appropriations Act, 1997," 8 U.S.C. 1373(c). The federal 273
+government's determination creates a rebuttable presumption of 274
+the alien's lawful status. The court may take judicial notice of 275
+the federal government's determination and may request the 276
+federal government to provide automated or testimonial 277
+verification pursuant to the federal "Omnibus Consolidated 278
+Appropriations Act, 1997," 8 U.S.C. 1373(c). 279
+Sec. 4151.07. (A) The attorney general shall conduct 280
+periodic reviews of state agencies and political subdivisions to 281
+ensure that state agencies and political subdivisions are 282
+including within their contracts for the construction or 283
+renovation of nonresidential construction projects provisions 284
+H. B. No. 246 Page 11
+As Introduced
+requiring compliance with sections 4151.02 and 4151.03 of the 285
+Revised Code. 286
+(B) Each state agency or political subdivision that fails 287
+to include provisions requiring compliance with sections 4151.02 288
+and 4151.03 of the Revised Code in a contract for the 289
+construction or renovation of a nonresidential construction 290
+project shall be fined five thousand dollars for each failure. 291
+[DELETED: nH     .  ::1 1.1 1 1:1 1 1 1]
+[DELETED: 6 ;1 2 2.2 2 2 2 2.2 2 2 3.3 3 3.3 3 3 3 3 3 4 4 4 4.4 4 4 4]
+[DELETED: 6 :4 4 5;5 5 5 5;5 5.5 5 5 6.6 6 6 6.6 6 6 6 6 7-7 7 7 7 7 7]
+[DELETED: 6  7.7 7 8 8 8.8 8 8:8 8 8.8 9 9 9.9 9 9 9 9 9 9 1 1 1.1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1.1 1.1 1.1 1 1 1 1 1 1 1:1]
+[DELETED: 6  1 1;1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6 .1 1 1 1)1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 6  1 1 1 1 1 2 2 2 2.2 2 2 2:2 2 2 2 2;2 2 2 2 2 2.2)2 2 2 2]
+[DELETED: 6  2 2 2 2-2.2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2]
+[DELETED: 6  2.2 2 2 2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 246
+2025-2026
+Representatives Swearingen, Fischer
+Cosponsors: Representatives Williams, Thomas, D., Hall, T., Gross, Johnson,
+Plummer, Stephens
+To enact sections 4151.01, 4151.02, 4151.03, 1
+4151.04, 4151.05, 4151.06, and 4151.07 of the 2
+Revised Code to require certain construction 3
+industry employers to use E-verify and to 4
+sanction specified hiring practices in the 5
+industry. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 4151.01, 4151.02, 4151.03, 7
+4151.04, 4151.05, 4151.06, and 4151.07 of the Revised Code be 8
+enacted to read as follows: 9
+Sec. 4151.01. As used in this chapter : 10
+(A) "Alien" means an individual who is not a United States 11
+citizen or a United States national. 12
+(B) "Employee" means any individual who performs services 13
+for a contractor, subcontractor, or labor broker who satisfies 14
+both of the following conditions: 15
+(1) The individual is subject to the contractor's, 16
+subcontractor's, or labor broker's direction and control, not 17
+only as to the result accomplished but also as to the details of 18
+
+H. B. No. 246 Page 2
+As Introduced
+how the work is performed; 19
+(2) The individual receives compensation in the form of 20
+wages, salary, or any other form of remuneration in exchange for 21
+services rendered. 22
+(C) "E-verify" means the employment verification program 23
+as jointly administered by the United States department of 24
+homeland security and the social security administration under 25
+section 101(a)(1) of the federal "Immigration Reform and Control 26
+Act of 1986," 8 U.S.C. 1324a, or any of its successor programs. 27
+(D)(1) "Labor broker" means any individual or entity who 28
+hires an employee and supplies the employee's labor to a 29
+nonresidential construction contractor or a subcontractor, 30
+regardless of tier, through the use of a contract. 31
+(2) "Labor broker" does not include any governmental 32
+entity or labor organization as defined in section 3517.01 of 33
+the Revised Code. 34
+(E) "Nonresidential construction contractor" means any 35
+individual or entity that has responsibility for the means, 36
+method, and manner of construction, improvement, renovation, or 37
+repair on a nonresidential construction project with respect to 38
+one or more trades and who offers, identifies, advertises, or 39
+otherwise holds out or represents that the individual or entity 40
+is permitted or qualified to perform or have responsibility for 41
+the means, method, and manner of construction, improvement, 42
+renovation, repair, or maintenance with respect to one or more 43
+trades on a nonresidential construction project. 44
+(F) "Nonresidential construction project" means the 45
+construction or renovation of any building, highway, bridge, 46
+utility, or related infrastructure, but does not include any of 47
+
+H. B. No. 246 Page 3
+As Introduced
+the following: 48
+(1) An industrialized unit, manufactured home, or a 49
+residential building as defined in section 3781.06 of the 50
+Revised Code; 51
+(2) A building or structure that is incidental to the use 52
+of the land on which the building or structure is located for 53
+agricultural purposes as defined in section 3781.06 of the 54
+Revised Code; 55
+(3) A mobile home as defined in section 4501.01 of the 56
+Revised Code. 57
+(G) "Subcontractor" means any individual or entity who 58
+enters into a contract with a nonresidential construction 59
+contractor or another subcontractor, regardless of tier, to 60
+perform work on a nonresidential construction project. 61
+(H) "Unauthorized alien" means an alien who is not 62
+authorized to be employed as determined in accordance with the 63
+federal "Immigration Reform and Control Act of 1986," 8 U.S.C. 64
+1324a. 65
+Sec. 4151.02. (A) Except as provided in division (C) of 66
+this section, no nonresidential construction contractor, 67
+subcontractor, or labor broker shall fail to verify the 68
+employment eligibility of each employee hired to perform work on 69
+a nonresidential construction project through the e-verify 70
+program. A nonresidential construction contractor shall use e- 71
+verify to confirm the identity and legal working status of each 72
+employee employed by the nonresidential construction contractor. 73
+A subcontractor shall use e-verify to confirm the identity and 74
+legal working status of each employee employed by the 75
+subcontractor. A labor broker shall use e-verify to confirm the 76
+
+H. B. No. 246 Page 4
+As Introduced
+identity and legal working status of each employee employed by 77
+the labor broker. 78
+(B) A nonresidential construction contractor, 79
+subcontractor, or labor broker shall keep a record of the 80
+verification required by division (A) of this section for three 81
+years after the date of hire or one year after the date the 82
+employee's employment is terminated, whichever is later. 83
+(C) A nonresidential construction contractor, 84
+subcontractor, or labor broker is not required to comply with 85
+division (A) of this section if both of the following apply: 86
+(1) The nonresidential construction contractor, 87
+subcontractor, or labor broker has previously verified an 88
+employee's employment eligibility using e-verify. 89
+(2) The employer is not required to verify or reverify the 90
+employee's eligibility to work under section 101(a)(1) of the 91
+federal "Immigration Reform and Control Act of 1986," 8 U.S.C. 92
+1324a(b). 93
+Sec. 4151.03. No nonresidential construction contractor, 94
+subcontractor, or labor broker shall continue to employ an 95
+individual after receiving a notice of final nonconfirmation for 96
+that individual from the e-verify program. For purposes of this 97
+section, a final nonconfirmation occurs when the contractor, 98
+subcontractor, or labor broker receives a case result indicating 99
+that an employee's employment eligibility could not be confirmed 100
+and instructions that the contractor, subcontractor, or labor 101
+broker should close the e-verify case associated with the 102
+employee. 103
+Sec. 4151.04. (A)(1) The attorney general shall prescribe 104
+a complaint form for an individual to allege a violation of 105
+
+H. B. No. 246 Page 5
+As Introduced
+section 4151.02 or 4151.03 of the Revised Code. The attorney 106
+general shall not require the complainant to list the 107
+complainant's social security number on the complaint form or to 108
+have the form notarized. A complainant shall submit the 109
+complaint to the attorney general. Except as provided in 110
+division (B) of this section, the attorney general shall 111
+investigate any violation alleged in a prescribed complaint form 112
+when the attorney general determines the complaint contains 113
+sufficient facts to reasonably conclude that a violation may 114
+have occurred. 115
+(2) This section does not prohibit an individual from 116
+filing an anonymous complaint on a form other than the 117
+prescribed complaint form. Except as provided in division (B) of 118
+this section, the attorney general may, but is not required to, 119
+investigate a violation alleged in a form other than a 120
+prescribed form, provided the complaint contains sufficient 121
+facts to reasonably conclude that a violation may have occurred. 122
+(B) The attorney general shall not investigate a complaint 123
+that is based solely on race, color, or national origin. 124
+(C) Any local law enforcement officer may assist in 125
+investigating a complaint filed under this section. 126
+(D) Except as provided in division (G) of this section, if 127
+the attorney general conducts an investigation under this 128
+section and determines that reasonable evidence exists that a 129
+violation of section 4151.02 or 4151.03 of the Revised Code has 130
+occurred, the attorney general shall, after providing notice and 131
+an opportunity for a hearing in accordance with Chapter 119. of 132
+the Revised Code, issue an order that does both of the 133
+following: 134
+
+H. B. No. 246 Page 6
+As Introduced
+(1) Directs the contractor, subcontractor, or labor broker 135
+to provide satisfactory proof that any violation has been 136
+corrected; 137
+(2) Imposes any penalty that applies under division (E) of 138
+this section. 139
+(E)(1) Except as otherwise provided in this division, if 140
+the attorney general's investigation reveals one or more 141
+violations of section 4151.02 of the Revised Code, the attorney 142
+general shall order the contractor, subcontractor, or labor 143
+broker to pay a fine of two hundred fifty dollars for each 144
+violation. Except as otherwise provided in this division, if the 145
+attorney general's investigation reveals one or more violations 146
+of section 4151.03 of the Revised Code, the attorney general 147
+shall order the contractor, subcontractor, or labor broker to 148
+pay a fine of five thousand dollars for each violation. 149
+(2) Except as otherwise provided in this division, if the 150
+attorney general's investigation reveals one or more violations 151
+of 4151.02 of the Revised Code and the contractor, 152
+subcontractor, or labor broker has been ordered by the attorney 153
+general or a court to pay a fine under division (E)(1) of this 154
+section during the preceding three years, the attorney general 155
+shall order the contractor, subcontractor, or labor broker to 156
+pay a fine of one thousand dollars for each violation. Except as 157
+provided in this division, if the attorney general's 158
+investigation reveals one or more violations of section 4151.03 159
+of the Revised Code and the contractor, subcontractor, or labor 160
+broker has been ordered by the attorney general or a court to 161
+pay a fine under division (E)(1) of this section during the 162
+preceding three years, the attorney general shall order the 163
+contractor, subcontractor, or labor broker to pay a fine of ten 164
+
+H. B. No. 246 Page 7
+As Introduced
+thousand dollars per violation. 165
+(3) If the attorney general's investigation reveals one or 166
+more violations of section 4151.02 of the Revised Code and the 167
+contractor, subcontractor, or labor broker has been ordered by 168
+the attorney general or a court to pay a fine under division (E) 169
+(2) of this section during the preceding three years, the 170
+attorney general shall order the contractor, subcontractor, or 171
+labor broker to pay a fine of one thousand five hundred dollars 172
+per violation. If the attorney general's investigation reveals 173
+one or more violations of section 4151.03 of the Revised Code 174
+and the contractor, subcontractor, or labor broker has been 175
+ordered by the attorney general or a court to pay a fine under 176
+division (E)(2) of this section during the preceding three 177
+years, the attorney general shall order the contractor, 178
+subcontractor, or labor broker to pay a fine of twenty-five 179
+thousand dollars for each violation. 180
+(F) If a contractor, subcontractor, or labor broker fails 181
+to comply with an order issued by the attorney general under 182
+division (D) of this section within thirty days after the 183
+attorney general issues the order, the attorney general shall 184
+bring a civil action against the contractor, subcontractor, or 185
+labor broker in accordance with section 4151.05 of the Revised 186
+Code. In the action, the attorney general also may present 187
+evidence that the contractor, subcontractor, or labor broker 188
+violated section 4151.06 of the Revised Code. 189
+(G) The attorney general shall not issue an order under 190
+this section or bring a civil action under section 4151.06 of 191
+the Revised Code if a violation of section 4151.02 or 4151.03 of 192
+the Revised Code was the result of an isolated technical error 193
+or a malfunction in the e-verify program. 194
+
+H. B. No. 246 Page 8
+As Introduced
+Sec. 4151.05. (A) If a contractor, subcontractor, or labo r 195
+broker fails to comply with an order issued by the attorney 196
+general under division (D) of section 4151.04 of the Revised 197
+Code within the period specified in division (F) of that 198
+section, the attorney general shall bring a civil action against 199
+the contractor, subcontractor, or labor broker in the court of 200
+common pleas of the county where the contractor, subcontractor, 201
+or labor broker is located or does business or in the court of 202
+common pleas of the county where the violation is alleged to 203
+have occurred. 204
+(B)(1) If the court determines that a contractor, 205
+subcontractor, or labor broker violated section 4151.02 or 206
+4151.03 of the Revised Code, the court shall do both of the 207
+following: 208
+(a) Order the contractor, subcontractor, or labor broker 209
+to pay any portion of the penalty imposed by the attorney 210
+general that the court determines to have been validly imposed 211
+based on the evidence presented plus an additional one thousand 212
+dollars for each violation; 213
+(b) Order that the contractor, subcontractor, or labor 214
+broker is not eligible to bid for or participate in any state 215
+contract for a period of two years. 216
+(2) The court shall provide a copy of an order issued 217
+under division (B)(1) of this section to the director of 218
+administrative services. 219
+(3) After the two-year period described in division (B)(1) 220
+(b) of this section has elapsed, a contractor, subcontractor, or 221
+labor broker that has been ordered ineligible may be eligible to 222
+bid for and participate in state contracts if the contractor, 223
+
+H. B. No. 246 Page 9
+As Introduced
+subcontractor, or labor broker files a sworn affidavit with the 224
+director that two years or more have elapsed since the order 225
+described in division (B)(1)(b) of this section and that the 226
+contractor, subcontractor, or labor broker has not violated 227
+section 4151.02 or 4151.03 of the Revised Code during the two- 228
+year period. 229
+(C)(1) The director shall maintain a list of all 230
+contractors, subcontractors, and labor brokers ineligible to bid 231
+for or participate in any state contract for a period of two 232
+years under division (B)(1)(b) of this section. Except as 233
+provided in division (C)(2) of this section, the director shall 234
+remove a contractor, subcontractor, or labor broker from the 235
+list when the two-year period ends. The director also shall 236
+maintain a record of all affidavits filed with the director 237
+under division (B)(3) of this section. 238
+(2) The director shall not remove a contractor, 239
+subcontractor, or labor broker from the list maintained under 240
+division (C)(1) of this section if the contractor, 241
+subcontractor, or labor broker has not paid a fine ordered under 242
+this section. 243
+(D) The e-verify enforcement fund is created in the state 244
+treasury. Fines collected pursuant to this chapter shall be 245
+deposited to the credit of the fund. The attorney general shall 246
+use the fund to administer and enforce this chapter. 247
+Sec. 4151.06. (A) If a court, pursuant to an action 248
+brought under section 4151.05 of the Revised Code, determines 249
+that a nonresidential construction contractor, subcontractor, or 250
+labor broker has knowingly employed an unauthorized alien, the 251
+court shall order each appropriate agency to permanently revoke 252
+any license issued by the agency and held by the nonresidential 253
+
+H. B. No. 246 Page 10
+As Introduced
+construction contractor, subcontractor, or labor broker specific 254
+to the business location where the unauthorized alien performed 255
+work. If the nonresidential construction contractor, 256
+subcontractor, or labor broker does not hold a license specific 257
+to the business location where the unauthorized alien performed 258
+work, but a license is necessary to operate the nonresidential 259
+construction contractor's, subcontractor's, or labor broker's 260
+business in general, the court shall order the appropriate 261
+agency to permanently revoke all licenses issued by that agency 262
+that are held by the nonresidential construction contractor, 263
+subcontractor, or labor broker at the nonresidential 264
+construction contractor's, subcontractor's, or labor broker's 265
+primary place of business. On receipt of the order and 266
+notwithstanding any other law to the contrary, the appropriate 267
+agency immediately shall revoke the licenses. 268
+(B) For purposes of determining whether an employee is an 269
+unauthorized alien, a court shall consider only a determination 270
+with respect to that alien's immigration status made by the 271
+federal government pursuant to the federal "Omnibus Consolidated 272
+Appropriations Act, 1997," 8 U.S.C. 1373(c). The federal 273
+government's determination creates a rebuttable presumption of 274
+the alien's lawful status. The court may take judicial notice of 275
+the federal government's determination and may request the 276
+federal government to provide automated or testimonial 277
+verification pursuant to the federal "Omnibus Consolidated 278
+Appropriations Act, 1997," 8 U.S.C. 1373(c). 279
+Sec. 4151.07. (A) The attorney general shall conduct 280
+periodic reviews of state agencies and political subdivisions to 281
+ensure that state agencies and political subdivisions are 282
+including within their contracts for the construction or 283
+renovation of nonresidential construction projects provisions 284
+
+H. B. No. 246 Page 11
+As Introduced
+requiring compliance with sections 4151.02 and 4151.03 of the 285
+Revised Code. 286
+(B) Each state agency or political subdivision that fails 287
+to include provisions requiring compliance with sections 4151.02 288
+and 4151.03 of the Revised Code in a contract for the 289
+construction or renovation of a nonresidential construction 290
+project shall be fined five thousand dollars for each failure. 291
+
+[DELETED: nH     .  ::1 1.1 1 1:1 1 1 1]
+[DELETED: 6 ;1 2 2.2 2 2 2 2.2 2 2 3.3 3 3.3 3 3 3 3 3 4 4 4 4.4 4 4 4]
+[DELETED: 6 :4 4 5;5 5 5 5;5 5.5 5 5 6.6 6 6 6.6 6 6 6 6 7-7 7 7 7 7 7]
+[DELETED: 6  7.7 7 8 8 8.8 8 8:8 8 8.8 9 9 9.9 9 9 9 9 9 9 1 1 1.1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1.1 1.1 1.1 1 1 1 1 1 1 1:1]
+[DELETED: 6  1 1;1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6 .1 1 1 1)1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 6  1 1 1 1 1 2 2 2 2.2 2 2 2:2 2 2 2 2;2 2 2 2 2 2.2)2 2 2 2]
+[DELETED: 6  2 2 2 2-2.2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2]
+[DELETED: 6  2.2 2 2 2 2.2]

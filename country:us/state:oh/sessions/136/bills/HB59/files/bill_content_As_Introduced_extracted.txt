@@ -1,0 +1,45 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 59
+2025-2026
+Representatives Fowler Arthur, Hiner
+To revise and streamline the state's occupational 1
+regulations. 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. In accordance with S.B. 255 of the 132nd 3
+General Assembly, the General Assembly intends to enact 4
+legislation revising and streamlining occupational regulations 5
+to better accommodate the state's workforce. 6
+[DELETED: nH BIL .    ]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 59
+2025-2026
+Representatives Fowler Arthur, Hiner
+A BILL
+To revise and streamline the state's occupational 1
+regulations. 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. In accordance with S.B. 255 of the 132nd 3
+General Assembly, the General Assembly intends to enact 4
+legislation revising and streamlining occupational regulations 5
+to better accommodate the state's workforce. 6
+
+[DELETED: nH BIL .    ]

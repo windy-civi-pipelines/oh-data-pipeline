@@ -1,0 +1,1348 @@
+Title: Cosponsors: Representatives Newman, Johnson, Brewer, White, E., Troy,
+Official Title: Cosponsors: Representatives Newman, Johnson, Brewer, White, E., Troy,
+Number of Sections: 30
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 271
+2025-2026
+Representatives Schmidt, Williams
+Brennan, Rogers, Brownlee, Ray, Click, Richardson, Robb Blasdel, Hall, T.,
+Odioso, White, A., Abrams
+To amend sections 1751.62, 3923.52, 3923.53, 1
+
+Section 2:
+5162.20, and 5164.08 of the Revised Code to 2
+revise the law governing insurance and Medicaid 3
+coverage of breast cancer screenings and 4
+examinations and to name this act the Breast 5
+Examination and Screening Transformation Act, or 6
+BEST Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 1751.62, 3923.52, 3923.53, 8
+
+Section 4:
+5162.20, and 5164.08 of the Revised Code be amended to read as 9
+follows: 10
+Sec. 1751.62. (A) As used in this section: 11
+(1) "Screening mammography" means a radiologic examination 12
+that, in accordance with applicable American college of 13
+radiology guidelines, is utilized to detect unsuspected breast 14
+cancer at an early stage in an asymptomatic woman and includes 15
+the x-ray examination of the breast using equipment that is 16
+dedicated specifically for mammography, including, but not 17
+limited to, the x-ray tube, filter, compression device, screens, 18
+H. B. No. 271 Page 2
+As Introduced
+film, and cassettes, and that has an average radiation exposure 19
+delivery of less than one rad mid-breast. "Screening 20
+mammography" includes digital breast tomosynthesis. "Screening 21
+mammography" includes two views for each breast. The term also 22
+includes the professional interpretation of the film. 23
+"Screening mammography" does not include diagnostic 24
+mammography. 25
+(2) "Medicare reimbursement rate" means the reimbursement 26
+rate paid in Ohio under the medicare program for screening 27
+mammography that does not include digitization or computer-aided 28
+detection, regardless of whether the actual benefit includes 29
+digitization or computer-aided detection. 30
+(3) "Diagnostic breast examination" means any examination 31
+that, in accordance with applicable American college of 32
+radiology guidelines, is deemed medically necessary by a 33
+treating health care provider to diagnose breast cancer, 34
+including diagnostic mammography, magnetic resonance imaging, 35
+ultrasound, or biopsy. 36
+(3) "Supplemental breast cancer screening" means any 37
+additional screening method deemed medically necessary by a 38
+treating health care provider for proper breast cancer screening 39
+in accordance with applicable American college of radiology 40
+guidelines, including magnetic resonance imaging, ultrasound, 41
+contrast enhanced mammography, or molecular breast imaging. 42
+(4) "Cost-sharing" means the cost to an enrollee under an 43
+individual or group health insuring corporation policy, 44
+contract, or agreement according to any coverage limit, 45
+copayment, coinsurance, deductible, or other out-of-pocket 46
+expense requirements imposed by the policy, contract, or 47
+H. B. No. 271 Page 3
+As Introduced
+agreement. 48
+(B) Notwithstanding section 3901.71 of the Revised Code, 49
+every individual or group health insuring corporation policy, 50
+contract, or agreement providing basic health care services that 51
+is delivered, issued for delivery, or renewed in this state 52
+shall provide benefits for the expenses of all of the following: 53
+(1) To detect the presence of breast cancer in adult 54
+womenindividuals, a screening mammography; 55
+(2) To detect the presence of breast cancer in adult women 56
+individuals meeting either or both of the conditions described 57
+in division (C)(2) of this section, supplemental breast cancer 58
+screening; 59
+(3) To diagnose breast cancer in adult individuals meeting 60
+the condition described in division (C)(3) of this section, a 61
+diagnostic breast examination; 62
+(4) To detect the presence of cervical cancer, cytologic 63
+screening. 64
+(C)(1) The benefits provided under division (B)(1) of this 65
+
+Section 5:
+section shall cover expenses for one screening mammography every 66
+year, including digital breast tomosynthesis. 67
+(2) The benefits provided under division (B)(2) of this 68
+
+Section 6:
+section shall cover expenses for supplemental breast cancer 69
+screening for an adult woman individual who meets either or both 70
+of the following conditions: 71
+(a) The woman's individual's screening mammography 72
+demonstrates, based on the breast imaging reporting and data 73
+system established by the American college of radiology, that 74
+the woman individual has dense breast tissue; 75
+H. B. No. 271 Page 4
+As Introduced
+(b) The woman individual is at an increased risk of breast 76
+cancer due to family history, prior personal history of breast 77
+cancer, ancestry, genetic predisposition, or other reasons as 78
+determined by the woman's individual's health care provider. 79
+(3) The benefits provided under division (B)(3) of this 80
+
+Section 7:
+section shall cover expenses for diagnostic breast examination 81
+for an adult individual who has an abnormality seen or suspected 82
+from, or detected by, a screening mammography, supplemental 83
+breast cancer screening, or another means of examination. 84
+(D)(1) Subject to divisions (D)(2) and (3) of this 85
+
+Section 8:
+section, if a provider, hospital, or other health care facility 86
+provides a service that is a component of the screening 87
+mammography a benefit in provided under division (B)(1), (2), or 88
+(3) of this section or a component of the supplemental breast 89
+cancer screening benefit in division (B)(2) of this section and 90
+submits a separate claim for that component, a separate payment 91
+shall be made to the provider, hospital, or other health care 92
+facility in an amount that corresponds to the ratio paid by 93
+medicare in this state for that component. 94
+(2) Regardless of whether separate payments are made for 95
+the The total benefit provided under division (B)(1), or (2), or 96
+(3) of this section, the total benefit for a screening 97
+mammography or supplemental breast cancer screening shall not 98
+exceed one hundred thirty per cent of the medicare reimbursement 99
+rate in this state for screening mammography or supplemental 100
+breast cancer screening. If there is more than one medicare 101
+reimbursement rate in this state for screening mammography or a 102
+component of a screening mammography or supplemental breast 103
+cancer screening or a component of supplemental breast cancer 104
+screening, the reimbursement limit shall be one hundred thirty 105
+H. B. No. 271 Page 5
+As Introduced
+per cent of the lowest medicare and any separate payment for a 106
+service that is a component of such a benefit under division (D) 107
+(1) of this section, shall not be less than any reimbursement 108
+rate previously paid by the same individual or group health 109
+insuring corporation under a policy, contract, or agreement 110
+providing basic health care services that is delivered, issued 111
+for delivery, or renewed in this state after the effective date 112
+of this amendment to the same provider, hospital, or other 113
+health care facility for the same benefit or service that is a 114
+component of such benefit. 115
+(3) The benefit paid in accordance with division divisions 116
+(D)(1) and (2) of this section shall constitute full payment. No 117
+provider, hospital, or other health care facility shall seek or 118
+receive remuneration in excess of the payment made in accordance 119
+with division divisions (D)(1) and (2) of this section, except 120
+for approved deductibles and copayments. 121
+(E) The (E)(1) Except as provided in division (E)(2) of 122
+this section, the benefits provided under division (B)(1) or , 123
+(2), or (3) of this section shall be provided only for screening 124
+mammographies or , supplemental breast cancer screenings, or 125
+diagnostic breast examinations that are performed in a health 126
+care facility or mobile mammography screening unit that is 127
+accredited under the American college of radiology mammography 128
+accreditation program or in a hospital as defined in section 129
+
+Section 9:
+3727.01 of the Revised Code. 130
+(2) With respect to diagnostic breast examinations that 131
+are biopsies, the policy shall not, as a condition of coverage, 132
+require biopsies to be performed in a facility, mobile 133
+mammography screening unit, or hospital as described in division 134
+(E)(1) of this section. 135
+H. B. No. 271 Page 6
+As Introduced
+(F) The benefits provided under division (B) of this 136
+
+Section 10:
+section shall be provided according to the terms of the 137
+subscriber contract. 138
+(G) The benefits provided under division (B)(3) (B)(4) of 139
+this section shall be provided only for cytologic screenings 140
+that are processed and interpreted in a laboratory certified by 141
+the college of American pathologists or in a hospital as defined 142
+in section 3727.01 of the Revised Code. 143
+(H) No individual or group health insuring corporation 144
+policy, contract, or agreement providing basic health care 145
+services that is delivered, issued for delivery, or renewed in 146
+this state shall impose a cost-sharing requirement for the 147
+benefits provided under division (B) of this section. 148
+Sec. 3923.52. (A) As used in this section and section 149
+
+Section 11:
+3923.53 of the Revised Code: 150
+(1) "Screening mammography" means a radiologic examination 151
+that, in accordance with applicable American college of 152
+radiology guidelines, is utilized to detect unsuspected breast 153
+cancer at an early stage in asymptomatic women and includes the 154
+x-ray examination of the breast using equipment that is 155
+dedicated specifically for mammography, including, but not 156
+limited to, the x-ray tube, filter, compression device, screens, 157
+film, and cassettes, and that has an average radiation exposure 158
+delivery of less than one rad mid-breast. "Screening 159
+mammography" includes digital breast tomosynthesis. "Screening 160
+mammography" includes two views for each breast. The term also 161
+includes the professional interpretation of the film. 162
+"Screening mammography" does not include diagnostic 163
+mammography. 164
+H. B. No. 271 Page 7
+As Introduced
+(2) "Diagnostic breast examination" means any examination 165
+that, in accordance with applicable American college of 166
+radiology guidelines, is deemed medically necessary by a 167
+treating health care provider to diagnose breast cancer, 168
+including diagnostic mammography, magnetic resonance imaging, 169
+ultrasound, or biopsy. 170
+(3) "Cost-sharing" means the cost to an individual insured 171
+under an individual or group policy of sickness and accident 172
+insurance or a public employee benefit plan according to any 173
+coverage limit, copayment, coinsurance, deductible, or other 174
+out-of-pocket expense requirements imposed by the policy or 175
+plan. 176
+(4) "Supplemental breast cancer screening" means any 177
+additional screening method deemed medically necessary by a 178
+treating health care provider for proper breast cancer screening 179
+in accordance with applicable American college of radiology 180
+guidelines, including magnetic resonance imaging, ultrasound, 181
+contrast enhanced mammography, or molecular breast imaging. 182
+(B) Notwithstanding section 3901.71 of the Revised Code, 183
+every policy of individual or group sickness and accident 184
+insurance that is delivered, issued for delivery, or renewed in 185
+this state shall provide benefits for the expenses of all of the 186
+following: 187
+(1) To detect the presence of breast cancer in adult 188
+womenindividuals, a screening mammography; 189
+(2) To detect the presence of breast cancer in adult women 190
+individuals meeting either or both of the conditions described 191
+in division (C)(2) of this section, supplemental breast cancer 192
+screening; 193
+H. B. No. 271 Page 8
+As Introduced
+(3) To diagnose breast cancer in adult individuals meeting 194
+the condition described in division (C)(3) of this section, a 195
+diagnostic breast examination; 196
+(4) To detect the presence of cervical cancer, cytologic 197
+screening. 198
+(C)(1) The benefits provided under division (B)(1) of this 199
+
+Section 12:
+section shall cover expenses for one screening mammography every 200
+year, including digital breast tomosynthesis. 201
+(2) The benefits provided under division (B)(2) of this 202
+
+Section 13:
+section shall cover expenses for supplemental breast cancer 203
+screening for an adult woman individual who meets either or both 204
+of the following conditions: 205
+(a) The woman's individual's screening mammography 206
+demonstrates, based on the breast imaging reporting and data 207
+system established by the American college of radiology, that 208
+the woman individual has dense breast tissue; 209
+(b) The woman individual is at an increased risk of breast 210
+cancer due to family history, prior personal history of breast 211
+cancer, ancestry, genetic predisposition, or other reasons as 212
+determined by the woman's individual's health care provider. 213
+(3) The benefits provided under division (B)(3) of this 214
+
+Section 14:
+section shall cover expenses for diagnostic breast examination 215
+for an adult individual who has an abnormality seen or suspected 216
+from, or detected by, a screening mammography, supplemental 217
+breast cancer screening, or another means of examination. 218
+(D) As used in this division, "medicare reimbursement 219
+rate" means the reimbursement rate paid in this state under the 220
+medicare program for screening mammography that does not include 221
+digitization or computer-aided detection, regardless of whether 222
+H. B. No. 271 Page 9
+As Introduced
+the actual benefit includes digitization or computer-aided 223
+detection. 224
+(1) (D)(1) Subject to divisions (D)(2) and (3) of this 225
+
+Section 15:
+section, if a provider, hospital, or other health care facility 226
+provides a service that is a component of the screening 227
+mammography a benefit in provided under division (B)(1), (2), or 228
+(3) of this section or a component of the supplemental breast 229
+cancer screening benefit in division (B)(2) of this section and 230
+submits a separate claim for that component, a separate payment 231
+shall be made to the provider, hospital, or other health care 232
+facility in an amount that corresponds to the ratio paid by 233
+medicare in this state for that component. 234
+(2) Regardless of whether separate payments are made for 235
+the The total benefit provided under division (B)(1), or (2), or 236
+(3) of this section, the total benefit for a screening 237
+mammography or supplemental breast cancer screening shall not 238
+exceed one hundred thirty per cent of the medicare reimbursement 239
+rate in this state for screening mammography or supplemental 240
+breast cancer screening. If there is more than one medicare 241
+reimbursement rate in this state for screening mammography or a 242
+component of a screening mammography or supplemental breast 243
+cancer screening or a component of supplemental breast cancer 244
+screening, the reimbursement limit shall be one hundred thirty 245
+per cent of the lowest medicare and any separate payment for a 246
+service that is a component of such a benefit under division (D) 247
+(1) of this section, shall not be less than any reimbursement 248
+rate previously paid by the same insurer under a policy of 249
+individual or group sickness and accident insurance that is 250
+delivered, issued for delivery, or renewed in this state after 251
+the effective date of this amendment to the same provider, 252
+hospital, or other health care facility for the same benefit or 253
+H. B. No. 271 Page 10
+As Introduced
+service that is a component of such benefit. 254
+(3) The benefit paid in accordance with division divisions 255
+(D)(1) and (2) of this section shall constitute full payment. No 256
+provider, hospital, or other health care facility shall seek or 257
+receive compensation in excess of the payment made in accordance 258
+with division divisions (D)(1) and (2) of this section, except 259
+for approved deductibles and copayments. 260
+(E) The (E)(1) Except as provided in division (E)(2) of 261
+this section, the benefits provided under division (B)(1) or , 262
+(2), or (3) of this section shall be provided only for screening 263
+mammographies or , supplemental breast cancer screenings, or 264
+diagnostic breast examinations that are performed in a facility 265
+or mobile mammography screening unit that is accredited under 266
+the American college of radiology mammography accreditation 267
+program or in a hospital as defined in section 3727.01 of the 268
+Revised Code. 269
+(2) With respect to diagnostic breast examinations that 270
+are biopsies, the policy shall not, as a condition of coverage, 271
+require biopsies to be performed in a facility, mobile 272
+mammography screening unit, or hospital as described in division 273
+(E)(1) of this section. 274
+(F) The benefits provided under division (B)(3) (B)(4) of 275
+this section shall be provided only for cytologic screenings 276
+that are processed and interpreted in a laboratory certified by 277
+the college of American pathologists or in a hospital as defined 278
+in section 3727.01 of the Revised Code. 279
+(G) No policy of individual or group sickness and accident 280
+insurance that is delivered, issued for delivery, or renewed in 281
+this state shall impose a cost-sharing requirement for the 282
+H. B. No. 271 Page 11
+As Introduced
+benefits provided under division (B) of this section. 283
+(H) This section does not apply to any policy that 284
+provides coverage for specific diseases or accidents only, or to 285
+any hospital indemnity, medicare supplement, or other policy 286
+that offers only supplemental benefits. 287
+Sec. 3923.53. (A) Notwithstanding section 3901.71 of the 288
+Revised Code, every public employee benefit plan that is 289
+established or modified in this state shall provide benefits for 290
+the expenses of all of the following: 291
+(1) To detect the presence of breast cancer in adult 292
+womenindividuals, a screening mammography; 293
+(2) To detect the presence of breast cancer in adult women 294
+individuals meeting any either or both of the conditions 295
+described in division (B)(2) of this section, supplemental 296
+breast cancer screening; 297
+(3) To diagnose breast cancer in adult individuals meeting 298
+the condition described in division (B)(3) of this section, a 299
+diagnostic breast examination; 300
+(4) To detect the presence of cervical cancer, cytologic 301
+screening. 302
+(B)(1) The benefits provided under division (A)(1) of this 303
+
+Section 16:
+section shall cover expenses for one screening mammography every 304
+year, including digital breast tomosynthesis. 305
+(2) The benefits provided under division (A)(2) of this 306
+
+Section 17:
+section shall cover expenses for supplemental breast cancer 307
+screening for an adult woman individual who meets any either or 308
+both of the following conditions: 309
+(a) The woman's individual's screening mammography 310
+H. B. No. 271 Page 12
+As Introduced
+demonstrates, based on the breast imaging reporting and data 311
+system established by the American college of radiology, that 312
+the woman individual has dense breast tissue; 313
+(b) The woman individual is at an increased risk of breast 314
+cancer due to family history, prior personal history of breast 315
+cancer, ancestry, genetic predisposition, or other reasons as 316
+determined by the woman's individual's health care provider. 317
+(3) The benefits provided under division (B)(3) of this 318
+
+Section 18:
+section shall cover expenses for diagnostic breast examination 319
+for an adult individual who has an abnormality seen or suspected 320
+from, or detected by, a screening mammography, supplemental 321
+breast cancer screening, or another means of examination. 322
+(C) As used in this division, "medicare reimbursement 323
+rate" means the reimbursement rate paid in this state under the 324
+medicare program for screening mammography that does not include 325
+digitization or computer-aided detection, regardless of whether 326
+the actual benefit includes digitization or computer-aided 327
+detection. 328
+(1) (C)(1) Subject to divisions (C)(2) and (3) of this 329
+
+Section 19:
+section, if a provider, hospital, or other health care facility 330
+provides a service that is a component of the screening 331
+mammography a benefit in provided under division (A)(1), (2), or 332
+(3) of this section or a component of the supplemental breast 333
+cancer screening benefit in division (A)(2) of this section and 334
+submits a separate claim for that component, a separate payment 335
+shall be made to the provider, hospital, or other health care 336
+facility in an amount that corresponds to the ratio paid by 337
+medicare in this state for that component. 338
+(2) Regardless of whether separate payments are made for 339
+H. B. No. 271 Page 13
+As Introduced
+the The total benefit provided under division (A)(1), or (2), or 340
+(3) of this section, the total benefit for a screening 341
+mammography or supplemental breast cancer screening shall not 342
+exceed one hundred thirty per cent of the medicare reimbursement 343
+rate in this state for screening mammography or supplemental 344
+breast cancer screening. If there is more than one medicare 345
+reimbursement rate in this state for screening mammography or a 346
+component of a screening mammography or supplemental breast 347
+cancer screening or a component of supplemental breast cancer 348
+screening, the reimbursement limit shall be one hundred thirty 349
+per cent of the lowest medicare and any separate payment for a 350
+service that is a component of such a benefit under division (D) 351
+(1) of this section, shall not be less than any reimbursement 352
+rate previously paid by the same insurer under a public employee 353
+benefit plan that is delivered, issued for delivery, or renewed 354
+in this state after the effective date of this amendment to the 355
+same provider, hospital, or other health care facility for the 356
+same benefit or service that is a component of such benefit. 357
+(3) The benefit paid in accordance with division divisions 358
+(C)(1) and (2) of this section shall constitute full payment. No 359
+provider, hospital, or other health care facility shall seek or 360
+receive compensation in excess of the payment made in accordance 361
+with division divisions (C)(1) and (2) of this section, except 362
+for approved deductibles and copayments. 363
+(D) The(D)(1) Except as provided in division (D)(2) of 364
+this section, the benefits provided under division (A)(1) or , 365
+(2), or (3) of this section shall be provided only for screening 366
+mammographies or , supplemental breast cancer screenings, or 367
+diagnostic breast examinations that are performed in a facility 368
+or mobile mammography screening unit that is accredited under 369
+the American college of radiology mammography accreditation 370
+H. B. No. 271 Page 14
+As Introduced
+program or in a hospital as defined in section 3727.01 of the 371
+Revised Code. 372
+(2) With respect to diagnostic breast examinations that 373
+are biopsies, the public employee benefit plan shall not, as a 374
+condition of coverage, require biopsies to be performed in a 375
+facility, mobile mammography screening unit, or hospital as 376
+described in division (D)(1) of this section. 377
+(E) The benefits provided under division (A)(3) (A)(4) of 378
+this section shall be provided only for cytologic screenings 379
+that are processed and interpreted in a laboratory certified by 380
+the college of American pathologists or in a hospital as defined 381
+in section 3727.01 of the Revised Code. 382
+(F) No public employee benefit plan that is established or 383
+modified in this state shall impose a cost-sharing requirement 384
+for the benefits provided under division (A) of this section. 385
+Sec. 5162.20. (A) The department of medicaid shall 386
+institute cost-sharing requirements for the medicaid program. 387
+The department shall not institute cost-sharing requirements in 388
+a manner that does either of the following: 389
+(1) Disproportionately impacts the ability of medicaid 390
+recipients with chronic illnesses to obtain medically necessary 391
+medicaid services; 392
+(2) Violates section 5164.08, 5164.09, or 5164.10 of the 393
+Revised Code. 394
+(B)(1) No provider shall refuse to provide a service to a 395
+medicaid recipient who is unable to pay a required copayment for 396
+the service. 397
+(2) Division (B)(1) of this section shall not be 398
+H. B. No. 271 Page 15
+As Introduced
+considered to do either of the following with regard to a 399
+medicaid recipient who is unable to pay a required copayment: 400
+(a) Relieve the medicaid recipient from the obligation to 401
+pay a copayment; 402
+(b) Prohibit the provider from attempting to collect an 403
+unpaid copayment. 404
+(C) Except as provided in division (F) of this section, no 405
+provider shall waive a medicaid recipient's obligation to pay 406
+the provider a copayment. 407
+(D) No provider or drug manufacturer, including the 408
+manufacturer's representative, employee, independent contractor, 409
+or agent, shall pay any copayment on behalf of a medicaid 410
+recipient. 411
+(E) If it is the routine business practice of a provider 412
+to refuse service to any individual who owes an outstanding debt 413
+to the provider, the provider may consider an unpaid copayment 414
+imposed by the cost-sharing requirements as an outstanding debt 415
+and may refuse service to a medicaid recipient who owes the 416
+provider an outstanding debt. If the provider intends to refuse 417
+service to a medicaid recipient who owes the provider an 418
+outstanding debt, the provider shall notify the recipient of the 419
+provider's intent to refuse service. 420
+(F) In the case of a provider that is a hospital, the 421
+cost-sharing program shall permit the hospital to take action to 422
+collect a copayment by providing, at the time services are 423
+rendered to a medicaid recipient, notice that a copayment may be 424
+owed. If the hospital provides the notice and chooses not to 425
+take any further action to pursue collection of the copayment, 426
+the prohibition against waiving copayments specified in division 427
+H. B. No. 271 Page 16
+As Introduced
+(C) of this section does not apply. 428
+(G) The department of medicaid may collaborate with a 429
+state agency that is administering, pursuant to a contract 430
+entered into under section 5162.35 of the Revised Code, one or 431
+more components, or one or more aspects of a component, of the 432
+medicaid program as necessary for the state agency to apply the 433
+cost-sharing requirements to the components or aspects of a 434
+component that the state agency administers. 435
+Sec. 5164.08. (A) As used in this section: 436
+(1) "Diagnostic breast examination" means any examination 437
+that, in accordance with applicable American college of 438
+radiology guidelines, is deemed medically necessary by a 439
+treating health care provider to diagnose breast cancer, 440
+including diagnostic mammography, magnetic resonance imaging, 441
+ultrasound, or biopsy. 442
+(2) "Screening mammography" means a radiologic examination 443
+that, in accordance with applicable American college of 444
+radiology guidelines, is utilized to detect unsuspected breast 445
+cancer at an early stage in asymptomatic women and includes the 446
+x-ray examination of the breast using equipment that is 447
+dedicated specifically for mammography, including the x-ray 448
+tube, filter, compression device, screens, film, and cassettes, 449
+and that has an average radiation exposure delivery of less than 450
+one rad mid-breast. "Screening mammography" includes digital 451
+breast tomosynthesis. "Screening mammography" includes two views 452
+for each breast. The term also includes the professional 453
+interpretation of the film. 454
+"Screening mammography" does not include diagnostic 455
+mammography. 456
+H. B. No. 271 Page 17
+As Introduced
+(2) (3) "Supplemental breast cancer screening" means any 457
+additional screening method deemed medically necessary by a 458
+treating health care provider for proper breast cancer screening 459
+in accordance with applicable American college of radiology 460
+guidelines, including magnetic resonance imaging, ultrasound, 461
+contrast enhanced mammography, or molecular breast imaging. 462
+(B) The medicaid program shall cover all of the following: 463
+(1) To detect the presence of breast cancer in adult 464
+womenindividuals, screening mammography; 465
+(2) To detect the presence of breast cancer in adult women 466
+individuals meeting any either or both of the conditions 467
+described in division (C)(2) of this section, supplemental 468
+breast cancer screening; 469
+(3) To diagnose breast cancer in adult individuals meeting 470
+the condition described in division (C)(3) of this section, 471
+diagnostic breast examination; 472
+(4) To detect the presence of cervical cancer, cytologic 473
+screening. 474
+(C)(1) The medicaid program's coverage pursuant to 475
+division (B)(1) of this section shall cover expenses for one 476
+screening mammography every year, including digital breast 477
+tomosynthesis. 478
+(2) The medicaid program's coverage pursuant to division 479
+(B)(2) of this section shall cover expenses for supplemental 480
+breast cancer screening for an adult woman individual who meets 481
+any either or both of the following conditions: 482
+(a) The woman's individual's screening mammography 483
+demonstrates, based on the breast imaging reporting and data 484
+H. B. No. 271 Page 18
+As Introduced
+system established by the American college of radiology, that 485
+the woman individual has dense breast tissue; 486
+(b) The woman individual is at an increased risk of breast 487
+cancer due to family history, prior personal history of breast 488
+cancer, ancestry, genetic predisposition, or other reasons as 489
+determined by the woman's individual's health care provider. 490
+(3) The medicaid program's coverage pursuant to division 491
+(B)(3) of this section shall cover expenses for diagnostic 492
+breast examination for an adult individual who has an 493
+abnormality seen or suspected from, or detected by, any of the 494
+following: screening mammography, supplemental breast cancer 495
+screening, or another means of examination. 496
+(D) The medicaid program shall not impose cost-sharing 497
+requirements on the coverage described in division (B) of this 498
+
+Section 20:
+section. 499
+(E)(1) Except as provided in division (E)(2) of this 500
+
+Section 21:
+section, the medicaid program's coverage of screening 501
+mammographies pursuant to division (B)(1) or , (2), or (3) of 502
+this section shall be provided only for screening mammographies 503
+or , supplemental breast cancer screenings, or diagnostic breast 504
+examinations that are performed in a facility or mobile 505
+mammography screening unit that is accredited under the American 506
+college of radiology mammography accreditation program or in a 507
+hospital as defined in section 3727.01 of the Revised Code. 508
+(2) With respect to diagnostic breast examinations that 509
+are biopsies, the medicaid program shall not, as a condition of 510
+coverage, require biopsies to be performed in a facility, mobile 511
+mammography screening unit, or hospital as described in division 512
+(E)(1) of this section. 513
+H. B. No. 271 Page 19
+As Introduced
+(E) (F) The medicaid program's coverage of cytologic 514
+screenings pursuant to division (B)(3) (B)(4) of this section 515
+shall be provided only for cytologic screenings that are 516
+processed and interpreted in a laboratory certified by the 517
+college of American pathologists or in a hospital as defined in 518
+
+Section 22:
+section 3727.01 of the Revised Code. 519
+
+Section 23:
+Section 2. That existing sections 1751.62, 3923.52, 520
+
+Section 24:
+3923.53, 5162.20, and 5164.08 of the Revised Code are hereby 521
+repealed. 522
+
+Section 25:
+Section 3. Section 1751.62 of the Revised Code, as amended 523
+by this act, applies only to arrangements, policies, contracts, 524
+and agreements that are created, delivered, issued for delivery, 525
+or renewed in this state on or after the effective date of the 526
+amendment. Section 3923.52 of the Revised Code, as amended by 527
+this act, applies only to policies of sickness and accident 528
+insurance delivered, issued for delivery, or renewed in this 529
+state on or after the effective date of the amendment. Section 530
+
+Section 26:
+3923.53 of the Revised Code, as amended by this act, applies 531
+only to public employee benefit plans that are established or 532
+modified in this state on or after the effective date of the 533
+amendment. 534
+
+Section 27:
+Section 4. (A) As used in this section: 535
+(1) "Health plan issuer" has the same meaning as in 536
+
+Section 28:
+section 3922.01 of the Revised Code. 537
+(2) "Hospital" has the same meaning as in section 3722.01 538
+of the Revised Code. 539
+(3) "Physician" means an individual authorized under 540
+Chapter 4731. of the Revised Code to practice medicine and 541
+surgery or osteopathic medicine and surgery. 542
+H. B. No. 271 Page 20
+As Introduced
+(B) Not later than three months after the effective date 543
+of this section, all of the following apply: 544
+(1) The Director of Health shall notify each hospital and 545
+physician of this act's enactment. 546
+(2) The Superintendent of Insurance shall notify each 547
+health plan issuer of this act's enactment. 548
+(3) The notice shall be completed by certified mail. 549
+(C) When notifying a health plan issuer, hospital, or 550
+physician under this section, the Director or Superintendent 551
+shall summarize the provisions of sections 1751.62, 3923.52, 552
+
+Section 29:
+3923.53, 5162.20, and 5164.08 of the Revised Code, each as 553
+amended by this act, and shall describe the act's impact on 554
+those provisions. 555
+(D) The Director of Health may consult with the State 556
+Medical Board of Ohio to assist the Director in identifying 557
+physicians and determining their business addresses for purposes 558
+of satisfying the notice requirements of this section. 559
+
+Section 30:
+Section 5. This act shall be known as the Breast 560
+Examination and Screening Transformation Act, or BEST Act. 561
+[DELETED: nH      .  :1:1 1 1 1 1 1 1 1]
+[DELETED: 1  1 2 2 2.2 2.2 2 2 2 2.3 3 3 3 3 3.3 3 3 3 4 4.4 4 4 4 4 4]
+[DELETED: 1 .4 4 5 5 5:5 5;5 5 5 5;5 6 6;6 6.6 6 6.6 6 6 7:7 7 7 7;7]
+[DELETED: 1  7 7 7.7 8 8 8 8.8 8 8 8 8 8 9 9 9 9.9 9 9 9 9 9 1 1 1 1 1 1]
+[DELETED: 1  1)1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 1  1 1.1 1 1 1 1.1 1 1 1 1.1 1:1 1 1 1 1 1 1 1 1 1 1 1.1 1.1]
+[DELETED: 1  1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1:1 1;1 1 1 1;1]
+[DELETED: 1  1 1;1 1.1 1 2.2 2 2 2:2 2 2 2;2 2 2 2.2 2 2 2 2.2 2 2 2 2]
+[DELETED: 1  2.2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2)2 2 2 2 2 2 2]
+[DELETED: 1 .2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2 2 2.2 2 2 2]
+[DELETED: 1  2 2 2 2.2 2 2 2:2 2;2 2 2 2;2 2 2;3 3.3 3 3.3 3 3 3:3 3]
+[DELETED: 1  3 3;3 3 3 3.3 3 3 3 3.3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3.3 3]
+[DELETED: 1  3 3 3 3 3 3 3 3 3 3 3)3 3 3 3 3 3.3 3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 1  3.3 3 3 3 3.3 3 3 3 3.3 3 3.3 3 3 3:3 3 3;3 3.3 3 3.3 3]
+[DELETED: 1  3:4 4;4 4.4 4 4.4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4]
+[DELETED: 1 .4 4 4 4 4 4 4.4:4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4.4]
+[DELETED: 1  4 4 4 4 4.4:4 4;4 4 4 4;4 4 4;4 4.4 4 4 4.4 4 4 4:4 4 4]
+[DELETED: 1  4;4 4 4 4.4 4 4 4 4 4.4 4 4.4 5 5 5 5 5 5 5 5.5 5 5 5 5.5]
+[DELETED: 1  5 5 5 5 5.5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5:5 5.5 5.5 5 5.5]
+[DELETED: 1  5:5 5.5 5.5.5 5 5 5 5 5.5 5 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 271
+2025-2026
+Representatives Schmidt, Williams
+Cosponsors: Representatives Newman, Johnson, Brewer, White, E., Troy,
+Brennan, Rogers, Brownlee, Ray, Click, Richardson, Robb Blasdel, Hall, T.,
+Odioso, White, A., Abrams
+To amend sections 1751.62, 3923.52, 3923.53, 1
+5162.20, and 5164.08 of the Revised Code to 2
+revise the law governing insurance and Medicaid 3
+coverage of breast cancer screenings and 4
+examinations and to name this act the Breast 5
+Examination and Screening Transformation Act, or 6
+BEST Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 1751.62, 3923.52, 3923.53, 8
+5162.20, and 5164.08 of the Revised Code be amended to read as 9
+follows: 10
+Sec. 1751.62. (A) As used in this section: 11
+(1) "Screening mammography" means a radiologic examination 12
+that, in accordance with applicable American college of 13
+radiology guidelines, is utilized to detect unsuspected breast 14
+cancer at an early stage in an asymptomatic woman and includes 15
+the x-ray examination of the breast using equipment that is 16
+dedicated specifically for mammography, including, but not 17
+limited to, the x-ray tube, filter, compression device, screens, 18
+
+H. B. No. 271 Page 2
+As Introduced
+film, and cassettes, and that has an average radiation exposure 19
+delivery of less than one rad mid-breast. "Screening 20
+mammography" includes digital breast tomosynthesis. "Screening 21
+mammography" includes two views for each breast. The term also 22
+includes the professional interpretation of the film. 23
+"Screening mammography" does not include diagnostic 24
+mammography. 25
+(2) "Medicare reimbursement rate" means the reimbursement 26
+rate paid in Ohio under the medicare program for screening 27
+mammography that does not include digitization or computer-aided 28
+detection, regardless of whether the actual benefit includes 29
+digitization or computer-aided detection. 30
+(3) "Diagnostic breast examination" means any examination 31
+that, in accordance with applicable American college of 32
+radiology guidelines, is deemed medically necessary by a 33
+treating health care provider to diagnose breast cancer, 34
+including diagnostic mammography, magnetic resonance imaging, 35
+ultrasound, or biopsy. 36
+(3) "Supplemental breast cancer screening" means any 37
+additional screening method deemed medically necessary by a 38
+treating health care provider for proper breast cancer screening 39
+in accordance with applicable American college of radiology 40
+guidelines, including magnetic resonance imaging, ultrasound, 41
+contrast enhanced mammography, or molecular breast imaging. 42
+(4) "Cost-sharing" means the cost to an enrollee under an 43
+individual or group health insuring corporation policy, 44
+contract, or agreement according to any coverage limit, 45
+copayment, coinsurance, deductible, or other out-of-pocket 46
+expense requirements imposed by the policy, contract, or 47
+
+H. B. No. 271 Page 3
+As Introduced
+agreement. 48
+(B) Notwithstanding section 3901.71 of the Revised Code, 49
+every individual or group health insuring corporation policy, 50
+contract, or agreement providing basic health care services that 51
+is delivered, issued for delivery, or renewed in this state 52
+shall provide benefits for the expenses of all of the following: 53
+(1) To detect the presence of breast cancer in adult 54
+womenindividuals, a screening mammography; 55
+(2) To detect the presence of breast cancer in adult women 56
+individuals meeting either or both of the conditions described 57
+in division (C)(2) of this section, supplemental breast cancer 58
+screening; 59
+(3) To diagnose breast cancer in adult individuals meeting 60
+the condition described in division (C)(3) of this section, a 61
+diagnostic breast examination; 62
+(4) To detect the presence of cervical cancer, cytologic 63
+screening. 64
+(C)(1) The benefits provided under division (B)(1) of this 65
+section shall cover expenses for one screening mammography every 66
+year, including digital breast tomosynthesis. 67
+(2) The benefits provided under division (B)(2) of this 68
+section shall cover expenses for supplemental breast cancer 69
+screening for an adult woman individual who meets either or both 70
+of the following conditions: 71
+(a) The woman's individual's screening mammography 72
+demonstrates, based on the breast imaging reporting and data 73
+system established by the American college of radiology, that 74
+the woman individual has dense breast tissue; 75
+
+H. B. No. 271 Page 4
+As Introduced
+(b) The woman individual is at an increased risk of breast 76
+cancer due to family history, prior personal history of breast 77
+cancer, ancestry, genetic predisposition, or other reasons as 78
+determined by the woman's individual's health care provider. 79
+(3) The benefits provided under division (B)(3) of this 80
+section shall cover expenses for diagnostic breast examination 81
+for an adult individual who has an abnormality seen or suspected 82
+from, or detected by, a screening mammography, supplemental 83
+breast cancer screening, or another means of examination. 84
+(D)(1) Subject to divisions (D)(2) and (3) of this 85
+section, if a provider, hospital, or other health care facility 86
+provides a service that is a component of the screening 87
+mammography a benefit in provided under division (B)(1), (2), or 88
+(3) of this section or a component of the supplemental breast 89
+cancer screening benefit in division (B)(2) of this section and 90
+submits a separate claim for that component, a separate payment 91
+shall be made to the provider, hospital, or other health care 92
+facility in an amount that corresponds to the ratio paid by 93
+medicare in this state for that component. 94
+(2) Regardless of whether separate payments are made for 95
+the The total benefit provided under division (B)(1), or (2), or 96
+(3) of this section, the total benefit for a screening 97
+mammography or supplemental breast cancer screening shall not 98
+exceed one hundred thirty per cent of the medicare reimbursement 99
+rate in this state for screening mammography or supplemental 100
+breast cancer screening. If there is more than one medicare 101
+reimbursement rate in this state for screening mammography or a 102
+component of a screening mammography or supplemental breast 103
+cancer screening or a component of supplemental breast cancer 104
+screening, the reimbursement limit shall be one hundred thirty 105
+
+H. B. No. 271 Page 5
+As Introduced
+per cent of the lowest medicare and any separate payment for a 106
+service that is a component of such a benefit under division (D) 107
+(1) of this section, shall not be less than any reimbursement 108
+rate previously paid by the same individual or group health 109
+insuring corporation under a policy, contract, or agreement 110
+providing basic health care services that is delivered, issued 111
+for delivery, or renewed in this state after the effective date 112
+of this amendment to the same provider, hospital, or other 113
+health care facility for the same benefit or service that is a 114
+component of such benefit. 115
+(3) The benefit paid in accordance with division divisions 116
+(D)(1) and (2) of this section shall constitute full payment. No 117
+provider, hospital, or other health care facility shall seek or 118
+receive remuneration in excess of the payment made in accordance 119
+with division divisions (D)(1) and (2) of this section, except 120
+for approved deductibles and copayments. 121
+(E) The (E)(1) Except as provided in division (E)(2) of 122
+this section, the benefits provided under division (B)(1) or , 123
+(2), or (3) of this section shall be provided only for screening 124
+mammographies or , supplemental breast cancer screenings, or 125
+diagnostic breast examinations that are performed in a health 126
+care facility or mobile mammography screening unit that is 127
+accredited under the American college of radiology mammography 128
+accreditation program or in a hospital as defined in section 129
+3727.01 of the Revised Code. 130
+(2) With respect to diagnostic breast examinations that 131
+are biopsies, the policy shall not, as a condition of coverage, 132
+require biopsies to be performed in a facility, mobile 133
+mammography screening unit, or hospital as described in division 134
+(E)(1) of this section. 135
+
+H. B. No. 271 Page 6
+As Introduced
+(F) The benefits provided under division (B) of this 136
+section shall be provided according to the terms of the 137
+subscriber contract. 138
+(G) The benefits provided under division (B)(3) (B)(4) of 139
+this section shall be provided only for cytologic screenings 140
+that are processed and interpreted in a laboratory certified by 141
+the college of American pathologists or in a hospital as defined 142
+in section 3727.01 of the Revised Code. 143
+(H) No individual or group health insuring corporation 144
+policy, contract, or agreement providing basic health care 145
+services that is delivered, issued for delivery, or renewed in 146
+this state shall impose a cost-sharing requirement for the 147
+benefits provided under division (B) of this section. 148
+Sec. 3923.52. (A) As used in this section and section 149
+3923.53 of the Revised Code: 150
+(1) "Screening mammography" means a radiologic examination 151
+that, in accordance with applicable American college of 152
+radiology guidelines, is utilized to detect unsuspected breast 153
+cancer at an early stage in asymptomatic women and includes the 154
+x-ray examination of the breast using equipment that is 155
+dedicated specifically for mammography, including, but not 156
+limited to, the x-ray tube, filter, compression device, screens, 157
+film, and cassettes, and that has an average radiation exposure 158
+delivery of less than one rad mid-breast. "Screening 159
+mammography" includes digital breast tomosynthesis. "Screening 160
+mammography" includes two views for each breast. The term also 161
+includes the professional interpretation of the film. 162
+"Screening mammography" does not include diagnostic 163
+mammography. 164
+
+H. B. No. 271 Page 7
+As Introduced
+(2) "Diagnostic breast examination" means any examination 165
+that, in accordance with applicable American college of 166
+radiology guidelines, is deemed medically necessary by a 167
+treating health care provider to diagnose breast cancer, 168
+including diagnostic mammography, magnetic resonance imaging, 169
+ultrasound, or biopsy. 170
+(3) "Cost-sharing" means the cost to an individual insured 171
+under an individual or group policy of sickness and accident 172
+insurance or a public employee benefit plan according to any 173
+coverage limit, copayment, coinsurance, deductible, or other 174
+out-of-pocket expense requirements imposed by the policy or 175
+plan. 176
+(4) "Supplemental breast cancer screening" means any 177
+additional screening method deemed medically necessary by a 178
+treating health care provider for proper breast cancer screening 179
+in accordance with applicable American college of radiology 180
+guidelines, including magnetic resonance imaging, ultrasound, 181
+contrast enhanced mammography, or molecular breast imaging. 182
+(B) Notwithstanding section 3901.71 of the Revised Code, 183
+every policy of individual or group sickness and accident 184
+insurance that is delivered, issued for delivery, or renewed in 185
+this state shall provide benefits for the expenses of all of the 186
+following: 187
+(1) To detect the presence of breast cancer in adult 188
+womenindividuals, a screening mammography; 189
+(2) To detect the presence of breast cancer in adult women 190
+individuals meeting either or both of the conditions described 191
+in division (C)(2) of this section, supplemental breast cancer 192
+screening; 193
+
+H. B. No. 271 Page 8
+As Introduced
+(3) To diagnose breast cancer in adult individuals meeting 194
+the condition described in division (C)(3) of this section, a 195
+diagnostic breast examination; 196
+(4) To detect the presence of cervical cancer, cytologic 197
+screening. 198
+(C)(1) The benefits provided under division (B)(1) of this 199
+section shall cover expenses for one screening mammography every 200
+year, including digital breast tomosynthesis. 201
+(2) The benefits provided under division (B)(2) of this 202
+section shall cover expenses for supplemental breast cancer 203
+screening for an adult woman individual who meets either or both 204
+of the following conditions: 205
+(a) The woman's individual's screening mammography 206
+demonstrates, based on the breast imaging reporting and data 207
+system established by the American college of radiology, that 208
+the woman individual has dense breast tissue; 209
+(b) The woman individual is at an increased risk of breast 210
+cancer due to family history, prior personal history of breast 211
+cancer, ancestry, genetic predisposition, or other reasons as 212
+determined by the woman's individual's health care provider. 213
+(3) The benefits provided under division (B)(3) of this 214
+section shall cover expenses for diagnostic breast examination 215
+for an adult individual who has an abnormality seen or suspected 216
+from, or detected by, a screening mammography, supplemental 217
+breast cancer screening, or another means of examination. 218
+(D) As used in this division, "medicare reimbursement 219
+rate" means the reimbursement rate paid in this state under the 220
+medicare program for screening mammography that does not include 221
+digitization or computer-aided detection, regardless of whether 222
+
+H. B. No. 271 Page 9
+As Introduced
+the actual benefit includes digitization or computer-aided 223
+detection. 224
+(1) (D)(1) Subject to divisions (D)(2) and (3) of this 225
+section, if a provider, hospital, or other health care facility 226
+provides a service that is a component of the screening 227
+mammography a benefit in provided under division (B)(1), (2), or 228
+(3) of this section or a component of the supplemental breast 229
+cancer screening benefit in division (B)(2) of this section and 230
+submits a separate claim for that component, a separate payment 231
+shall be made to the provider, hospital, or other health care 232
+facility in an amount that corresponds to the ratio paid by 233
+medicare in this state for that component. 234
+(2) Regardless of whether separate payments are made for 235
+the The total benefit provided under division (B)(1), or (2), or 236
+(3) of this section, the total benefit for a screening 237
+mammography or supplemental breast cancer screening shall not 238
+exceed one hundred thirty per cent of the medicare reimbursement 239
+rate in this state for screening mammography or supplemental 240
+breast cancer screening. If there is more than one medicare 241
+reimbursement rate in this state for screening mammography or a 242
+component of a screening mammography or supplemental breast 243
+cancer screening or a component of supplemental breast cancer 244
+screening, the reimbursement limit shall be one hundred thirty 245
+per cent of the lowest medicare and any separate payment for a 246
+service that is a component of such a benefit under division (D) 247
+(1) of this section, shall not be less than any reimbursement 248
+rate previously paid by the same insurer under a policy of 249
+individual or group sickness and accident insurance that is 250
+delivered, issued for delivery, or renewed in this state after 251
+the effective date of this amendment to the same provider, 252
+hospital, or other health care facility for the same benefit or 253
+
+H. B. No. 271 Page 10
+As Introduced
+service that is a component of such benefit. 254
+(3) The benefit paid in accordance with division divisions 255
+(D)(1) and (2) of this section shall constitute full payment. No 256
+provider, hospital, or other health care facility shall seek or 257
+receive compensation in excess of the payment made in accordance 258
+with division divisions (D)(1) and (2) of this section, except 259
+for approved deductibles and copayments. 260
+(E) The (E)(1) Except as provided in division (E)(2) of 261
+this section, the benefits provided under division (B)(1) or , 262
+(2), or (3) of this section shall be provided only for screening 263
+mammographies or , supplemental breast cancer screenings, or 264
+diagnostic breast examinations that are performed in a facility 265
+or mobile mammography screening unit that is accredited under 266
+the American college of radiology mammography accreditation 267
+program or in a hospital as defined in section 3727.01 of the 268
+Revised Code. 269
+(2) With respect to diagnostic breast examinations that 270
+are biopsies, the policy shall not, as a condition of coverage, 271
+require biopsies to be performed in a facility, mobile 272
+mammography screening unit, or hospital as described in division 273
+(E)(1) of this section. 274
+(F) The benefits provided under division (B)(3) (B)(4) of 275
+this section shall be provided only for cytologic screenings 276
+that are processed and interpreted in a laboratory certified by 277
+the college of American pathologists or in a hospital as defined 278
+in section 3727.01 of the Revised Code. 279
+(G) No policy of individual or group sickness and accident 280
+insurance that is delivered, issued for delivery, or renewed in 281
+this state shall impose a cost-sharing requirement for the 282
+
+H. B. No. 271 Page 11
+As Introduced
+benefits provided under division (B) of this section. 283
+(H) This section does not apply to any policy that 284
+provides coverage for specific diseases or accidents only, or to 285
+any hospital indemnity, medicare supplement, or other policy 286
+that offers only supplemental benefits. 287
+Sec. 3923.53. (A) Notwithstanding section 3901.71 of the 288
+Revised Code, every public employee benefit plan that is 289
+established or modified in this state shall provide benefits for 290
+the expenses of all of the following: 291
+(1) To detect the presence of breast cancer in adult 292
+womenindividuals, a screening mammography; 293
+(2) To detect the presence of breast cancer in adult women 294
+individuals meeting any either or both of the conditions 295
+described in division (B)(2) of this section, supplemental 296
+breast cancer screening; 297
+(3) To diagnose breast cancer in adult individuals meeting 298
+the condition described in division (B)(3) of this section, a 299
+diagnostic breast examination; 300
+(4) To detect the presence of cervical cancer, cytologic 301
+screening. 302
+(B)(1) The benefits provided under division (A)(1) of this 303
+section shall cover expenses for one screening mammography every 304
+year, including digital breast tomosynthesis. 305
+(2) The benefits provided under division (A)(2) of this 306
+section shall cover expenses for supplemental breast cancer 307
+screening for an adult woman individual who meets any either or 308
+both of the following conditions: 309
+(a) The woman's individual's screening mammography 310
+
+H. B. No. 271 Page 12
+As Introduced
+demonstrates, based on the breast imaging reporting and data 311
+system established by the American college of radiology, that 312
+the woman individual has dense breast tissue; 313
+(b) The woman individual is at an increased risk of breast 314
+cancer due to family history, prior personal history of breast 315
+cancer, ancestry, genetic predisposition, or other reasons as 316
+determined by the woman's individual's health care provider. 317
+(3) The benefits provided under division (B)(3) of this 318
+section shall cover expenses for diagnostic breast examination 319
+for an adult individual who has an abnormality seen or suspected 320
+from, or detected by, a screening mammography, supplemental 321
+breast cancer screening, or another means of examination. 322
+(C) As used in this division, "medicare reimbursement 323
+rate" means the reimbursement rate paid in this state under the 324
+medicare program for screening mammography that does not include 325
+digitization or computer-aided detection, regardless of whether 326
+the actual benefit includes digitization or computer-aided 327
+detection. 328
+(1) (C)(1) Subject to divisions (C)(2) and (3) of this 329
+section, if a provider, hospital, or other health care facility 330
+provides a service that is a component of the screening 331
+mammography a benefit in provided under division (A)(1), (2), or 332
+(3) of this section or a component of the supplemental breast 333
+cancer screening benefit in division (A)(2) of this section and 334
+submits a separate claim for that component, a separate payment 335
+shall be made to the provider, hospital, or other health care 336
+facility in an amount that corresponds to the ratio paid by 337
+medicare in this state for that component. 338
+(2) Regardless of whether separate payments are made for 339
+
+H. B. No. 271 Page 13
+As Introduced
+the The total benefit provided under division (A)(1), or (2), or 340
+(3) of this section, the total benefit for a screening 341
+mammography or supplemental breast cancer screening shall not 342
+exceed one hundred thirty per cent of the medicare reimbursement 343
+rate in this state for screening mammography or supplemental 344
+breast cancer screening. If there is more than one medicare 345
+reimbursement rate in this state for screening mammography or a 346
+component of a screening mammography or supplemental breast 347
+cancer screening or a component of supplemental breast cancer 348
+screening, the reimbursement limit shall be one hundred thirty 349
+per cent of the lowest medicare and any separate payment for a 350
+service that is a component of such a benefit under division (D) 351
+(1) of this section, shall not be less than any reimbursement 352
+rate previously paid by the same insurer under a public employee 353
+benefit plan that is delivered, issued for delivery, or renewed 354
+in this state after the effective date of this amendment to the 355
+same provider, hospital, or other health care facility for the 356
+same benefit or service that is a component of such benefit. 357
+(3) The benefit paid in accordance with division divisions 358
+(C)(1) and (2) of this section shall constitute full payment. No 359
+provider, hospital, or other health care facility shall seek or 360
+receive compensation in excess of the payment made in accordance 361
+with division divisions (C)(1) and (2) of this section, except 362
+for approved deductibles and copayments. 363
+(D) The(D)(1) Except as provided in division (D)(2) of 364
+this section, the benefits provided under division (A)(1) or , 365
+(2), or (3) of this section shall be provided only for screening 366
+mammographies or , supplemental breast cancer screenings, or 367
+diagnostic breast examinations that are performed in a facility 368
+or mobile mammography screening unit that is accredited under 369
+the American college of radiology mammography accreditation 370
+
+H. B. No. 271 Page 14
+As Introduced
+program or in a hospital as defined in section 3727.01 of the 371
+Revised Code. 372
+(2) With respect to diagnostic breast examinations that 373
+are biopsies, the public employee benefit plan shall not, as a 374
+condition of coverage, require biopsies to be performed in a 375
+facility, mobile mammography screening unit, or hospital as 376
+described in division (D)(1) of this section. 377
+(E) The benefits provided under division (A)(3) (A)(4) of 378
+this section shall be provided only for cytologic screenings 379
+that are processed and interpreted in a laboratory certified by 380
+the college of American pathologists or in a hospital as defined 381
+in section 3727.01 of the Revised Code. 382
+(F) No public employee benefit plan that is established or 383
+modified in this state shall impose a cost-sharing requirement 384
+for the benefits provided under division (A) of this section. 385
+Sec. 5162.20. (A) The department of medicaid shall 386
+institute cost-sharing requirements for the medicaid program. 387
+The department shall not institute cost-sharing requirements in 388
+a manner that does either of the following: 389
+(1) Disproportionately impacts the ability of medicaid 390
+recipients with chronic illnesses to obtain medically necessary 391
+medicaid services; 392
+(2) Violates section 5164.08, 5164.09, or 5164.10 of the 393
+Revised Code. 394
+(B)(1) No provider shall refuse to provide a service to a 395
+medicaid recipient who is unable to pay a required copayment for 396
+the service. 397
+(2) Division (B)(1) of this section shall not be 398
+
+H. B. No. 271 Page 15
+As Introduced
+considered to do either of the following with regard to a 399
+medicaid recipient who is unable to pay a required copayment: 400
+(a) Relieve the medicaid recipient from the obligation to 401
+pay a copayment; 402
+(b) Prohibit the provider from attempting to collect an 403
+unpaid copayment. 404
+(C) Except as provided in division (F) of this section, no 405
+provider shall waive a medicaid recipient's obligation to pay 406
+the provider a copayment. 407
+(D) No provider or drug manufacturer, including the 408
+manufacturer's representative, employee, independent contractor, 409
+or agent, shall pay any copayment on behalf of a medicaid 410
+recipient. 411
+(E) If it is the routine business practice of a provider 412
+to refuse service to any individual who owes an outstanding debt 413
+to the provider, the provider may consider an unpaid copayment 414
+imposed by the cost-sharing requirements as an outstanding debt 415
+and may refuse service to a medicaid recipient who owes the 416
+provider an outstanding debt. If the provider intends to refuse 417
+service to a medicaid recipient who owes the provider an 418
+outstanding debt, the provider shall notify the recipient of the 419
+provider's intent to refuse service. 420
+(F) In the case of a provider that is a hospital, the 421
+cost-sharing program shall permit the hospital to take action to 422
+collect a copayment by providing, at the time services are 423
+rendered to a medicaid recipient, notice that a copayment may be 424
+owed. If the hospital provides the notice and chooses not to 425
+take any further action to pursue collection of the copayment, 426
+the prohibition against waiving copayments specified in division 427
+
+H. B. No. 271 Page 16
+As Introduced
+(C) of this section does not apply. 428
+(G) The department of medicaid may collaborate with a 429
+state agency that is administering, pursuant to a contract 430
+entered into under section 5162.35 of the Revised Code, one or 431
+more components, or one or more aspects of a component, of the 432
+medicaid program as necessary for the state agency to apply the 433
+cost-sharing requirements to the components or aspects of a 434
+component that the state agency administers. 435
+Sec. 5164.08. (A) As used in this section: 436
+(1) "Diagnostic breast examination" means any examination 437
+that, in accordance with applicable American college of 438
+radiology guidelines, is deemed medically necessary by a 439
+treating health care provider to diagnose breast cancer, 440
+including diagnostic mammography, magnetic resonance imaging, 441
+ultrasound, or biopsy. 442
+(2) "Screening mammography" means a radiologic examination 443
+that, in accordance with applicable American college of 444
+radiology guidelines, is utilized to detect unsuspected breast 445
+cancer at an early stage in asymptomatic women and includes the 446
+x-ray examination of the breast using equipment that is 447
+dedicated specifically for mammography, including the x-ray 448
+tube, filter, compression device, screens, film, and cassettes, 449
+and that has an average radiation exposure delivery of less than 450
+one rad mid-breast. "Screening mammography" includes digital 451
+breast tomosynthesis. "Screening mammography" includes two views 452
+for each breast. The term also includes the professional 453
+interpretation of the film. 454
+"Screening mammography" does not include diagnostic 455
+mammography. 456
+
+H. B. No. 271 Page 17
+As Introduced
+(2) (3) "Supplemental breast cancer screening" means any 457
+additional screening method deemed medically necessary by a 458
+treating health care provider for proper breast cancer screening 459
+in accordance with applicable American college of radiology 460
+guidelines, including magnetic resonance imaging, ultrasound, 461
+contrast enhanced mammography, or molecular breast imaging. 462
+(B) The medicaid program shall cover all of the following: 463
+(1) To detect the presence of breast cancer in adult 464
+womenindividuals, screening mammography; 465
+(2) To detect the presence of breast cancer in adult women 466
+individuals meeting any either or both of the conditions 467
+described in division (C)(2) of this section, supplemental 468
+breast cancer screening; 469
+(3) To diagnose breast cancer in adult individuals meeting 470
+the condition described in division (C)(3) of this section, 471
+diagnostic breast examination; 472
+(4) To detect the presence of cervical cancer, cytologic 473
+screening. 474
+(C)(1) The medicaid program's coverage pursuant to 475
+division (B)(1) of this section shall cover expenses for one 476
+screening mammography every year, including digital breast 477
+tomosynthesis. 478
+(2) The medicaid program's coverage pursuant to division 479
+(B)(2) of this section shall cover expenses for supplemental 480
+breast cancer screening for an adult woman individual who meets 481
+any either or both of the following conditions: 482
+(a) The woman's individual's screening mammography 483
+demonstrates, based on the breast imaging reporting and data 484
+
+H. B. No. 271 Page 18
+As Introduced
+system established by the American college of radiology, that 485
+the woman individual has dense breast tissue; 486
+(b) The woman individual is at an increased risk of breast 487
+cancer due to family history, prior personal history of breast 488
+cancer, ancestry, genetic predisposition, or other reasons as 489
+determined by the woman's individual's health care provider. 490
+(3) The medicaid program's coverage pursuant to division 491
+(B)(3) of this section shall cover expenses for diagnostic 492
+breast examination for an adult individual who has an 493
+abnormality seen or suspected from, or detected by, any of the 494
+following: screening mammography, supplemental breast cancer 495
+screening, or another means of examination. 496
+(D) The medicaid program shall not impose cost-sharing 497
+requirements on the coverage described in division (B) of this 498
+section. 499
+(E)(1) Except as provided in division (E)(2) of this 500
+section, the medicaid program's coverage of screening 501
+mammographies pursuant to division (B)(1) or , (2), or (3) of 502
+this section shall be provided only for screening mammographies 503
+or , supplemental breast cancer screenings, or diagnostic breast 504
+examinations that are performed in a facility or mobile 505
+mammography screening unit that is accredited under the American 506
+college of radiology mammography accreditation program or in a 507
+hospital as defined in section 3727.01 of the Revised Code. 508
+(2) With respect to diagnostic breast examinations that 509
+are biopsies, the medicaid program shall not, as a condition of 510
+coverage, require biopsies to be performed in a facility, mobile 511
+mammography screening unit, or hospital as described in division 512
+(E)(1) of this section. 513
+
+H. B. No. 271 Page 19
+As Introduced
+(E) (F) The medicaid program's coverage of cytologic 514
+screenings pursuant to division (B)(3) (B)(4) of this section 515
+shall be provided only for cytologic screenings that are 516
+processed and interpreted in a laboratory certified by the 517
+college of American pathologists or in a hospital as defined in 518
+section 3727.01 of the Revised Code. 519
+Section 2. That existing sections 1751.62, 3923.52, 520
+3923.53, 5162.20, and 5164.08 of the Revised Code are hereby 521
+repealed. 522
+Section 3. Section 1751.62 of the Revised Code, as amended 523
+by this act, applies only to arrangements, policies, contracts, 524
+and agreements that are created, delivered, issued for delivery, 525
+or renewed in this state on or after the effective date of the 526
+amendment. Section 3923.52 of the Revised Code, as amended by 527
+this act, applies only to policies of sickness and accident 528
+insurance delivered, issued for delivery, or renewed in this 529
+state on or after the effective date of the amendment. Section 530
+3923.53 of the Revised Code, as amended by this act, applies 531
+only to public employee benefit plans that are established or 532
+modified in this state on or after the effective date of the 533
+amendment. 534
+Section 4. (A) As used in this section: 535
+(1) "Health plan issuer" has the same meaning as in 536
+section 3922.01 of the Revised Code. 537
+(2) "Hospital" has the same meaning as in section 3722.01 538
+of the Revised Code. 539
+(3) "Physician" means an individual authorized under 540
+Chapter 4731. of the Revised Code to practice medicine and 541
+surgery or osteopathic medicine and surgery. 542
+
+H. B. No. 271 Page 20
+As Introduced
+(B) Not later than three months after the effective date 543
+of this section, all of the following apply: 544
+(1) The Director of Health shall notify each hospital and 545
+physician of this act's enactment. 546
+(2) The Superintendent of Insurance shall notify each 547
+health plan issuer of this act's enactment. 548
+(3) The notice shall be completed by certified mail. 549
+(C) When notifying a health plan issuer, hospital, or 550
+physician under this section, the Director or Superintendent 551
+shall summarize the provisions of sections 1751.62, 3923.52, 552
+3923.53, 5162.20, and 5164.08 of the Revised Code, each as 553
+amended by this act, and shall describe the act's impact on 554
+those provisions. 555
+(D) The Director of Health may consult with the State 556
+Medical Board of Ohio to assist the Director in identifying 557
+physicians and determining their business addresses for purposes 558
+of satisfying the notice requirements of this section. 559
+Section 5. This act shall be known as the Breast 560
+Examination and Screening Transformation Act, or BEST Act. 561
+
+[DELETED: nH      .  :1:1 1 1 1 1 1 1 1]
+[DELETED: 1  1 2 2 2.2 2.2 2 2 2 2.3 3 3 3 3 3.3 3 3 3 4 4.4 4 4 4 4 4]
+[DELETED: 1 .4 4 5 5 5:5 5;5 5 5 5;5 6 6;6 6.6 6 6.6 6 6 7:7 7 7 7;7]
+[DELETED: 1  7 7 7.7 8 8 8 8.8 8 8 8 8 8 9 9 9 9.9 9 9 9 9 9 1 1 1 1 1 1]
+[DELETED: 1  1)1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 1  1 1.1 1 1 1 1.1 1 1 1 1.1 1:1 1 1 1 1 1 1 1 1 1 1 1.1 1.1]
+[DELETED: 1  1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1:1 1;1 1 1 1;1]
+[DELETED: 1  1 1;1 1.1 1 2.2 2 2 2:2 2 2 2;2 2 2 2.2 2 2 2 2.2 2 2 2 2]
+[DELETED: 1  2.2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2)2 2 2 2 2 2 2]
+[DELETED: 1 .2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2 2 2.2 2 2 2]
+[DELETED: 1  2 2 2 2.2 2 2 2:2 2;2 2 2 2;2 2 2;3 3.3 3 3.3 3 3 3:3 3]
+[DELETED: 1  3 3;3 3 3 3.3 3 3 3 3.3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3.3 3]
+[DELETED: 1  3 3 3 3 3 3 3 3 3 3 3)3 3 3 3 3 3.3 3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 1  3.3 3 3 3 3.3 3 3 3 3.3 3 3.3 3 3 3:3 3 3;3 3.3 3 3.3 3]
+[DELETED: 1  3:4 4;4 4.4 4 4.4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4]
+[DELETED: 1 .4 4 4 4 4 4 4.4:4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4.4]
+[DELETED: 1  4 4 4 4 4.4:4 4;4 4 4 4;4 4 4;4 4.4 4 4 4.4 4 4 4:4 4 4]
+[DELETED: 1  4;4 4 4 4.4 4 4 4 4 4.4 4 4.4 5 5 5 5 5 5 5 5.5 5 5 5 5.5]
+[DELETED: 1  5 5 5 5 5.5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5:5 5.5 5.5 5 5.5]
+[DELETED: 1  5:5 5.5 5.5.5 5 5 5 5 5.5 5 5 5.5 5.5]

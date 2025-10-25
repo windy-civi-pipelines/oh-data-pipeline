@@ -1,0 +1,51 @@
+Title: Cosponsors: Representatives Lawson-Rowe, Brennan, Synenberg, Robinson,
+Official Title: Cosponsors: Representatives Lawson-Rowe, Brennan, Synenberg, Robinson,
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 315
+2025-2026
+Representatives Sims, Williams
+Jarrells, Miller, J., Grim, Somani, Brownlee, Brent, Upchurch, White, E., Sigrist,
+Lett, Isaacsohn, Cockley, Piccolantonio, Thomas, C., Rader, Hall, D., Rogers,
+Baker, Brewer, Mohamed, Tims, McNally, Russo, Abdullahi, Daniels
+To enact section 5.282 of the Revised Code to 1
+designate May 29 as "Sojourner Truth Day." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.282 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.282. The twenty-ninth day of May is designated as 5
+"Sojourner Truth Day." 6
+[DELETED: nH " : "]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 315
+2025-2026
+Representatives Sims, Williams
+Cosponsors: Representatives Lawson-Rowe, Brennan, Synenberg, Robinson,
+Jarrells, Miller, J., Grim, Somani, Brownlee, Brent, Upchurch, White, E., Sigrist,
+Lett, Isaacsohn, Cockley, Piccolantonio, Thomas, C., Rader, Hall, D., Rogers,
+Baker, Brewer, Mohamed, Tims, McNally, Russo, Abdullahi, Daniels
+To enact section 5.282 of the Revised Code to 1
+designate May 29 as "Sojourner Truth Day." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.282 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.282. The twenty-ninth day of May is designated as 5
+"Sojourner Truth Day." 6
+
+[DELETED: nH " : "]

@@ -1,0 +1,53 @@
+Title: Cosponsors: Senators Johnson, Antonio, Blessing, Chavez, Cirino, Craig,
+Official Title: Cosponsors: Senators Johnson, Antonio, Blessing, Chavez, Cirino, Craig,
+Number of Sections: 2
+Source: versions - As Passed by the Senate
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 21
+2025-2026
+Senators Brenner, Reineke
+DeMora, Gavarone, Hicks-Hudson, Ingram, Landis, Lang, Patton, Reynolds,
+Roegner, Romanchuk, Schaffer, Smith, Timken, Weinstein, Wilkin, Wilson
+A BILL
+To enact section 5.2322 of the Revised Code to 1
+designate October 4 as "Rutherford B. Hayes 2
+Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2322 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2322. The fourth day of October is designated as 6
+"Rutherford B. Hayes Day." 7
+[DELETED: nS BIL  " : "]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the Senate
+136th General Assembly
+Regular Session S. B. No. 21
+2025-2026
+Senators Brenner, Reineke
+Cosponsors: Senators Johnson, Antonio, Blessing, Chavez, Cirino, Craig,
+DeMora, Gavarone, Hicks-Hudson, Ingram, Landis, Lang, Patton, Reynolds,
+Roegner, Romanchuk, Schaffer, Smith, Timken, Weinstein, Wilkin, Wilson
+A BILL
+To enact section 5.2322 of the Revised Code to 1
+designate October 4 as "Rutherford B. Hayes 2
+Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2322 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2322. The fourth day of October is designated as 6
+"Rutherford B. Hayes Day." 7
+
+[DELETED: nS BIL  " : "]

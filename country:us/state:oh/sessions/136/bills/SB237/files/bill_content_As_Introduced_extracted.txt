@@ -1,0 +1,45 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 237
+2025-2026
+Senators Craig, Ingram
+Cosponsors: Senators DeMora, Smith
+To repeal section 9.68 of the Revised Code to 1
+restore local authority to generally regulate 2
+conduct related to firearms and knives. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 9.68 of the Revised Code is hereby 4
+repealed. 5
+[DELETED: nS BIL  . .]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 237
+2025-2026
+Senators Craig, Ingram
+Cosponsors: Senators DeMora, Smith
+A BILL
+To repeal section 9.68 of the Revised Code to 1
+restore local authority to generally regulate 2
+conduct related to firearms and knives. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 9.68 of the Revised Code is hereby 4
+repealed. 5
+
+[DELETED: nS BIL  . .]

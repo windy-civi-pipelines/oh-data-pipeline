@@ -1,0 +1,161 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 324
+2025-2026
+Representatives Mathews, A., Craig
+To enact section 3715.39 of the Revised Code to 1
+prohibit certain sales of drugs causing severe 2
+adverse effects, to establish conditions on the 3
+prescribing of such drugs, and to name this act 4
+the Patient Protection Act. 5
+
+Section 2:
+Section 1. That section 3715.39 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 3715.39. (A) As used in this section : 8
+(1) "Prescriber," "terminal distributor of dangerous 9
+drugs," and "wholesale distributor of dangerous drugs" have the 10
+same meanings as in section 4729.01 of the Revised Code. 11
+(2) "Retailer" has the same meaning as in section 3715.05 12
+of the Revised Code. 13
+(3) "Severe adverse effect" means any of the following: 14
+(a) Death; 15
+(b) Infection requiring hospitalization; 16
+(c) Hemorrhaging requiring hospitalization; 17
+(d) Organ failure; 18
+H. B. No. 324 Page 2
+As Introduced
+(e) Sepsis. 19
+(B)(1) A retailer or terminal distributor of dangerous 20
+drugs shall not sell, or offer to sell, a drug available without 21
+a prescription if the drug causes one or more severe adverse 22
+effects in greater than five per cent of the drug's users. 23
+(2) A retailer, terminal distributor of dangerous drugs, 24
+or wholesale distributor of dangerous drugs shall not sell, or 25
+offer to sell, by mail any drug that causes one or more severe 26
+adverse effects in greater than five per cent of the drug's 27
+users. 28
+(3) Before a prescriber may issue for a patient a 29
+prescription for a drug that causes one or more severe adverse 30
+effects in greater than five per cent of the drug's users, the 31
+prescriber shall do all of the following: 32
+(1) Conduct an in-person examination of the patient; 33
+(2) Inform the patient that the drug causes one or more 34
+severe adverse effects in greater than five per cent of the 35
+drug's users; 36
+(3) Schedule the patient for a follow-up appointment. 37
+(C)(1) For purposes of this section, the director of 38
+health is responsible for determining if a drug causes one or 39
+more severe adverse effects in greater than five per cent of the 40
+drug's users. In making such a determination, both of the 41
+following apply: 42
+(a) The director shall consult with the superintendent of 43
+insurance and executive directors of the state board of pharmacy 44
+and state medical board. 45
+(b) The director shall base the determination on the 46
+H. B. No. 324 Page 3
+As Introduced
+greater of insurance claims, patient reports of severe adverse 47
+effects to health care professionals, and any applicable data 48
+available from the United States food and drug administration. 49
+(2) The director of health shall prepare and update as 50
+needed a list containing each drug that the director determines 51
+causes one or more severe adverse effects in greater than five 52
+per cent of the drug's users. The director shall make the list, 53
+and each of its updates, available to the public on the internet 54
+web site maintained by the department of health. 55
+
+Section 3:
+Section 2. This act shall be known as the Patient 56
+Protection Act. 57
+[DELETED: nH    . ::  1.1 1.1:1;1;1;1;1]
+[DELETED: 4 .1 2 2 2.2 2 2 2 2.2 2 3 3:3;3 3 3;3.3 3 3 4 4:4 4 4.4 4]
+[DELETED: 4  4 4.4 5 5 5 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 324
+2025-2026
+Representatives Mathews, A., Craig
+To enact section 3715.39 of the Revised Code to 1
+prohibit certain sales of drugs causing severe 2
+adverse effects, to establish conditions on the 3
+prescribing of such drugs, and to name this act 4
+the Patient Protection Act. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3715.39 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 3715.39. (A) As used in this section : 8
+(1) "Prescriber," "terminal distributor of dangerous 9
+drugs," and "wholesale distributor of dangerous drugs" have the 10
+same meanings as in section 4729.01 of the Revised Code. 11
+(2) "Retailer" has the same meaning as in section 3715.05 12
+of the Revised Code. 13
+(3) "Severe adverse effect" means any of the following: 14
+(a) Death; 15
+(b) Infection requiring hospitalization; 16
+(c) Hemorrhaging requiring hospitalization; 17
+(d) Organ failure; 18
+
+H. B. No. 324 Page 2
+As Introduced
+(e) Sepsis. 19
+(B)(1) A retailer or terminal distributor of dangerous 20
+drugs shall not sell, or offer to sell, a drug available without 21
+a prescription if the drug causes one or more severe adverse 22
+effects in greater than five per cent of the drug's users. 23
+(2) A retailer, terminal distributor of dangerous drugs, 24
+or wholesale distributor of dangerous drugs shall not sell, or 25
+offer to sell, by mail any drug that causes one or more severe 26
+adverse effects in greater than five per cent of the drug's 27
+users. 28
+(3) Before a prescriber may issue for a patient a 29
+prescription for a drug that causes one or more severe adverse 30
+effects in greater than five per cent of the drug's users, the 31
+prescriber shall do all of the following: 32
+(1) Conduct an in-person examination of the patient; 33
+(2) Inform the patient that the drug causes one or more 34
+severe adverse effects in greater than five per cent of the 35
+drug's users; 36
+(3) Schedule the patient for a follow-up appointment. 37
+(C)(1) For purposes of this section, the director of 38
+health is responsible for determining if a drug causes one or 39
+more severe adverse effects in greater than five per cent of the 40
+drug's users. In making such a determination, both of the 41
+following apply: 42
+(a) The director shall consult with the superintendent of 43
+insurance and executive directors of the state board of pharmacy 44
+and state medical board. 45
+(b) The director shall base the determination on the 46
+
+H. B. No. 324 Page 3
+As Introduced
+greater of insurance claims, patient reports of severe adverse 47
+effects to health care professionals, and any applicable data 48
+available from the United States food and drug administration. 49
+(2) The director of health shall prepare and update as 50
+needed a list containing each drug that the director determines 51
+causes one or more severe adverse effects in greater than five 52
+per cent of the drug's users. The director shall make the list, 53
+and each of its updates, available to the public on the internet 54
+web site maintained by the department of health. 55
+Section 2. This act shall be known as the Patient 56
+Protection Act. 57
+
+[DELETED: nH    . ::  1.1 1.1:1;1;1;1;1]
+[DELETED: 4 .1 2 2 2.2 2 2 2 2.2 2 3 3:3;3 3 3;3.3 3 3 4 4:4 4 4.4 4]
+[DELETED: 4  4 4.4 5 5 5 5 5.5 5.5]

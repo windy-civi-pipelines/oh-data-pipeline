@@ -1,0 +1,404 @@
+Title: Cosponsors: Representatives Williams, Synenberg, Daniels, Lett, McNally,
+Official Title: Cosponsors: Representatives Williams, Synenberg, Daniels, Lett, McNally,
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 511
+2025-2026
+Representatives Jarrells, Pizzulli
+Brennan, Brewer, Russo, Upchurch
+To amend Section 381.10 of H.B. 96 of the 136th 1
+General Assembly to increase appropriations for 2
+the Campus Student Safety Grant Program for the 3
+biennium ending June 30, 2027. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That Section 381.10 of H.B. 96 of the 136th 5
+General Assembly be amended to read as follows: 6
+Sec. 381.10. 7
+8
+1 2 3 4 5
+A BOR DEPARTMENT OF HIGHER EDUCATION
+B General Revenue Fund
+C GRF 235321 Operating Expenses $8,750,000 $9,250,000
+D GRF 235402 Sea Grants $308,000 $308,000
+E GRF 235406 Articulation and Transfer $2,269,500 $2,314,890
+H. B. No. 511 Page 2
+As Introduced
+F GRF 235408 Midwest Higher Education $115,000 $115,000
+Compact
+G GRF 235413 Computer Science $4,004,863 $4,006,508
+H GRF 235414 Grants and Scholarship $922,538 $985,378
+Administration
+I GRF 235417 Technology Maintenance $4,520,396 $4,528,397
+and Operations
+J GRF 235425 Ohio Work Ready Grant $10,500,000 $10,500,000
+K GRF 235428 Appalachian New Economy $3,955,000 $3,955,000
+Workforce Partnership
+L GRF 235438 Choose Ohio First $32,000,000 $32,000,000
+Scholarship
+M GRF 235443 Aspire - State $6,322,267 $0
+N GRF 235444 Ohio Technical Centers $22,138,000 $22,138,000
+O GRF 235450 Military and Veterans $1,144,000 $1,144,000
+Offices
+P GRF 235474 Area Health Education $1,899,000 $1,899,000
+Centers Program Support
+Q GRF 235475 Campus Security Support $4,000,000 $0
+Program
+R GRF 235476 Campus Student Safety $1,000,000 $1,000,000
+Grant Program
+$11,000,000 $11,000,000
+H. B. No. 511 Page 3
+As Introduced
+S GRF 235492 Campus Safety and $200,000 $200,000
+Training
+T GRF 235501 State Share of $2,156,383,406 $2,177,772,240
+Instruction
+U GRF 235504 War Orphans and Severely $25,000,000 $30,000,000
+Disabled Veterans'
+Children Scholarships
+V GRF 235507 OhioLINK $6,447,000 $6,447,000
+W GRF 235508 Air Force Institute of $2,000,000 $2,000,000
+Technology
+X GRF 235510 Ohio Supercomputer Center $5,086,000 $5,086,000
+Y GRF 235511 The Ohio State University $25,504,000 $25,504,000
+Extension Service
+Z GRF 235514 Central State Supplement $12,768,910 $13,151,977
+AA GRF 235515 Case Western Reserve $2,100,000 $2,100,000
+University School of
+Medicine
+AB GRF 235519 Family Practice $3,098,000 $3,098,000
+AC GRF 235520 Shawnee State Supplement $12,000,000 $12,000,000
+AD GRF 235525 Geriatric Medicine $511,000 $511,000
+AE GRF 235526 Primary Care Residencies $1,468,000 $1,468,000
+AF GRF 235530 Governor's Merit $47,000,000 $70,000,000
+H. B. No. 511 Page 4
+As Introduced
+Scholarship
+AG GRF 235533 Program and Project $9,435,000 $1,050,000
+Support
+AH GRF 235535 Ohio State Agricultural $37,169,000 $37,169,000
+Research
+AI GRF 235536 The Ohio State University $9,461,000 $9,461,000
+Clinical Teaching
+AJ GRF 235537 University of Cincinnati $8,085,000 $8,085,000
+Clinical Teaching
+AK GRF 235538 University of Toledo $6,065,000 $6,065,000
+Clinical Teaching
+AL GRF 235539 Wright State University $4,447,000 $4,447,000
+Clinical Teaching
+AM GRF 235540 Ohio University Clinical $2,849,000 $2,849,000
+Teaching
+AN GRF 235541 Northeast Ohio Medical $2,930,000 $2,930,000
+University Clinical
+Teaching
+AO GRF 235543 Kent State University $500,000 $500,000
+College of Podiatric
+Medicine Clinic Subsidy
+AP GRF 235546 Central State $5,828,000 $5,828,000
+Agricultural Research and
+Development
+H. B. No. 511 Page 5
+As Introduced
+AQ GRF 235548 Central State Cooperative $5,168,000 $5,168,000
+Extension Services
+AR GRF 235552 Capital Component $1,236,561 $1,236,561
+AS GRF 235555 Library Depositories $700,000 $500,000
+AT GRF 235556 Ohio Academic Resources $3,568,000 $3,568,000
+Network
+AU GRF 235558 Long-term Care Research $318,000 $318,000
+AV GRF 235563 Ohio College Opportunity $220,600,000 $207,400,000
+Grant
+AW GRF 235569 The Ohio State University $15,000,000 $15,000,000
+College of Veterinary
+Medicine Supplement
+AX GRF 235572 The Ohio State University $750,000 $750,000
+Clinic Support
+AY GRF 235578 Federal Research Network $5,099,000 $5,099,000
+AZ GRF 235585 Educator Preparation $600,000 $600,000
+Programs
+BA GRF 235591 Co-Op Internship Program $1,065,000 $1,065,000
+BB GRF 235595 Commercial Truck Driver $3,000,000 $3,000,000
+Student Aid Program
+BC GRF 235599 National Guard $18,399,750 $18,399,750
+Scholarship Program
+H. B. No. 511 Page 6
+As Introduced
+BD GRF 2355A4 Ohio Higher Education $500,000 $500,000
+Public Policy Research
+Consortium
+BE GRF 235909 Higher Education General $250,000,000 $210,000,000
+Obligation Bond Debt
+Service
+BF General Revenue Fund Total $3,016,188,191 $2,994,470,701
+$3,026,188,191 $3,004,470,701
+BG Dedicated Purpose Fund Group
+BH 2200 235614 Program Approval and $769,126 $789,679
+Reauthorization
+BI 4560 235603 Sales and Services $129,725 $133,017
+BJ 4E80 235602 Higher Educational $69,839 $73,807
+Facility Commission
+Administration
+BK 5AH1 235688 Super RAPIDS $10,000,000 $0
+BL 5CJ1 2356A2 Strategic Square Footage $82,650,000 $0
+Reduction
+BM 5D40 235675 Conference/Special $125,000 $125,000
+Purposes
+BN 5FR0 235650 State and Non-Federal $1,405,944 $1,412,670
+Grants and Awards
+BO 5P30 235663 Variable Savings Plan $8,522,034 $8,522,034
+H. B. No. 511 Page 7
+As Introduced
+BP 5YD0 235494 Second Chance Grant $2,000,000 $2,000,000
+Program
+BQ 5ZD0 235426 Rural Practice Incentive $1,500,000 $1,500,000
+Program
+BR 5ZY0 235592 Grow Your Own Teacher $2,500,000 $2,500,000
+Program
+BS 6450 235664 Guaranteed Savings Plan $1,110,131 $1,110,132
+BT 6820 235606 Nursing Loan Program $1,203,730 $1,210,344
+BU Dedicated Purpose Fund Group Total $111,985,529 $19,376,683
+BV Bond Research and Development Fund Group
+BW 7014 235639 Research Incentive Third $8,000,000 $8,000,000
+Frontier - Tax
+BX Bond Research and Development Fund $8,000,000 $8,000,000
+Group Total
+BY Federal Fund Group
+BZ 3120 235611 Gear-up Grant $2,956,000 $2,956,000
+CA 3120 235612 Carl D. Perkins $1,371,939 $1,388,525
+Grant/Plan Administration
+CB 3120 235641 Aspire - Federal $18,996,799 $0
+CC 3120 235669 Industry Credential $300,000 $300,000
+Transfer Assurance Guides
+Initiative
+H. B. No. 511 Page 8
+As Introduced
+CD 3BG0 235651 Gear Up Grant $3,100,000 $3,100,000
+Scholarships
+CE 3N60 235658 John R. Justice Student $128,000 $128,000
+Loan Repayment Program
+CF Federal Fund Group Total $26,852,738 $7,872,525
+CG TOTAL ALL BUDGET FUND GROUPS $3,163,026,458 $3,029,719,909
+$3,173,026,458 $3,039,719,909
+
+Section 3:
+Section 2. That existing Section 381.10 of H.B. 96 of the 9
+136th General Assembly is hereby repealed. 10
+[DELETED: nH   . : 234BGGF21Os$0$GF22Ss$0$GF26Ar$0$]
+[DELETED: 1 GF28M $0$GF23Ce$3$GF24G $8$GF27T $6$GF25Ot$0$GF28A $0$GF28C $0$GF23Ae$7$GF24Os$0$GF20M $0$GF24A $0$GF25C $0$GF26C $0$0$]
+[DELETED: 1 GF22C $0$GF21S $6$GF24W $0$GF27OK$0$GF28A $0$GF20Or$0$GF21T $0$GF24Ct$0$AGF25C $0$BGF29Fe$0$CGF20St$0$DGF25Ge$0$EGF26Ps$0$FGF20G $0$]
+[DELETED: 1 GGF23P $0$HGF25O $0$IGF26T $0$JGF27U $0$KGF28U $0$LGF29W $0$MGF20O $0$NGF21N $0$OGF23K $0$PGF26C $0$]
+[DELETED: 1 QGF28C $0$RGF22Ct$1$SGF25Ls$0$TGF26O $0$UGF28Lh$0$VGF23O $0$WGF29T $0$XGF22T $0$YGF28Fk$0$ZGF25E $0$AGF21Cm$0$BGF25C $0$CGF29N $0$]
+[DELETED: 1 DGF24O $0$EGF29H $0$FGl$1$1$GDH2024P $6$I4023Ss$5$J4022H $9$K5128SS$0$L5122S $0$M5025C $0$N5020S $4$O5023Vn$4$]
+[DELETED: 1 P5024S $0$Q5026R $0$R5022G $0$S6024Gn$1$T6026Nm$0$UDl$9$VBW7429R $0$XB $0$YFZ3021Gt$0$A3022C $9$B3021Al$9$C3029I $0$]
+[DELETED: 1 D3021G $0$E3028J $0$FFl$8$GTS$8$8$ .1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 511
+2025-2026
+Representatives Jarrells, Pizzulli
+Cosponsors: Representatives Williams, Synenberg, Daniels, Lett, McNally,
+Brennan, Brewer, Russo, Upchurch
+To amend Section 381.10 of H.B. 96 of the 136th 1
+General Assembly to increase appropriations for 2
+the Campus Student Safety Grant Program for the 3
+biennium ending June 30, 2027. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That Section 381.10 of H.B. 96 of the 136th 5
+General Assembly be amended to read as follows: 6
+Sec. 381.10. 7
+8
+1 2 3 4 5
+A BOR DEPARTMENT OF HIGHER EDUCATION
+B General Revenue Fund
+C GRF 235321 Operating Expenses $8,750,000 $9,250,000
+D GRF 235402 Sea Grants $308,000 $308,000
+E GRF 235406 Articulation and Transfer $2,269,500 $2,314,890
+
+H. B. No. 511 Page 2
+As Introduced
+F GRF 235408 Midwest Higher Education $115,000 $115,000
+Compact
+G GRF 235413 Computer Science $4,004,863 $4,006,508
+H GRF 235414 Grants and Scholarship $922,538 $985,378
+Administration
+I GRF 235417 Technology Maintenance $4,520,396 $4,528,397
+and Operations
+J GRF 235425 Ohio Work Ready Grant $10,500,000 $10,500,000
+K GRF 235428 Appalachian New Economy $3,955,000 $3,955,000
+Workforce Partnership
+L GRF 235438 Choose Ohio First $32,000,000 $32,000,000
+Scholarship
+M GRF 235443 Aspire - State $6,322,267 $0
+N GRF 235444 Ohio Technical Centers $22,138,000 $22,138,000
+O GRF 235450 Military and Veterans $1,144,000 $1,144,000
+Offices
+P GRF 235474 Area Health Education $1,899,000 $1,899,000
+Centers Program Support
+Q GRF 235475 Campus Security Support $4,000,000 $0
+Program
+R GRF 235476 Campus Student Safety $1,000,000 $1,000,000
+Grant Program
+$11,000,000 $11,000,000
+
+H. B. No. 511 Page 3
+As Introduced
+S GRF 235492 Campus Safety and $200,000 $200,000
+Training
+T GRF 235501 State Share of $2,156,383,406 $2,177,772,240
+Instruction
+U GRF 235504 War Orphans and Severely $25,000,000 $30,000,000
+Disabled Veterans'
+Children Scholarships
+V GRF 235507 OhioLINK $6,447,000 $6,447,000
+W GRF 235508 Air Force Institute of $2,000,000 $2,000,000
+Technology
+X GRF 235510 Ohio Supercomputer Center $5,086,000 $5,086,000
+Y GRF 235511 The Ohio State University $25,504,000 $25,504,000
+Extension Service
+Z GRF 235514 Central State Supplement $12,768,910 $13,151,977
+AA GRF 235515 Case Western Reserve $2,100,000 $2,100,000
+University School of
+Medicine
+AB GRF 235519 Family Practice $3,098,000 $3,098,000
+AC GRF 235520 Shawnee State Supplement $12,000,000 $12,000,000
+AD GRF 235525 Geriatric Medicine $511,000 $511,000
+AE GRF 235526 Primary Care Residencies $1,468,000 $1,468,000
+AF GRF 235530 Governor's Merit $47,000,000 $70,000,000
+
+H. B. No. 511 Page 4
+As Introduced
+Scholarship
+AG GRF 235533 Program and Project $9,435,000 $1,050,000
+Support
+AH GRF 235535 Ohio State Agricultural $37,169,000 $37,169,000
+Research
+AI GRF 235536 The Ohio State University $9,461,000 $9,461,000
+Clinical Teaching
+AJ GRF 235537 University of Cincinnati $8,085,000 $8,085,000
+Clinical Teaching
+AK GRF 235538 University of Toledo $6,065,000 $6,065,000
+Clinical Teaching
+AL GRF 235539 Wright State University $4,447,000 $4,447,000
+Clinical Teaching
+AM GRF 235540 Ohio University Clinical $2,849,000 $2,849,000
+Teaching
+AN GRF 235541 Northeast Ohio Medical $2,930,000 $2,930,000
+University Clinical
+Teaching
+AO GRF 235543 Kent State University $500,000 $500,000
+College of Podiatric
+Medicine Clinic Subsidy
+AP GRF 235546 Central State $5,828,000 $5,828,000
+Agricultural Research and
+Development
+
+H. B. No. 511 Page 5
+As Introduced
+AQ GRF 235548 Central State Cooperative $5,168,000 $5,168,000
+Extension Services
+AR GRF 235552 Capital Component $1,236,561 $1,236,561
+AS GRF 235555 Library Depositories $700,000 $500,000
+AT GRF 235556 Ohio Academic Resources $3,568,000 $3,568,000
+Network
+AU GRF 235558 Long-term Care Research $318,000 $318,000
+AV GRF 235563 Ohio College Opportunity $220,600,000 $207,400,000
+Grant
+AW GRF 235569 The Ohio State University $15,000,000 $15,000,000
+College of Veterinary
+Medicine Supplement
+AX GRF 235572 The Ohio State University $750,000 $750,000
+Clinic Support
+AY GRF 235578 Federal Research Network $5,099,000 $5,099,000
+AZ GRF 235585 Educator Preparation $600,000 $600,000
+Programs
+BA GRF 235591 Co-Op Internship Program $1,065,000 $1,065,000
+BB GRF 235595 Commercial Truck Driver $3,000,000 $3,000,000
+Student Aid Program
+BC GRF 235599 National Guard $18,399,750 $18,399,750
+Scholarship Program
+
+H. B. No. 511 Page 6
+As Introduced
+BD GRF 2355A4 Ohio Higher Education $500,000 $500,000
+Public Policy Research
+Consortium
+BE GRF 235909 Higher Education General $250,000,000 $210,000,000
+Obligation Bond Debt
+Service
+BF General Revenue Fund Total $3,016,188,191 $2,994,470,701
+$3,026,188,191 $3,004,470,701
+BG Dedicated Purpose Fund Group
+BH 2200 235614 Program Approval and $769,126 $789,679
+Reauthorization
+BI 4560 235603 Sales and Services $129,725 $133,017
+BJ 4E80 235602 Higher Educational $69,839 $73,807
+Facility Commission
+Administration
+BK 5AH1 235688 Super RAPIDS $10,000,000 $0
+BL 5CJ1 2356A2 Strategic Square Footage $82,650,000 $0
+Reduction
+BM 5D40 235675 Conference/Special $125,000 $125,000
+Purposes
+BN 5FR0 235650 State and Non-Federal $1,405,944 $1,412,670
+Grants and Awards
+BO 5P30 235663 Variable Savings Plan $8,522,034 $8,522,034
+
+H. B. No. 511 Page 7
+As Introduced
+BP 5YD0 235494 Second Chance Grant $2,000,000 $2,000,000
+Program
+BQ 5ZD0 235426 Rural Practice Incentive $1,500,000 $1,500,000
+Program
+BR 5ZY0 235592 Grow Your Own Teacher $2,500,000 $2,500,000
+Program
+BS 6450 235664 Guaranteed Savings Plan $1,110,131 $1,110,132
+BT 6820 235606 Nursing Loan Program $1,203,730 $1,210,344
+BU Dedicated Purpose Fund Group Total $111,985,529 $19,376,683
+BV Bond Research and Development Fund Group
+BW 7014 235639 Research Incentive Third $8,000,000 $8,000,000
+Frontier - Tax
+BX Bond Research and Development Fund $8,000,000 $8,000,000
+Group Total
+BY Federal Fund Group
+BZ 3120 235611 Gear-up Grant $2,956,000 $2,956,000
+CA 3120 235612 Carl D. Perkins $1,371,939 $1,388,525
+Grant/Plan Administration
+CB 3120 235641 Aspire - Federal $18,996,799 $0
+CC 3120 235669 Industry Credential $300,000 $300,000
+Transfer Assurance Guides
+Initiative
+
+H. B. No. 511 Page 8
+As Introduced
+CD 3BG0 235651 Gear Up Grant $3,100,000 $3,100,000
+Scholarships
+CE 3N60 235658 John R. Justice Student $128,000 $128,000
+Loan Repayment Program
+CF Federal Fund Group Total $26,852,738 $7,872,525
+CG TOTAL ALL BUDGET FUND GROUPS $3,163,026,458 $3,029,719,909
+$3,173,026,458 $3,039,719,909
+Section 2. That existing Section 381.10 of H.B. 96 of the 9
+136th General Assembly is hereby repealed. 10
+
+[DELETED: nH   . : 234BGGF21Os$0$GF22Ss$0$GF26Ar$0$]
+[DELETED: 1 GF28M $0$GF23Ce$3$GF24G $8$GF27T $6$GF25Ot$0$GF28A $0$GF28C $0$GF23Ae$7$GF24Os$0$GF20M $0$GF24A $0$GF25C $0$GF26C $0$0$]
+[DELETED: 1 GF22C $0$GF21S $6$GF24W $0$GF27OK$0$GF28A $0$GF20Or$0$GF21T $0$GF24Ct$0$AGF25C $0$BGF29Fe$0$CGF20St$0$DGF25Ge$0$EGF26Ps$0$FGF20G $0$]
+[DELETED: 1 GGF23P $0$HGF25O $0$IGF26T $0$JGF27U $0$KGF28U $0$LGF29W $0$MGF20O $0$NGF21N $0$OGF23K $0$PGF26C $0$]
+[DELETED: 1 QGF28C $0$RGF22Ct$1$SGF25Ls$0$TGF26O $0$UGF28Lh$0$VGF23O $0$WGF29T $0$XGF22T $0$YGF28Fk$0$ZGF25E $0$AGF21Cm$0$BGF25C $0$CGF29N $0$]
+[DELETED: 1 DGF24O $0$EGF29H $0$FGl$1$1$GDH2024P $6$I4023Ss$5$J4022H $9$K5128SS$0$L5122S $0$M5025C $0$N5020S $4$O5023Vn$4$]
+[DELETED: 1 P5024S $0$Q5026R $0$R5022G $0$S6024Gn$1$T6026Nm$0$UDl$9$VBW7429R $0$XB $0$YFZ3021Gt$0$A3022C $9$B3021Al$9$C3029I $0$]
+[DELETED: 1 D3021G $0$E3028J $0$FFl$8$GTS$8$8$ .1]

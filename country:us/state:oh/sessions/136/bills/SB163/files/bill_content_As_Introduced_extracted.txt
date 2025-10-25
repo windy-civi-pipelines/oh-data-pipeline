@@ -1,0 +1,1169 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 25
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 163
+2025-2026
+Senators Blessing, Johnson
+Cosponsors: Senators DeMora, Ingram
+To amend sections 1345.51, 2907.321, 2907.322, 1
+
+Section 2:
+2907.323, and 2913.49 and to enact section 2
+
+Section 3:
+1349.10 of the Revised Code to require AI- 3
+generated products have a watermark, to prohibit 4
+simulated child pornography, and to prohibit 5
+identity fraud using a replica of a person. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 4:
+Section 1. That sections 1345.51, 2907.321, 2907.322, 7
+
+Section 5:
+2907.323, and 2913.49 be amended and section 1349.10 of the 8
+Revised Code be enacted to read as follows: 9
+Sec. 1345.51. There is hereby created in the state 10
+treasury the consumer protection enforcement fund. The fund 11
+shall include civil penalties ordered pursuant to divisions (A) 12
+and (D) of section 1345.07 of the Revised Code and paid as 13
+provided in division (G) of that section, all civil penalties 14
+ordered pursuant to division (E) of section 1349.10 of the 15
+Revised Code, all civil penalties assessed under division (A) of 16
+
+Section 6:
+section 1349.192 of the Revised Code, all costs awarded to the 17
+attorney general and all penalties imposed under section 4549.48 18
+S. B. No. 163 Page 2
+As Introduced
+of the Revised Code, and all money unclaimed under section 19
+
+Section 7:
+4549.50 of the Revised Code. The money in the consumer 20
+protection enforcement fund shall be used for the sole purpose 21
+of paying expenses incurred by the consumer protection section 22
+of the office of the attorney general. 23
+Sec. 1349.10. (A) As used in this section, "artificial 24
+intelligence" and "AI" mean an engineered or machine-based 25
+system that, for explicit or implicit objectives, infers from 26
+the input it receives how to generate outputs that can influence 27
+physical or virtual environments. 28
+(B) Artificial intelligence systems shall be programmed to 29
+provide a distinctive watermark on any AI-generated product that 30
+informs the user that the particular product was generated using 31
+an AI system. 32
+(C) No person shall remove a watermark required by this 33
+
+Section 8:
+section with the purpose of concealing that the product was 34
+generated using artificial intelligence. 35
+(D) Any person aggrieved by a violation of division (B) or 36
+(C) of this section has and may commence a civil action against 37
+the violator for damages that result from the violation. In a 38
+civil action under this division, any person found to have 39
+removed a watermark required by this section shall be rebuttably 40
+presumed to have caused the harm alleged in the complaint. 41
+(E) In addition to the civil action authorized under 42
+division (D) of this section, the attorney general may commence 43
+a civil action against a person that violates division (B) or 44
+(C) of this section for injunctive relief and, in the case of a 45
+person that violates division (C) of this section, a civil 46
+penalty of up to ten thousand dollars. All civil penalties 47
+S. B. No. 163 Page 3
+As Introduced
+collected under this division shall be deposited to the consumer 48
+protection enforcement fund created by section 1345.51 of the 49
+Revised Code. 50
+Sec. 2907.321. (A) No person, with knowledge of the 51
+character of the material or performance involved, shall do any 52
+of the following: 53
+(1) Create, reproduce, or publish any obscene material 54
+that has a minor, an artificially generated depiction of a 55
+minor, or an impaired person as one of its participants or 56
+portrayed observers; 57
+(2) Promote or advertise for sale or dissemination; sell, 58
+deliver, disseminate, display, exhibit, present, rent, or 59
+provide; or offer or agree to sell, deliver, disseminate, 60
+display, exhibit, present, rent, or provide, any obscene 61
+material that has a minor, an artificially generated depiction 62
+of a minor, or an impaired person as one of its participants or 63
+portrayed observers; 64
+(3) Create, direct, or produce an obscene performance that 65
+has a minor, an artificially generated depiction of a minor, or 66
+an impaired person as one of its participants; 67
+(4) Advertise or promote for presentation, present, or 68
+participate in presenting an obscene performance that has a 69
+minor, an artificially generated depiction of a minor, or an 70
+impaired person as one of its participants; 71
+(5) Buy, procure, possess, or control any obscene 72
+material, that has a minor, an artificially generated depiction 73
+of a minor, or an impaired person as one of its participants; 74
+(6) Bring or cause to be brought into this state any 75
+obscene material that has a minor, an artificially generated 76
+S. B. No. 163 Page 4
+As Introduced
+depiction of a minor, or an impaired person as one of its 77
+participants or portrayed observers. 78
+(B)(1) This section does not apply to any material or 79
+performance that is sold, disseminated, displayed, possessed, 80
+controlled, brought or caused to be brought into this state, or 81
+presented for a bona fide medical, scientific, educational, 82
+religious, governmental, judicial, or other proper purpose, by 83
+or to a physician, psychologist, sociologist, scientist, 84
+teacher, person pursuing bona fide studies or research, 85
+librarian, member of the clergy, prosecutor, judge, or other 86
+person having a proper interest in the material or performance. 87
+(2) Mistake of age is not a defense to a charge under this 88
+
+Section 9:
+section. 89
+(3) In a prosecution under this section, the trier of fact 90
+may infer that a person in the material or performance involved 91
+is a minor, an artificially generated depiction of a minor, or 92
+an impaired person if the material or performance, through its 93
+title, text, visual representation, or otherwise, represents or 94
+depicts the person as a minor, an artificially generated 95
+depiction of a minor, or an impaired person. 96
+(C) Whoever violates this section is guilty of pandering 97
+obscenity involving a minor, an artificially generated depiction 98
+of a minor, or an impaired person. If the offense involves a 99
+minor or an artificially generated depiction of a minor, a 100
+violation of division (A)(1), (2), (3), (4), or (6) of this 101
+
+Section 10:
+section is a felony of the second degree. If the offense 102
+involves an impaired person, a violation of division (A)(1), 103
+(2), (3), (4), or (6) of this section is a felony of the third 104
+degree. A violation of division (A)(5) of this section is a 105
+felony of the fourth degree. If the offender previously has 106
+S. B. No. 163 Page 5
+As Introduced
+been convicted of or pleaded guilty to a violation of this 107
+
+Section 11:
+section or section 2907.322 or 2907.323 of the Revised Code, 108
+pandering obscenity involving a minor, an artificially generated 109
+depiction of a minor, or an impaired person in violation of 110
+division (A)(5) of this section is a felony of the third degree. 111
+(D) As used in this section and sections 2907.322 and 112
+
+Section 12:
+2907.323 of the Revised Code, "impaired : 113
+(1) "Artificially generated depiction" means a visual 114
+depiction of an actual person that was created or edited by 115
+artificial intelligence or other computer-generated means and 116
+that a reasonable person would believe depicts or represents an 117
+actual person who is identifiable by the person's face, 118
+likeness, or other distinguishing characteristic. 119
+(2) "Impaired person" means a person whose ability to 120
+resist or consent is substantially impaired because of a mental 121
+or physical condition or because of advanced age, and the 122
+offender knows or has reasonable cause to believe that the other 123
+person's ability to resist or consent is substantially impaired 124
+because of a mental or physical condition or because of advanced 125
+age. 126
+(3) "Artificially generated depiction of child obscenity" 127
+means a violation of section 2907.321, 2907.322, or 2907.323 of 128
+the Revised Code involving an artificially generated depiction 129
+of a minor. 130
+Sec. 2907.322. (A) No person, with knowledge of the 131
+character of the material or performance involved, shall do any 132
+of the following: 133
+(1) Create, record, photograph, film, develop, reproduce, 134
+or publish any material that shows a minor, an artificially 135
+S. B. No. 163 Page 6
+As Introduced
+generated depiction of a minor, or an impaired person 136
+participating or engaging in sexual activity, masturbation, or 137
+bestiality; 138
+(2) Advertise for sale or dissemination, sell, distribute, 139
+transport, disseminate, exhibit, or display any material that 140
+shows a minor, an artificially generated depiction of a minor, 141
+or an impaired person participating or engaging in sexual 142
+activity, masturbation, or bestiality; 143
+(3) Create, direct, or produce a performance that shows a 144
+minor, an artificially generated depiction of a minor, or an 145
+impaired person participating or engaging in sexual activity, 146
+masturbation, or bestiality; 147
+(4) Advertise for presentation, present, or participate in 148
+presenting a performance that shows a minor, an artificially 149
+generated depiction of a minor, or an impaired person 150
+participating or engaging in sexual activity, masturbation, or 151
+bestiality; 152
+(5) Knowingly solicit, receive, purchase, exchange, 153
+possess, or control any material that shows a minor, an 154
+artificially generated depiction of a minor, or an impaired 155
+person participating or engaging in sexual activity, 156
+masturbation, or bestiality; 157
+(6) Bring or cause to be brought into this state any 158
+material that shows a minor, an artificially generated depiction 159
+of a minor, or an impaired person participating or engaging in 160
+sexual activity, masturbation, or bestiality; 161
+(7) Bring, cause to be brought, or finance the bringing of 162
+any minor or impaired person into or across this state with the 163
+intent that the minor or impaired person engage in sexual 164
+S. B. No. 163 Page 7
+As Introduced
+activity, masturbation, or bestiality in a performance or for 165
+the purpose of producing material containing a visual 166
+representation depicting the minor, artificially generated 167
+depiction of the minor, or impaired person engaged in sexual 168
+activity, masturbation, or bestiality. 169
+(B)(1) This section does not apply to any material or 170
+performance that is sold, disseminated, displayed, possessed, 171
+controlled, brought or caused to be brought into this state, or 172
+presented for a bona fide medical, scientific, educational, 173
+religious, governmental, judicial, or other proper purpose, by 174
+or to a physician, psychologist, sociologist, scientist, 175
+teacher, person pursuing bona fide studies or research, 176
+librarian, member of the clergy, prosecutor, judge, or other 177
+person having a proper interest in the material or performance. 178
+(2) Mistake of age is not a defense to a charge under this 179
+
+Section 13:
+section. 180
+(3) In a prosecution under this section, the trier of fact 181
+may infer that a person in the material or performance involved 182
+is a minor, an artificially generated depiction of a minor, or 183
+an impaired person if the material or performance, through its 184
+title, text, visual representation, or otherwise, represents or 185
+depicts the person as a minor, an artificially generated 186
+depiction of a minor, or an impaired person. 187
+(C) Whoever violates this section is guilty of pandering 188
+sexually oriented matter involving a minor, an artificially 189
+generated depiction of a minor, or an impaired person. If the 190
+offense involves a minor or an artificially generated depiction 191
+of a minor, a violation of division (A)(1), (2), (3), (4), (6), 192
+or (7) of this section is a felony of the second degree. If the 193
+offense involves an impaired person, a violation of division (A) 194
+S. B. No. 163 Page 8
+As Introduced
+(1), (2), (3), (4), (6), or (7) of this section is a felony of 195
+the third degree. Violation of division (A)(5) of this section 196
+is a felony of the fourth degree. If the offender previously has 197
+been convicted of or pleaded guilty to a violation of this 198
+
+Section 14:
+section or section 2907.321 or 2907.323 of the Revised Code, 199
+pandering sexually oriented matter involving a minor, an 200
+artificially generated depiction of a minor, or an impaired 201
+person in violation of division (A)(5) of this section is a 202
+felony of the third degree. 203
+Sec. 2907.323. (A) No person shall do any of the 204
+following: 205
+(1) Photograph any minor or impaired person who is not the 206
+person's child or ward in a state of nudity, or create, direct, 207
+produce, or transfer any material or performance that shows the 208
+minor, artificially generated depiction of the minor, or 209
+impaired person in a state of nudity, unless both of the 210
+following apply: 211
+(a) The material or performance is, or is to be, sold, 212
+disseminated, displayed, possessed, controlled, brought or 213
+caused to be brought into this state, or presented for a bona 214
+fide artistic, medical, scientific, educational, religious, 215
+governmental, judicial, or other proper purpose, by or to a 216
+physician, psychologist, sociologist, scientist, teacher, person 217
+pursuing bona fide studies or research, librarian, member of the 218
+clergy, prosecutor, judge, or other person having a proper 219
+interest in the material or performance; 220
+(b) The minor's or impaired person's parents, guardian, or 221
+custodian consents in writing to the photographing of the minor 222
+or impaired person, to the use of the minor, artificially 223
+generated depiction of the minor, or impaired person in the 224
+S. B. No. 163 Page 9
+As Introduced
+material or performance, or to the transfer of the material and 225
+to the specific manner in which the material or performance is 226
+to be used. 227
+(2) Consent to the photographing of the person's child or 228
+ward who is a minor or impaired person, or photograph the 229
+person's child or ward who is a minor or impaired person, in a 230
+state of nudity or consent to the use of the person's child or 231
+ward who is a minor, an artificially generated depiction of the 232
+minor, or an impaired person in a state of nudity in any 233
+material or performance, or use or transfer a material or 234
+performance of that nature, unless the material or performance 235
+is sold, disseminated, displayed, possessed, controlled, brought 236
+or caused to be brought into this state, or presented for a bona 237
+fide artistic, medical, scientific, educational, religious, 238
+governmental, judicial, or other proper purpose, by or to a 239
+physician, psychologist, sociologist, scientist, teacher, person 240
+pursuing bona fide studies or research, librarian, member of the 241
+clergy, prosecutor, judge, or other person having a proper 242
+interest in the material or performance; 243
+(3) Possess or view any material or performance that shows 244
+a minor, an artificially generated depiction of a minor, or an 245
+impaired person who is not the person's child or ward in a state 246
+of nudity, unless one of the following applies: 247
+(a) The material or performance is sold, disseminated, 248
+displayed, possessed, controlled, brought or caused to be 249
+brought into this state, or presented for a bona fide artistic, 250
+medical, scientific, educational, religious, governmental, 251
+judicial, or other proper purpose, by or to a physician, 252
+psychologist, sociologist, scientist, teacher, person pursuing 253
+bona fide studies or research, librarian, member of the clergy, 254
+S. B. No. 163 Page 10
+As Introduced
+prosecutor, judge, or other person having a proper interest in 255
+the material or performance. 256
+(b) The person knows that the minor's or impaired person's 257
+parents, guardian, or custodian has consented in writing to the 258
+photographing or use of the minor, artificially generated 259
+depiction of the minor, or impaired person in a state of nudity 260
+and to the manner in which the material or performance is used 261
+or transferred. 262
+(B) Whoever violates this section is guilty of illegal use 263
+of a minor, an artificially generated depiction of a minor, or 264
+an impaired person in a nudity-oriented material or performance. 265
+If the offense involves a minor or an artificially generated 266
+depiction of a minor, whoever violates division (A)(1) or (2) of 267
+this section is guilty of a felony of the second degree. If the 268
+offense involves an impaired person, whoever violates division 269
+(A)(1) or (2) of this section is guilty of a felony of the third 270
+degree. Except as otherwise provided in this division, whoever 271
+violates division (A)(3) of this section is guilty of a felony 272
+of the fifth degree. If the offender previously has been 273
+convicted of or pleaded guilty to a violation of this section or 274
+
+Section 15:
+section 2907.321 or 2907.322 of the Revised Code, illegal use of 275
+a minor, an artificially generated depiction of a minor, or an 276
+impaired person in a nudity-oriented material or performance in 277
+violation of division (A)(3) of this section is a felony of the 278
+fourth degree. If the offender who commits a violation of 279
+division (A)(1) or (2) of this section that involves a minor or 280
+an artificially generated depiction of a minor also is convicted 281
+of or pleads guilty to a specification as described in section 282
+
+Section 16:
+2941.1422 of the Revised Code that was included in the 283
+indictment, count in the indictment, or information charging the 284
+offense, the court shall sentence the offender to a mandatory 285
+S. B. No. 163 Page 11
+As Introduced
+prison term as provided in division (B)(7) of section 2929.14 of 286
+the Revised Code and shall order the offender to make 287
+restitution as provided in division (B)(8) of section 2929.18 of 288
+the Revised Code. 289
+Sec. 2913.49. (A) As used in this section, "personal : 290
+(1) "Personal identifying information" includes, but is 291
+not limited to, the following: the name, address, telephone 292
+number, driver's license, driver's license number, commercial 293
+driver's license, commercial driver's license number, state 294
+identification card, state identification card number, social 295
+security card, social security number, birth certificate, place 296
+of employment, employee identification number, mother's maiden 297
+name, demand deposit account number, savings account number, 298
+money market account number, mutual fund account number, other 299
+financial account number, personal identification number, 300
+password, or credit card number of a living or dead individual. 301
+(2) "Replica of a person's persona" or "replica" means a 302
+modified or fabricated version of an individual's voice, 303
+photograph, image, likeness, or distinctive appearance that is 304
+created or presented in a manner that it appears to be the 305
+individual's authentic persona. The term includes the 306
+modifications and fabrications produced in whole or in part by 307
+artificial intelligence. 308
+(3) "Artificial intelligence" has the same meaning as in 309
+
+Section 17:
+section 1349.10 of the Revised Code. 310
+(B) No person, without the express or implied consent of 311
+the other person, shall use, obtain, or possess any personal 312
+identifying information of another person with intent to do 313
+either of the following: 314
+S. B. No. 163 Page 12
+As Introduced
+(1) Hold the person out to be the other person; 315
+(2) Represent the other person's personal identifying 316
+information as the person's own personal identifying 317
+information. 318
+(C) No person shall create, obtain, possess, or use the 319
+personal identifying information of any person with the intent 320
+to aid or abet another person in violating division (B) of this 321
+
+Section 18:
+section. 322
+(D) No person, with intent to defraud, shall permit 323
+another person to use the person's own personal identifying 324
+information or a replica of the person's persona. 325
+(E) No person who is permitted to use another person's 326
+personal identifying information as described in division (D) of 327
+this section shall use, obtain, or possess the other person's 328
+personal identifying information with intent to defraud any 329
+person by doing any act identified in division (B)(1) or (2) of 330
+this section. 331
+(F)(1) (F) No person shall create or use a replica of a 332
+person's persona in a manner that would induce any other person 333
+to make a financial decision or extend credit to any person in 334
+reliance on the replica without the express consent of the 335
+individual whose persona is replicated. 336
+(G) No person shall create or use a replica with the 337
+intent to damage any person's or entity's reputation, including 338
+the reputation of the individual whose persona is replicated. 339
+(H) No person shall create, use, or disseminate a replica 340
+of a person's persona who is not a minor or impaired person in a 341
+manner that depicts the individual whose persona is replicated 342
+in a state of nudity, engaging in sexual activity, or in any 343
+S. B. No. 163 Page 13
+As Introduced
+obscene material without the consent of the individual whose 344
+persona is replicated. 345
+(I) No person shall create, use, or disseminate a replica 346
+of a person's persona for the purposes of violating or 347
+attempting to violate section 2905.05 of the Revised Code. 348
+(J)(1) It is an affirmative defense to a charge under 349
+division (B) of this section that the person using the personal 350
+identifying information is acting in accordance with a legally 351
+recognized guardianship or conservatorship or as a trustee or 352
+fiduciary. 353
+(2) It is an affirmative defense to a charge under 354
+division (B), (C), (D), or (E) of this section that either of 355
+the following applies: 356
+(a) The person or entity using, obtaining, possessing, or 357
+creating the personal identifying information or replica, or 358
+permitting it to be used, is a law enforcement agency, 359
+authorized fraud personnel, or a representative of or attorney 360
+for a law enforcement agency or authorized fraud personnel and 361
+is using, obtaining, possessing, or creating the personal 362
+identifying information or replica, or permitting it to be used, 363
+with prior consent given as specified in this division, in a 364
+bona fide investigation, an information security evaluation, a 365
+pretext calling evaluation, or a similar matter. The prior 366
+consent required under this division shall be given by the 367
+person whose personal identifying information or replica is 368
+being used, obtained, possessed, or created or is being 369
+permitted to be used or, if the person whose personal 370
+identifying information or replica is being used, obtained, 371
+possessed, or created or is being permitted to be used is 372
+deceased, by that deceased person's executor, or a member of 373
+S. B. No. 163 Page 14
+As Introduced
+that deceased person's family, or that deceased person's 374
+attorney. The prior consent required under this division may be 375
+given orally or in writing by the person whose personal 376
+identifying information or replica is being used, obtained, 377
+possessed, or created or is being permitted to be used or that 378
+person's executor, or family member, or attorney. 379
+(b) The personal identifying information or replica was 380
+obtained, possessed, used, created, or permitted to be used for 381
+a lawful purpose, provided that division (F)(2)(b) (J)(2)(b) of 382
+this section does not apply if the person or entity using, 383
+obtaining, possessing, or creating the personal identifying 384
+information or replica, or permitting it to be used, is a law 385
+enforcement agency, authorized fraud personnel, or a 386
+representative of or attorney for a law enforcement agency or 387
+authorized fraud personnel that is using, obtaining, possessing, 388
+or creating the personal identifying information or replica, or 389
+permitting it to be used, in an investigation, an information 390
+security evaluation, a pretext calling evaluation, or similar 391
+matter. 392
+(G) (K) It is not a defense to a charge under this section 393
+that the person whose personal identifying information or 394
+replica was obtained, possessed, used, created, or permitted to 395
+be used was deceased at the time of the offense. 396
+(H)(1) (L)(1) If an offender commits a violation of 397
+division (B), (D), or (E) of this section and the violation 398
+occurs as part of a course of conduct involving other violations 399
+of division (B), (D), or (E) of this section or violations of, 400
+attempts to violate, conspiracies to violate, or complicity in 401
+violations of division (C) of this section or section 2913.02, 402
+
+Section 19:
+2913.04, 2913.11, 2913.21, 2913.31, 2913.42, 2913.43, or 2921.13 403
+S. B. No. 163 Page 15
+As Introduced
+of the Revised Code, the court, in determining the degree of the 404
+offense pursuant to division (I) (M) of this section, may 405
+aggregate all credit, property, or services obtained or sought 406
+to be obtained by the offender and all debts or other legal 407
+obligations avoided or sought to be avoided by the offender in 408
+the violations involved in that course of conduct. The course of 409
+conduct may involve one victim or more than one victim. 410
+(2) If an offender commits a violation of division (C) of 411
+this section and the violation occurs as part of a course of 412
+conduct involving other violations of division (C) of this 413
+
+Section 20:
+section or violations of, attempts to violate, conspiracies to 414
+violate, or complicity in violations of division (B), (D), or 415
+(E) of this section or section 2913.02, 2913.04, 2913.11, 416
+
+Section 21:
+2913.21, 2913.31, 2913.42, 2913.43, or 2921.13 of the Revised 417
+Code, the court, in determining the degree of the offense 418
+pursuant to division (I) (M) of this section, may aggregate all 419
+credit, property, or services obtained or sought to be obtained 420
+by the person aided or abetted and all debts or other legal 421
+obligations avoided or sought to be avoided by the person aided 422
+or abetted in the violations involved in that course of conduct. 423
+The course of conduct may involve one victim or more than one 424
+victim. 425
+(I)(1) (M)(1) Whoever violates this section is guilty of 426
+identity fraud. 427
+(2) Except as otherwise provided in this division or 428
+division (I)(3) (M)(3) of this section, identity fraud is a 429
+felony of the fifth degree. If the value of the credit, 430
+property, services, debt, or other legal obligation involved in 431
+the violation or course of conduct is one thousand dollars or 432
+more and is less than seven thousand five hundred dollars, 433
+S. B. No. 163 Page 16
+As Introduced
+except as otherwise provided in division (I)(3) (M)(3) of this 434
+
+Section 22:
+section, identity fraud is a felony of the fourth degree. If the 435
+value of the credit, property, services, debt, or other legal 436
+obligation involved in the violation or course of conduct is 437
+seven thousand five hundred dollars or more and is less than one 438
+hundred fifty thousand dollars, except as otherwise provided in 439
+division (I)(3) (M(3) of this section, identity fraud is a 440
+felony of the third degree. If the value of the credit, 441
+property, services, debt, or other legal obligation involved in 442
+the violation or course of conduct is one hundred fifty thousand 443
+dollars or more, except as otherwise provided in division (I)(3) 444
+(M)(3) of this section, identity fraud is a felony of the second 445
+degree. 446
+(3) If the victim of the offense is a minor, an elderly 447
+person, disabled adult, active duty service member, or spouse of 448
+an active duty service member, a violation of this section is 449
+identity fraud against a person in a protected class. Except as 450
+otherwise provided in this division, identity fraud against a 451
+person in a protected class is a felony of the fourth degree. If 452
+the value of the credit, property, services, debt, or other 453
+legal obligation involved in the violation or course of conduct 454
+is one thousand dollars or more and is less than seven thousand 455
+five hundred dollars, identity fraud against a person in a 456
+protected class is a felony of the third degree. If the value of 457
+the credit, property, services, debt, or other legal obligation 458
+involved in the violation or course of conduct is seven thousand 459
+five hundred dollars or more and is less than one hundred fifty 460
+thousand dollars, identity fraud against a person in a protected 461
+class is a felony of the second degree. If the value of the 462
+credit, property, services, debt, or other legal obligation 463
+involved in the violation or course of conduct is one hundred 464
+S. B. No. 163 Page 17
+As Introduced
+fifty thousand dollars or more, identity fraud against a person 465
+in a protected class is a felony of the first degree. If the 466
+victim of the offense is an elderly person, in addition to any 467
+other penalty imposed for the offense, the offender shall be 468
+required to pay full restitution to the victim and to pay a fine 469
+of up to fifty thousand dollars. The clerk of court shall 470
+forward all fines collected under this division (I)(3) of this 471
+
+Section 23:
+section to the county department of job and family services to 472
+be used for the reporting and investigation of elder abuse, 473
+neglect, and exploitation or for the provision or arrangement of 474
+protective services under sections 5101.61 to 5101.71 of the 475
+Revised Code. 476
+(J) (N) In addition to the penalties described in division 477
+(I) (M) of this section, anyone injured in person or property by 478
+a violation of division (B), (D), or (E) of this section who is 479
+the owner of the identifying information involved, or whose 480
+persona is replicated, in that violation has a civil action 481
+against the offender pursuant to section 2307.60 of the Revised 482
+Code. That person may also bring a civil action to enjoin or 483
+restrain future acts that would constitute a violation of 484
+division (B), (D), or (E) of this section. 485
+
+Section 24:
+Section 2. That existing sections 1345.51, 2907.321, 486
+
+Section 25:
+2907.322, 2907.323, and 2913.49 of the Revised Code are hereby 487
+repealed. 488
+[DELETED: nS BIL  -  .  : 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 2 2 2 2 2 2 2 2.2 2 3 3.3 3 3.3 3 3 3 3 4.4 4 4 4 4 4 4]
+[DELETED: 3  4 4.5 5 5:5 5 5 5;5 5 5 6 6 6 6;6 6 6;6 6 6 7;7 7 7;7 7 7]
+[DELETED: 3  7.7 7 8 8 8 8 8 8 8.8 8.8 9 9 9 9 9 9.9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1.1 1:1 1 1 1 1 1.1 1 1 1 1 1 1.1 1 1 1.1 1 1:1 1 1]
+[DELETED: 3  1 1;1 1 1 1 1;1 1 1 1;1 1 1 1 1;1 1 1 1 1;1 1 1 1;1 1 1 1]
+[DELETED: 3  1 1 1 1.1 1 1 1 1 1 1 1 1.1 1.1 1 1 1 1 1 1.1 1 1 1 1 1 1)1]
+[DELETED: 3  1 1 1 1 1 2 2 2.2 2:2 2 2 2 2 2:2 2 2 2 2 2 2 2 2;2 2 2 2 2]
+[DELETED: 3  2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2;2 2 2 2:2 2 2 2 2 2 2 2]
+[DELETED: 3  2.2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2.2:2 2 2 2 2 2 2 2 2 2 3.3 3 3 3 3 3 3.3 3.3 3 3 3:3]
+[DELETED: 3 ;3 3 3.3 3 3 3.3 3 3.3 3 3 3 3 3.3 3 3 3 3.3 3 3.3 3 3 3 3]
+[DELETED: 3  3.3 3 3.3 3 3 3 3.3 3 3:3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3.3 3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3.3 3 3 3 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4 4.4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4.4]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 163
+2025-2026
+Senators Blessing, Johnson
+Cosponsors: Senators DeMora, Ingram
+A BILL
+To amend sections 1345.51, 2907.321, 2907.322, 1
+2907.323, and 2913.49 and to enact section 2
+1349.10 of the Revised Code to require AI- 3
+generated products have a watermark, to prohibit 4
+simulated child pornography, and to prohibit 5
+identity fraud using a replica of a person. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 1345.51, 2907.321, 2907.322, 7
+2907.323, and 2913.49 be amended and section 1349.10 of the 8
+Revised Code be enacted to read as follows: 9
+Sec. 1345.51. There is hereby created in the state 10
+treasury the consumer protection enforcement fund. The fund 11
+shall include civil penalties ordered pursuant to divisions (A) 12
+and (D) of section 1345.07 of the Revised Code and paid as 13
+provided in division (G) of that section, all civil penalties 14
+ordered pursuant to division (E) of section 1349.10 of the 15
+Revised Code, all civil penalties assessed under division (A) of 16
+section 1349.192 of the Revised Code, all costs awarded to the 17
+attorney general and all penalties imposed under section 4549.48 18
+
+S. B. No. 163 Page 2
+As Introduced
+of the Revised Code, and all money unclaimed under section 19
+4549.50 of the Revised Code. The money in the consumer 20
+protection enforcement fund shall be used for the sole purpose 21
+of paying expenses incurred by the consumer protection section 22
+of the office of the attorney general. 23
+Sec. 1349.10. (A) As used in this section, "artificial 24
+intelligence" and "AI" mean an engineered or machine-based 25
+system that, for explicit or implicit objectives, infers from 26
+the input it receives how to generate outputs that can influence 27
+physical or virtual environments. 28
+(B) Artificial intelligence systems shall be programmed to 29
+provide a distinctive watermark on any AI-generated product that 30
+informs the user that the particular product was generated using 31
+an AI system. 32
+(C) No person shall remove a watermark required by this 33
+section with the purpose of concealing that the product was 34
+generated using artificial intelligence. 35
+(D) Any person aggrieved by a violation of division (B) or 36
+(C) of this section has and may commence a civil action against 37
+the violator for damages that result from the violation. In a 38
+civil action under this division, any person found to have 39
+removed a watermark required by this section shall be rebuttably 40
+presumed to have caused the harm alleged in the complaint. 41
+(E) In addition to the civil action authorized under 42
+division (D) of this section, the attorney general may commence 43
+a civil action against a person that violates division (B) or 44
+(C) of this section for injunctive relief and, in the case of a 45
+person that violates division (C) of this section, a civil 46
+penalty of up to ten thousand dollars. All civil penalties 47
+
+S. B. No. 163 Page 3
+As Introduced
+collected under this division shall be deposited to the consumer 48
+protection enforcement fund created by section 1345.51 of the 49
+Revised Code. 50
+Sec. 2907.321. (A) No person, with knowledge of the 51
+character of the material or performance involved, shall do any 52
+of the following: 53
+(1) Create, reproduce, or publish any obscene material 54
+that has a minor, an artificially generated depiction of a 55
+minor, or an impaired person as one of its participants or 56
+portrayed observers; 57
+(2) Promote or advertise for sale or dissemination; sell, 58
+deliver, disseminate, display, exhibit, present, rent, or 59
+provide; or offer or agree to sell, deliver, disseminate, 60
+display, exhibit, present, rent, or provide, any obscene 61
+material that has a minor, an artificially generated depiction 62
+of a minor, or an impaired person as one of its participants or 63
+portrayed observers; 64
+(3) Create, direct, or produce an obscene performance that 65
+has a minor, an artificially generated depiction of a minor, or 66
+an impaired person as one of its participants; 67
+(4) Advertise or promote for presentation, present, or 68
+participate in presenting an obscene performance that has a 69
+minor, an artificially generated depiction of a minor, or an 70
+impaired person as one of its participants; 71
+(5) Buy, procure, possess, or control any obscene 72
+material, that has a minor, an artificially generated depiction 73
+of a minor, or an impaired person as one of its participants; 74
+(6) Bring or cause to be brought into this state any 75
+obscene material that has a minor, an artificially generated 76
+
+S. B. No. 163 Page 4
+As Introduced
+depiction of a minor, or an impaired person as one of its 77
+participants or portrayed observers. 78
+(B)(1) This section does not apply to any material or 79
+performance that is sold, disseminated, displayed, possessed, 80
+controlled, brought or caused to be brought into this state, or 81
+presented for a bona fide medical, scientific, educational, 82
+religious, governmental, judicial, or other proper purpose, by 83
+or to a physician, psychologist, sociologist, scientist, 84
+teacher, person pursuing bona fide studies or research, 85
+librarian, member of the clergy, prosecutor, judge, or other 86
+person having a proper interest in the material or performance. 87
+(2) Mistake of age is not a defense to a charge under this 88
+section. 89
+(3) In a prosecution under this section, the trier of fact 90
+may infer that a person in the material or performance involved 91
+is a minor, an artificially generated depiction of a minor, or 92
+an impaired person if the material or performance, through its 93
+title, text, visual representation, or otherwise, represents or 94
+depicts the person as a minor, an artificially generated 95
+depiction of a minor, or an impaired person. 96
+(C) Whoever violates this section is guilty of pandering 97
+obscenity involving a minor, an artificially generated depiction 98
+of a minor, or an impaired person. If the offense involves a 99
+minor or an artificially generated depiction of a minor, a 100
+violation of division (A)(1), (2), (3), (4), or (6) of this 101
+section is a felony of the second degree. If the offense 102
+involves an impaired person, a violation of division (A)(1), 103
+(2), (3), (4), or (6) of this section is a felony of the third 104
+degree. A violation of division (A)(5) of this section is a 105
+felony of the fourth degree. If the offender previously has 106
+
+S. B. No. 163 Page 5
+As Introduced
+been convicted of or pleaded guilty to a violation of this 107
+section or section 2907.322 or 2907.323 of the Revised Code, 108
+pandering obscenity involving a minor, an artificially generated 109
+depiction of a minor, or an impaired person in violation of 110
+division (A)(5) of this section is a felony of the third degree. 111
+(D) As used in this section and sections 2907.322 and 112
+2907.323 of the Revised Code, "impaired : 113
+(1) "Artificially generated depiction" means a visual 114
+depiction of an actual person that was created or edited by 115
+artificial intelligence or other computer-generated means and 116
+that a reasonable person would believe depicts or represents an 117
+actual person who is identifiable by the person's face, 118
+likeness, or other distinguishing characteristic. 119
+(2) "Impaired person" means a person whose ability to 120
+resist or consent is substantially impaired because of a mental 121
+or physical condition or because of advanced age, and the 122
+offender knows or has reasonable cause to believe that the other 123
+person's ability to resist or consent is substantially impaired 124
+because of a mental or physical condition or because of advanced 125
+age. 126
+(3) "Artificially generated depiction of child obscenity" 127
+means a violation of section 2907.321, 2907.322, or 2907.323 of 128
+the Revised Code involving an artificially generated depiction 129
+of a minor. 130
+Sec. 2907.322. (A) No person, with knowledge of the 131
+character of the material or performance involved, shall do any 132
+of the following: 133
+(1) Create, record, photograph, film, develop, reproduce, 134
+or publish any material that shows a minor, an artificially 135
+
+S. B. No. 163 Page 6
+As Introduced
+generated depiction of a minor, or an impaired person 136
+participating or engaging in sexual activity, masturbation, or 137
+bestiality; 138
+(2) Advertise for sale or dissemination, sell, distribute, 139
+transport, disseminate, exhibit, or display any material that 140
+shows a minor, an artificially generated depiction of a minor, 141
+or an impaired person participating or engaging in sexual 142
+activity, masturbation, or bestiality; 143
+(3) Create, direct, or produce a performance that shows a 144
+minor, an artificially generated depiction of a minor, or an 145
+impaired person participating or engaging in sexual activity, 146
+masturbation, or bestiality; 147
+(4) Advertise for presentation, present, or participate in 148
+presenting a performance that shows a minor, an artificially 149
+generated depiction of a minor, or an impaired person 150
+participating or engaging in sexual activity, masturbation, or 151
+bestiality; 152
+(5) Knowingly solicit, receive, purchase, exchange, 153
+possess, or control any material that shows a minor, an 154
+artificially generated depiction of a minor, or an impaired 155
+person participating or engaging in sexual activity, 156
+masturbation, or bestiality; 157
+(6) Bring or cause to be brought into this state any 158
+material that shows a minor, an artificially generated depiction 159
+of a minor, or an impaired person participating or engaging in 160
+sexual activity, masturbation, or bestiality; 161
+(7) Bring, cause to be brought, or finance the bringing of 162
+any minor or impaired person into or across this state with the 163
+intent that the minor or impaired person engage in sexual 164
+
+S. B. No. 163 Page 7
+As Introduced
+activity, masturbation, or bestiality in a performance or for 165
+the purpose of producing material containing a visual 166
+representation depicting the minor, artificially generated 167
+depiction of the minor, or impaired person engaged in sexual 168
+activity, masturbation, or bestiality. 169
+(B)(1) This section does not apply to any material or 170
+performance that is sold, disseminated, displayed, possessed, 171
+controlled, brought or caused to be brought into this state, or 172
+presented for a bona fide medical, scientific, educational, 173
+religious, governmental, judicial, or other proper purpose, by 174
+or to a physician, psychologist, sociologist, scientist, 175
+teacher, person pursuing bona fide studies or research, 176
+librarian, member of the clergy, prosecutor, judge, or other 177
+person having a proper interest in the material or performance. 178
+(2) Mistake of age is not a defense to a charge under this 179
+section. 180
+(3) In a prosecution under this section, the trier of fact 181
+may infer that a person in the material or performance involved 182
+is a minor, an artificially generated depiction of a minor, or 183
+an impaired person if the material or performance, through its 184
+title, text, visual representation, or otherwise, represents or 185
+depicts the person as a minor, an artificially generated 186
+depiction of a minor, or an impaired person. 187
+(C) Whoever violates this section is guilty of pandering 188
+sexually oriented matter involving a minor, an artificially 189
+generated depiction of a minor, or an impaired person. If the 190
+offense involves a minor or an artificially generated depiction 191
+of a minor, a violation of division (A)(1), (2), (3), (4), (6), 192
+or (7) of this section is a felony of the second degree. If the 193
+offense involves an impaired person, a violation of division (A) 194
+
+S. B. No. 163 Page 8
+As Introduced
+(1), (2), (3), (4), (6), or (7) of this section is a felony of 195
+the third degree. Violation of division (A)(5) of this section 196
+is a felony of the fourth degree. If the offender previously has 197
+been convicted of or pleaded guilty to a violation of this 198
+section or section 2907.321 or 2907.323 of the Revised Code, 199
+pandering sexually oriented matter involving a minor, an 200
+artificially generated depiction of a minor, or an impaired 201
+person in violation of division (A)(5) of this section is a 202
+felony of the third degree. 203
+Sec. 2907.323. (A) No person shall do any of the 204
+following: 205
+(1) Photograph any minor or impaired person who is not the 206
+person's child or ward in a state of nudity, or create, direct, 207
+produce, or transfer any material or performance that shows the 208
+minor, artificially generated depiction of the minor, or 209
+impaired person in a state of nudity, unless both of the 210
+following apply: 211
+(a) The material or performance is, or is to be, sold, 212
+disseminated, displayed, possessed, controlled, brought or 213
+caused to be brought into this state, or presented for a bona 214
+fide artistic, medical, scientific, educational, religious, 215
+governmental, judicial, or other proper purpose, by or to a 216
+physician, psychologist, sociologist, scientist, teacher, person 217
+pursuing bona fide studies or research, librarian, member of the 218
+clergy, prosecutor, judge, or other person having a proper 219
+interest in the material or performance; 220
+(b) The minor's or impaired person's parents, guardian, or 221
+custodian consents in writing to the photographing of the minor 222
+or impaired person, to the use of the minor, artificially 223
+generated depiction of the minor, or impaired person in the 224
+
+S. B. No. 163 Page 9
+As Introduced
+material or performance, or to the transfer of the material and 225
+to the specific manner in which the material or performance is 226
+to be used. 227
+(2) Consent to the photographing of the person's child or 228
+ward who is a minor or impaired person, or photograph the 229
+person's child or ward who is a minor or impaired person, in a 230
+state of nudity or consent to the use of the person's child or 231
+ward who is a minor, an artificially generated depiction of the 232
+minor, or an impaired person in a state of nudity in any 233
+material or performance, or use or transfer a material or 234
+performance of that nature, unless the material or performance 235
+is sold, disseminated, displayed, possessed, controlled, brought 236
+or caused to be brought into this state, or presented for a bona 237
+fide artistic, medical, scientific, educational, religious, 238
+governmental, judicial, or other proper purpose, by or to a 239
+physician, psychologist, sociologist, scientist, teacher, person 240
+pursuing bona fide studies or research, librarian, member of the 241
+clergy, prosecutor, judge, or other person having a proper 242
+interest in the material or performance; 243
+(3) Possess or view any material or performance that shows 244
+a minor, an artificially generated depiction of a minor, or an 245
+impaired person who is not the person's child or ward in a state 246
+of nudity, unless one of the following applies: 247
+(a) The material or performance is sold, disseminated, 248
+displayed, possessed, controlled, brought or caused to be 249
+brought into this state, or presented for a bona fide artistic, 250
+medical, scientific, educational, religious, governmental, 251
+judicial, or other proper purpose, by or to a physician, 252
+psychologist, sociologist, scientist, teacher, person pursuing 253
+bona fide studies or research, librarian, member of the clergy, 254
+
+S. B. No. 163 Page 10
+As Introduced
+prosecutor, judge, or other person having a proper interest in 255
+the material or performance. 256
+(b) The person knows that the minor's or impaired person's 257
+parents, guardian, or custodian has consented in writing to the 258
+photographing or use of the minor, artificially generated 259
+depiction of the minor, or impaired person in a state of nudity 260
+and to the manner in which the material or performance is used 261
+or transferred. 262
+(B) Whoever violates this section is guilty of illegal use 263
+of a minor, an artificially generated depiction of a minor, or 264
+an impaired person in a nudity-oriented material or performance. 265
+If the offense involves a minor or an artificially generated 266
+depiction of a minor, whoever violates division (A)(1) or (2) of 267
+this section is guilty of a felony of the second degree. If the 268
+offense involves an impaired person, whoever violates division 269
+(A)(1) or (2) of this section is guilty of a felony of the third 270
+degree. Except as otherwise provided in this division, whoever 271
+violates division (A)(3) of this section is guilty of a felony 272
+of the fifth degree. If the offender previously has been 273
+convicted of or pleaded guilty to a violation of this section or 274
+section 2907.321 or 2907.322 of the Revised Code, illegal use of 275
+a minor, an artificially generated depiction of a minor, or an 276
+impaired person in a nudity-oriented material or performance in 277
+violation of division (A)(3) of this section is a felony of the 278
+fourth degree. If the offender who commits a violation of 279
+division (A)(1) or (2) of this section that involves a minor or 280
+an artificially generated depiction of a minor also is convicted 281
+of or pleads guilty to a specification as described in section 282
+2941.1422 of the Revised Code that was included in the 283
+indictment, count in the indictment, or information charging the 284
+offense, the court shall sentence the offender to a mandatory 285
+
+S. B. No. 163 Page 11
+As Introduced
+prison term as provided in division (B)(7) of section 2929.14 of 286
+the Revised Code and shall order the offender to make 287
+restitution as provided in division (B)(8) of section 2929.18 of 288
+the Revised Code. 289
+Sec. 2913.49. (A) As used in this section, "personal : 290
+(1) "Personal identifying information" includes, but is 291
+not limited to, the following: the name, address, telephone 292
+number, driver's license, driver's license number, commercial 293
+driver's license, commercial driver's license number, state 294
+identification card, state identification card number, social 295
+security card, social security number, birth certificate, place 296
+of employment, employee identification number, mother's maiden 297
+name, demand deposit account number, savings account number, 298
+money market account number, mutual fund account number, other 299
+financial account number, personal identification number, 300
+password, or credit card number of a living or dead individual. 301
+(2) "Replica of a person's persona" or "replica" means a 302
+modified or fabricated version of an individual's voice, 303
+photograph, image, likeness, or distinctive appearance that is 304
+created or presented in a manner that it appears to be the 305
+individual's authentic persona. The term includes the 306
+modifications and fabrications produced in whole or in part by 307
+artificial intelligence. 308
+(3) "Artificial intelligence" has the same meaning as in 309
+section 1349.10 of the Revised Code. 310
+(B) No person, without the express or implied consent of 311
+the other person, shall use, obtain, or possess any personal 312
+identifying information of another person with intent to do 313
+either of the following: 314
+
+S. B. No. 163 Page 12
+As Introduced
+(1) Hold the person out to be the other person; 315
+(2) Represent the other person's personal identifying 316
+information as the person's own personal identifying 317
+information. 318
+(C) No person shall create, obtain, possess, or use the 319
+personal identifying information of any person with the intent 320
+to aid or abet another person in violating division (B) of this 321
+section. 322
+(D) No person, with intent to defraud, shall permit 323
+another person to use the person's own personal identifying 324
+information or a replica of the person's persona. 325
+(E) No person who is permitted to use another person's 326
+personal identifying information as described in division (D) of 327
+this section shall use, obtain, or possess the other person's 328
+personal identifying information with intent to defraud any 329
+person by doing any act identified in division (B)(1) or (2) of 330
+this section. 331
+(F)(1) (F) No person shall create or use a replica of a 332
+person's persona in a manner that would induce any other person 333
+to make a financial decision or extend credit to any person in 334
+reliance on the replica without the express consent of the 335
+individual whose persona is replicated. 336
+(G) No person shall create or use a replica with the 337
+intent to damage any person's or entity's reputation, including 338
+the reputation of the individual whose persona is replicated. 339
+(H) No person shall create, use, or disseminate a replica 340
+of a person's persona who is not a minor or impaired person in a 341
+manner that depicts the individual whose persona is replicated 342
+in a state of nudity, engaging in sexual activity, or in any 343
+
+S. B. No. 163 Page 13
+As Introduced
+obscene material without the consent of the individual whose 344
+persona is replicated. 345
+(I) No person shall create, use, or disseminate a replica 346
+of a person's persona for the purposes of violating or 347
+attempting to violate section 2905.05 of the Revised Code. 348
+(J)(1) It is an affirmative defense to a charge under 349
+division (B) of this section that the person using the personal 350
+identifying information is acting in accordance with a legally 351
+recognized guardianship or conservatorship or as a trustee or 352
+fiduciary. 353
+(2) It is an affirmative defense to a charge under 354
+division (B), (C), (D), or (E) of this section that either of 355
+the following applies: 356
+(a) The person or entity using, obtaining, possessing, or 357
+creating the personal identifying information or replica, or 358
+permitting it to be used, is a law enforcement agency, 359
+authorized fraud personnel, or a representative of or attorney 360
+for a law enforcement agency or authorized fraud personnel and 361
+is using, obtaining, possessing, or creating the personal 362
+identifying information or replica, or permitting it to be used, 363
+with prior consent given as specified in this division, in a 364
+bona fide investigation, an information security evaluation, a 365
+pretext calling evaluation, or a similar matter. The prior 366
+consent required under this division shall be given by the 367
+person whose personal identifying information or replica is 368
+being used, obtained, possessed, or created or is being 369
+permitted to be used or, if the person whose personal 370
+identifying information or replica is being used, obtained, 371
+possessed, or created or is being permitted to be used is 372
+deceased, by that deceased person's executor, or a member of 373
+
+S. B. No. 163 Page 14
+As Introduced
+that deceased person's family, or that deceased person's 374
+attorney. The prior consent required under this division may be 375
+given orally or in writing by the person whose personal 376
+identifying information or replica is being used, obtained, 377
+possessed, or created or is being permitted to be used or that 378
+person's executor, or family member, or attorney. 379
+(b) The personal identifying information or replica was 380
+obtained, possessed, used, created, or permitted to be used for 381
+a lawful purpose, provided that division (F)(2)(b) (J)(2)(b) of 382
+this section does not apply if the person or entity using, 383
+obtaining, possessing, or creating the personal identifying 384
+information or replica, or permitting it to be used, is a law 385
+enforcement agency, authorized fraud personnel, or a 386
+representative of or attorney for a law enforcement agency or 387
+authorized fraud personnel that is using, obtaining, possessing, 388
+or creating the personal identifying information or replica, or 389
+permitting it to be used, in an investigation, an information 390
+security evaluation, a pretext calling evaluation, or similar 391
+matter. 392
+(G) (K) It is not a defense to a charge under this section 393
+that the person whose personal identifying information or 394
+replica was obtained, possessed, used, created, or permitted to 395
+be used was deceased at the time of the offense. 396
+(H)(1) (L)(1) If an offender commits a violation of 397
+division (B), (D), or (E) of this section and the violation 398
+occurs as part of a course of conduct involving other violations 399
+of division (B), (D), or (E) of this section or violations of, 400
+attempts to violate, conspiracies to violate, or complicity in 401
+violations of division (C) of this section or section 2913.02, 402
+2913.04, 2913.11, 2913.21, 2913.31, 2913.42, 2913.43, or 2921.13 403
+
+S. B. No. 163 Page 15
+As Introduced
+of the Revised Code, the court, in determining the degree of the 404
+offense pursuant to division (I) (M) of this section, may 405
+aggregate all credit, property, or services obtained or sought 406
+to be obtained by the offender and all debts or other legal 407
+obligations avoided or sought to be avoided by the offender in 408
+the violations involved in that course of conduct. The course of 409
+conduct may involve one victim or more than one victim. 410
+(2) If an offender commits a violation of division (C) of 411
+this section and the violation occurs as part of a course of 412
+conduct involving other violations of division (C) of this 413
+section or violations of, attempts to violate, conspiracies to 414
+violate, or complicity in violations of division (B), (D), or 415
+(E) of this section or section 2913.02, 2913.04, 2913.11, 416
+2913.21, 2913.31, 2913.42, 2913.43, or 2921.13 of the Revised 417
+Code, the court, in determining the degree of the offense 418
+pursuant to division (I) (M) of this section, may aggregate all 419
+credit, property, or services obtained or sought to be obtained 420
+by the person aided or abetted and all debts or other legal 421
+obligations avoided or sought to be avoided by the person aided 422
+or abetted in the violations involved in that course of conduct. 423
+The course of conduct may involve one victim or more than one 424
+victim. 425
+(I)(1) (M)(1) Whoever violates this section is guilty of 426
+identity fraud. 427
+(2) Except as otherwise provided in this division or 428
+division (I)(3) (M)(3) of this section, identity fraud is a 429
+felony of the fifth degree. If the value of the credit, 430
+property, services, debt, or other legal obligation involved in 431
+the violation or course of conduct is one thousand dollars or 432
+more and is less than seven thousand five hundred dollars, 433
+
+S. B. No. 163 Page 16
+As Introduced
+except as otherwise provided in division (I)(3) (M)(3) of this 434
+section, identity fraud is a felony of the fourth degree. If the 435
+value of the credit, property, services, debt, or other legal 436
+obligation involved in the violation or course of conduct is 437
+seven thousand five hundred dollars or more and is less than one 438
+hundred fifty thousand dollars, except as otherwise provided in 439
+division (I)(3) (M(3) of this section, identity fraud is a 440
+felony of the third degree. If the value of the credit, 441
+property, services, debt, or other legal obligation involved in 442
+the violation or course of conduct is one hundred fifty thousand 443
+dollars or more, except as otherwise provided in division (I)(3) 444
+(M)(3) of this section, identity fraud is a felony of the second 445
+degree. 446
+(3) If the victim of the offense is a minor, an elderly 447
+person, disabled adult, active duty service member, or spouse of 448
+an active duty service member, a violation of this section is 449
+identity fraud against a person in a protected class. Except as 450
+otherwise provided in this division, identity fraud against a 451
+person in a protected class is a felony of the fourth degree. If 452
+the value of the credit, property, services, debt, or other 453
+legal obligation involved in the violation or course of conduct 454
+is one thousand dollars or more and is less than seven thousand 455
+five hundred dollars, identity fraud against a person in a 456
+protected class is a felony of the third degree. If the value of 457
+the credit, property, services, debt, or other legal obligation 458
+involved in the violation or course of conduct is seven thousand 459
+five hundred dollars or more and is less than one hundred fifty 460
+thousand dollars, identity fraud against a person in a protected 461
+class is a felony of the second degree. If the value of the 462
+credit, property, services, debt, or other legal obligation 463
+involved in the violation or course of conduct is one hundred 464
+
+S. B. No. 163 Page 17
+As Introduced
+fifty thousand dollars or more, identity fraud against a person 465
+in a protected class is a felony of the first degree. If the 466
+victim of the offense is an elderly person, in addition to any 467
+other penalty imposed for the offense, the offender shall be 468
+required to pay full restitution to the victim and to pay a fine 469
+of up to fifty thousand dollars. The clerk of court shall 470
+forward all fines collected under this division (I)(3) of this 471
+section to the county department of job and family services to 472
+be used for the reporting and investigation of elder abuse, 473
+neglect, and exploitation or for the provision or arrangement of 474
+protective services under sections 5101.61 to 5101.71 of the 475
+Revised Code. 476
+(J) (N) In addition to the penalties described in division 477
+(I) (M) of this section, anyone injured in person or property by 478
+a violation of division (B), (D), or (E) of this section who is 479
+the owner of the identifying information involved, or whose 480
+persona is replicated, in that violation has a civil action 481
+against the offender pursuant to section 2307.60 of the Revised 482
+Code. That person may also bring a civil action to enjoin or 483
+restrain future acts that would constitute a violation of 484
+division (B), (D), or (E) of this section. 485
+Section 2. That existing sections 1345.51, 2907.321, 486
+2907.322, 2907.323, and 2913.49 of the Revised Code are hereby 487
+repealed. 488
+
+[DELETED: nS BIL  -  .  : 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 2 2 2 2 2 2 2 2.2 2 3 3.3 3 3.3 3 3 3 3 4.4 4 4 4 4 4 4]
+[DELETED: 3  4 4.5 5 5:5 5 5 5;5 5 5 6 6 6 6;6 6 6;6 6 6 7;7 7 7;7 7 7]
+[DELETED: 3  7.7 7 8 8 8 8 8 8 8.8 8.8 9 9 9 9 9 9.9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1.1 1:1 1 1 1 1 1.1 1 1 1 1 1 1.1 1 1 1.1 1 1:1 1 1]
+[DELETED: 3  1 1;1 1 1 1 1;1 1 1 1;1 1 1 1 1;1 1 1 1 1;1 1 1 1;1 1 1 1]
+[DELETED: 3  1 1 1 1.1 1 1 1 1 1 1 1 1.1 1.1 1 1 1 1 1 1.1 1 1 1 1 1 1)1]
+[DELETED: 3  1 1 1 1 1 2 2 2.2 2:2 2 2 2 2 2:2 2 2 2 2 2 2 2 2;2 2 2 2 2]
+[DELETED: 3  2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2;2 2 2 2:2 2 2 2 2 2 2 2]
+[DELETED: 3  2.2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2.2:2 2 2 2 2 2 2 2 2 2 3.3 3 3 3 3 3 3.3 3.3 3 3 3:3]
+[DELETED: 3 ;3 3 3.3 3 3 3.3 3 3.3 3 3 3 3 3.3 3 3 3 3.3 3 3.3 3 3 3 3]
+[DELETED: 3  3.3 3 3.3 3 3 3 3.3 3 3:3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3.3 3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3.3 3 3 3 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4 4.4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4.4]

@@ -1,0 +1,683 @@
+Title: To amend sections 113.70, 113.71, 113.72, 113.73, 1
+Official Title: To amend sections 113.70, 113.71, 113.72, 113.73, 1
+Number of Sections: 17
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 413
+2025-2026
+Representatives Young, Peterson
+
+Section 2:
+113.74, 113.75, 113.76, and 5501.521; to enact 2
+new section 113.77 and sections 113.80, 113.81, 3
+
+Section 3:
+113.82, 113.83, and 113.84; and to repeal 4
+
+Section 4:
+section 113.77 of the Revised Code to create the 5
+Ohio Local Government Expenditure Database and 6
+require political subdivision participation, to 7
+require the state retirement systems to 8
+participate in the Ohio State Government 9
+Expenditure Database, and to make an 10
+appropriation. 11
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 5:
+Section 1. That sections 113.70, 113.71, 113.72, 113.73, 12
+
+Section 6:
+113.74, 113.75, 113.76, and 5501.521 be amended and new section 13
+
+Section 7:
+113.77 and sections 113.80, 113.81, 113.82, 113.83, and 113.84 14
+of the Revised Code be enacted to read as follows: 15
+Sec. 113.70. As used in sections 113.70 to 113.77 of the 16
+Revised Code: 17
+(A) "Expenditure" means a payment, distribution, loan, 18
+advance, reimbursement, deposit, or gift of money from a state 19
+entity to any supplier. 20
+H. B. No. 413 Page 2
+As Introduced
+(B) "Political subdivision" means a county, city, village, 21
+public library, township, park district, school district, 22
+regional water and sewer district, or regional transit 23
+authority. 24
+(C) "Public library" means a library that is created, 25
+maintained, and regulated under Chapter 3375. of the Revised 26
+Code. 27
+(D) "Revenue" means a payment, fee, tax, federal funds, or 28
+state funds received by a state entity. 29
+(E) "School district" means a city, local, exempted 30
+village, or joint vocational school district; a science, 31
+technology, engineering, and mathematics school established 32
+under Chapter 3326. of the Revised Code; or an educational 33
+service center. "School district" does not mean a community 34
+school established under Chapter 3314. of the Revised Code. 35
+(E) (F) "State entity" means the general assembly, the 36
+supreme court, the court of claims, the office of an elected 37
+state officer, a state retirement system, or a department, 38
+bureau, board, office, commission, agency, institution, 39
+instrumentality, or other governmental entity of this state 40
+established by the constitution or laws of this state for the 41
+exercise of any function of state government, but excludes a 42
+political subdivision, an institution of higher education, a 43
+state retirement system, and the city of Cincinnati retirement 44
+system. "State entity" does not include the nonprofit 45
+corporation formed under section 187.01 of the Revised Code. 46
+(F) (G) "State retirement system" means the public 47
+employees retirement system, the Ohio police and fire pension 48
+fund, the state teachers retirement system, the school employees 49
+H. B. No. 413 Page 3
+As Introduced
+retirement system, and the state highway patrol retirement 50
+system. 51
+(G) (H) "Supplier" means any person, partnership, 52
+corporation, association, organization, state entity, or other 53
+party, including any executive officer, legislative officer, 54
+judicial officer, or member or employee of a state entity, that 55
+does either of the following: 56
+(1) Sells, leases, or otherwise provides equipment, 57
+materials, goods, supplies, or services to a state entity 58
+pursuant to a contract between the supplier and a state entity; 59
+(2) Receives reimbursement from a state entity for any 60
+expense. 61
+Sec. 113.71. (A) The treasurer of state, in collaboration 62
+with the directors of budget and management and administrative 63
+services, shall establish and maintain the Ohio state and local 64
+government expenditure database. The database shall be 65
+accessible on the web site of the treasurer of state and the web 66
+site of the office of budget and management. 67
+(B)(B)(1) The database shall include information about 68
+expenditures made in each fiscal year that commences after the 69
+effective date of this section September 30, 2021, or after the 70
+effective date of this amendment for state retirement systems 71
+included after that date. 72
+(2) The database shall include information about revenue 73
+received in each fiscal year that commences after the effective 74
+date of this amendment. 75
+(C) The database shall be accessible by members of the 76
+public without charge. 77
+H. B. No. 413 Page 4
+As Introduced
+(D) State entities shall assist in the development, 78
+establishment, operation, storage, hosting, and support of the 79
+database. State entities shall comply with sections 113.70 to 80
+
+Section 8:
+113.77 of the Revised Code using existing resources. 81
+(E) The treasurer of state shall enter into an annual 82
+agreement with the directors of budget and management and 83
+administrative services to define data storage, data handling, 84
+user interface requirements, and other provisions considered 85
+necessary to ensure the proper maintenance and operation of the 86
+database. 87
+(F) Nothing in this section shall be construed to prohibit 88
+the treasurer of state from including any information in the 89
+base database that is not required to be included under sections 90
+
+Section 9:
+113.70 to 113.77 of the Revised Code and that is available to 91
+the public. 92
+Sec. 113.72. (A) For each expenditure, the Ohio state and 93
+local government expenditure database shall include the 94
+following information: 95
+(A) (1) The amount of the expenditure; 96
+(B) (2) The date the expenditure was paid; 97
+(C) (3) The supplier to which the expenditure was paid; 98
+(D) (4) The state entity that made the expenditure or 99
+requested the expenditure be made. 100
+(B) For each revenue, the Ohio state government 101
+expenditure database shall include the following information: 102
+(1) The amount of the revenue; 103
+(2) The date the revenue was received; 104
+H. B. No. 413 Page 5
+As Introduced
+(3) The source of the revenue; 105
+(4) The state entity that received the revenue. 106
+Sec. 113.73. (A) The Ohio state and local government 107
+expenditure database shall include the following features: 108
+(1) A searchable database of all expenditures and 109
+revenues; 110
+(2) The ability to filter expenditures and revenues, as 111
+applicable, by the following categories: 112
+(a) The category of expense or revenue; 113
+(b) The Ohio administrative knowledge system accounting 114
+code for a specific good or service. 115
+(3) The ability to search and filter by any of the factors 116
+listed in section 113.72 of the Revised Code; 117
+(4) The ability to aggregate data contained in the 118
+database; 119
+(5) The ability to determine the total amount both of 120
+expenditures the following: 121
+(a) The total amount of expenditures awarded to a supplier 122
+by a state entity; 123
+(b) The total amount of revenues received from a source by 124
+a state entity; 125
+(6) The ability to download information obtained through 126
+the database; 127
+(7) A searchable database of state and school district 128
+employee salary and employment information. 129
+(B) The information required under division (A)(7) of this 130
+H. B. No. 413 Page 6
+As Introduced
+
+Section 10:
+section shall be provided by the department of administrative 131
+services or the department of education and workforce, as 132
+applicable. 133
+Sec. 113.74. Not later than one year after the Ohio state 134
+and local government expenditure database is implemented, the 135
+treasurer of state shall coordinate with the director of budget 136
+and management to provide an opportunity for public comment as 137
+to the utility of the database. 138
+Sec. 113.75. The Ohio state and local government 139
+expenditure database shall not include any information that is 140
+determined to be confidential or is not a public record under 141
+the laws of this state. All of the following are not liable for 142
+the disclosure of a record contained in the Ohio state and local 143
+government expenditure database that is determined to be 144
+confidential or is not a public record under the laws of this 145
+state: 146
+(A) The treasurer of state; 147
+(B) Employees of the treasurer of state; 148
+(C) A state entity; 149
+(D) Any employee of a state entity that provides 150
+information to the database. 151
+Sec. 113.76. Each state entity shall display on its web 152
+site a prominent internet link to the Ohio state and local 153
+government expenditure database. 154
+Sec. 113.77. The Ohio state government expenditure 155
+database shall include a searchable database of each state 156
+entity that provides access to a state entity operating budget 157
+for each fiscal year that commences after the effective date of 158
+H. B. No. 413 Page 7
+As Introduced
+this section. 159
+Sec. 113.80. As used in sections 113.80 to 113.84 of the 160
+Revised Code: 161
+(A) "Political subdivision" means a county, city, village, 162
+public library, township, park district, school district, 163
+regional water and sewer district, or regional transit 164
+authority. 165
+(B) "Public library" means a library that is created, 166
+maintained, and regulated under Chapter 3375. of the Revised 167
+Code. 168
+(C) "School district" means a city, local, exempted 169
+village, or joint vocational school district; a science, 170
+technology, engineering, and mathematics school established 171
+under Chapter 3326. of the Revised Code; or an educational 172
+service center. "School district" does not mean a community 173
+school established under Chapter 3314. of the Revised Code. 174
+Sec. 113.81. The treasurer of state shall establish and 175
+maintain the Ohio local government expenditure database. 176
+Political subdivisions shall provide expenditure and revenue 177
+information to the treasurer of state for inclusion in the 178
+database. The database shall be accessible on the web site of 179
+the treasurer of state and the web site of the office of budget 180
+and management. The database shall be accessible by members of 181
+the public without charge. Each political subdivision shall 182
+display on its web site a prominent internet link to the 183
+database. 184
+Sec. 113.82. (A) The treasurer of state shall adopt rules 185
+under Chapter 119. of the Revised Code as necessary to implement 186
+the Ohio local government expenditure database, including rules 187
+H. B. No. 413 Page 8
+As Introduced
+specifying the types of expenditure and revenue information 188
+required to be provided, the extent to which such information 189
+shall be required, and the manner in which such information 190
+shall be provided. 191
+(B) Political subdivisions shall comply with sections 192
+
+Section 11:
+113.80 to 113.84 of the Revised Code using existing resources. 193
+Sec. 113.83. The Ohio local government expenditure 194
+database shall include the following features: 195
+(A) The ability to search information in the database; 196
+(B) The ability to filter information in the database; 197
+(C) The ability to download information obtained through 198
+the database. 199
+Sec. 113.84. The Ohio local government expenditure 200
+database shall not include any information that is determined to 201
+be confidential or is not a public record under the laws of this 202
+state. All of the following are not liable for the disclosure of 203
+a record contained in the database that is determined to be 204
+confidential or is not a public record under the laws of this 205
+state: 206
+(A) The treasurer of state; 207
+(B) Employees of the treasurer of state; 208
+(C) A political subdivision; 209
+(D) Any employee of a political subdivision that provides 210
+information to the database. 211
+Sec. 5501.521. (A) The department of transportation shall 212
+prepare expense reports related to grants and loans that are 213
+issued by the department through its transportation grant and 214
+H. B. No. 413 Page 9
+As Introduced
+loan programs. The department shall submit each report to the 215
+president of the senate and the speaker of the house of 216
+representatives at the earliest of the following periods: 217
+(1) The conclusion of the term of loan; 218
+(2) The conclusion of the project funded by the grant; 219
+(3) The end of the fiscal year for each fiscal year that 220
+the loan or the project is still pending. 221
+(B) The department shall require the recipient of the loan 222
+or grant to assist in preparing the expense reports and 223
+itemizing the uses of the loan or grant money issued to that 224
+recipient. 225
+(C) The department shall include its administrative 226
+expenses in managing the loan or grant program in the expense 227
+reports submitted in accordance with this section. 228
+(D) If any content required for inclusion in an expense 229
+report under this section is the same content that the 230
+department submits to the Ohio state and local government 231
+expenditure database established under sections 113.70 to 113.77 232
+of the Revised Code, the department may send copies of that 233
+content to the president of the senate and speaker of the house 234
+of representatives in lieu of including it in a report under 235
+this section. 236
+
+Section 12:
+Section 2. That existing sections 113.70, 113.71, 113.72, 237
+
+Section 13:
+113.73, 113.74, 113.75, 113.76, and 5501.521 of the Revised Code 238
+are hereby repealed. 239
+
+Section 14:
+Section 3. That section 113.77 of the Revised Code is 240
+hereby repealed. 241
+
+Section 15:
+Section 4. All items in this act are hereby appropriated 242
+H. B. No. 413 Page 10
+As Introduced
+as designated out of any moneys in the state treasury to the 243
+credit of the designated fund. For all operating appropriations 244
+made in this act, those in the first column are for fiscal year 245
+2026 and those in the second column are for fiscal year 2027. 246
+The operating appropriations made in this act are in addition to 247
+any other operating appropriations made for these fiscal years. 248
+
+Section 16:
+Section 5. 249
+250
+1 2 3 4 5
+A TOS TREASURER OF STATE
+B General Revenue Fund
+C GRF 090411 Ohio Checkbook $5,000,000 $0
+D TOTAL General Revenue Fund $5,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $5,000,000 $0
+OHIO CHECKBOOK 251
+The foregoing appropriation item 090411, Ohio Checkbook, 252
+shall be used to pay for creation and maintenance costs for the 253
+Ohio Local Government Expenditure Database. On July 1, 2026, or 254
+as soon as possible thereafter, the Treasurer of State may 255
+certify to the Director of Budget and Management an amount up to 256
+the unexpended, unencumbered balance of the appropriation item 257
+090411, Ohio Checkbook, at the end of fiscal year 2026 to be 258
+reappropriated in fiscal year 2027. The amount certified is 259
+hereby reappropriated to the same appropriation item for the 260
+same purpose in fiscal year 2027. 261
+
+Section 17:
+Section 6. Within the limits set forth in this act, the 262
+H. B. No. 413 Page 11
+As Introduced
+Director of Budget and Management shall establish accounts 263
+indicating the source and amount of funds for each appropriation 264
+made in this act, and shall determine the manner in which 265
+appropriation accounts shall be maintained. Expenditures from 266
+operating appropriations contained in this act shall be 267
+accounted for as though made in, and are subject to all 268
+applicable provisions of, the main operating appropriations act 269
+of the 136th General Assembly. 270
+[DELETED: nH          1.1 1 1 1:1 1 1 1 1 2]
+[DELETED: 3  2 2 2 2 2 2 2 2.2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7.7 7 7]
+[DELETED: 3  7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1:1;1;1]
+[DELETED: 3 ;1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1:1 1 1 1;1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3 .1 1:1 1 1 1.1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 3  1 1 1.1 1.1 1:1;1;1 1.1 2 2 2 2 2 2:2;2;2;2 2.2 2 2 2]
+[DELETED: 3  2 2:2;2;2 2.2 2 2 2.2 2 2.2 2 2 2 2 2 2 2.2 2 2.2 2.2 2]
+[DELETED: 3  2 2 2 2 2.2 2234TGGF01Ok$0$Td$0$TS$0$K2 2 2 2 2 2 2 2 2 2.2 2]
+[DELETED: 3  2 2 2 2 2 2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 413
+2025-2026
+Representatives Young, Peterson
+To amend sections 113.70, 113.71, 113.72, 113.73, 1
+113.74, 113.75, 113.76, and 5501.521; to enact 2
+new section 113.77 and sections 113.80, 113.81, 3
+113.82, 113.83, and 113.84; and to repeal 4
+section 113.77 of the Revised Code to create the 5
+Ohio Local Government Expenditure Database and 6
+require political subdivision participation, to 7
+require the state retirement systems to 8
+participate in the Ohio State Government 9
+Expenditure Database, and to make an 10
+appropriation. 11
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 113.70, 113.71, 113.72, 113.73, 12
+113.74, 113.75, 113.76, and 5501.521 be amended and new section 13
+113.77 and sections 113.80, 113.81, 113.82, 113.83, and 113.84 14
+of the Revised Code be enacted to read as follows: 15
+Sec. 113.70. As used in sections 113.70 to 113.77 of the 16
+Revised Code: 17
+(A) "Expenditure" means a payment, distribution, loan, 18
+advance, reimbursement, deposit, or gift of money from a state 19
+entity to any supplier. 20
+
+H. B. No. 413 Page 2
+As Introduced
+(B) "Political subdivision" means a county, city, village, 21
+public library, township, park district, school district, 22
+regional water and sewer district, or regional transit 23
+authority. 24
+(C) "Public library" means a library that is created, 25
+maintained, and regulated under Chapter 3375. of the Revised 26
+Code. 27
+(D) "Revenue" means a payment, fee, tax, federal funds, or 28
+state funds received by a state entity. 29
+(E) "School district" means a city, local, exempted 30
+village, or joint vocational school district; a science, 31
+technology, engineering, and mathematics school established 32
+under Chapter 3326. of the Revised Code; or an educational 33
+service center. "School district" does not mean a community 34
+school established under Chapter 3314. of the Revised Code. 35
+(E) (F) "State entity" means the general assembly, the 36
+supreme court, the court of claims, the office of an elected 37
+state officer, a state retirement system, or a department, 38
+bureau, board, office, commission, agency, institution, 39
+instrumentality, or other governmental entity of this state 40
+established by the constitution or laws of this state for the 41
+exercise of any function of state government, but excludes a 42
+political subdivision, an institution of higher education, a 43
+state retirement system, and the city of Cincinnati retirement 44
+system. "State entity" does not include the nonprofit 45
+corporation formed under section 187.01 of the Revised Code. 46
+(F) (G) "State retirement system" means the public 47
+employees retirement system, the Ohio police and fire pension 48
+fund, the state teachers retirement system, the school employees 49
+
+H. B. No. 413 Page 3
+As Introduced
+retirement system, and the state highway patrol retirement 50
+system. 51
+(G) (H) "Supplier" means any person, partnership, 52
+corporation, association, organization, state entity, or other 53
+party, including any executive officer, legislative officer, 54
+judicial officer, or member or employee of a state entity, that 55
+does either of the following: 56
+(1) Sells, leases, or otherwise provides equipment, 57
+materials, goods, supplies, or services to a state entity 58
+pursuant to a contract between the supplier and a state entity; 59
+(2) Receives reimbursement from a state entity for any 60
+expense. 61
+Sec. 113.71. (A) The treasurer of state, in collaboration 62
+with the directors of budget and management and administrative 63
+services, shall establish and maintain the Ohio state and local 64
+government expenditure database. The database shall be 65
+accessible on the web site of the treasurer of state and the web 66
+site of the office of budget and management. 67
+(B)(B)(1) The database shall include information about 68
+expenditures made in each fiscal year that commences after the 69
+effective date of this section September 30, 2021, or after the 70
+effective date of this amendment for state retirement systems 71
+included after that date. 72
+(2) The database shall include information about revenue 73
+received in each fiscal year that commences after the effective 74
+date of this amendment. 75
+(C) The database shall be accessible by members of the 76
+public without charge. 77
+
+H. B. No. 413 Page 4
+As Introduced
+(D) State entities shall assist in the development, 78
+establishment, operation, storage, hosting, and support of the 79
+database. State entities shall comply with sections 113.70 to 80
+113.77 of the Revised Code using existing resources. 81
+(E) The treasurer of state shall enter into an annual 82
+agreement with the directors of budget and management and 83
+administrative services to define data storage, data handling, 84
+user interface requirements, and other provisions considered 85
+necessary to ensure the proper maintenance and operation of the 86
+database. 87
+(F) Nothing in this section shall be construed to prohibit 88
+the treasurer of state from including any information in the 89
+base database that is not required to be included under sections 90
+113.70 to 113.77 of the Revised Code and that is available to 91
+the public. 92
+Sec. 113.72. (A) For each expenditure, the Ohio state and 93
+local government expenditure database shall include the 94
+following information: 95
+(A) (1) The amount of the expenditure; 96
+(B) (2) The date the expenditure was paid; 97
+(C) (3) The supplier to which the expenditure was paid; 98
+(D) (4) The state entity that made the expenditure or 99
+requested the expenditure be made. 100
+(B) For each revenue, the Ohio state government 101
+expenditure database shall include the following information: 102
+(1) The amount of the revenue; 103
+(2) The date the revenue was received; 104
+
+H. B. No. 413 Page 5
+As Introduced
+(3) The source of the revenue; 105
+(4) The state entity that received the revenue. 106
+Sec. 113.73. (A) The Ohio state and local government 107
+expenditure database shall include the following features: 108
+(1) A searchable database of all expenditures and 109
+revenues; 110
+(2) The ability to filter expenditures and revenues, as 111
+applicable, by the following categories: 112
+(a) The category of expense or revenue; 113
+(b) The Ohio administrative knowledge system accounting 114
+code for a specific good or service. 115
+(3) The ability to search and filter by any of the factors 116
+listed in section 113.72 of the Revised Code; 117
+(4) The ability to aggregate data contained in the 118
+database; 119
+(5) The ability to determine the total amount both of 120
+expenditures the following: 121
+(a) The total amount of expenditures awarded to a supplier 122
+by a state entity; 123
+(b) The total amount of revenues received from a source by 124
+a state entity; 125
+(6) The ability to download information obtained through 126
+the database; 127
+(7) A searchable database of state and school district 128
+employee salary and employment information. 129
+(B) The information required under division (A)(7) of this 130
+
+H. B. No. 413 Page 6
+As Introduced
+section shall be provided by the department of administrative 131
+services or the department of education and workforce, as 132
+applicable. 133
+Sec. 113.74. Not later than one year after the Ohio state 134
+and local government expenditure database is implemented, the 135
+treasurer of state shall coordinate with the director of budget 136
+and management to provide an opportunity for public comment as 137
+to the utility of the database. 138
+Sec. 113.75. The Ohio state and local government 139
+expenditure database shall not include any information that is 140
+determined to be confidential or is not a public record under 141
+the laws of this state. All of the following are not liable for 142
+the disclosure of a record contained in the Ohio state and local 143
+government expenditure database that is determined to be 144
+confidential or is not a public record under the laws of this 145
+state: 146
+(A) The treasurer of state; 147
+(B) Employees of the treasurer of state; 148
+(C) A state entity; 149
+(D) Any employee of a state entity that provides 150
+information to the database. 151
+Sec. 113.76. Each state entity shall display on its web 152
+site a prominent internet link to the Ohio state and local 153
+government expenditure database. 154
+Sec. 113.77. The Ohio state government expenditure 155
+database shall include a searchable database of each state 156
+entity that provides access to a state entity operating budget 157
+for each fiscal year that commences after the effective date of 158
+
+H. B. No. 413 Page 7
+As Introduced
+this section. 159
+Sec. 113.80. As used in sections 113.80 to 113.84 of the 160
+Revised Code: 161
+(A) "Political subdivision" means a county, city, village, 162
+public library, township, park district, school district, 163
+regional water and sewer district, or regional transit 164
+authority. 165
+(B) "Public library" means a library that is created, 166
+maintained, and regulated under Chapter 3375. of the Revised 167
+Code. 168
+(C) "School district" means a city, local, exempted 169
+village, or joint vocational school district; a science, 170
+technology, engineering, and mathematics school established 171
+under Chapter 3326. of the Revised Code; or an educational 172
+service center. "School district" does not mean a community 173
+school established under Chapter 3314. of the Revised Code. 174
+Sec. 113.81. The treasurer of state shall establish and 175
+maintain the Ohio local government expenditure database. 176
+Political subdivisions shall provide expenditure and revenue 177
+information to the treasurer of state for inclusion in the 178
+database. The database shall be accessible on the web site of 179
+the treasurer of state and the web site of the office of budget 180
+and management. The database shall be accessible by members of 181
+the public without charge. Each political subdivision shall 182
+display on its web site a prominent internet link to the 183
+database. 184
+Sec. 113.82. (A) The treasurer of state shall adopt rules 185
+under Chapter 119. of the Revised Code as necessary to implement 186
+the Ohio local government expenditure database, including rules 187
+
+H. B. No. 413 Page 8
+As Introduced
+specifying the types of expenditure and revenue information 188
+required to be provided, the extent to which such information 189
+shall be required, and the manner in which such information 190
+shall be provided. 191
+(B) Political subdivisions shall comply with sections 192
+113.80 to 113.84 of the Revised Code using existing resources. 193
+Sec. 113.83. The Ohio local government expenditure 194
+database shall include the following features: 195
+(A) The ability to search information in the database; 196
+(B) The ability to filter information in the database; 197
+(C) The ability to download information obtained through 198
+the database. 199
+Sec. 113.84. The Ohio local government expenditure 200
+database shall not include any information that is determined to 201
+be confidential or is not a public record under the laws of this 202
+state. All of the following are not liable for the disclosure of 203
+a record contained in the database that is determined to be 204
+confidential or is not a public record under the laws of this 205
+state: 206
+(A) The treasurer of state; 207
+(B) Employees of the treasurer of state; 208
+(C) A political subdivision; 209
+(D) Any employee of a political subdivision that provides 210
+information to the database. 211
+Sec. 5501.521. (A) The department of transportation shall 212
+prepare expense reports related to grants and loans that are 213
+issued by the department through its transportation grant and 214
+
+H. B. No. 413 Page 9
+As Introduced
+loan programs. The department shall submit each report to the 215
+president of the senate and the speaker of the house of 216
+representatives at the earliest of the following periods: 217
+(1) The conclusion of the term of loan; 218
+(2) The conclusion of the project funded by the grant; 219
+(3) The end of the fiscal year for each fiscal year that 220
+the loan or the project is still pending. 221
+(B) The department shall require the recipient of the loan 222
+or grant to assist in preparing the expense reports and 223
+itemizing the uses of the loan or grant money issued to that 224
+recipient. 225
+(C) The department shall include its administrative 226
+expenses in managing the loan or grant program in the expense 227
+reports submitted in accordance with this section. 228
+(D) If any content required for inclusion in an expense 229
+report under this section is the same content that the 230
+department submits to the Ohio state and local government 231
+expenditure database established under sections 113.70 to 113.77 232
+of the Revised Code, the department may send copies of that 233
+content to the president of the senate and speaker of the house 234
+of representatives in lieu of including it in a report under 235
+this section. 236
+Section 2. That existing sections 113.70, 113.71, 113.72, 237
+113.73, 113.74, 113.75, 113.76, and 5501.521 of the Revised Code 238
+are hereby repealed. 239
+Section 3. That section 113.77 of the Revised Code is 240
+hereby repealed. 241
+Section 4. All items in this act are hereby appropriated 242
+
+H. B. No. 413 Page 10
+As Introduced
+as designated out of any moneys in the state treasury to the 243
+credit of the designated fund. For all operating appropriations 244
+made in this act, those in the first column are for fiscal year 245
+2026 and those in the second column are for fiscal year 2027. 246
+The operating appropriations made in this act are in addition to 247
+any other operating appropriations made for these fiscal years. 248
+Section 5. 249
+250
+1 2 3 4 5
+A TOS TREASURER OF STATE
+B General Revenue Fund
+C GRF 090411 Ohio Checkbook $5,000,000 $0
+D TOTAL General Revenue Fund $5,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $5,000,000 $0
+OHIO CHECKBOOK 251
+The foregoing appropriation item 090411, Ohio Checkbook, 252
+shall be used to pay for creation and maintenance costs for the 253
+Ohio Local Government Expenditure Database. On July 1, 2026, or 254
+as soon as possible thereafter, the Treasurer of State may 255
+certify to the Director of Budget and Management an amount up to 256
+the unexpended, unencumbered balance of the appropriation item 257
+090411, Ohio Checkbook, at the end of fiscal year 2026 to be 258
+reappropriated in fiscal year 2027. The amount certified is 259
+hereby reappropriated to the same appropriation item for the 260
+same purpose in fiscal year 2027. 261
+Section 6. Within the limits set forth in this act, the 262
+
+H. B. No. 413 Page 11
+As Introduced
+Director of Budget and Management shall establish accounts 263
+indicating the source and amount of funds for each appropriation 264
+made in this act, and shall determine the manner in which 265
+appropriation accounts shall be maintained. Expenditures from 266
+operating appropriations contained in this act shall be 267
+accounted for as though made in, and are subject to all 268
+applicable provisions of, the main operating appropriations act 269
+of the 136th General Assembly. 270
+
+[DELETED: nH          1.1 1 1 1:1 1 1 1 1 2]
+[DELETED: 3  2 2 2 2 2 2 2 2.2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7.7 7 7]
+[DELETED: 3  7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1:1;1;1]
+[DELETED: 3 ;1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1:1 1 1 1;1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3 .1 1:1 1 1 1.1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 3  1 1 1.1 1.1 1:1;1;1 1.1 2 2 2 2 2 2:2;2;2;2 2.2 2 2 2]
+[DELETED: 3  2 2:2;2;2 2.2 2 2 2.2 2 2.2 2 2 2 2 2 2 2.2 2 2.2 2.2 2]
+[DELETED: 3  2 2 2 2 2.2 2234TGGF01Ok$0$Td$0$TS$0$K2 2 2 2 2 2 2 2 2 2.2 2]
+[DELETED: 3  2 2 2 2 2 2 2.2]

@@ -1,0 +1,181 @@
+Title: To require an audit and corrective action plan for 1
+Official Title: To require an audit and corrective action plan for 1
+Number of Sections: 7
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 356
+2025-2026
+Representative Dovilla
+the Aged, Blind, and Disabled Medicaid 2
+eligibility group and to make an appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. (A) The Department of Medicaid shall enter into 4
+a data sharing agreement with the Auditor of State for the 5
+exchange of, and the provision of access to, data and other 6
+enrollment and eligibility information related to all Medicaid 7
+enrollees who are members of the aged, blind, and disabled 8
+eligibility group. 9
+(B) Using the information received under division (A) of 10
+this section, the Auditor of State shall conduct a full audit of 11
+the Medicaid program to determine whether any individuals 12
+enrolled in the Medicaid program on the basis of being a member 13
+of the aged, blind, and disabled eligibility group are 14
+ineligible to participate in the Medicaid program. The audit 15
+shall specifically examine whether individuals who are members 16
+of the aged, blind, and disabled eligibility group have 17
+countable assets that exceed the limits specified in 42 C.F.R. 18
+
+Section 3:
+416.1205. 19
+(C) Upon the conclusion of the audit conducted under this 20
+H. B. No. 356 Page 2
+As Introduced
+
+Section 4:
+section, the Department of Medicaid shall initiate a corrective 21
+action plan, designed to reduce spending in the Medicaid program 22
+for individuals in the aged, blind, and disabled eligibility 23
+group by $2,400,000,000 during the biennium, that does all of 24
+the following: 25
+(1) Disenrolls individuals who are determined by the audit 26
+to be ineligible for continued participation in the Medicaid 27
+program; 28
+(2) Establishes and implements an electronic asset 29
+verification system for all applicants and enrollees in the 30
+aged, blind, and disabled eligibility group; 31
+(3) Undertakes other initiatives designed to reduce 32
+spending in the Medicaid program for individuals in the aged, 33
+blind, and disabled eligibility group. 34
+
+Section 5:
+Section 2. All items in this act are hereby appropriated 35
+as designated out of any moneys in the state treasury to the 36
+credit of the designated fund. For all operating appropriations 37
+made in this act, those in the first column are for fiscal year 38
+2026 and those in the second column are for fiscal year 2027. 39
+The operating appropriations made in this act are in addition to 40
+any other operating appropriations made for these fiscal years. 41
+
+Section 6:
+Section 3. 42
+43
+1 2 3 4 5
+A AUD AUDITOR OF STATE
+B General Revenue Fund
+C GRF 070401 Audit Management and $5,000,000 $0
+H. B. No. 356 Page 3
+As Introduced
+Services
+D General Revenue Fund Total $5,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $5,000,000 $0
+AUDIT MANAGEMENT AND SERVICES 44
+The foregoing appropriation item 070401, Audit Management 45
+and Services, shall be used to conduct an audit in accordance 46
+with Section 1 of this act. 47
+
+Section 7:
+Section 4. Within the limits set forth in this act, the 48
+Director of Budget and Management shall establish accounts 49
+indicating the source and amount of funds for each appropriation 50
+made in this act, and shall determine the manner in which 51
+appropriation accounts shall be maintained. Expenditures from 52
+operating appropriations contained in this act shall be 53
+accounted for as though made in, and are subject to all 54
+applicable provisions of, the main operating appropriations act 55
+of the 136th General Assembly. 56
+[DELETED: nH  .     . 1 1 1 1 1 1 1 1 1.1 2]
+[DELETED: 6  2 2 2 2:2 2 2;2 2 3;3 3 3.3 3 3 3 3 3 4.4 4234AGGF01A $0$]
+[DELETED: 6 Gl$0$TS$0$S4 4 4.4 4 4 5 5 5 5 5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 356
+2025-2026
+Representative Dovilla
+To require an audit and corrective action plan for 1
+the Aged, Blind, and Disabled Medicaid 2
+eligibility group and to make an appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. (A) The Department of Medicaid shall enter into 4
+a data sharing agreement with the Auditor of State for the 5
+exchange of, and the provision of access to, data and other 6
+enrollment and eligibility information related to all Medicaid 7
+enrollees who are members of the aged, blind, and disabled 8
+eligibility group. 9
+(B) Using the information received under division (A) of 10
+this section, the Auditor of State shall conduct a full audit of 11
+the Medicaid program to determine whether any individuals 12
+enrolled in the Medicaid program on the basis of being a member 13
+of the aged, blind, and disabled eligibility group are 14
+ineligible to participate in the Medicaid program. The audit 15
+shall specifically examine whether individuals who are members 16
+of the aged, blind, and disabled eligibility group have 17
+countable assets that exceed the limits specified in 42 C.F.R. 18
+416.1205. 19
+(C) Upon the conclusion of the audit conducted under this 20
+
+H. B. No. 356 Page 2
+As Introduced
+section, the Department of Medicaid shall initiate a corrective 21
+action plan, designed to reduce spending in the Medicaid program 22
+for individuals in the aged, blind, and disabled eligibility 23
+group by $2,400,000,000 during the biennium, that does all of 24
+the following: 25
+(1) Disenrolls individuals who are determined by the audit 26
+to be ineligible for continued participation in the Medicaid 27
+program; 28
+(2) Establishes and implements an electronic asset 29
+verification system for all applicants and enrollees in the 30
+aged, blind, and disabled eligibility group; 31
+(3) Undertakes other initiatives designed to reduce 32
+spending in the Medicaid program for individuals in the aged, 33
+blind, and disabled eligibility group. 34
+Section 2. All items in this act are hereby appropriated 35
+as designated out of any moneys in the state treasury to the 36
+credit of the designated fund. For all operating appropriations 37
+made in this act, those in the first column are for fiscal year 38
+2026 and those in the second column are for fiscal year 2027. 39
+The operating appropriations made in this act are in addition to 40
+any other operating appropriations made for these fiscal years. 41
+Section 3. 42
+43
+1 2 3 4 5
+A AUD AUDITOR OF STATE
+B General Revenue Fund
+C GRF 070401 Audit Management and $5,000,000 $0
+
+H. B. No. 356 Page 3
+As Introduced
+Services
+D General Revenue Fund Total $5,000,000 $0
+E TOTAL ALL BUDGET FUND GROUPS $5,000,000 $0
+AUDIT MANAGEMENT AND SERVICES 44
+The foregoing appropriation item 070401, Audit Management 45
+and Services, shall be used to conduct an audit in accordance 46
+with Section 1 of this act. 47
+Section 4. Within the limits set forth in this act, the 48
+Director of Budget and Management shall establish accounts 49
+indicating the source and amount of funds for each appropriation 50
+made in this act, and shall determine the manner in which 51
+appropriation accounts shall be maintained. Expenditures from 52
+operating appropriations contained in this act shall be 53
+accounted for as though made in, and are subject to all 54
+applicable provisions of, the main operating appropriations act 55
+of the 136th General Assembly. 56
+
+[DELETED: nH  .     . 1 1 1 1 1 1 1 1 1.1 2]
+[DELETED: 6  2 2 2 2:2 2 2;2 2 3;3 3 3.3 3 3 3 3 3 4.4 4234AGGF01A $0$]
+[DELETED: 6 Gl$0$TS$0$S4 4 4.4 4 4 5 5 5 5 5 5.5]

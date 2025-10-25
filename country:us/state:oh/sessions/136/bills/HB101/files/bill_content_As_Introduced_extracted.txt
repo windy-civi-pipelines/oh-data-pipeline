@@ -1,0 +1,183 @@
+Title: Cosponsors: Representatives Brennan, Rogers, Sigrist, Synenberg, Thomas, C.,
+Official Title: Cosponsors: Representatives Brennan, Rogers, Sigrist, Synenberg, Thomas, C.,
+Number of Sections: 4
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 101
+2025-2026
+Representatives Mohamed, Williams
+Upchurch
+A BILL
+To establish the Law Student Encouragement 1
+Scholarship Pilot Program and to make an 2
+appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. All items in this act are hereby appropriated 4
+as designated out of any moneys in the state treasury to the 5
+credit of the designated fund. For all operating appropriations 6
+made in this act, those in the first column are for fiscal year 7
+2026 and those in the second column are for fiscal year 2027. 8
+The operating appropriations made in this act are in addition to 9
+any other operating appropriations made for these fiscal years. 10
+
+Section 3:
+Section 2. 11
+12
+1 2 3 4 5
+A BOR DEPARTMENT OF HIGHER EDUCATION
+B General Revenue Fund
+H. B. No. 101 Page 2
+As Introduced
+C GRF 235440 Law Student Encouragement $0 $350,000
+Scholarship Pilot Program
+D TOTAL GRF General Revenue Fund $0 $350,000
+E TOTAL ALL BUDGET FUND GROUPS $0 $350,000
+LAW STUDENT ENCOURAGEMENT SCHOLARSHIP PILOT PROGRAM 13
+(A) The foregoing appropriation item 235440, Law Student 14
+Encouragement Scholarship Pilot Program, shall be used by the 15
+Chancellor of Higher Education to establish the Law Student 16
+Encouragement Scholarship Pilot Program to support 17
+underrepresented undergraduate students pursuing admission to 18
+law school. 19
+(B) Under the pilot program, the Chancellor shall 20
+distribute money from the foregoing appropriation item 235440, 21
+Law Student Encouragement Scholarship Pilot Program, to the Ohio 22
+State Bar Association, which shall do all of the following: 23
+(1) Establish procedures and criteria for awarding 24
+scholarships under the pilot program; 25
+(2) Select an initial cohort of ten to twenty Ohio 26
+resident students from groups who are underrepresented in the 27
+legal profession who are enrolled full-time at a baccalaureate 28
+degree-granting postsecondary institution in this state; 29
+(3) Provide each of the program's students with an 30
+academic scholarship in the amount of $4,000 per academic year; 31
+(4) Organize events and programming, including one-on-one 32
+mentoring to familiarize enrolled students with law school and 33
+legal careers; 34
+H. B. No. 101 Page 3
+As Introduced
+(5) Provide the program's students free test preparation 35
+materials, academic support, and registration for the Law School 36
+Admission Test (LSAT) examination. 37
+(C) The Ohio State Bar Association may use a portion of 38
+the funds it receives under this section to employ staff to 39
+support the program's operations. 40
+(D) Not later than January 30, 2028, the Ohio State Bar 41
+Association shall submit a report to the Chancellor and to the 42
+chairpersons and ranking members of the Senate and House of 43
+Representatives standing committees that consider higher 44
+education legislation. The report shall include an accurate and 45
+detailed account of the pilot program, its outcomes, and its 46
+revenues and expenses, including the use of all state moneys 47
+appropriated in this section. 48
+
+Section 4:
+Section 3. Within the limits set forth in this act, the 49
+Director of Budget and Management shall establish accounts 50
+indicating the source and amount of funds for each appropriation 51
+made in this act, and shall determine the manner in which 52
+appropriation accounts shall be maintained. Expenditures from 53
+operating appropriations contained in this act shall be 54
+accounted for as though made in, and are subject to all 55
+applicable provisions of, the main operating appropriations act 56
+of the 136th General Assembly. 57
+[DELETED: nH BIL  .      .1 1234BG]
+[DELETED: 1 GF20L $0$Td$0$TS$0$M1 1 1 1 1 1.1 2 2 2:2 2;2 2 2 2 2 3 3 3 3 3]
+[DELETED: 1  3 3 3 3 3 4 4 4 4 4 4 4 4.4 4 5 5 5 5 5 5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 101
+2025-2026
+Representatives Mohamed, Williams
+Cosponsors: Representatives Brennan, Rogers, Sigrist, Synenberg, Thomas, C.,
+Upchurch
+A BILL
+To establish the Law Student Encouragement 1
+Scholarship Pilot Program and to make an 2
+appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. All items in this act are hereby appropriated 4
+as designated out of any moneys in the state treasury to the 5
+credit of the designated fund. For all operating appropriations 6
+made in this act, those in the first column are for fiscal year 7
+2026 and those in the second column are for fiscal year 2027. 8
+The operating appropriations made in this act are in addition to 9
+any other operating appropriations made for these fiscal years. 10
+Section 2. 11
+12
+1 2 3 4 5
+A BOR DEPARTMENT OF HIGHER EDUCATION
+B General Revenue Fund
+
+H. B. No. 101 Page 2
+As Introduced
+C GRF 235440 Law Student Encouragement $0 $350,000
+Scholarship Pilot Program
+D TOTAL GRF General Revenue Fund $0 $350,000
+E TOTAL ALL BUDGET FUND GROUPS $0 $350,000
+LAW STUDENT ENCOURAGEMENT SCHOLARSHIP PILOT PROGRAM 13
+(A) The foregoing appropriation item 235440, Law Student 14
+Encouragement Scholarship Pilot Program, shall be used by the 15
+Chancellor of Higher Education to establish the Law Student 16
+Encouragement Scholarship Pilot Program to support 17
+underrepresented undergraduate students pursuing admission to 18
+law school. 19
+(B) Under the pilot program, the Chancellor shall 20
+distribute money from the foregoing appropriation item 235440, 21
+Law Student Encouragement Scholarship Pilot Program, to the Ohio 22
+State Bar Association, which shall do all of the following: 23
+(1) Establish procedures and criteria for awarding 24
+scholarships under the pilot program; 25
+(2) Select an initial cohort of ten to twenty Ohio 26
+resident students from groups who are underrepresented in the 27
+legal profession who are enrolled full-time at a baccalaureate 28
+degree-granting postsecondary institution in this state; 29
+(3) Provide each of the program's students with an 30
+academic scholarship in the amount of $4,000 per academic year; 31
+(4) Organize events and programming, including one-on-one 32
+mentoring to familiarize enrolled students with law school and 33
+legal careers; 34
+
+H. B. No. 101 Page 3
+As Introduced
+(5) Provide the program's students free test preparation 35
+materials, academic support, and registration for the Law School 36
+Admission Test (LSAT) examination. 37
+(C) The Ohio State Bar Association may use a portion of 38
+the funds it receives under this section to employ staff to 39
+support the program's operations. 40
+(D) Not later than January 30, 2028, the Ohio State Bar 41
+Association shall submit a report to the Chancellor and to the 42
+chairpersons and ranking members of the Senate and House of 43
+Representatives standing committees that consider higher 44
+education legislation. The report shall include an accurate and 45
+detailed account of the pilot program, its outcomes, and its 46
+revenues and expenses, including the use of all state moneys 47
+appropriated in this section. 48
+Section 3. Within the limits set forth in this act, the 49
+Director of Budget and Management shall establish accounts 50
+indicating the source and amount of funds for each appropriation 51
+made in this act, and shall determine the manner in which 52
+appropriation accounts shall be maintained. Expenditures from 53
+operating appropriations contained in this act shall be 54
+accounted for as though made in, and are subject to all 55
+applicable provisions of, the main operating appropriations act 56
+of the 136th General Assembly. 57
+
+[DELETED: nH BIL  .      .1 1234BG]
+[DELETED: 1 GF20L $0$Td$0$TS$0$M1 1 1 1 1 1.1 2 2 2:2 2;2 2 2 2 2 3 3 3 3 3]
+[DELETED: 1  3 3 3 3 3 4 4 4 4 4 4 4 4.4 4 5 5 5 5 5 5 5.5]

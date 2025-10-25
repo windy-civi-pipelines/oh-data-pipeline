@@ -1,0 +1,185 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 5
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 162
+2025-2026
+Senator Blessing
+To amend section 3901.388 of the Revised Code 1
+regarding the timeframe for health insurer 2
+recoupment from health care providers. 3
+
+Section 2:
+Section 1. That section 3901.388 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 3901.388. (A)(A)(1) A payment made by a third-party 6
+payer to a provider in accordance with sections 3901.381 to 7
+
+Section 3:
+3901.386 of the Revised Code shall be considered final two years 8
+after upon the conclusion of a time period, beginning on the 9
+date payment is made and ending on the date that occurs after 10
+the same number of days the health plan issuer grants for the 11
+filing of provider claims. After that date, the amount of the 12
+payment is not subject to adjustment, except in the case of 13
+fraud by the provider. 14
+(2) No third-party payer shall change its payment, audit, 15
+or review timelines during the contract period. 16
+(B) A third-party payer may recover the amount of any part 17
+of a payment that the third-party payer determines to be an 18
+overpayment if the recovery process is initiated not later than 19
+two years after the payment was made to the providerwithin the 20
+S. B. No. 162 Page 2
+As Introduced
+period of time described in division (A)(1) of this section. The 21
+third-party payer shall inform the provider of its determination 22
+of overpayment by providing notice in accordance with division 23
+(C) of this section. The third-party payer shall give the 24
+provider an opportunity to appeal the determination and shall 25
+not charge the provider a fee for an appeal. If the provider 26
+fails to respond to the notice sooner than thirty days after the 27
+notice is made, elects not to appeal the determination, or 28
+appeals the determination but the appeal is not upheld, the 29
+third-party payer may initiate recovery of the overpayment. 30
+When a provider has failed to make a timely response to 31
+the notice of the third-party payer's determination of 32
+overpayment, the third-party payer may recover the overpayment 33
+by deducting the amount of the overpayment from other payments 34
+the third-party payer owes the provider or by taking action 35
+pursuant to any other remedy available under the Revised Code. 36
+When a provider elects not to appeal a determination of 37
+overpayment or appeals the determination but the appeal is not 38
+upheld, the third-party payer shall permit a provider to repay 39
+the amount by making one or more direct payments to the third- 40
+party payer or by having the amount deducted from other payments 41
+the third-party payer owes the provider. 42
+(C) The notice of overpayment a third-party payer is 43
+required to give a provider under division (B) of this section 44
+shall be made in writing and shall specify all of the following: 45
+(1) The full name of the beneficiary who received the 46
+health care services for which overpayment was made; 47
+(2) The date or dates the services were provided; 48
+(3) The amount of the overpayment; 49
+S. B. No. 162 Page 3
+As Introduced
+(4) The claim number or other pertinent numbers; 50
+(5) A detailed explanation of basis for the third-party 51
+payer's determination of overpayment; 52
+(6) The method in which payment was made, including, for 53
+tracking purposes, the date of payment and, if applicable, the 54
+check number; 55
+(7) That the provider may appeal the third-party payer's 56
+determination of overpayment, if the provider responds to the 57
+notice within thirty days; 58
+(8) The method by which recovery of the overpayment would 59
+be made, if recovery proceeds under division (B) of this 60
+
+Section 4:
+section. 61
+(D) Any provision of a contractual arrangement entered 62
+into between a third-party payer and a provider or beneficiary 63
+that is contrary to divisions (A) to (C) of this section is 64
+unenforceable. 65
+
+Section 5:
+Section 2. That existing section 3901.388 of the Revised 66
+Code is hereby repealed. 67
+[DELETED: nS  . :     1 1 1 1.1 1 1 1 1 1 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2.3 3 3 3 3 3 3 3 3 3-4 4.4 4 4:4 4;4;4;4]
+[DELETED: 2 ;5 5;5 5 5;5 5 5;5 5 6.6 6 6 6.6 6.6]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 162
+2025-2026
+Senator Blessing
+To amend section 3901.388 of the Revised Code 1
+regarding the timeframe for health insurer 2
+recoupment from health care providers. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3901.388 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 3901.388. (A)(A)(1) A payment made by a third-party 6
+payer to a provider in accordance with sections 3901.381 to 7
+3901.386 of the Revised Code shall be considered final two years 8
+after upon the conclusion of a time period, beginning on the 9
+date payment is made and ending on the date that occurs after 10
+the same number of days the health plan issuer grants for the 11
+filing of provider claims. After that date, the amount of the 12
+payment is not subject to adjustment, except in the case of 13
+fraud by the provider. 14
+(2) No third-party payer shall change its payment, audit, 15
+or review timelines during the contract period. 16
+(B) A third-party payer may recover the amount of any part 17
+of a payment that the third-party payer determines to be an 18
+overpayment if the recovery process is initiated not later than 19
+two years after the payment was made to the providerwithin the 20
+
+S. B. No. 162 Page 2
+As Introduced
+period of time described in division (A)(1) of this section. The 21
+third-party payer shall inform the provider of its determination 22
+of overpayment by providing notice in accordance with division 23
+(C) of this section. The third-party payer shall give the 24
+provider an opportunity to appeal the determination and shall 25
+not charge the provider a fee for an appeal. If the provider 26
+fails to respond to the notice sooner than thirty days after the 27
+notice is made, elects not to appeal the determination, or 28
+appeals the determination but the appeal is not upheld, the 29
+third-party payer may initiate recovery of the overpayment. 30
+When a provider has failed to make a timely response to 31
+the notice of the third-party payer's determination of 32
+overpayment, the third-party payer may recover the overpayment 33
+by deducting the amount of the overpayment from other payments 34
+the third-party payer owes the provider or by taking action 35
+pursuant to any other remedy available under the Revised Code. 36
+When a provider elects not to appeal a determination of 37
+overpayment or appeals the determination but the appeal is not 38
+upheld, the third-party payer shall permit a provider to repay 39
+the amount by making one or more direct payments to the third- 40
+party payer or by having the amount deducted from other payments 41
+the third-party payer owes the provider. 42
+(C) The notice of overpayment a third-party payer is 43
+required to give a provider under division (B) of this section 44
+shall be made in writing and shall specify all of the following: 45
+(1) The full name of the beneficiary who received the 46
+health care services for which overpayment was made; 47
+(2) The date or dates the services were provided; 48
+(3) The amount of the overpayment; 49
+
+S. B. No. 162 Page 3
+As Introduced
+(4) The claim number or other pertinent numbers; 50
+(5) A detailed explanation of basis for the third-party 51
+payer's determination of overpayment; 52
+(6) The method in which payment was made, including, for 53
+tracking purposes, the date of payment and, if applicable, the 54
+check number; 55
+(7) That the provider may appeal the third-party payer's 56
+determination of overpayment, if the provider responds to the 57
+notice within thirty days; 58
+(8) The method by which recovery of the overpayment would 59
+be made, if recovery proceeds under division (B) of this 60
+section. 61
+(D) Any provision of a contractual arrangement entered 62
+into between a third-party payer and a provider or beneficiary 63
+that is contrary to divisions (A) to (C) of this section is 64
+unenforceable. 65
+Section 2. That existing section 3901.388 of the Revised 66
+Code is hereby repealed. 67
+
+[DELETED: nS  . :     1 1 1 1.1 1 1 1 1 1 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2.3 3 3 3 3 3 3 3 3 3-4 4.4 4 4:4 4;4;4;4]
+[DELETED: 2 ;5 5;5 5 5;5 5 5;5 5 6.6 6 6 6.6 6.6]

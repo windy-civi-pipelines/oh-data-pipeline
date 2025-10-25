@@ -1,0 +1,246 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 7
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 427
+2025-2026
+Representative Klopfenstein
+To amend section 4909.192 and to enact section 1
+
+Section 2:
+4928.106 of the Revised Code to authorize 2
+voluntary demand response programs for 3
+residential and small commercial customers. 4
+
+Section 3:
+Section 1. That section 4909.192 be amended and section 5
+
+Section 4:
+4928.106 of the Revised Code be enacted to read as follows: 6
+Sec. 4909.192. When considering an application to increase 7
+rates under section 4909.18 of the Revised Code, the public 8
+utilities commission may approve the following: 9
+(A) Nondiscriminatory programs available for all energy- 10
+intensive customers to implement economic development, job 11
+growth, job retention, or interruptible rates that enhance 12
+distribution and transmission grid reliability and promote 13
+economic development. 14
+(B) Nondiscriminatory programs available for all 15
+mercantile customers, as defined in section 4928.01 of the 16
+Revised Code, that align retail rate recovery with how 17
+transmission costs are incurred by or charged to the electric 18
+distribution utility, as defined in section 4928.01 of the 19
+Revised Code, or programs that allow customers to be billed 20
+H. B. No. 427 Page 2
+As Introduced
+directly for transmission service by a competitive retail 21
+electric service provider. 22
+(C) Nondiscriminatory programs available for residential 23
+customers and small commercial customers, as defined in section 24
+
+Section 5:
+4928.101 of the Revised Code, that reduce demand at peak times 25
+for purposes of grid reliability or to help lower customer 26
+rates, including peak demand reduction programs under section 27
+
+Section 6:
+4928.106 of the Revised Code. Any programs to reduce demand 28
+proposed in an application to increase rates shall include terms 29
+permitting competitive retail electric service providers, 30
+certified under section 4928.08 of the Revised Code, to offer 31
+their customers access to these programs. 32
+Sec. 4928.106. (A) As used in this section, "small 33
+commercial customer" has the same meaning as in section 4928.101 34
+of the Revised Code. 35
+(B) An electric distribution utility may create a 36
+voluntary demand response program to lower demand at peak times 37
+for residential customers and small commercial customers as 38
+described by this section. 39
+(C)(1) Each demand response program under this section 40
+shall be evaluated by the public utilities commission to 41
+determine if the program is cost-effective for customers. To 42
+determine if the program is cost-effective for customers, the 43
+commission shall consider all of the following: 44
+(a) The need for demand reduction based on capacity 45
+prices; 46
+(b) The long-term savings to the grid; 47
+(c) Any other factors that the commission deems 48
+appropriate. 49
+H. B. No. 427 Page 3
+As Introduced
+(2) No electric distribution utility shall offer a demand 50
+reduction program under this section unless the program is 51
+approved by the commission. 52
+(D) An electric distribution utility may enter into an 53
+agreement with a residential customer or small commercial 54
+customer for the customer to participate in the utility's demand 55
+response program. 56
+(E) For customers that participate in the program, the 57
+utility may take actions to reduce the customer's load at peak 58
+times, such as increasing the temperature on the customer's air 59
+conditioner, reducing the temperature on the customer's hot 60
+water heater, or cycling other appliances. 61
+(F) A customer that participates in the program may 62
+override the utility's action to reduce the customer's load for 63
+any individual event. 64
+(G) A utility may set rules that restrict a customer's 65
+future participation in the utility's demand response program if 66
+the customer overrides the utility's action pursuant to division 67
+(F) of this section. 68
+(H) A customer that agrees to participate in the utility's 69
+demand response program shall be paid by the utility a fee on an 70
+annual or per event basis approved by the commission. 71
+(I) A utility or competitive retail electric service 72
+provider may bid the demand response reductions from the 73
+utility's demand response program into the capacity market of 74
+the regional transmission organization approved by the federal 75
+energy regulatory commission and having the responsibility for 76
+maintaining reliability in all or part of this state. 77
+(J) A utility that bids demand response reductions into 78
+H. B. No. 427 Page 4
+As Introduced
+the capacity market shall use revenue earned from the bidding to 79
+offset costs of the utility's demand reduction program. 80
+(K) The commission may approve a performance incentive for 81
+a utility with a voluntary demand response program based on 82
+savings the program generates. 83
+(L) Not more than three years after the effective date of 84
+this section, the commission shall evaluate the success of the 85
+utility demand response programs and make recommendations to the 86
+legislature regarding bidding demand response into the capacity 87
+market under division (I) of this section and any other 88
+modifications to the programs that will enhance customer 89
+benefits. 90
+
+Section 7:
+Section 2. That existing section 4909.192 of the Revised 91
+Code is hereby repealed. 92
+[DELETED: nH   . :  :-1 1 1 1.1 1 1 1 1 1 2]
+[DELETED: 7  2.2 2 2 2 2 2 2 2 3 3.3 3 3.3 3 3 3.3 4 4 4 4:4 4;4;4 4.4]
+[DELETED: 7  5 5.5 5 5 5 5 5 5 5 6.6 6 6.6 6 6 6.6 6 7 7 7 7 7 7 7.7 7]
+[DELETED: 7  7 8 8 8 8 8 8 8 8 8 8.9 9.9]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 427
+2025-2026
+Representative Klopfenstein
+To amend section 4909.192 and to enact section 1
+4928.106 of the Revised Code to authorize 2
+voluntary demand response programs for 3
+residential and small commercial customers. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 4909.192 be amended and section 5
+4928.106 of the Revised Code be enacted to read as follows: 6
+Sec. 4909.192. When considering an application to increase 7
+rates under section 4909.18 of the Revised Code, the public 8
+utilities commission may approve the following: 9
+(A) Nondiscriminatory programs available for all energy- 10
+intensive customers to implement economic development, job 11
+growth, job retention, or interruptible rates that enhance 12
+distribution and transmission grid reliability and promote 13
+economic development. 14
+(B) Nondiscriminatory programs available for all 15
+mercantile customers, as defined in section 4928.01 of the 16
+Revised Code, that align retail rate recovery with how 17
+transmission costs are incurred by or charged to the electric 18
+distribution utility, as defined in section 4928.01 of the 19
+Revised Code, or programs that allow customers to be billed 20
+
+H. B. No. 427 Page 2
+As Introduced
+directly for transmission service by a competitive retail 21
+electric service provider. 22
+(C) Nondiscriminatory programs available for residential 23
+customers and small commercial customers, as defined in section 24
+4928.101 of the Revised Code, that reduce demand at peak times 25
+for purposes of grid reliability or to help lower customer 26
+rates, including peak demand reduction programs under section 27
+4928.106 of the Revised Code. Any programs to reduce demand 28
+proposed in an application to increase rates shall include terms 29
+permitting competitive retail electric service providers, 30
+certified under section 4928.08 of the Revised Code, to offer 31
+their customers access to these programs. 32
+Sec. 4928.106. (A) As used in this section, "small 33
+commercial customer" has the same meaning as in section 4928.101 34
+of the Revised Code. 35
+(B) An electric distribution utility may create a 36
+voluntary demand response program to lower demand at peak times 37
+for residential customers and small commercial customers as 38
+described by this section. 39
+(C)(1) Each demand response program under this section 40
+shall be evaluated by the public utilities commission to 41
+determine if the program is cost-effective for customers. To 42
+determine if the program is cost-effective for customers, the 43
+commission shall consider all of the following: 44
+(a) The need for demand reduction based on capacity 45
+prices; 46
+(b) The long-term savings to the grid; 47
+(c) Any other factors that the commission deems 48
+appropriate. 49
+
+H. B. No. 427 Page 3
+As Introduced
+(2) No electric distribution utility shall offer a demand 50
+reduction program under this section unless the program is 51
+approved by the commission. 52
+(D) An electric distribution utility may enter into an 53
+agreement with a residential customer or small commercial 54
+customer for the customer to participate in the utility's demand 55
+response program. 56
+(E) For customers that participate in the program, the 57
+utility may take actions to reduce the customer's load at peak 58
+times, such as increasing the temperature on the customer's air 59
+conditioner, reducing the temperature on the customer's hot 60
+water heater, or cycling other appliances. 61
+(F) A customer that participates in the program may 62
+override the utility's action to reduce the customer's load for 63
+any individual event. 64
+(G) A utility may set rules that restrict a customer's 65
+future participation in the utility's demand response program if 66
+the customer overrides the utility's action pursuant to division 67
+(F) of this section. 68
+(H) A customer that agrees to participate in the utility's 69
+demand response program shall be paid by the utility a fee on an 70
+annual or per event basis approved by the commission. 71
+(I) A utility or competitive retail electric service 72
+provider may bid the demand response reductions from the 73
+utility's demand response program into the capacity market of 74
+the regional transmission organization approved by the federal 75
+energy regulatory commission and having the responsibility for 76
+maintaining reliability in all or part of this state. 77
+(J) A utility that bids demand response reductions into 78
+
+H. B. No. 427 Page 4
+As Introduced
+the capacity market shall use revenue earned from the bidding to 79
+offset costs of the utility's demand reduction program. 80
+(K) The commission may approve a performance incentive for 81
+a utility with a voluntary demand response program based on 82
+savings the program generates. 83
+(L) Not more than three years after the effective date of 84
+this section, the commission shall evaluate the success of the 85
+utility demand response programs and make recommendations to the 86
+legislature regarding bidding demand response into the capacity 87
+market under division (I) of this section and any other 88
+modifications to the programs that will enhance customer 89
+benefits. 90
+Section 2. That existing section 4909.192 of the Revised 91
+Code is hereby repealed. 92
+
+[DELETED: nH   . :  :-1 1 1 1.1 1 1 1 1 1 2]
+[DELETED: 7  2.2 2 2 2 2 2 2 2 3 3.3 3 3.3 3 3 3.3 4 4 4 4:4 4;4;4 4.4]
+[DELETED: 7  5 5.5 5 5 5 5 5 5 5 6.6 6 6.6 6 6 6.6 6 7 7 7 7 7 7 7.7 7]
+[DELETED: 7  7 8 8 8 8 8 8 8 8 8 8.9 9.9]

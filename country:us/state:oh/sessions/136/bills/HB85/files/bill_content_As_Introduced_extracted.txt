@@ -1,0 +1,116 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 85
+2025-2026
+Representative Demetriou
+To enact section 123.14 of the Revised Code to 1
+require the Department of Administrative 2
+Services to conduct a biennial comprehensive 3
+study of the state's real property holdings. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 123.14 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 123.14. (A) Every two years, the department of 7
+administrative services shall conduct a comprehensive study and 8
+issue a report on all real property owned or leased by the state 9
+or a state agency. The director of administrative services shall 10
+deliver the report to the speaker of the house of 11
+representatives, the president of the senate, and the governor 12
+not later than the thirty-first day of January of every odd- 13
+numbered year. The study shall include all of the following: 14
+(1) A complete list of all the real property owned by the 15
+state or a state agency. The list shall be organized by who owns 16
+the real property, which shall include information regarding the 17
+nature of the real property, such as whether the real property 18
+includes structures, whether any structure is office space, the 19
+H. B. No. 85 Page 2
+As Introduced
+value of the real property, the cost of maintaining the real 20
+property, and what percentage of the real property is used or 21
+unused by the state or state agency. 22
+(2) A complete list of all the real property that the 23
+state or a state agency rents or leases, but does not own, and 24
+the cost of renting or leasing; 25
+(3) Which state agencies use the real property, whether 26
+owned or leased, and the square footage that is used, versus not 27
+used, organized by state agency; 28
+(4) How much of the real property identified in division 29
+(A)(3) of this section would be used if all employees of that 30
+agency worked in person, rather than remote. 31
+(B) As used in this section, "state agency" means every 32
+organized body, office, or agency established by the laws of the 33
+state for the exercise of any function of state government, 34
+including the nonprofit corporation formed under section 187.01 35
+of the Revised Code, but not including the courts or any 36
+judicial agency, any state-assisted institution of higher 37
+education, or any local agency. 38
+[DELETED: nH BIL   . :    1 1 1-1:1 1 1 1 1 1]
+[DELETED: 5  2 2.2 2 2;2 2 2;2 2 3.3 3 3 3 3 3 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 85
+2025-2026
+Representative Demetriou
+A BILL
+To enact section 123.14 of the Revised Code to 1
+require the Department of Administrative 2
+Services to conduct a biennial comprehensive 3
+study of the state's real property holdings. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 123.14 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 123.14. (A) Every two years, the department of 7
+administrative services shall conduct a comprehensive study and 8
+issue a report on all real property owned or leased by the state 9
+or a state agency. The director of administrative services shall 10
+deliver the report to the speaker of the house of 11
+representatives, the president of the senate, and the governor 12
+not later than the thirty-first day of January of every odd- 13
+numbered year. The study shall include all of the following: 14
+(1) A complete list of all the real property owned by the 15
+state or a state agency. The list shall be organized by who owns 16
+the real property, which shall include information regarding the 17
+nature of the real property, such as whether the real property 18
+includes structures, whether any structure is office space, the 19
+
+H. B. No. 85 Page 2
+As Introduced
+value of the real property, the cost of maintaining the real 20
+property, and what percentage of the real property is used or 21
+unused by the state or state agency. 22
+(2) A complete list of all the real property that the 23
+state or a state agency rents or leases, but does not own, and 24
+the cost of renting or leasing; 25
+(3) Which state agencies use the real property, whether 26
+owned or leased, and the square footage that is used, versus not 27
+used, organized by state agency; 28
+(4) How much of the real property identified in division 29
+(A)(3) of this section would be used if all employees of that 30
+agency worked in person, rather than remote. 31
+(B) As used in this section, "state agency" means every 32
+organized body, office, or agency established by the laws of the 33
+state for the exercise of any function of state government, 34
+including the nonprofit corporation formed under section 187.01 35
+of the Revised Code, but not including the courts or any 36
+judicial agency, any state-assisted institution of higher 37
+education, or any local agency. 38
+
+[DELETED: nH BIL   . :    1 1 1-1:1 1 1 1 1 1]
+[DELETED: 5  2 2.2 2 2;2 2 2;2 2 3.3 3 3 3 3 3 3.3]

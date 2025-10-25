@@ -1,0 +1,63 @@
+Title: Cosponsors: Representatives Brennan, Brent, Brewer, Click, Daniels, Denson,
+Official Title: Cosponsors: Representatives Brennan, Brent, Brewer, Click, Daniels, Denson,
+Number of Sections: 2
+Source: versions - As Passed by the House
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the House
+136th General Assembly
+Regular Session H. B. No. 104
+2025-2026
+Representatives Lawson-Rowe, Deeter
+Hiner, Klopfenstein, Lorenz, Mohamed, Mullins, Odioso, Rader, Ritter, Salvo,
+Sims, Synenberg, Thomas, D., Tims, Upchurch, White, E., Workman, Somani,
+White, A., Abdullahi, Abrams, Baker, Brownlee, Cockley, Dovilla, Ghanbari, Grim,
+Gross, Hall, D., Hall, T., Hoops, Isaacsohn, Jarrells, John, Jones, Lett, Manning,
+Mathews, T., Miller, J., Miller, K., Peterson, Piccolantonio, Plummer, Richardson,
+Robb Blasdel, Robinson, Russo, Schmidt, Sigrist, Sweeney, Thomas, C., Troy,
+Williams, Willis
+A BILL
+To enact section 5.2540 of the Revised Code to 1
+designate February 14 as "Cardiovascular Health 2
+Awareness Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2540 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2540. The fourteenth day of February is designated 6
+as "Cardiovascular Health Awareness Day." 7
+[DELETED: nH BIL  " : "]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the House
+136th General Assembly
+Regular Session H. B. No. 104
+2025-2026
+Representatives Lawson-Rowe, Deeter
+Cosponsors: Representatives Brennan, Brent, Brewer, Click, Daniels, Denson,
+Hiner, Klopfenstein, Lorenz, Mohamed, Mullins, Odioso, Rader, Ritter, Salvo,
+Sims, Synenberg, Thomas, D., Tims, Upchurch, White, E., Workman, Somani,
+White, A., Abdullahi, Abrams, Baker, Brownlee, Cockley, Dovilla, Ghanbari, Grim,
+Gross, Hall, D., Hall, T., Hoops, Isaacsohn, Jarrells, John, Jones, Lett, Manning,
+Mathews, T., Miller, J., Miller, K., Peterson, Piccolantonio, Plummer, Richardson,
+Robb Blasdel, Robinson, Russo, Schmidt, Sigrist, Sweeney, Thomas, C., Troy,
+Williams, Willis
+A BILL
+To enact section 5.2540 of the Revised Code to 1
+designate February 14 as "Cardiovascular Health 2
+Awareness Day." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2540 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2540. The fourteenth day of February is designated 6
+as "Cardiovascular Health Awareness Day." 7
+
+[DELETED: nH BIL  " : "]

@@ -1,0 +1,340 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 146
+2025-2026
+Senators Gavarone, Timken
+To enact section 2307.36 of the Revised Code to 1
+codify the elements of the common law cause of 2
+action for "piercing the corporate veil." 3
+
+Section 2:
+Section 1. That section 2307.36 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 2307.36. (A) As used in this section : 6
+(1) "Affiliate" and "beneficial owner" have the same 7
+meanings as in section 1704.01 of the Revised Code. 8
+(2) "Covered entity" means a corporation, limited 9
+liability company, limited partnership, or any other entity 10
+organized under the laws of any jurisdiction, domestic or 11
+foreign, of which the covered persons, owners, or members are 12
+generally not responsible for the debts and obligations of the 13
+covered entity. Nothing in this section limits or otherwise 14
+affects the liabilities imposed on a general partner of a 15
+limited partnership. 16
+(3) "Covered person" means any of the following: 17
+(a) A person who is the holder, beneficial owner, or 18
+subscriber of shares or any other ownership interest of a 19
+S. B. No. 146 Page 2
+As Introduced
+covered entity; 20
+(b) A member, officer, director, agent, or employee of a 21
+covered entity; 22
+(c) An affiliate of any person who is described in 23
+division (A)(3)(a) of this section or any of the affiliate's 24
+officers, directors, or employees. 25
+(4) "Damages or civil penalties" means damages of any 26
+kind, or civil penalties, for which liability may exist under 27
+the laws of this state resulting from, arising out of, or 28
+related to an obligation or liability of a covered entity. 29
+(5) "Piercing the corporate veil" means any and all common 30
+law doctrines by which a covered person may be liable for an 31
+obligation or liability of a covered entity on the basis that 32
+the covered person controlled the covered entity, the covered 33
+person is or was the alter ego of the covered entity, or the 34
+covered entity has been used for the purpose of actual or 35
+constructive fraud or as a sham to perpetrate a fraud, or any 36
+other common law doctrine by which the covered entity is 37
+disregarded for purposes of imposing liability on a covered 38
+person for the debts or obligations of that covered entity. 39
+(6) "Person" means any of the following: 40
+(a) A natural person; 41
+(b) A corporation, whether for profit or nonprofit; 42
+(c) A partnership; 43
+(d) A limited liability company; 44
+(e) A business trust; 45
+(f) An estate; 46
+S. B. No. 146 Page 3
+As Introduced
+(g) A trust; 47
+(h) An unincorporated society or association; 48
+(i) Two or more persons having a joint or common interest; 49
+(j) Every organized body, office, or agency established by 50
+the Ohio Constitution or the laws of this state for the exercise 51
+of any function of state government. 52
+(B) A covered person has no obligation to, and has no 53
+liability to, any person for damages or civil penalties, unless 54
+the person seeks to pierce the corporate veil, demonstrating all 55
+of the following: 56
+(1) The covered person exerted such control over the 57
+covered entity that the covered entity had no separate mind, 58
+will, or existence of its own. 59
+(2) The covered person caused the covered entity to be 60
+used for the purpose of perpetrating, and the covered entity 61
+perpetrated, an actual fraud on the person seeking to pierce the 62
+corporate veil primarily for the direct pecuniary benefit of the 63
+covered person. 64
+(3) The person seeking to pierce the corporate veil 65
+sustained an injury or unjust loss as a direct result of the 66
+control described in division (B)(1) of this section and the 67
+fraud described in division (B)(2) of this section. 68
+(C) A court shall not find the covered person to have 69
+exerted such control over the covered entity that the covered 70
+entity did not have a separate mind, will, or existence of its 71
+own or to have caused the covered entity to be used for the 72
+purpose of perpetrating an actual fraud solely as a result of 73
+any of the following actions, events, or relationships: 74
+S. B. No. 146 Page 4
+As Introduced
+(1) The covered person is an affiliate of the covered 75
+entity and provides legal, accounting, consulting, treasury, 76
+cash management, human resources, administrative, or other 77
+similar services to the covered entity, leases assets to the 78
+covered entity, or makes its employees available to the covered 79
+entity. 80
+(2) The covered person is an owner, officer, director, 81
+agent, or employee of the covered entity that acted or failed to 82
+act within the scope of the covered person's authority or 83
+employment. 84
+(3) The covered person loans funds to the covered entity 85
+or guarantees the obligations of the covered entity. 86
+(4) The officers and directors of the covered person are 87
+also the officers and directors of the covered entity. 88
+(5) The covered entity makes payments of dividends or 89
+other distributions to the covered person or repays loans owed 90
+to the covered person. 91
+(6) In the case of a covered entity that is a limited 92
+liability company, the covered person or its employees or agents 93
+serves as the manager of the covered entity. 94
+(D) The person making a claim for damages or civil 95
+penalties against a covered person has the burden of proof on 96
+each and every element of the person's claim and must prove each 97
+element by a preponderance of the evidence. 98
+(E) Any liability or obligation of the covered person for 99
+damages or civil penalties as described in division (B) of this 100
+
+Section 3:
+section and limited by that division is exclusive and preempts 101
+any other related obligation or liability imposed upon that 102
+covered person for those damages or civil penalties under the 103
+S. B. No. 146 Page 5
+As Introduced
+common law, any section of the Revised Code or the 104
+Administrative Code, or otherwise. 105
+(F) This section applies to all claims for damages or 106
+civil penalties brought against a covered person commenced on or 107
+after the effective date of this section or commenced prior to 108
+and pending on the effective date of this section. 109
+(G)(1) The general assembly, in enacting this section, 110
+intends to codify the elements of the common law cause of action 111
+for piercing the corporate veil, and to abrogate statutory and 112
+common law causes of action and remedies involving claims for 113
+damages or civil penalties brought against a covered person. 114
+Nothing in this section shall be construed as creating a right 115
+or cause of action that did not exist under the common law as it 116
+existed on the effective date of this section. 117
+(2) The general assembly finds that this section, as 118
+enacted by this act, is remedial in nature. Therefore, it is the 119
+intent of the general assembly in enacting this section to 120
+provide for both the prospective and retroactive application of 121
+the codification of the common law doctrine of piercing the 122
+corporate veil, and the abrogation of statutory and common law 123
+causes of action and remedies involving damages or civil 124
+penalties from a covered person, including those actions that 125
+are pending on the effective date of this act. If, however, the 126
+supreme court determines, in any litigation that may be 127
+commenced to contest the constitutionality of this section, that 128
+the retroactive application of any provision of this section 129
+would be violative of either the United States Constitution or 130
+the Ohio Constitution, it is the intent of the general assembly 131
+that the severability provision of section 1.50 of the Revised 132
+Code be applied, that the retroactive application of the 133
+S. B. No. 146 Page 6
+As Introduced
+contested provision be severed, and that the remaining 134
+provisions of this section be given prospective application 135
+consistent with section 1.48 of the Revised Code. 136
+[DELETED: nS  " ::    1 1 1 1 1 1.1:1 1 1]
+[DELETED: 6 ;2 2;2 2 2.2 2 2 2.2 3 3 3 3 3 3 3 3 3.3:4;4;4;4;4;4;4]
+[DELETED: 6 ;4;4;4 5 5.5 5 5 5:5 5 5.5 6 6 6 6.6 6 6 6.6 6 7 7 7 7:7]
+[DELETED: 6  7 7 7 7 7.8 8 8 8.8 8.8 8.8 8 9.9 9 9.9 9 9 9.9 9 1 1 1 1]
+[DELETED: 6  1.1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 146
+2025-2026
+Senators Gavarone, Timken
+To enact section 2307.36 of the Revised Code to 1
+codify the elements of the common law cause of 2
+action for "piercing the corporate veil." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 2307.36 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 2307.36. (A) As used in this section : 6
+(1) "Affiliate" and "beneficial owner" have the same 7
+meanings as in section 1704.01 of the Revised Code. 8
+(2) "Covered entity" means a corporation, limited 9
+liability company, limited partnership, or any other entity 10
+organized under the laws of any jurisdiction, domestic or 11
+foreign, of which the covered persons, owners, or members are 12
+generally not responsible for the debts and obligations of the 13
+covered entity. Nothing in this section limits or otherwise 14
+affects the liabilities imposed on a general partner of a 15
+limited partnership. 16
+(3) "Covered person" means any of the following: 17
+(a) A person who is the holder, beneficial owner, or 18
+subscriber of shares or any other ownership interest of a 19
+
+S. B. No. 146 Page 2
+As Introduced
+covered entity; 20
+(b) A member, officer, director, agent, or employee of a 21
+covered entity; 22
+(c) An affiliate of any person who is described in 23
+division (A)(3)(a) of this section or any of the affiliate's 24
+officers, directors, or employees. 25
+(4) "Damages or civil penalties" means damages of any 26
+kind, or civil penalties, for which liability may exist under 27
+the laws of this state resulting from, arising out of, or 28
+related to an obligation or liability of a covered entity. 29
+(5) "Piercing the corporate veil" means any and all common 30
+law doctrines by which a covered person may be liable for an 31
+obligation or liability of a covered entity on the basis that 32
+the covered person controlled the covered entity, the covered 33
+person is or was the alter ego of the covered entity, or the 34
+covered entity has been used for the purpose of actual or 35
+constructive fraud or as a sham to perpetrate a fraud, or any 36
+other common law doctrine by which the covered entity is 37
+disregarded for purposes of imposing liability on a covered 38
+person for the debts or obligations of that covered entity. 39
+(6) "Person" means any of the following: 40
+(a) A natural person; 41
+(b) A corporation, whether for profit or nonprofit; 42
+(c) A partnership; 43
+(d) A limited liability company; 44
+(e) A business trust; 45
+(f) An estate; 46
+
+S. B. No. 146 Page 3
+As Introduced
+(g) A trust; 47
+(h) An unincorporated society or association; 48
+(i) Two or more persons having a joint or common interest; 49
+(j) Every organized body, office, or agency established by 50
+the Ohio Constitution or the laws of this state for the exercise 51
+of any function of state government. 52
+(B) A covered person has no obligation to, and has no 53
+liability to, any person for damages or civil penalties, unless 54
+the person seeks to pierce the corporate veil, demonstrating all 55
+of the following: 56
+(1) The covered person exerted such control over the 57
+covered entity that the covered entity had no separate mind, 58
+will, or existence of its own. 59
+(2) The covered person caused the covered entity to be 60
+used for the purpose of perpetrating, and the covered entity 61
+perpetrated, an actual fraud on the person seeking to pierce the 62
+corporate veil primarily for the direct pecuniary benefit of the 63
+covered person. 64
+(3) The person seeking to pierce the corporate veil 65
+sustained an injury or unjust loss as a direct result of the 66
+control described in division (B)(1) of this section and the 67
+fraud described in division (B)(2) of this section. 68
+(C) A court shall not find the covered person to have 69
+exerted such control over the covered entity that the covered 70
+entity did not have a separate mind, will, or existence of its 71
+own or to have caused the covered entity to be used for the 72
+purpose of perpetrating an actual fraud solely as a result of 73
+any of the following actions, events, or relationships: 74
+
+S. B. No. 146 Page 4
+As Introduced
+(1) The covered person is an affiliate of the covered 75
+entity and provides legal, accounting, consulting, treasury, 76
+cash management, human resources, administrative, or other 77
+similar services to the covered entity, leases assets to the 78
+covered entity, or makes its employees available to the covered 79
+entity. 80
+(2) The covered person is an owner, officer, director, 81
+agent, or employee of the covered entity that acted or failed to 82
+act within the scope of the covered person's authority or 83
+employment. 84
+(3) The covered person loans funds to the covered entity 85
+or guarantees the obligations of the covered entity. 86
+(4) The officers and directors of the covered person are 87
+also the officers and directors of the covered entity. 88
+(5) The covered entity makes payments of dividends or 89
+other distributions to the covered person or repays loans owed 90
+to the covered person. 91
+(6) In the case of a covered entity that is a limited 92
+liability company, the covered person or its employees or agents 93
+serves as the manager of the covered entity. 94
+(D) The person making a claim for damages or civil 95
+penalties against a covered person has the burden of proof on 96
+each and every element of the person's claim and must prove each 97
+element by a preponderance of the evidence. 98
+(E) Any liability or obligation of the covered person for 99
+damages or civil penalties as described in division (B) of this 100
+section and limited by that division is exclusive and preempts 101
+any other related obligation or liability imposed upon that 102
+covered person for those damages or civil penalties under the 103
+
+S. B. No. 146 Page 5
+As Introduced
+common law, any section of the Revised Code or the 104
+Administrative Code, or otherwise. 105
+(F) This section applies to all claims for damages or 106
+civil penalties brought against a covered person commenced on or 107
+after the effective date of this section or commenced prior to 108
+and pending on the effective date of this section. 109
+(G)(1) The general assembly, in enacting this section, 110
+intends to codify the elements of the common law cause of action 111
+for piercing the corporate veil, and to abrogate statutory and 112
+common law causes of action and remedies involving claims for 113
+damages or civil penalties brought against a covered person. 114
+Nothing in this section shall be construed as creating a right 115
+or cause of action that did not exist under the common law as it 116
+existed on the effective date of this section. 117
+(2) The general assembly finds that this section, as 118
+enacted by this act, is remedial in nature. Therefore, it is the 119
+intent of the general assembly in enacting this section to 120
+provide for both the prospective and retroactive application of 121
+the codification of the common law doctrine of piercing the 122
+corporate veil, and the abrogation of statutory and common law 123
+causes of action and remedies involving damages or civil 124
+penalties from a covered person, including those actions that 125
+are pending on the effective date of this act. If, however, the 126
+supreme court determines, in any litigation that may be 127
+commenced to contest the constitutionality of this section, that 128
+the retroactive application of any provision of this section 129
+would be violative of either the United States Constitution or 130
+the Ohio Constitution, it is the intent of the general assembly 131
+that the severability provision of section 1.50 of the Revised 132
+Code be applied, that the retroactive application of the 133
+
+S. B. No. 146 Page 6
+As Introduced
+contested provision be severed, and that the remaining 134
+provisions of this section be given prospective application 135
+consistent with section 1.48 of the Revised Code. 136
+
+[DELETED: nS  " ::    1 1 1 1 1 1.1:1 1 1]
+[DELETED: 6 ;2 2;2 2 2.2 2 2 2.2 3 3 3 3 3 3 3 3 3.3:4;4;4;4;4;4;4]
+[DELETED: 6 ;4;4;4 5 5.5 5 5 5:5 5 5.5 6 6 6 6.6 6 6 6.6 6 7 7 7 7:7]
+[DELETED: 6  7 7 7 7 7.8 8 8 8.8 8.8 8.8 8 9.9 9 9.9 9 9 9.9 9 1 1 1 1]
+[DELETED: 6  1.1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1.1]

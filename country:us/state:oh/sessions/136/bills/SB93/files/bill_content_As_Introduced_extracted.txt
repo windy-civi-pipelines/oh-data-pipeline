@@ -1,0 +1,69 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 93
+2025-2026
+Senator Brenner
+To declare the General Assembly's intent to 1
+establish a new school financing system that 2
+provides a statewide per-pupil funding payment 3
+to public and chartered nonpublic schools based 4
+on a single statewide property tax and increased 5
+state sales tax. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. It is the intent of the General Assembly to do 7
+all of the following: 8
+(A) Eliminate each school district's ability to levy 9
+property and income taxes; 10
+(B) Establish a single statewide property tax and 11
+increased state sales tax to fund schools; 12
+(C) Eliminate state scholarship programs for primary and 13
+secondary students; 14
+(D) Establish a school financing system that calculates a 15
+statewide amount of per-pupil funding that will be paid to the 16
+public or chartered nonpublic school in which a student's family 17
+chooses to enroll that student. 18
+[DELETED: nS BIL     . :  1 1;1 1 1 1 1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 93
+2025-2026
+Senator Brenner
+A BILL
+To declare the General Assembly's intent to 1
+establish a new school financing system that 2
+provides a statewide per-pupil funding payment 3
+to public and chartered nonpublic schools based 4
+on a single statewide property tax and increased 5
+state sales tax. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. It is the intent of the General Assembly to do 7
+all of the following: 8
+(A) Eliminate each school district's ability to levy 9
+property and income taxes; 10
+(B) Establish a single statewide property tax and 11
+increased state sales tax to fund schools; 12
+(C) Eliminate state scholarship programs for primary and 13
+secondary students; 14
+(D) Establish a school financing system that calculates a 15
+statewide amount of per-pupil funding that will be paid to the 16
+public or chartered nonpublic school in which a student's family 17
+chooses to enroll that student. 18
+
+[DELETED: nS BIL     . :  1 1;1 1 1 1 1 1.1]
