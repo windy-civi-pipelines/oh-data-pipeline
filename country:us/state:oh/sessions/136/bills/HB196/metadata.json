@@ -1,0 +1,106 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 196",
+  "title": "Regards candidate nomination protests, names on candidacy forms",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Elections"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 3513.041, 3513.05, 3513.06, 3513.07, 3513.261, and 3513.271 and to enact section 3513.053 of the Revised Code to allow an elector who is not a member of a political party to protest a person's candidacy for that party's nomination on certain grounds and to provide space on candidacy forms for former names."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rodney Creech",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rodney Creech\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela King",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Angela King\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb196/IN/00/hb196_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb196",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb196/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

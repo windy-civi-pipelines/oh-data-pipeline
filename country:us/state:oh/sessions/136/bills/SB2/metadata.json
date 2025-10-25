@@ -1,0 +1,368 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 2",
+  "title": "Increase power generation; improve Ohio\u2019s electric grid",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Electric Utilities",
+    "Taxation",
+    "Utilities",
+    "Utilities"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 303.213, 519.213, 713.081, 3313.372, 3313.373, 4905.03, 4906.01, 4906.03, 4906.06, 4906.07, 4906.10, 4909.04, 4909.05, 4909.052, 4909.06, 4909.07, 4909.08, 4909.15, 4909.156, 4909.173, 4909.174, 4909.18, 4909.19, 4909.191, 4909.42, 4928.01, 4928.05, 4928.08, 4928.14, 4928.141, 4928.142, 4928.144, 4928.17, 4928.20, 4928.23, 4928.231, 4928.232, 4928.34, 4928.542, 4928.64, 4928.645, 4929.20, 4933.81, 5711.01, 5727.01, 5727.031, 5727.06, 5727.11, 5727.111, and 5727.75; to enact sections 122.161, 3313.377, 3313.378, 4903.27, 4905.23, 4905.311, 4905.321, 4905.331, 4909.041, 4909.042, 4909.181, 4909.192, 4909.193, 4928.041, 4928.101, 4928.102, 4928.103, 4928.105, 4928.107, 4928.149, 4928.1410, 4928.73, 4929.221, 4929.222, and 5727.76; and to repeal sections 3706.40, 3706.41, 3706.43, 3706.431, 3706.45, 3706.46, 3706.49, 3706.491, 3706.55, 3706.551, 3706.59, 3706.63, 3706.65, 4928.143, 4928.148, and 4928.642 of the Revised Code regarding public utilities law, to make changes regarding utility tangible personal property taxation, and to repeal parts of H.B. 6 of the 133rd General Assembly."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-01-22",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Reported",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Energy Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Bill Reineke",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Bill Reineke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shane Wilkin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Shane Wilkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nickie Antonio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nickie Antonio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew Brenner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Chavez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Chavez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Cirino",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Cirino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hearcel Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hearcel Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Cutrona",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Cutrona\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William DeMora",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William DeMora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theresa Gavarone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paula  Hicks-Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paula  Hicks-Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Koehler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Koehler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Landis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Landis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan Manning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Patton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Reynolds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Romanchuk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jane Timken",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jane Timken\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Casey Weinstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Casey Weinstein\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/PS/05/sb2_05_PS?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Energy Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/RS/04/sb2_04_RS?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Pending in the Senate Energy Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/PSC/03/sb2_03_PSC?format=pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/PSC/02/sb2_02_PSC?format=pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/PSC/01/sb2_01_PSC?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb2/IN/00/sb2_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb2",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

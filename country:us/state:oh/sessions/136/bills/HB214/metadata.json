@@ -1,0 +1,101 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 214",
+  "title": "Require Medicaid, health insurers report on prior authorization",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Commerce",
+    "Health and Human Services",
+    "Insurance",
+    "Medicaid"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1751.72, 3923.041, and 5160.34 and to enact section 5160.341 of the Revised Code to require the Medicaid program and certain health insurers to report data about prior authorization requirements and to require an exemption to such requirements for certain providers."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-04-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Insurance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin Miller, K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kevin Miller, K.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb214/IN/00/hb214_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb214",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb214/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

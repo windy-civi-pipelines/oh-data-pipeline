@@ -1,0 +1,127 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 183",
+  "title": "Require certain construction industry employers to use E-verify",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Courts",
+    "Courts and Civil Law",
+    "Courts and Civil Law",
+    "Employment",
+    "State and Local Government"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To enact sections 4151.01, 4151.02, 4151.03, 4151.04, 4151.05, 4151.06, and 4151.07 of the Revised Code to require certain construction industry employers to use E-verify and to sanction specified hiring practices in the industry."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Workforce Development Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jerry Cirino",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jerry Cirino\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Reynolds",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Michele Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shane Wilkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shane Wilkin\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb183/IN/00/sb183_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb183",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb183/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

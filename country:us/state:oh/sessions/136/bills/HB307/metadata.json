@@ -1,0 +1,182 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 307",
+  "title": "Enact the Lead Line Replacement Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Air and Water Pollution Control",
+    "Environment and Natural Resources",
+    "Environment and Natural Resources",
+    "Utilities",
+    "Water Utilities"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 6109.01 and 6109.22 and to enact sections 504.201, 735.291, 743.041, 6101.531, 6103.021, 6109.41, 6109.42, 6109.43, 6109.44, 6109.45, 6109.46, 6109.47, 6109.48, 6109.49, 6109.50, 6109.51, 6115.531, and 6119.062 of the Revised Code to establish a program regarding lead service line replacement and to name this act the Lead Line Replacement Act."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-05-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Development Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dontavius Jarrells",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dontavius Jarrells\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica Robb Blasdel",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Monica Robb Blasdel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Synenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric Synenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erika White, E.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erika White, E.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elgin Rogers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elgin Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Russo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C. Russo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Stephens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Stephens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Sims",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Sims\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tristan Rader",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tristan Rader\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb307/IN/00/hb307_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb307",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb307/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

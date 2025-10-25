@@ -1,0 +1,105 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 265",
+  "title": "Add animal offenses to foster, adoption record check disqualifier",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Adoption",
+    "Child Welfare",
+    "Crimes, Corrections, and Law Enforcement",
+    "Criminal Records Checks",
+    "Foster Care",
+    "Juvenile and Family Law",
+    "Juvenile and Family Law",
+    "Juvenile and Family Law"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend section 109.572 of the Revised Code to add certain animal-related offenses to the list of potentially disqualifying offenses when conducting a criminal records check for prospective foster caregivers, prospective adoptive parents, and certain other individuals who will be responsible for or reside in the same household as children."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-09-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Al Cutrona",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Al Cutrona\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb265/IN/00/sb265_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb265",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb265/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

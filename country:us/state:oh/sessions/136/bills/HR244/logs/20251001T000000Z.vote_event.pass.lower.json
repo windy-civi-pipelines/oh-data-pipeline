@@ -1,0 +1,234 @@
+{
+  "identifier": "",
+  "motion_text": "Adopted",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-10-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "f718c714-b152-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HR 244",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Latyna M. Humphrey",
+      "voter_id": "~{\"name\": \"Latyna M. Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ismail Mohamed",
+      "voter_id": "~{\"name\": \"Ismail Mohamed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith R. Lawson-Rowe",
+      "voter_id": "~{\"name\": \"Meredith R. Lawson-Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Christine Cockley",
+      "voter_id": "~{\"name\": \"Christine Cockley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anita Somani",
+      "voter_id": "~{\"name\": \"Anita Somani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Sigrist",
+      "voter_id": "~{\"name\": \"Mark Sigrist\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crystal Lett",
+      "voter_id": "~{\"name\": \"Crystal Lett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean P. Brennan",
+      "voter_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bride Rose Sweeney",
+      "voter_id": "~{\"name\": \"Bride Rose Sweeney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terrence Upchurch",
+      "voter_id": "~{\"name\": \"Terrence Upchurch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Synenberg",
+      "voter_id": "~{\"name\": \"Eric Synenberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darnell T. Brewer",
+      "voter_id": "~{\"name\": \"Darnell T. Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecil Thomas",
+      "voter_id": "~{\"name\": \"Cecil Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rachel B. Baker",
+      "voter_id": "~{\"name\": \"Rachel B. Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Brownlee",
+      "voter_id": "~{\"name\": \"Karen Brownlee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derrick Hall",
+      "voter_id": "~{\"name\": \"Derrick Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Erika White",
+      "voter_id": "~{\"name\": \"Erika White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elgin Rogers, Jr.",
+      "voter_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Miller, III",
+      "voter_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lauren McNally",
+      "voter_id": "~{\"name\": \"Lauren McNally\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tristan Rader",
+      "voter_id": "~{\"name\": \"Tristan Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C. Allison Russo",
+      "voter_id": "~{\"name\": \"C. Allison Russo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dontavius L. Jarrells",
+      "voter_id": "~{\"name\": \"Dontavius L. Jarrells\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Grim",
+      "voter_id": "~{\"name\": \"Michele Grim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dani Isaacsohn",
+      "voter_id": "~{\"name\": \"Dani Isaacsohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phillip M. Robinson, Jr.",
+      "voter_id": "~{\"name\": \"Phillip M. Robinson, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 32
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/resolutions/hr244/votes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HR244:707202"
+}

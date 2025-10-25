@@ -1,0 +1,109 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 160",
+  "title": "Revise liquor control, hemp, and adult-use marijuana laws",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Commerce",
+    "Crimes, Corrections, and Law Enforcement",
+    "Employment",
+    "Marijuana Cultivators",
+    "Marijuana Dispensaries",
+    "Marijuana, Cannabis, and Hemp",
+    "Marijuana, Cannabis, and Hemp",
+    "Marijuana, Cannabis, and Hemp",
+    "Marijuana, Cannabis, and Hemp",
+    "Medical Marijuana",
+    "Taxation",
+    "Unemployment"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 9.79, 519.21, 928.01, 928.03, 3376.07, 3796.01, 3796.02, 3796.03, 3796.05, 3796.06, 3796.07, 3796.09, 3796.10, 3796.12, 3796.13, 3796.14, 3796.15, 3796.17, 3796.18, 3796.19, 3796.20, 3796.21, 3796.22, 3796.23, 3796.24, 3796.27, 3796.28, 3796.29, 3796.30, 3796.31, 4735.18, 4796.25, 5502.01, 5502.13, 5502.14, 5713.30, 5739.21, and 5739.99; to enact sections 2953.321, 3796.04, 3796.062, 3796.221, 3796.32, 3796.33, 3796.99, and 5739.27; and to repeal sections 3780.01, 3780.02, 3780.03, 3780.04, 3780.05, 3780.06, 3780.07, 3780.08, 3780.09, 3780.10, 3780.11, 3780.12, 3780.13, 3780.14, 3780.15, 3780.16, 3780.17, 3780.18, 3780.19, 3780.20, 3780.21, 3780.22, 3780.23, 3780.24, 3780.25, 3780.26, 3780.27, 3780.28, 3780.29, 3780.30, 3780.31, 3780.32, 3780.33, 3780.34, 3780.35, 3780.36, 3780.90, 3780.99, and 3796.021 of the Revised Code to revise specified provisions of the liquor control, hemp, and adult-use marijuana laws and to levy taxes on marijuana."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-03-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian Stewart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Stewart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb160/IN/00/hb160_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb160",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb160/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

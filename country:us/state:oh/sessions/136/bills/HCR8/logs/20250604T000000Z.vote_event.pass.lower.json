@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-06-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "5f4313e4-b153-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HCR 8",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Thomas Hall",
+      "voter_id": "~{\"name\": \"Thomas Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ron Ferguson",
+      "voter_id": "~{\"name\": \"Ron Ferguson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thaddeus J. Claggett",
+      "voter_id": "~{\"name\": \"Thaddeus J. Claggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Gross",
+      "voter_id": "~{\"name\": \"Jennifer Gross\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angela N. King",
+      "voter_id": "~{\"name\": \"Angela N. King\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Lear",
+      "voter_id": "~{\"name\": \"Beth Lear\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Pizzulli",
+      "voter_id": "~{\"name\": \"Justin Pizzulli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heidi Workman",
+      "voter_id": "~{\"name\": \"Heidi Workman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Latyna M. Humphrey",
+      "voter_id": "~{\"name\": \"Latyna M. Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Tristan Rader",
+      "voter_id": "~{\"name\": \"Tristan Rader\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/resolutions/hcr8/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HCR8:619528"
+}

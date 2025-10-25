@@ -1,0 +1,98 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 538",
+  "title": "Revise the law governing the Ohio Athletics Commission",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Commerce",
+    "State Government",
+    "State and Local Government"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 3773.33, 3773.34, 3773.35, 3773.36, 3773.37, 3773.38, 3773.39, 3773.40, 3773.41, 3773.42, 3773.421, 3773.43, 3773.45, 3773.51, 3773.52, 3773.53, 3773.54, 3773.55, 3773.56, 3773.57, 3773.59, 4771.02, 4771.05, 4771.07, 4771.08, 4771.09, 4771.10, 4771.11, 4771.12, 4771.13, 4771.14, 4771.16, 4771.18, 4771.21, 4771.22, and 4771.23 of the Revised Code to place the Ohio Athletics Commission within the Department of Commerce, to modify the Commission's functions, and to make an appropriation."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-10-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie Callender",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie Callender\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews, A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Mathews, A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beryl Piccolantonio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb538/IN/00/hb538_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb538",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb538/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 128",
+  "title": "Enact the Reproductive Care Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement",
+    "Crimes, Corrections, and Law Enforcement",
+    "Health Care",
+    "Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 109.572, 2305.11, 2317.02, 2919.10, 2919.12, 2953.25, 3701.341, 3701.792, 3702.30, 4112.01, 4112.02, 4729.291, 4731.22, 4731.223, 4731.281, 4731.293, and 4743.09; to enact sections 2305.2312, 3732.01, 3732.02, 3732.03, 3732.04, 3732.05, 3732.06, 3732.07, 3732.08, 3732.09, and 3732.11; and to repeal sections 2307.54, 2317.56, 2317.561, 2919.101, 2919.124, 2919.171, 2919.19, 2919.191, 2919.192, 2919.193, 2919.194, 2919.195, 2919.196, 2919.197, 2919.198, 2919.199, 2919.1910, 2919.1912, 2919.1913, 2919.20, 2919.201, 2919.202, 2919.203, 2919.204, 2919.205, 3701.79, 3701.791, 3702.302, 3702.303, 3702.304, 3702.305, 3702.306, 3702.307, 3702.308, 3702.309, 3702.3010, 3702.3011, 3726.01, 3726.02, 3726.03, 3726.04, 3726.041, 3726.042, 3726.05, 3726.09, 3726.10, 3726.11, 3726.12, 3726.13, 3726.14, 3726.15, 3726.16, 3726.95, 3726.99, 3727.60, 4717.271, 5101.57, and 5103.11 of the Revised Code to enact the Reproductive Care Act regarding abortion, abortion-related laws, and reproductive health protections."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Desiree Tims",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Desiree Tims\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anita Somani",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Anita Somani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terrence Upchurch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terrence Upchurch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sedrick Denson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sedrick Denson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Grim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Grim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel Baker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rachel Baker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Brownlee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Brownlee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tristan Rader",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tristan Rader\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dontavius Jarrells",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dontavius Jarrells\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bride Rose Sweeney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bride Rose Sweeney\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb128/IN/00/hb128_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb128",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb128/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

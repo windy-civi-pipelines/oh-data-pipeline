@@ -1,0 +1,107 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 195",
+  "title": "Revise the Ohio Uniform Commercial Code",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Commerce",
+    "Uniform Commercial Code"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1301.101, 1301.102, 1301.103, 1301.104, 1301.105, 1301.106, 1301.201, 1301.204, 1301.205, 1301.206, 1301.301, 1301.302, 1301.304, 1301.305, 1301.306, 1302.01, 1302.02, 1302.04, 1302.05, 1302.06, 1302.08, 1302.12, 1303.01, 1303.03, 1303.41, 1303.69, 1304.51, 1304.56, 1304.57, 1304.58, 1304.62, 1304.63, 1304.65, 1304.66, 1304.72, 1305.03, 1305.15, 1307.102, 1307.106, 1308.01, 1308.02, 1308.05, 1308.17, 1308.24, 1309.102, 1309.104, 1309.105, 1309.203, 1309.204, 1309.207, 1309.208, 1309.209, 1309.210, 1309.301, 1309.304, 1309.305, 1309.310, 1309.312, 1309.313, 1309.314, 1309.316, 1309.317, 1309.323, 1309.324, 1309.330, 1309.331, 1309.332, 1309.334, 1309.341, 1309.404, 1309.406, 1309.408, 1309.509, 1309.513, 1309.601, 1309.605, 1309.608, 1309.611, 1309.613, 1309.614, 1309.615, 1309.616, 1309.619, 1309.620, 1309.621, 1309.624, 1309.628, 1310.01, 1310.02, 1310.05, 1310.08, 1310.09, 1310.10, 1310.12, 1310.15, and 1311.55 and to enact sections 1309.111, 1309.112, 1309.113, 1309.343, 1309.344, 1309.345, 1309.346, 1314.101, 1314.102, 1314.103, 1314.104, 1314.105, 1314.106, 1314.107, 1316.101, 1316.102, 1316.201, 1316.301, 1316.302, 1316.303, 1316.304, 1316.305, and 1316.306 of the Revised Code to make changes to the Ohio Uniform Commercial Code."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dani Isaacsohn",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dani Isaacsohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews, A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Mathews, A.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb195/IN/00/hb195_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb195",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb195/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Adopted",
+    "date": "2025-04-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Rules and Reference Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HR 80"
+}

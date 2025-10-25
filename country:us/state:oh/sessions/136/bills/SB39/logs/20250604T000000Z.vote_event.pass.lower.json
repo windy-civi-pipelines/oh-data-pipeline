@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-06-04",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "222b6210-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 39",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty D. Mathews",
+      "voter_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derrick Hall",
+      "voter_id": "~{\"name\": \"Derrick Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael D. Dovilla",
+      "voter_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haraz N. Ghanbari",
+      "voter_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Holmes",
+      "voter_id": "~{\"name\": \"Adam Holmes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith R. Lawson-Rowe",
+      "voter_id": "~{\"name\": \"Meredith R. Lawson-Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lauren McNally",
+      "voter_id": "~{\"name\": \"Lauren McNally\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Santucci",
+      "voter_id": "~{\"name\": \"Nick Santucci\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecil Thomas",
+      "voter_id": "~{\"name\": \"Cecil Thomas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb39/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB39:619518"
+}

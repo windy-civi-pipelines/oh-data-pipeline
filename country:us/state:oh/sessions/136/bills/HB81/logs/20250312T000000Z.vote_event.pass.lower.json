@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "3fcb9c72-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 81",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bob Peterson",
+      "voter_id": "~{\"name\": \"Bob Peterson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Teska",
+      "voter_id": "~{\"name\": \"Michelle Teska\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean P. Brennan",
+      "voter_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thaddeus J. Claggett",
+      "voter_id": "~{\"name\": \"Thaddeus J. Claggett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Mathews",
+      "voter_id": "~{\"name\": \"Adam Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Miller, III",
+      "voter_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Roemer",
+      "voter_id": "~{\"name\": \"Bill Roemer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "D. J. Swearingen",
+      "voter_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "David Thomas",
+      "voter_id": "~{\"name\": \"David Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Erika White",
+      "voter_id": "~{\"name\": \"Erika White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Young",
+      "voter_id": "~{\"name\": \"Tom Young\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb81/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB81:286634"
+}

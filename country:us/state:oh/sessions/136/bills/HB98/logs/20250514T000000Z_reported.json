@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reported",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Workforce and Higher Education Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 98"
+}

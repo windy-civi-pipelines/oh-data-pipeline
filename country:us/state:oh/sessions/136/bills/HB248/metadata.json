@@ -1,0 +1,99 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 248",
+  "title": "Revise the Auditor of State law",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State Government",
+    "State and Local Government"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 9.35, 117.11, 117.38, 117.44, 127.16, 149.10, 149.30, 169.13, 306.43, 307.86, 308.13, 317.06, 317.20, 319.04, 321.03, 501.09, 501.11, 507.12, 703.34, 731.14, 731.141, 733.81, 735.05, 749.31, 1533.13, 3313.27, 3314.011, 3315.18, 3315.181, 3317.035, 3318.48, 3328.16, 3375.39, 3375.92, 3381.11, 3709.15, 3717.071, 5117.12, 5310.06, 5705.12, 5705.121, 5923.30, and 6101.55 and to repeal sections 117.113, 117.251, 117.441, 117.51, 501.03, 3314.50, 4115.31, 4115.32, 4115.33, 4115.34, 4115.35, and 4115.36 of the Revised Code to make various changes regarding the Auditor of State."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-04-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "David Thomas, D.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"David Thomas, D.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb248/IN/00/hb248_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb248",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb248/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

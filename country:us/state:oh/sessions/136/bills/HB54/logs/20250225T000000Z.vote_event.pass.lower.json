@@ -1,0 +1,210 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-02-25",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "00f261c4-b152-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 54",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Brian Stewart",
+      "voter_id": "~{\"name\": \"Brian Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael D. Dovilla",
+      "voter_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bride Rose Sweeney",
+      "voter_id": "~{\"name\": \"Bride Rose Sweeney\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cindy Abrams",
+      "voter_id": "~{\"name\": \"Cindy Abrams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rachel B. Baker",
+      "voter_id": "~{\"name\": \"Rachel B. Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Callender",
+      "voter_id": "~{\"name\": \"Jamie Callender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Grim",
+      "voter_id": "~{\"name\": \"Michele Grim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Hall",
+      "voter_id": "~{\"name\": \"Thomas Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James M. Hoops",
+      "voter_id": "~{\"name\": \"James M. Hoops\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dani Isaacsohn",
+      "voter_id": "~{\"name\": \"Dani Isaacsohn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Johnson",
+      "voter_id": "~{\"name\": \"Mark Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Don Jones",
+      "voter_id": "~{\"name\": \"Don Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gayle Manning",
+      "voter_id": "~{\"name\": \"Gayle Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin Ritter",
+      "voter_id": "~{\"name\": \"Kevin Ritter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phillip M. Robinson, Jr.",
+      "voter_id": "~{\"name\": \"Phillip M. Robinson, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Roemer",
+      "voter_id": "~{\"name\": \"Bill Roemer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jean Schmidt",
+      "voter_id": "~{\"name\": \"Jean Schmidt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Veronica R. Sims",
+      "voter_id": "~{\"name\": \"Veronica R. Sims\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Thomas",
+      "voter_id": "~{\"name\": \"Jim Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrea White",
+      "voter_id": "~{\"name\": \"Andrea White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bernard Willis",
+      "voter_id": "~{\"name\": \"Bernard Willis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tom Young",
+      "voter_id": "~{\"name\": \"Tom Young\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 28
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb54/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB54:112189"
+}

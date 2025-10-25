@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "8ef1ad02-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 228",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Thomas F. Patton",
+      "voter_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nickie J. Antonio",
+      "voter_id": "~{\"name\": \"Nickie J. Antonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian M. Chavez",
+      "voter_id": "~{\"name\": \"Brian M. Chavez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Reineke",
+      "voter_id": "~{\"name\": \"Bill Reineke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jane M. Timken",
+      "voter_id": "~{\"name\": \"Jane M. Timken\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb228/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB228:759829"
+}

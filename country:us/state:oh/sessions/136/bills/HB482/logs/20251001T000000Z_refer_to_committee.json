@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Refer to Committee",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "House Transportation Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 482"
+}

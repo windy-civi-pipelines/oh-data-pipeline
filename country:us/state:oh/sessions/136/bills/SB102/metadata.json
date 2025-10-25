@@ -1,0 +1,102 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 102",
+  "title": "Enact the Gus Frangos Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts and Civil Law",
+    "Housing and Real Property",
+    "Local Government",
+    "State and Local Government",
+    "Taxation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 319.48, 319.54, 321.261, 321.263, 321.343, 323.25, 323.26, 323.28, 323.31, 323.33, 323.47, 323.65, 323.66, 323.67, 323.68, 323.69, 323.691, 323.70, 323.71, 323.72, 323.73, 323.75, 323.76, 323.77, 323.78, 323.79, 505.86, 715.261, 721.28, 1721.10, 1724.02, 2329.153, 3737.87, 3745.11, 3767.41, 5709.12, 5709.91, 5709.911, 5713.083, 5715.02, 5721.01, 5721.02, 5721.03, 5721.04, 5721.06, 5721.13, 5721.17, 5721.18, 5721.19, 5721.192, 5721.20, 5721.25, 5721.26, 5721.30, 5721.32, 5721.33, 5721.37, 5722.01, 5722.02, 5722.03, 5722.031, 5722.04, 5722.05, 5722.06, 5722.07, 5722.08, 5722.10, 5722.11, 5722.14, 5722.15, 5722.21, 5722.22, 5723.01, 5723.03, 5723.04, 5723.05, 5723.06, 5723.10, 5723.12, 5723.13, 5723.18, and 5739.02; to enact sections 5709.58, 5721.183, 5721.193, and 5723.20; and to repeal sections 323.74, 5721.14, 5721.15, 5721.16, 5722.09, and 5722.13 of the Revised Code to make changes to the law relating to tax foreclosures and county land reutilization corporations, and to name this act the Gus Frangos Act."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-02-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas Patton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas Patton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb102/IN/00/sb102_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb102",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb102/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 446",
+  "title": "Modify trust and probate laws",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Courts",
+    "Courts and Civil Law",
+    "Courts and Civil Law",
+    "Courts and Civil Law",
+    "State and Local Government"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1336.04, 1336.05, 1336.09, 1337.34, 1337.36, 1337.42, 1337.52, 2117.02, 5701.11, 5801.04, 5801.07, 5806.02, 5806.03, 5808.19, 5810.08, 5812.43, 5815.25, and 5816.11; to enact sections 5808.161, 5818.01, 5818.011, 5818.02, 5818.03, 5818.04, 5818.05, 5818.06, 5818.07, 5818.08, 5818.09, 5818.10, 5818.11, 5818.12, 5818.13, 5818.14, 5818.15, 5818.16, 5818.17, 5818.18, 5818.19, 5818.20, 5818.21, 5818.22, 5818.23, 5818.24, 5818.25, 5818.26, 5818.27, 5818.28, 5818.29, 5818.30, 5818.31, 5818.32, and 5818.33; and to repeal section 5808.08 of the Revised Code to modify trust and probate laws."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-09-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-10-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adam Mathews, A.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Adam Mathews, A.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Stewart",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Stewart\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb446/IN/00/hb446_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb446",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb446/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "line item veto receipt",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 96"
+}

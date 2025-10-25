@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Introduced and Referred to Committee",
+    "date": "2025-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Government Oversight Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HCR 8"
+}

@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-03-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "951cecb0-b153-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SCR 3",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Kyle Koehler",
+      "voter_id": "~{\"name\": \"Kyle Koehler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephen A. Huffman",
+      "voter_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George F. Lang",
+      "voter_id": "~{\"name\": \"George F. Lang\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Catherine D. Ingram",
+      "voter_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Willis E. Blackshear, Jr.",
+      "voter_id": "~{\"name\": \"Willis E. Blackshear, Jr.\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/resolutions/scr3/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SCR3:303531"
+}

@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-13",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "e3dfe278-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 158",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andrew O. Brenner",
+      "voter_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Catherine D. Ingram",
+      "voter_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephen A. Huffman",
+      "voter_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Koehler",
+      "voter_id": "~{\"name\": \"Kyle Koehler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb158/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB158:462642"
+}

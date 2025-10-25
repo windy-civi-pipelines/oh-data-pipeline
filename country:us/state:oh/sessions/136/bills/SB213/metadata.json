@@ -1,0 +1,107 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 213",
+  "title": "License traffic law photo-monitoring device companies; levy a tax",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Civil Law",
+    "Commerce",
+    "Courts and Civil Law",
+    "Motor Vehicles",
+    "Occupational Licensing and Regulation",
+    "Taxation",
+    "Traffic Offenses",
+    "Transportation",
+    "Transportation",
+    "Transportation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 131.02, 715.013, 4303.26, 4501.06, 4511.092, 4511.096, 4511.0911, 5703.052, 5703.053, 5703.19, 5703.263, 5703.50, 5703.70, and 5703.77 and to enact sections 4787.01, 4787.02, 4787.03, 4787.04, 4787.05, 4787.06, 4787.99, 5755.01, 5755.02, 5755.03, 5755.04, 5755.05, 5755.06, 5755.07, 5755.071, 5755.08, 5755.09, 5755.10, 5755.11, 5755.12, 5755.13, 5755.14, and 5755.99 of the Revised Code to license companies that sell, provide, install, or otherwise manage traffic law photo-monitoring devices in Ohio and to levy a tax on such companies' gross receipts from municipal contracts."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-06-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-06-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Thomas Patton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Thomas Patton\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb213/IN/00/sb213_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb213",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb213/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

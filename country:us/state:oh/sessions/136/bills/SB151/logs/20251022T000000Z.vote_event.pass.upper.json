@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "9bcd1868-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 151",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Shane Wilkin",
+      "voter_id": "~{\"name\": \"Shane Wilkin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Reineke",
+      "voter_id": "~{\"name\": \"Bill Reineke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William P. DeMora",
+      "voter_id": "~{\"name\": \"William P. DeMora\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Willis E. Blackshear, Jr.",
+      "voter_id": "~{\"name\": \"Willis E. Blackshear, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew O. Brenner",
+      "voter_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian M. Chavez",
+      "voter_id": "~{\"name\": \"Brian M. Chavez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theresa Gavarone",
+      "voter_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Susan Manchester",
+      "voter_id": "~{\"name\": \"Susan Manchester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Romanchuk",
+      "voter_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Wilson",
+      "voter_id": "~{\"name\": \"Steve Wilson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb151/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB151:759837"
+}

@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-06-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "cdc2f194-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 259",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bernard Willis",
+      "voter_id": "~{\"name\": \"Bernard Willis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Grim",
+      "voter_id": "~{\"name\": \"Michele Grim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roy Klopfenstein",
+      "voter_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riordan T. McClain",
+      "voter_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin D. Miller",
+      "voter_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Pizzulli",
+      "voter_id": "~{\"name\": \"Justin Pizzulli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Monica Robb Blasdel",
+      "voter_id": "~{\"name\": \"Monica Robb Blasdel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elgin Rogers, Jr.",
+      "voter_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb259/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB259:638281"
+}

@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-01",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "e577cbb8-b152-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HCR 23",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty D. Mathews",
+      "voter_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith R. Lawson-Rowe",
+      "voter_id": "~{\"name\": \"Meredith R. Lawson-Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael D. Dovilla",
+      "voter_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haraz N. Ghanbari",
+      "voter_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derrick Hall",
+      "voter_id": "~{\"name\": \"Derrick Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Holmes",
+      "voter_id": "~{\"name\": \"Adam Holmes\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lauren McNally",
+      "voter_id": "~{\"name\": \"Lauren McNally\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ty Moore",
+      "voter_id": "~{\"name\": \"Ty Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecil Thomas",
+      "voter_id": "~{\"name\": \"Cecil Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bernard Willis",
+      "voter_id": "~{\"name\": \"Bernard Willis\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/resolutions/hcr23/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HCR23:704844"
+}

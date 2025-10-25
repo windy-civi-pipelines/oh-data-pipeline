@@ -1,0 +1,111 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 190",
+  "title": "Enact A Good Deal for Ohio Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Economic Development",
+    "Education",
+    "Finance and Appropriations",
+    "Housing and Real Property",
+    "Primary and Secondary Education",
+    "Taxation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 122.175, 131.44, 131.51, 319.30, 319.301, 319.54, 321.24, 321.26, 323.08, 323.152, 323.155, 323.158, 351.01, 351.021, 353.06, 718.83, 1509.01, 1509.02, 1509.11, 1509.34, 1513.08, 1513.182, 3301.91, 3313.819, 3354.24, 3354.25, 4503.06, 4503.065, 5703.021, 5703.052, 5703.19, 5703.80, 5709.92, 5709.93, 5715.19, 5715.30, 5739.01, 5739.02, 5739.03, 5739.05, 5739.08, 5739.09, 5739.091, 5741.01, 5747.01, 5747.02, 5747.03, 5747.031, 5747.08, 5747.10, 5747.38, 5747.41, 5747.71, 5747.98, 5749.01, 5749.02, 5749.04, 5749.06, 5749.07, 5749.08, 5749.10, 5749.11, 5749.12, 5749.13, 5749.14, 5749.15, 5751.01, and 5751.20; to enact section 5747.87; and to repeal sections 319.302, 1509.50, 5739.41, and 5751.40 of the Revised Code and to amend Section 259.30 of H.B. 33 of the 135th General Assembly to modify the law governing property, income, sales and use, severance, and lodging taxes; to provide breakfast and lunch at no cost to public and chartered nonpublic school students; to increase the Local Government Fund; to modify funding for the Low- and Moderate-income Housing Trust Fund; and to name this act A Good Deal for Ohio."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-05-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Finance Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:52Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Louis Blessing",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Louis Blessing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Smith",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kent Smith\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb190/IN/00/sb190_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb190",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb190/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:52Z"
+  }
+}

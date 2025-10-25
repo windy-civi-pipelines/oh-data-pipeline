@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "d164965e-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 57",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sarah Fowler Arthur",
+      "voter_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Odioso",
+      "voter_id": "~{\"name\": \"Mike Odioso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phillip M. Robinson, Jr.",
+      "voter_id": "~{\"name\": \"Phillip M. Robinson, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sean P. Brennan",
+      "voter_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Don Jones",
+      "voter_id": "~{\"name\": \"Don Jones\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joseph A. Miller, III",
+      "voter_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnathan Newman",
+      "voter_id": "~{\"name\": \"Johnathan Newman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin Ritter",
+      "voter_id": "~{\"name\": \"Kevin Ritter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim Thomas",
+      "voter_id": "~{\"name\": \"Jim Thomas\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb57/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB57:388965"
+}

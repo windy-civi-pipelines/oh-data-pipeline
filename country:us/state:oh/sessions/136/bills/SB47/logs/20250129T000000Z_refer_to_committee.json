@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Refer to Committee",
+    "date": "2025-01-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Senate Education Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 47"
+}

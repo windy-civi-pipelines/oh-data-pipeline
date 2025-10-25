@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "c7f1ed7c-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 41",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Andrea White",
+      "voter_id": "~{\"name\": \"Andrea White\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jodi Salvo",
+      "voter_id": "~{\"name\": \"Jodi Salvo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crystal Lett",
+      "voter_id": "~{\"name\": \"Crystal Lett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darnell T. Brewer",
+      "voter_id": "~{\"name\": \"Darnell T. Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Brownlee",
+      "voter_id": "~{\"name\": \"Karen Brownlee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melanie Miller",
+      "voter_id": "~{\"name\": \"Melanie Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Odioso",
+      "voter_id": "~{\"name\": \"Mike Odioso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sharon A. Ray",
+      "voter_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Gary Click",
+      "voter_id": "~{\"name\": \"Gary Click\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Sarah Fowler Arthur",
+      "voter_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 2
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb41/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB41:521795"
+}

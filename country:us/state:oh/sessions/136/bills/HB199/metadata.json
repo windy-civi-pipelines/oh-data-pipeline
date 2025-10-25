@@ -1,0 +1,149 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 199",
+  "title": "Revise law governing all-purpose vehicles, other utility vehicles",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Drivers' Licenses",
+    "Motor Vehicles",
+    "Public Safety",
+    "Traffic Offenses",
+    "Transportation",
+    "Transportation",
+    "Transportation",
+    "Transportation",
+    "Transportation",
+    "Transportation",
+    "Vehicle Equipment",
+    "Vehicle Registration and Titling"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1531.01, 1533.01, 1533.103, 1533.18, 2131.12, 2131.13, 2744.01, 2911.21, 2921.331, 2923.16, 4501.01, 4501.13, 4503.01, 4503.038, 4503.04, 4503.10, 4503.191, 4503.312, 4504.01, 4505.01, 4505.06, 4505.09, 4505.11, 4510.036, 4511.01, 4511.214, 4511.713, 4513.02, 4513.221, 4513.263, 4517.01, 4519.01, 4519.02, 4519.03, 4519.031, 4519.04, 4519.05, 4519.08, 4519.09, 4519.10, 4519.11, 4519.20, 4519.21, 4519.22, 4519.401, 4519.41, 4519.42, 4519.43, 4519.44, 4519.45, 4519.46, 4519.47, 4519.48, 4519.511, 4519.512, 4519.52, 4519.521, 4519.53, 4519.54, 4519.55, 4519.551, 4519.56, 4519.57, 4519.58, 4519.59, 4519.60, 4519.61, 4519.62, 4519.63, 4519.631, 4519.64, 4519.65, 4519.66, 4519.67, 4519.68, 4519.69, 4519.70, 5553.044, 5739.02, and 5815.36; to enact new section 4519.40 and sections 4519.041, 4519.23, 4519.402, 4519.403, and 4519.99; and to repeal sections 4511.215, 4511.216, and 4519.40 of the Revised Code to make changes to the laws governing all-purpose vehicles, off-highway motorcycles, snowmobiles, utility vehicles, and mini-trucks."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Transportation Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kevin Miller, K.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kevin Miller, K.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil  Plummer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Phil  Plummer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Hall, T.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Hall, T.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Stephens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Stephens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roy Klopfenstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb199/IN/00/hb199_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb199",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb199/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

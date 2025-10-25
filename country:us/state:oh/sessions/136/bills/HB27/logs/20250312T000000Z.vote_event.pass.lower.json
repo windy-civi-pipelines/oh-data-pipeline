@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-03-12",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "a0da26ca-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 27",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Bernard Willis",
+      "voter_id": "~{\"name\": \"Bernard Willis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Roy Klopfenstein",
+      "voter_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riordan T. McClain",
+      "voter_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin D. Miller",
+      "voter_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnathan Newman",
+      "voter_id": "~{\"name\": \"Johnathan Newman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Justin Pizzulli",
+      "voter_id": "~{\"name\": \"Justin Pizzulli\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elgin Rogers, Jr.",
+      "voter_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Daniel P. Troy",
+      "voter_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb27/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB27:286645"
+}

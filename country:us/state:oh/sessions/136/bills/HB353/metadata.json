@@ -1,0 +1,109 @@
+{
+  "legislative_session": "136",
+  "identifier": "HB 353",
+  "title": "Change title used by physician assistants to physician associate",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health Care",
+    "Health and Human Services",
+    "Health and Human Services",
+    "Occupational Licensing and Regulation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 1.64, 124.32, 124.41, 124.42, 124.50, 503.45, 503.47, 505.38, 709.012, 737.15, 737.16, 737.22, 742.38, 911.11, 1337.11, 1349.05, 1561.26, 1751.01, 1785.01, 2108.61, 2133.01, 2133.211, 2135.01, 2151.3515, 2151.53, 2305.113, 2305.234, 2305.2311, 2305.41, 2305.51, 2711.22, 2743.62, 2907.01, 2907.13, 2907.29, 2909.04, 2921.22, 2925.01, 3107.12, 3111.91, 3301.531, 3313.5310, 3313.7112, 3313.7117, 3319.13, 3327.10, 3331.02, 3331.07, 3701.046, 3701.23, 3701.25, 3701.36, 3701.59, 3701.615, 3701.74, 3701.90, 3701.92, 3701.928, 3701.941, 3709.161, 3715.50, 3715.501, 3715.502, 3715.503, 3715.872, 3719.06, 3719.064, 3719.12, 3719.121, 3719.81, 3721.21, 3727.06, 3728.01, 3792.05, 3795.01, 3919.29, 3963.01, 4503.44, 4507.20, 4715.30, 4723.01, 4723.18, 4723.181, 4723.72, 4723.73, 4729.01, 4729.39, 4730.02, 4730.03, 4730.04, 4730.05, 4730.06, 4730.07, 4730.08, 4730.10, 4730.101, 4730.11, 4730.111, 4730.12, 4730.13, 4730.14, 4730.141, 4730.15, 4730.19, 4730.20, 4730.201, 4730.202, 4730.203, 4730.204, 4730.21, 4730.22, 4730.25, 4730.251, 4730.252, 4730.26, 4730.27, 4730.28, 4730.31, 4730.32, 4730.33, 4730.34, 4730.38, 4730.39, 4730.41, 4730.411, 4730.42, 4730.43, 4730.432, 4730.433, 4730.437, 4730.44, 4730.49, 4730.53, 4730.55, 4730.56, 4730.57, 4730.60, 4731.053, 4731.054, 4731.22, 4731.2210, 4731.25, 4731.297, 4731.33, 4731.37, 4743.09, 4755.48, 4755.623, 4761.01, 4761.11, 4761.17, 4765.01, 4765.35, 4765.36, 4765.37, 4765.38, 4765.39, 4765.49, 4765.51, 4769.01, 4933.122, 5101.19, 5103.0327, 5104.0110, 5104.037, 5119.185, 5119.363, 5123.47, 5164.072, 5164.301, 5164.95, and 5503.08 and to enact section 4730.011 of the Revised Code to change the professional title used by physician assistants to \"physician associate.\""
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-06-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Health Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brian Lampton",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brian Lampton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gayle Manning",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gayle Manning\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb353/IN/00/hb353_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/hb353",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/hb353/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

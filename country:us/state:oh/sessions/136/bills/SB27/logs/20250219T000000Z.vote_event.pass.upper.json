@@ -1,0 +1,78 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-02-19",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "8831c51a-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 27",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Terry Johnson",
+      "voter_id": "~{\"name\": \"Terry Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Catherine D. Ingram",
+      "voter_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Susan Manchester",
+      "voter_id": "~{\"name\": \"Susan Manchester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristina D. Roegner",
+      "voter_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Romanchuk",
+      "voter_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb27/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB27:87562"
+}

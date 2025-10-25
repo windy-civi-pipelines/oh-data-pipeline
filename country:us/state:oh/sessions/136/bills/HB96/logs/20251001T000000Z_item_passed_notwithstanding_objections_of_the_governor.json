@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Item passed notwithstanding objections of the Governor",
+    "date": "2025-10-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 96"
+}

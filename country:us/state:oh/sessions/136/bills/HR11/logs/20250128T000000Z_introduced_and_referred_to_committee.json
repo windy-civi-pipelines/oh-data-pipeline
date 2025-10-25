@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Introduced and Referred to Committee",
+    "date": "2025-01-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Public Safety Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HR 11"
+}

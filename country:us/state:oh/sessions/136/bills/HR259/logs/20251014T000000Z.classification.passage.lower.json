@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Adopted",
+    "date": "2025-10-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 259"
+}

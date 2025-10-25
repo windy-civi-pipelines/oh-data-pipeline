@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Effective 8/14/25",
+    "date": "2025-08-14T04:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 15"
+}

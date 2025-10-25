@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "84fc35c2-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 86",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "James M. Hoops",
+      "voter_id": "~{\"name\": \"James M. Hoops\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lorenz",
+      "voter_id": "~{\"name\": \"Brian Lorenz\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Levi Dean",
+      "voter_id": "~{\"name\": \"Levi Dean\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Demetriou",
+      "voter_id": "~{\"name\": \"Steve Demetriou\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tex Fischer",
+      "voter_id": "~{\"name\": \"Tex Fischer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chris Glassburn",
+      "voter_id": "~{\"name\": \"Chris Glassburn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Johnson",
+      "voter_id": "~{\"name\": \"Mark Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff LaRe",
+      "voter_id": "~{\"name\": \"Jeff LaRe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Sigrist",
+      "voter_id": "~{\"name\": \"Mark Sigrist\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terrence Upchurch",
+      "voter_id": "~{\"name\": \"Terrence Upchurch\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb86/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB86:543071"
+}

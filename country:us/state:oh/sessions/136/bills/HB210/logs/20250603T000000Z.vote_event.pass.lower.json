@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-06-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "c6c3999c-b150-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 210",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cindy Abrams",
+      "voter_id": "~{\"name\": \"Cindy Abrams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin D. Miller",
+      "voter_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cecil Thomas",
+      "voter_id": "~{\"name\": \"Cecil Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darnell T. Brewer",
+      "voter_id": "~{\"name\": \"Darnell T. Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haraz N. Ghanbari",
+      "voter_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas Hall",
+      "voter_id": "~{\"name\": \"Thomas Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Latyna M. Humphrey",
+      "voter_id": "~{\"name\": \"Latyna M. Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff LaRe",
+      "voter_id": "~{\"name\": \"Jeff LaRe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb210/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB210:611484"
+}

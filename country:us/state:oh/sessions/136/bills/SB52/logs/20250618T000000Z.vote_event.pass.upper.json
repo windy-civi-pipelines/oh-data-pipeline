@@ -1,0 +1,234 @@
+{
+  "identifier": "",
+  "motion_text": "Pass",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2025-06-18",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "ec88ed94-b150-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 52",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sandra O'Brien",
+      "voter_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rob McColley",
+      "voter_id": "~{\"name\": \"Rob McColley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theresa Gavarone",
+      "voter_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "George F. Lang",
+      "voter_id": "~{\"name\": \"George F. Lang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephen A. Huffman",
+      "voter_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Willis E. Blackshear, Jr.",
+      "voter_id": "~{\"name\": \"Willis E. Blackshear, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Wilson",
+      "voter_id": "~{\"name\": \"Steve Wilson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Catherine D. Ingram",
+      "voter_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kyle Koehler",
+      "voter_id": "~{\"name\": \"Kyle Koehler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paula Hicks-Hudson",
+      "voter_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Susan Manchester",
+      "voter_id": "~{\"name\": \"Susan Manchester\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry Johnson",
+      "voter_id": "~{\"name\": \"Terry Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hearcel F. Craig",
+      "voter_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Shane Wilkin",
+      "voter_id": "~{\"name\": \"Shane Wilkin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jerry C. Cirino",
+      "voter_id": "~{\"name\": \"Jerry C. Cirino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrew O. Brenner",
+      "voter_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Romanchuk",
+      "voter_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nickie J. Antonio",
+      "voter_id": "~{\"name\": \"Nickie J. Antonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas F. Patton",
+      "voter_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William P. DeMora",
+      "voter_id": "~{\"name\": \"William P. DeMora\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Reineke",
+      "voter_id": "~{\"name\": \"Bill Reineke\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristina D. Roegner",
+      "voter_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Casey Weinstein",
+      "voter_id": "~{\"name\": \"Casey Weinstein\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Landis",
+      "voter_id": "~{\"name\": \"Al Landis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Cutrona",
+      "voter_id": "~{\"name\": \"Al Cutrona\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian M. Chavez",
+      "voter_id": "~{\"name\": \"Brian M. Chavez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jane M. Timken",
+      "voter_id": "~{\"name\": \"Jane M. Timken\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 32
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb52/votes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB52:654750"
+}

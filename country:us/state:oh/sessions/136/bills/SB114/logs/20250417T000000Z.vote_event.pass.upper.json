@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-04-17",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "10734844-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 114",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Reynolds",
+      "voter_id": "~{\"name\": \"Michele Reynolds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Paula Hicks-Hudson",
+      "voter_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theresa Gavarone",
+      "voter_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Cutrona",
+      "voter_id": "~{\"name\": \"Al Cutrona\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kent Smith",
+      "voter_id": "~{\"name\": \"Kent Smith\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb114/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB114:633105"
+}

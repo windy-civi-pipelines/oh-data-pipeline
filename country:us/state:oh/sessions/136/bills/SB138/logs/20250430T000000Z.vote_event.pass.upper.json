@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "38b45546-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 138",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Al Landis",
+      "voter_id": "~{\"name\": \"Al Landis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terry Johnson",
+      "voter_id": "~{\"name\": \"Terry Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Willis E. Blackshear, Jr.",
+      "voter_id": "~{\"name\": \"Willis E. Blackshear, Jr.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Al Cutrona",
+      "voter_id": "~{\"name\": \"Al Cutrona\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nathan H. Manning",
+      "voter_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sandra O'Brien",
+      "voter_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Casey Weinstein",
+      "voter_id": "~{\"name\": \"Casey Weinstein\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb138/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB138:633177"
+}

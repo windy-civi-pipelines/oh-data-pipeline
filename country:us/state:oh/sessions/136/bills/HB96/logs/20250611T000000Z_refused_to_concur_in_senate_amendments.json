@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Refused to concur in Senate amendments",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 96"
+}

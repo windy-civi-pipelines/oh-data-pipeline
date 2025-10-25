@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "50537dbc-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 20",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jean Schmidt",
+      "voter_id": "~{\"name\": \"Jean Schmidt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kellie Deeter",
+      "voter_id": "~{\"name\": \"Kellie Deeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anita Somani",
+      "voter_id": "~{\"name\": \"Anita Somani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rachel B. Baker",
+      "voter_id": "~{\"name\": \"Rachel B. Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Barhorst",
+      "voter_id": "~{\"name\": \"Tim Barhorst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Brownlee",
+      "voter_id": "~{\"name\": \"Karen Brownlee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michele Grim",
+      "voter_id": "~{\"name\": \"Michele Grim\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Gross",
+      "voter_id": "~{\"name\": \"Jennifer Gross\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Angela N. King",
+      "voter_id": "~{\"name\": \"Angela N. King\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Stewart",
+      "voter_id": "~{\"name\": \"Brian Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Andrea White",
+      "voter_id": "~{\"name\": \"Andrea White\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb20/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB20:427019"
+}

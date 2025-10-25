@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "c36d72d0-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 98",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tom Young",
+      "voter_id": "~{\"name\": \"Tom Young\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin Ritter",
+      "voter_id": "~{\"name\": \"Kevin Ritter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michael D. Dovilla",
+      "voter_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gayle Manning",
+      "voter_id": "~{\"name\": \"Gayle Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy M. Richardson",
+      "voter_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Nick Santucci",
+      "voter_id": "~{\"name\": \"Nick Santucci\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Desiree Tims",
+      "voter_id": "~{\"name\": \"Desiree Tims\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Williams",
+      "voter_id": "~{\"name\": \"Josh Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Heidi Workman",
+      "voter_id": "~{\"name\": \"Heidi Workman\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb98/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB98:521789"
+}

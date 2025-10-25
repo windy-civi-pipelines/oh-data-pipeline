@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Offered",
+    "date": "2025-02-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction",
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 7"
+}

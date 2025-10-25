@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-05-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "d34481dc-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 144",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Gary Click",
+      "voter_id": "~{\"name\": \"Gary Click\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Diane Mullins",
+      "voter_id": "~{\"name\": \"Diane Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Darnell T. Brewer",
+      "voter_id": "~{\"name\": \"Darnell T. Brewer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Karen Brownlee",
+      "voter_id": "~{\"name\": \"Karen Brownlee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sarah Fowler Arthur",
+      "voter_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Gross",
+      "voter_id": "~{\"name\": \"Jennifer Gross\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "James M. Hoops",
+      "voter_id": "~{\"name\": \"James M. Hoops\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Latyna M. Humphrey",
+      "voter_id": "~{\"name\": \"Latyna M. Humphrey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith R. Lawson-Rowe",
+      "voter_id": "~{\"name\": \"Meredith R. Lawson-Rowe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnathan Newman",
+      "voter_id": "~{\"name\": \"Johnathan Newman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jodi Salvo",
+      "voter_id": "~{\"name\": \"Jodi Salvo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "D. J. Swearingen",
+      "voter_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Teska",
+      "voter_id": "~{\"name\": \"Michelle Teska\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb144/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB144:521785"
+}

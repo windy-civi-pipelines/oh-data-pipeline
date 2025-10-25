@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "8d9c26fe-b153-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HR 13",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sharon A. Ray",
+      "voter_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tex Fischer",
+      "voter_id": "~{\"name\": \"Tex Fischer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gayle Manning",
+      "voter_id": "~{\"name\": \"Gayle Manning\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riordan T. McClain",
+      "voter_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin D. Miller",
+      "voter_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Synenberg",
+      "voter_id": "~{\"name\": \"Eric Synenberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Desiree Tims",
+      "voter_id": "~{\"name\": \"Desiree Tims\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Munira Abdullahi",
+      "voter_id": "~{\"name\": \"Munira Abdullahi\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 1
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/resolutions/hr13/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HR13:368437"
+}

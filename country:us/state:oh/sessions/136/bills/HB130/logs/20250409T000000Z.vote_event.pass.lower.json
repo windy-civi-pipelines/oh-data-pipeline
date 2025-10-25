@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-04-09",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "fd021cc6-b151-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 130",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jennifer Gross",
+      "voter_id": "~{\"name\": \"Jennifer Gross\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Barhorst",
+      "voter_id": "~{\"name\": \"Tim Barhorst\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rachel B. Baker",
+      "voter_id": "~{\"name\": \"Rachel B. Baker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Meredith Craig",
+      "voter_id": "~{\"name\": \"Meredith Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ron Ferguson",
+      "voter_id": "~{\"name\": \"Ron Ferguson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Derrick Hall",
+      "voter_id": "~{\"name\": \"Derrick Hall\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crystal Lett",
+      "voter_id": "~{\"name\": \"Crystal Lett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Diane Mullins",
+      "voter_id": "~{\"name\": \"Diane Mullins\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Oelslager",
+      "voter_id": "~{\"name\": \"Scott Oelslager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bill Roemer",
+      "voter_id": "~{\"name\": \"Bill Roemer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anita Somani",
+      "voter_id": "~{\"name\": \"Anita Somani\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jason Stephens",
+      "voter_id": "~{\"name\": \"Jason Stephens\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 13
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb130/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB130:368439"
+}

@@ -1,0 +1,100 @@
+{
+  "legislative_session": "136",
+  "identifier": "SB 197",
+  "title": "Legalize, tax internet gambling; make other Gambling Law changes",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gambling",
+    "Occupational Licensing and Regulation",
+    "Taxation"
+  ],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "long title",
+      "title": "To amend sections 109.32, 109.572, 119.12, 121.95, 131.02, 173.121, 718.031, 959.05, 1309.109, 1711.09, 1716.21, 2915.01, 2915.02, 2915.06, 2915.061, 2915.08, 2915.081, 2915.082, 2915.09, 2915.091, 2915.092, 2915.093, 2915.094, 2915.095, 2915.10, 2915.101, 2915.11, 2915.12, 2915.13, 2915.14, 2915.15, 2923.121, 2927.21, 2933.51, 3123.89, 3123.90, 3517.091, 3763.01, 3769.03, 3769.031, 3769.04, 3769.041, 3769.05, 3769.06, 3769.07, 3769.071, 3769.072, 3769.08, 3769.082, 3769.083, 3769.084, 3769.085, 3769.087, 3769.089, 3769.0810, 3769.09, 3769.091, 3769.10, 3769.101, 3769.12, 3769.13, 3769.131, 3769.14, 3769.20, 3769.201, 3769.21, 3769.22, 3769.25, 3769.26, 3769.27, 3770.02, 3770.03, 3770.05, 3770.06, 3770.07, 3770.071, 3770.072, 3770.073, 3770.08, 3770.10, 3770.13, 3770.21, 3770.24, 3770.25, 3770.99, 3772.01, 3772.02, 3772.03, 3772.031, 3772.04, 3772.062, 3772.07, 3772.09, 3772.091, 3772.10, 3772.13, 3772.131, 3772.15, 3772.16, 3772.17, 3772.18, 3772.23, 3772.31, 3772.37, 3772.99, 3774.01, 3774.02, 3774.03, 3774.04, 3774.09, 3775.01, 3775.02, 3775.03, 3775.06, 3775.09, 3775.10, 3775.11, 3775.13, 3775.99, 4301.03, 4301.58, 4303.17, 5701.11, 5747.01, 5747.02, 5747.062, 5747.063, 5747.08, 5747.12, 5747.20, 5751.01, 5753.01, 5753.021, 5753.03, 5753.031, and 5907.18; to amend, for the purpose of adopting new section numbers as indicated in parentheses, sections 173.121 (3768.20), 2915.06 (3777.03), 2915.061 (3777.04), 2915.07 (3768.18), 2915.08 (3768.04), 2915.081 (3768.16), 2915.082 (3768.17), 2915.09 (3768.05), 2915.091 (3768.06), 2915.092 (3768.02), 2915.093 (3768.07), 2915.094 (3768.08), 2915.095 (3768.09), 2915.10 (3768.14), 2915.101 (3768.13), 2915.11 (3768.15), 2915.12 (3768.19), 2915.13 (3768.10), 2915.14 (3768.11), 2915.15 (3768.12), 3769.01 (3769.02), 3770.01 (3770.011), 3770.10 (3770.01), and 5907.18 (3768.21); to enact new section 3769.01 and sections 3768.01, 3768.03, 3768.22, 3768.23, 3769.081, 3769.11, 3769.99, 3770.211, 3770.212, 3770.213, 3770.214, 3770.26, 3771.01, 3771.02, 3771.03, 3771.04, 3771.05, 3771.06, 3771.07, 3771.08, 3771.09, 3771.10, 3771.11, 3771.12, 3771.13, 3771.99, 3772.113, 3772.132, 3772.221, 3772.231, 3772.28, 3772.281, 3772.311, 3772.312, 3772.313, 3772.314, 3772.315, 3772.316, 3772.317, 3772.38, 3772.39, 3772.40, 3772.41, 3772.98, 3777.01, 3777.02, 3777.05, 3777.06, 5753.022, and 5753.032; and to repeal sections 3769.02, 3769.021, 3770.23, 3772.25, 3775.16, and 5747.064 of the Revised Code to legalize internet gambling and levy a tax on businesses that provide internet gambling, to permit internet lottery gaming and online wagering on horse racing, to make other changes to the Gambling Law, and to make an appropriation."
+    }
+  ],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Introduced",
+      "date": "2025-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    },
+    {
+      "description": "Refer to Committee",
+      "date": "2025-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Select Committee on Gaming Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:39:53Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nathan Manning",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Nathan Manning\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb197/IN/00/sb197_00_IN?format=pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legislature.ohio.gov/legislation/136/sb197",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136//bills/sb197/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:oh/government",
+    "name": "Ohio",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:oh"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:39:53Z"
+  }
+}

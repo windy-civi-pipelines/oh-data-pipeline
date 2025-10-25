@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "abb21788-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 268",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Haraz N. Ghanbari",
+      "voter_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Levi Dean",
+      "voter_id": "~{\"name\": \"Levi Dean\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Terrence Upchurch",
+      "voter_id": "~{\"name\": \"Terrence Upchurch\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jack K. Daniels",
+      "voter_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Hiner",
+      "voter_id": "~{\"name\": \"Mark Hiner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Matthew Kishman",
+      "voter_id": "~{\"name\": \"Matthew Kishman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Lampton",
+      "voter_id": "~{\"name\": \"Brian Lampton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crystal Lett",
+      "voter_id": "~{\"name\": \"Crystal Lett\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mark Sigrist",
+      "voter_id": "~{\"name\": \"Mark Sigrist\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Michelle Teska",
+      "voter_id": "~{\"name\": \"Michelle Teska\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 10
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb268/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB268:759960"
+}

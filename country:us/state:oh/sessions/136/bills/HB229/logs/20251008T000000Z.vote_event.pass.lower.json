@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-08",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "dab8646a-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "HB 229",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Sharon A. Ray",
+      "voter_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jeff LaRe",
+      "voter_id": "~{\"name\": \"Jeff LaRe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Juanita O. Brent",
+      "voter_id": "~{\"name\": \"Juanita O. Brent\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam C. Bird",
+      "voter_id": "~{\"name\": \"Adam C. Bird\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ashley Bryant Bailey",
+      "voter_id": "~{\"name\": \"Ashley Bryant Bailey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Marilyn John",
+      "voter_id": "~{\"name\": \"Marilyn John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riordan T. McClain",
+      "voter_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kevin D. Miller",
+      "voter_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Oelslager",
+      "voter_id": "~{\"name\": \"Scott Oelslager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C. Allison Russo",
+      "voter_id": "~{\"name\": \"C. Allison Russo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Eric Synenberg",
+      "voter_id": "~{\"name\": \"Eric Synenberg\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/hb229/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "HB229:726077"
+}

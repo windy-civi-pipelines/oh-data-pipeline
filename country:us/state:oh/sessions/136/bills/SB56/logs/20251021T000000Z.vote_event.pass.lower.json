@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-10-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "136",
+  "bill": "a258171e-b14f-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 56",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Jim Thomas",
+      "voter_id": "~{\"name\": \"Jim Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jamie Callender",
+      "voter_id": "~{\"name\": \"Jamie Callender\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adam Mathews",
+      "voter_id": "~{\"name\": \"Adam Mathews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mike Odioso",
+      "voter_id": "~{\"name\": \"Mike Odioso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Scott Oelslager",
+      "voter_id": "~{\"name\": \"Scott Oelslager\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Phil Plummer",
+      "voter_id": "~{\"name\": \"Phil Plummer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brian Stewart",
+      "voter_id": "~{\"name\": \"Brian Stewart\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Josh Williams",
+      "voter_id": "~{\"name\": \"Josh Williams\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "D. J. Swearingen",
+      "voter_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Eric Synenberg",
+      "voter_id": "~{\"name\": \"Eric Synenberg\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Ismail Mohamed",
+      "voter_id": "~{\"name\": \"Ismail Mohamed\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Beryl Piccolantonio",
+      "voter_id": "~{\"name\": \"Beryl Piccolantonio\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Desiree Tims",
+      "voter_id": "~{\"name\": \"Desiree Tims\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb56/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB56:754748"
+}

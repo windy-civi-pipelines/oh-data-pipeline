@@ -1,0 +1,84 @@
+{
+  "identifier": "",
+  "motion_text": "Reported - Substitute",
+  "motion_classification": [
+    "committee-passage"
+  ],
+  "start_date": "2025-02-11",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "136",
+  "bill": "8f7f6540-b152-11f0-b3fe-6e224c01909e",
+  "bill_action": null,
+  "bill_identifier": "SB 9",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Louis W. Blessing, III",
+      "voter_id": "~{\"name\": \"Louis W. Blessing, III\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kristina D. Roegner",
+      "voter_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "William P. DeMora",
+      "voter_id": "~{\"name\": \"William P. DeMora\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beth Liston",
+      "voter_id": "~{\"name\": \"Beth Liston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sandra O'Brien",
+      "voter_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tim Schaffer",
+      "voter_id": "~{\"name\": \"Tim Schaffer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Steve Wilson",
+      "voter_id": "~{\"name\": \"Steve Wilson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://search-prod.lis.state.oh.us/solarapi/v1/general_assembly_136/bills/sb9/cmtevotes",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "SB9:77554"
+}

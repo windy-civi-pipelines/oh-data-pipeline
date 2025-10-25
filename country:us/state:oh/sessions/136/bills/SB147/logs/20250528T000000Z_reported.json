@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reported",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Community Revitalization Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "SB 147"
+}

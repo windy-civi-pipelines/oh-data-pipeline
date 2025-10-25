@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reported",
+    "date": "2025-06-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "House Judiciary Committee",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 168"
+}
