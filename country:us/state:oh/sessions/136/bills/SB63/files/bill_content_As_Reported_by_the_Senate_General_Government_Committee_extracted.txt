@@ -1,0 +1,1336 @@
+Title: As Reported by the Senate General Government Committee
+Official Title: As Reported by the Senate General Government Committee
+Number of Sections: 25
+Source: versions - As Reported by the Senate General Government Committee
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+136th General Assembly
+Regular Session S. B. No. 63
+2025-2026
+Senators Gavarone, DeMora
+Cosponsor: Senator Huffman
+A BILL
+To amend sections 3501.01 and 5747.502 and to enact 1
+
+Section 2:
+sections 3505.011, 3513.141, 5747.504, and 2
+
+Section 3:
+5747.505 of the Revised Code to generally 3
+prohibit the use of ranked choice voting and to 4
+withhold Local Government Fund distributions 5
+from a municipality or chartered county that 6
+uses ranked choice voting. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 4:
+Section 1. That sections 3501.01 and 5747.502 be amended 8
+and sections 3505.011, 3513.141, 5747.504, and 5747.505 of the 9
+Revised Code be enacted to read as follows: 10
+Sec. 3501.01. As used in the sections of the Revised Code 11
+relating to elections and political communications: 12
+(A) "General election" means the election held on the 13
+first Tuesday after the first Monday in each November. 14
+(B) "Regular municipal election" means the election held 15
+on the first Tuesday after the first Monday in November in each 16
+odd-numbered year. 17
+S. B. No. 63 Page 2
+As Reported by the Senate General Government Committee
+(C) "Regular state election" means the election held on 18
+the first Tuesday after the first Monday in November in each 19
+even-numbered year. 20
+(D) "Special election" means any election other than those 21
+elections defined in other divisions of this section. A special 22
+election may be held only on the first Tuesday after the first 23
+Monday in May or November, on the first Tuesday after the first 24
+Monday in August in accordance with section 3501.022 of the 25
+Revised Code, or on the day authorized by a particular municipal 26
+or county charter for the holding of a primary election, except 27
+that in any year in which a presidential primary election is 28
+held, no special election shall be held in May, except as 29
+authorized by a municipal or county charter, but may be held on 30
+the third Tuesday after the first Monday in March. 31
+(E)(1) "Primary" or "primary election" means an election 32
+held for the purpose of nominating persons as candidates of 33
+political parties for election to offices, and for the purpose 34
+of electing persons as members of the controlling committees of 35
+political parties and as delegates and alternates to the 36
+conventions of political parties. Primary elections shall be 37
+held on the first Tuesday after the first Monday in May of each 38
+year except in years in which a presidential primary election is 39
+held. 40
+(2) "Presidential primary election" means a primary 41
+election as defined by division (E)(1) of this section at which 42
+an election is held for the purpose of choosing delegates and 43
+alternates to the national conventions of the major political 44
+parties pursuant to section 3513.12 of the Revised Code. Unless 45
+otherwise specified, presidential primary elections are included 46
+in references to primary elections. In years in which a 47
+S. B. No. 63 Page 3
+As Reported by the Senate General Government Committee
+presidential primary election is held, all primary elections 48
+shall be held on the third Tuesday after the first Monday in 49
+March except as otherwise authorized by a municipal or county 50
+charter. 51
+(F) "Political party" means any group of voters meeting 52
+the requirements set forth in section 3517.01 of the Revised 53
+Code for the formation and existence of a political party. 54
+(1) "Major political party" means any political party 55
+organized under the laws of this state whose candidate for 56
+governor or nominees for presidential electors received not less 57
+than twenty per cent of the total vote cast for such office at 58
+the most recent regular state election. 59
+(2) "Minor political party" means any political party 60
+organized under the laws of this state that meets either of the 61
+following requirements: 62
+(a) Except as otherwise provided in this division, the 63
+political party's candidate for governor or nominees for 64
+presidential electors received less than twenty per cent but not 65
+less than three per cent of the total vote cast for such office 66
+at the most recent regular state election. A political party 67
+that meets the requirements of this division remains a political 68
+party for a period of four years after meeting those 69
+requirements. 70
+(b) The political party has filed with the secretary of 71
+state, subsequent to its failure to meet the requirements of 72
+division (F)(2)(a) of this section, a petition that meets the 73
+requirements of section 3517.01 of the Revised Code. 74
+A newly formed political party shall be known as a minor 75
+political party until the time of the first election for 76
+S. B. No. 63 Page 4
+As Reported by the Senate General Government Committee
+governor or president which occurs not less than twelve months 77
+subsequent to the formation of such party, after which election 78
+the status of such party shall be determined by the vote for the 79
+office of governor or president. 80
+(G) "Dominant party in a precinct" or "dominant political 81
+party in a precinct" means that political party whose candidate 82
+for election to the office of governor at the most recent 83
+regular state election at which a governor was elected received 84
+more votes than any other person received for election to that 85
+office in such precinct at such election. 86
+(H) "Candidate" means any qualified person certified in 87
+accordance with the provisions of the Revised Code for placement 88
+on the official ballot of a primary, general, or special 89
+election to be held in this state, or any qualified person who 90
+claims to be a write-in candidate, or who knowingly assents to 91
+being represented as a write-in candidate by another at either a 92
+primary, general, or special election to be held in this state. 93
+(I) "Independent candidate" means any candidate who claims 94
+not to be affiliated with a political party, and whose name has 95
+been certified on the office-type ballot at a general or special 96
+election through the filing of a statement of candidacy and 97
+nominating petition, as prescribed in section 3513.257 of the 98
+Revised Code. 99
+(J) "Nonpartisan candidate" means any candidate whose name 100
+is required, pursuant to section 3505.04 of the Revised Code, to 101
+be listed on the nonpartisan ballot, including all candidates 102
+for judge of a municipal court, county court, or court of common 103
+pleas, for member of any board of education, for municipal or 104
+township offices in which primary elections are not held for 105
+nominating candidates by political parties, and for offices of 106
+S. B. No. 63 Page 5
+As Reported by the Senate General Government Committee
+municipal corporations having charters that provide for separate 107
+ballots for elections for these offices. 108
+(K) "Party candidate" means any candidate who claims to be 109
+a member of a political party and who has been certified to 110
+appear on the office-type ballot at a general or special 111
+election as the nominee of a political party because the 112
+candidate has won the primary election of the candidate's party 113
+for the public office the candidate seeks, has been nominated 114
+under section 3517.012, or is selected by party committee in 115
+accordance with section 3513.31 of the Revised Code. 116
+(L) "Officer of a political party" includes, but is not 117
+limited to, any member, elected or appointed, of a controlling 118
+committee, whether representing the territory of the state, a 119
+district therein, a county, township, a city, a ward, a 120
+precinct, or other territory, of a major or minor political 121
+party. 122
+(M) "Question or issue" means any question or issue 123
+certified in accordance with the Revised Code for placement on 124
+an official ballot at a general or special election to be held 125
+in this state. 126
+(N) "Elector" or "qualified elector" means a person having 127
+the qualifications provided by law to be entitled to vote. 128
+(O) "Voter" means an elector who votes at an election. 129
+(P) "Voting residence" means that place of residence of an 130
+elector which shall determine the precinct in which the elector 131
+may vote. 132
+(Q) "Precinct" means a district within a county 133
+established by the board of elections of such county within 134
+which all qualified electors having a voting residence therein 135
+S. B. No. 63 Page 6
+As Reported by the Senate General Government Committee
+may vote at the same polling place. 136
+(R) "Polling place" means that place provided for each 137
+precinct at which the electors having a voting residence in such 138
+precinct may vote. 139
+(S) "Board" or "board of elections" means the board of 140
+elections appointed in a county pursuant to section 3501.06 of 141
+the Revised Code. 142
+(T) "Political subdivision" means a county, township, 143
+city, village, or school district. 144
+(U) "Election officer" or "election official" means any of 145
+the following: 146
+(1) Secretary of state; 147
+(2) Employees of the secretary of state serving the 148
+division of elections in the capacity of attorney, 149
+administrative officer, administrative assistant, elections 150
+administrator, office manager, or clerical supervisor; 151
+(3) Director of a board of elections; 152
+(4) Deputy director of a board of elections; 153
+(5) Member of a board of elections; 154
+(6) Employees of a board of elections; 155
+(7) Precinct election officials; 156
+(8) Employees appointed by the boards of elections on a 157
+temporary or part-time basis. 158
+(V) "Acknowledgment notice" means a notice sent by a board 159
+of elections, on a form prescribed by the secretary of state, 160
+informing a voter registration applicant or an applicant who 161
+S. B. No. 63 Page 7
+As Reported by the Senate General Government Committee
+wishes to change the applicant's residence or name of the status 162
+of the application; the information necessary to complete or 163
+update the application, if any; and if the application is 164
+complete, the precinct in which the applicant is to vote. 165
+(W) "Confirmation notice" means a notice sent by a board 166
+of elections, on a form prescribed by the secretary of state, to 167
+a registered elector to confirm the registered elector's current 168
+address. 169
+(X) "Designated agency" means an office or agency in the 170
+state that provides public assistance or that provides state- 171
+funded programs primarily engaged in providing services to 172
+persons with disabilities and that is required by the National 173
+Voter Registration Act of 1993 to implement a program designed 174
+and administered by the secretary of state for registering 175
+voters, or any other public or government office or agency that 176
+implements a program designed and administered by the secretary 177
+of state for registering voters, including the department of job 178
+and family services, the program administered under section 179
+
+Section 5:
+3701.132 of the Revised Code by the department of health, the 180
+department of mental health and addiction services, the 181
+department of developmental disabilities, the opportunities for 182
+Ohioans with disabilities agency, and any other agency the 183
+secretary of state designates. "Designated agency" does not 184
+include public high schools and vocational schools, public 185
+libraries, or the office of a county treasurer. 186
+(Y) "National Voter Registration Act of 1993" means the 187
+"National Voter Registration Act of 1993," 107 Stat. 77, 42 188
+U.S.C.A. 1973gg. 189
+(Z) "Voting Rights Act of 1965" means the "Voting Rights 190
+Act of 1965," 79 Stat. 437, 42 U.S.C.A. 1973, as amended. 191
+S. B. No. 63 Page 8
+As Reported by the Senate General Government Committee
+(AA)(1) "Photo identification" means one of the following 192
+documents that includes the individual's name and photograph and 193
+is not expired: 194
+(a) An Ohio driver's license, state identification card, 195
+or interim identification form issued by the registrar of motor 196
+vehicles or a deputy registrar under Chapter 4506. or 4507. of 197
+the Revised Code; 198
+(b) A United States passport or passport card; 199
+(c) A United States military identification card, Ohio 200
+national guard identification card, or United States department 201
+of veterans affairs identification card. 202
+(2) A "copy" of an individual's photo identification means 203
+images of both the front and back of a document described in 204
+division (AA)(1) of this section, except that if the document is 205
+a United States passport, a copy of the photo identification 206
+means an image of the passport's identification page that 207
+includes the individual's name, photograph, and other 208
+identifying information and the passport's expiration date. 209
+(BB) "Driver's license" means a license or permit issued 210
+by the registrar or a deputy registrar under Chapter 4506. or 211
+
+Section 6:
+4507. of the Revised Code that authorizes an individual to 212
+drive. "Driver's license" includes a driver's license, 213
+commercial driver's license, probationary license, restricted 214
+license, motorcycle operator's license, or temporary instruction 215
+permit identification card. "Driver's license" does not include 216
+a limited term license issued under section 4507.09 of the 217
+Revised Code. 218
+(CC) "State identification card" means a card issued by 219
+the registrar or a deputy registrar under sections 4507.50 to 220
+S. B. No. 63 Page 9
+As Reported by the Senate General Government Committee
+
+Section 7:
+4507.52 of the Revised Code. 221
+(DD) "Interim identification form" means the document 222
+issued by the registrar or a deputy registrar to an applicant 223
+for a driver's license or state identification card that 224
+contains all of the information otherwise found on the license 225
+or card and that an applicant may use as a form of 226
+identification until the physical license or card arrives in the 227
+mail. 228
+(EE) "Ranked choice voting" and "instant runoff voting" 229
+mean a method of nominating or electing one or more candidates 230
+to an office as follows: 231
+(1) Voters rank candidates on the ballot in order of 232
+preference. 233
+(2) Tabulation proceeds in rounds such that in each round, 234
+one or more candidates are nominated or elected or a last-place 235
+candidate is defeated. 236
+(3) Votes are transferred from nominated, elected, or 237
+defeated candidates to the voter's next-ranked candidate or 238
+candidates in order of preference. 239
+(4) Tabulation ends when a candidate receives the majority 240
+of the votes cast or when the number of candidates nominated or 241
+elected equals the number of offices to be filled, as 242
+applicable. 243
+Sec. 3505.011. (A) Except as otherwise permitted under 244
+Article X or Article XVIII, Ohio Constitution, no election shall 245
+be conducted in this state using ranked choice voting or instant 246
+runoff voting. 247
+(B) If the secretary of state determines that a county or 248
+S. B. No. 63 Page 10
+As Reported by the Senate General Government Committee
+municipal corporation has, by resolution or ordinance, approved 249
+the use of ranked choice voting or instant runoff voting in an 250
+election, then the county or municipal corporation is ineligible 251
+to receive any local government fund distributions from the 252
+state during the period beginning with the month following the 253
+adoption of the resolution or ordinance and ending with the 254
+month following the last day it is in effect. Upon making that 255
+determination, the secretary of state promptly shall notify the 256
+tax commissioner of the county or municipal corporation's 257
+ineligibility. 258
+(C) Upon determining that a county or municipal 259
+corporation has, by resolution or ordinance, rescinded previous 260
+approval for the use of ranked choice voting that resulted in 261
+notice to the tax commissioner under division (B) of this 262
+
+Section 8:
+section, the secretary of state shall promptly notify the tax 263
+commissioner of the rescission. 264
+Sec. 3513.141. (A) Except as otherwise permitted under 265
+Article X or Article XVIII, Ohio Constitution, no primary 266
+election shall be conducted in this state using ranked choice 267
+voting or instant runoff voting. 268
+(B) If the secretary of state determines that a county or 269
+municipal corporation has, by resolution or ordinance, approved 270
+the use of ranked choice voting or instant runoff voting in a 271
+primary election, then the county or municipal corporation is 272
+ineligible to receive any local government fund distributions 273
+from the state during the period beginning with the month 274
+following the adoption of the resolution or ordinance and ending 275
+with the month following the last day it is in effect. Upon 276
+making that determination, the secretary of state promptly shall 277
+notify the tax commissioner of the county or municipal 278
+S. B. No. 63 Page 11
+As Reported by the Senate General Government Committee
+corporation's ineligibility. 279
+(C) Upon determining that a county or municipal 280
+corporation has, by resolution or ordinance, rescinded previous 281
+approval for the use of ranked choice voting that resulted in 282
+notice to the tax commissioner under division (B) of this 283
+
+Section 9:
+section, the secretary of state shall promptly notify the tax 284
+commissioner of the rescission. 285
+Sec. 5747.502. (A) As used in this section: 286
+(1) "Local authority" and "traffic law photo-monitoring 287
+device" have the same meanings as in section 4511.092 of the 288
+Revised Code. 289
+(2) "School zone" has the same meaning as in section 290
+
+Section 10:
+4511.21 of the Revised Code. 291
+(3) "Transportation district" means a territorial district 292
+established by the director of transportation under section 293
+
+Section 11:
+5501.14 of the Revised Code. 294
+(4) "District deputy director" means the person appointed 295
+and assigned by the director of transportation under section 296
+
+Section 12:
+5501.14 of the Revised Code to administer the activities of a 297
+transportation district. 298
+(5) "Gross amount" means the entire amount of traffic 299
+camera fines and fees paid by a driver. 300
+(6) "Local government fund adjustment" or "LGF adjustment" 301
+means the sum of: 302
+(a) The gross amount of all traffic camera fines collected 303
+by a local authority during the preceding fiscal year, as 304
+reported under division (B)(1) of this section, if such a report 305
+is required; plus 306
+S. B. No. 63 Page 12
+As Reported by the Senate General Government Committee
+(b) The residual adjustment computed for the local 307
+authority under division (B)(4) of this section, if such an 308
+adjustment applies. 309
+(7) "Local government fund payments" or "LGF payments" 310
+means the payments a local authority would receive under 311
+
+Section 13:
+sections 5747.502 5747.503, 5747.51, and 5747.53, and division 312
+(C) of section 5747.50 of the Revised Code, as applicable, if 313
+not for the reductions required by divisions (C) and (D) of this 314
+
+Section 14:
+section. 315
+(8) "Residual adjustment" means the most recent LGF 316
+adjustment computed for a local authority under division (B)(2) 317
+or (3) of this section minus the sum of the reductions applied 318
+after that computation under division (C) of this section to the 319
+local authority's LGF payments. 320
+(9) "Traffic camera fines" means civil fines for any 321
+violation of any local ordinance or resolution that are based 322
+upon evidence recorded by a traffic law photo-monitoring device. 323
+(10) "Qualifying village" has the same meaning as in 324
+
+Section 15:
+section 5747.503 of the Revised Code. 325
+(B)(1) Annually, on or before the thirty-first day of 326
+July, any local authority that directly or indirectly collected 327
+traffic camera fines during the preceding fiscal year shall file 328
+a report with the tax commissioner that includes a detailed 329
+statement of the gross amount of all traffic camera fines the 330
+local authority collected during that period and the gross 331
+amount of such fines that the local authority collected for 332
+violations that occurred within a school zone. 333
+(2) Annually, on or before the tenth day of August, the 334
+commissioner shall compute a local government fund adjustment 335
+S. B. No. 63 Page 13
+As Reported by the Senate General Government Committee
+for each local authority that files a report under division (B) 336
+(1) of this section or with respect to which a residual 337
+adjustment applies. Subject to division (B)(3) of this section 338
+and section 5747.505 of the Revised Code, the LGF adjustment 339
+shall be used by the commissioner to determine the amount of the 340
+reductions required under division (C) of this section for each 341
+of the next twelve months, starting with the month in which the 342
+LGF adjustment is computed. After those twelve months, the LGF 343
+adjustment ceases to apply and, if an LGF adjustment continues 344
+to be required, the amount of the reductions required under 345
+division (C) of this section shall be determined based on an 346
+updated LGF adjustment computed under this division. 347
+(3) Upon receipt of a report described by division (B)(1) 348
+of this section that is not timely filed, the commissioner shall 349
+do both of the following: 350
+(a) If one or more payments to the local authority has 351
+been withheld under division (D) of this section because of the 352
+local authority's failure to file the report, notify the county 353
+auditor and county treasurer of the appropriate county that the 354
+report has been received and that, subject to division (C) of 355
+this section, payments to the local authority from the undivided 356
+local government fund are to resume. 357
+(b) Compute the local authority's LGF adjustment using the 358
+information in the report. An LGF adjustment computed under this 359
+division shall be used by the commissioner to determine the 360
+amount of the reductions required under division (C) of this 361
+
+Section 16:
+section starting with the next required reduction. The LGF 362
+adjustment ceases to apply on the thirty-first day of the 363
+ensuing July, following which, if an LGF adjustment continues to 364
+be required, the amount of the reductions required under 365
+S. B. No. 63 Page 14
+As Reported by the Senate General Government Committee
+division (C) of this section shall be determined based on an 366
+updated LGF adjustment computed under division (B)(2) of this 367
+
+Section 17:
+section. 368
+(4) Annually, on or before the tenth day of August, the 369
+commissioner shall compute a residual adjustment for each local 370
+authority whose LGF adjustment for the preceding year exceeds 371
+the amount by which the local authority's LGF payments were 372
+reduced during that year under division (C) of this section. The 373
+residual adjustment shall be used to compute the LGF adjustment 374
+for the ensuing year under division (B)(2) of this section. 375
+(C) The Subject to section 5747.505 of the Revised Code, 376
+the commissioner shall do the following, as applicable, 377
+respecting any local authority to which an LGF adjustment 378
+computed under division (B) of this section applies: 379
+(1) If the local authority is a municipal corporation with 380
+a population of one thousand or more, reduce payments to the 381
+municipal corporation under division (C) of section 5747.50 of 382
+the Revised Code by one-twelfth of the LGF adjustment. If one- 383
+twelfth of the LGF adjustment exceeds the amount of money the 384
+municipal corporation would otherwise receive under division (C) 385
+of section 5747.50 of the Revised Code, the commissioner also 386
+shall reduce payments to the appropriate county undivided local 387
+government fund under division (B) of section 5747.50 of the 388
+Revised Code by an amount equal to the lesser of (a) one-twelfth 389
+of the excess, or (b) the amount of the payment the municipal 390
+corporation would otherwise receive from the fund under section 391
+
+Section 18:
+5747.51 or 5747.53 of the Revised Code. 392
+(2) If the local authority is a township or qualifying 393
+village, reduce the supplemental payments to the appropriate 394
+county undivided local government fund under section 5747.503 of 395
+S. B. No. 63 Page 15
+As Reported by the Senate General Government Committee
+the Revised Code by the lesser of one-twelfth of the LGF 396
+adjustment, or the amount of money the township or qualifying 397
+village would otherwise receive under that section. If one- 398
+twelfth of the LGF adjustment exceeds the amount of money the 399
+township or qualifying village would otherwise receive under 400
+
+Section 19:
+section 5747.503 of the Revised Code, the commissioner also 401
+shall reduce payments to the appropriate county undivided local 402
+government fund under division (B) of section 5747.50 of the 403
+Revised Code by an amount equal to the lesser of (a) one-twelfth 404
+of the excess, or (b) the amount of the payment the township or 405
+qualifying village would otherwise receive from the fund under 406
+
+Section 20:
+section 5747.51 or 5747.53 of the Revised Code. 407
+(3) If the local authority is a county, reduce payments to 408
+the appropriate county undivided local government fund under 409
+division (B) of section 5747.50 of the Revised Code by an amount 410
+equal to the lesser of (a) one-twelfth of the LGF adjustment, or 411
+(b) the amount of the payment the county would otherwise receive 412
+from the fund under section 5747.51 or 5747.53 of the Revised 413
+Code. 414
+(4) For any local authority, on or before the tenth day of 415
+each month a reduction is made under division (C)(1), (2), or 416
+(3) of this section, make a payment to the local authority in an 417
+amount equal to the lesser of (a) one-twelfth of the gross 418
+amount of traffic camera fines the local authority collected in 419
+the preceding fiscal year for violations that occurred within a 420
+school zone, as indicated on the report filed by the local 421
+authority pursuant to division (B)(1) of this section, or (b) 422
+the amount by which the local authority's LGF payments were 423
+reduced that month pursuant to division (C)(1), (2), or (3) of 424
+this section. Payments received by a local authority under this 425
+division shall be used by the local authority for school safety 426
+S. B. No. 63 Page 16
+As Reported by the Senate General Government Committee
+purposes. 427
+(D) Upon Subject to section 5747.505 of the Revised Code, 428
+upon discovery, based on information in the commissioner's 429
+possession, that a local authority required to file a report 430
+under division (B)(1) of this section has failed to do so, the 431
+commissioner shall do the following, as applicable: 432
+(1) If the local authority is a municipal corporation with 433
+a population of one thousand or more, cease providing for 434
+payments to the municipal corporation under section 5747.50 of 435
+the Revised Code beginning with the next required payment and 436
+until such time as the report is received by the commissioner; 437
+(2) If the local authority is a township or qualifying 438
+village, reduce the supplemental payments to the appropriate 439
+county undivided local government fund under section 5747.503 of 440
+the Revised Code by an amount equal to the amount of such 441
+payments the local authority would otherwise receive under that 442
+
+Section 21:
+section, beginning with the next required payment and until such 443
+time as the report is received by the commissioner; 444
+(3) For any local authority, reduce payments to the 445
+appropriate county undivided local government fund under 446
+division (B) of section 5747.50 of the Revised Code by an amount 447
+equal to the amount of such payments the local authority would 448
+otherwise receive under section 5747.51 or 5747.53 of the 449
+Revised Code, beginning with the next required payment and until 450
+such time as the report is received by the commissioner; 451
+(4) For any local authority, notify the county auditor and 452
+county treasurer that such payments are to cease until the 453
+commissioner notifies the auditor and treasurer under division 454
+(E) of this section that the payments are to resume. 455
+S. B. No. 63 Page 17
+As Reported by the Senate General Government Committee
+(E) The commissioner shall notify the county auditor and 456
+county treasurer on or before the day the commissioner first 457
+reduces a county undivided local government fund payment to that 458
+county under division (C) of this section. The notice shall 459
+include the full amount of the reduction, a list of the local 460
+authorities to which the reduction applies, and the amount of 461
+reduction attributed to each such local authority. The 462
+commissioner shall send an updated notice to the county auditor 463
+and county treasurer any time the amount the reduction 464
+attributed to any local authority changes. 465
+A county treasurer that receives a notice from the 466
+commissioner under this division or division (B)(3)(a) or (D)(4) 467
+of this section shall reduce, cease, or resume payments from the 468
+undivided local government fund to the local authority that is 469
+the subject of the notice as specified by the commissioner in 470
+the notice. Unless otherwise specified in the notice, the 471
+payments shall be reduced, ceased, or resumed beginning with the 472
+next required payment. 473
+(F) There is hereby created in the state treasury the Ohio 474
+highway and transportation safety fund. On or before the tenth 475
+day of each month, the commissioner shall deposit in the fund an 476
+amount equal to the total amount by which payments to local 477
+authorities were reduced or ceased under division (C) or (D) of 478
+this section minus the total amount of payments made under 479
+division (C)(4) of this section. The amount deposited with 480
+respect to a local authority shall be credited to an account to 481
+be created in the fund for the transportation district in which 482
+that local authority is located. If the local authority is 483
+located within more than one transportation district, the amount 484
+credited to the account of each such transportation district 485
+shall be prorated on the basis of the number of centerline miles 486
+S. B. No. 63 Page 18
+As Reported by the Senate General Government Committee
+of public roads and highways in both the local authority and the 487
+respective districts. Amounts credited to a transportation 488
+district's account shall be used by the department of 489
+transportation and the district deputy director exclusively to 490
+enhance public safety on public roads and highways within that 491
+transportation district. 492
+Sec. 5747.504. (A) As used in this section, "local 493
+government fund payments" means the payments a municipal 494
+corporation or county would receive under sections 5747.503, 495
+
+Section 22:
+5747.51, and 5747.53, and division (C) of section 5747.50 of the 496
+Revised Code, as applicable, if not for the reductions required 497
+by this section or section 5747.502 of the Revised Code. 498
+(B) Beginning with the month following receipt of a notice 499
+from the secretary of state pursuant to division (B) of section 500
+
+Section 23:
+3505.011 or 3513.141 of the Revised Code, the tax commissioner 501
+shall do the following, as applicable: 502
+(1) If the notice concerns a municipal corporation with a 503
+population of one thousand or more, cease providing for payments 504
+to the municipal corporation under section 5747.50 of the 505
+Revised Code beginning with the next required payment; 506
+(2) If the notice concerns a qualifying village, as 507
+defined in section 5747.503 of the Revised Code, reduce the 508
+supplemental payments to the appropriate county undivided local 509
+government fund under section 5747.503 of the Revised Code by an 510
+amount equal to the amount of such payments the qualifying 511
+village would otherwise receive under that section, beginning 512
+with the next required payment; 513
+(3) For any county or municipal corporation identified in 514
+the notice, reduce payments to the appropriate county undivided 515
+S. B. No. 63 Page 19
+As Reported by the Senate General Government Committee
+local government fund under division (B) of section 5747.50 of 516
+the Revised Code by an amount equal to the amount of such 517
+payments the county or municipal corporation would otherwise 518
+receive under section 5747.51 or 5747.53 of the Revised Code, 519
+beginning with the next required payment. 520
+(C) Subject to section 5747.505 of the Revised Code, upon 521
+receiving notice from the secretary of state, under division (C) 522
+of section 3505.11 or 3513.141 of the Revised Code, that a 523
+county or municipal corporation has, by resolution or ordinance, 524
+rescinded previous approval for the use of ranked choice voting, 525
+the commissioner shall resume all local government fund payments 526
+ceased or reduced under division (B) of this section due to that 527
+county's or municipal corporation's use of ranked choice voting. 528
+(D)(1) The commissioner shall notify the county auditor 529
+and county treasurer on or before the day the commissioner first 530
+reduces a county undivided local government fund payment to that 531
+county under division (B)(3) of this section. The notice shall 532
+include the full amount of the reduction, a list of the counties 533
+and municipal corporations to which the reduction applies, and 534
+the amount of reduction attributed to each such county or 535
+municipal corporation. 536
+(2) The commissioner shall also notify the county auditor 537
+and county treasurer on or before the day that the commissioner 538
+first resumes payments to the county undivided local government 539
+fund under division (C) of this section. The notification shall 540
+include a list of the counties or municipal corporations that 541
+are again eligible to receive local government fund payments. 542
+(3) Subject to section 5747.505 of the Revised Code, a 543
+county treasurer that receives a notice from the commissioner 544
+under division (D)(1) or (2) of this section shall cease or 545
+S. B. No. 63 Page 20
+As Reported by the Senate General Government Committee
+resume payments from the undivided local government fund to the 546
+county or municipal corporation that is the subject of the 547
+notice as specified by the commissioner in the notice. 548
+(E) On or before the tenth day of each month, the 549
+commissioner shall transfer from the local government fund to 550
+the general revenue fund the sum of the payments withheld that 551
+month under division (B) of this section. 552
+Sec. 5747.505. If a municipal corporation or county is 553
+subject to more than one reduction required by sections 5747.502 554
+and 5747.504 of the Revised Code for the same month, the tax 555
+commissioner shall apply the reduction required by section 556
+
+Section 24:
+5747.504 of the Revised Code first and deposit the amount of 557
+payments withheld to the general revenue fund under division (E) 558
+of that section. 559
+
+Section 25:
+Section 2. That existing sections 3501.01 and 5747.502 of 560
+the Revised Code are hereby repealed. 561
+[DELETED: nS BIL      .  :1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7]
+[DELETED: 3  7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2:2 2.2 2 2.2 2 2.2 2 2 2.2 2 2 2.2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3 .2 2 2 2 2 2.2:2 2 2.2 2.2 2 2.2 2 2 2.2 2.3 3:3 3 3 3s3]
+[DELETED: 3  3 3.3 3 3 3 3 3.3 3 3 3 3.3 3 3.3 3.3 3 3 3 3 3 3 3.3 3 3]
+[DELETED: 3 )3 3 3 3 3 3 3 3 3 3 3.3 3 3:3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3.3 3 3 3 3 3 3.3 3 3 3:3 3 3 3-3 3 3 3 3 3 3 3 3.3 3 3 3]
+[DELETED: 3  3 3-3 3 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3 .4 4 4 4 4:4 4 4 4 4;4 4 4 4 4 4 4;4 4 4 4 4 4 4;4 4 4 4.4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4.4 4 4 4 4 4.4 4 5 5:5 5 5 5;5 5 5 5 5 5 5;5 5 5]
+[DELETED: 3  5 5 5 5.5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5.5 5 5 5 5 5.5 5 5 5]
+[DELETED: 3  5 5.5 5 5 5.5 5 5 5 5 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Reported by the Senate General Government Committee
+136th General Assembly
+Regular Session S. B. No. 63
+2025-2026
+Senators Gavarone, DeMora
+Cosponsor: Senator Huffman
+A BILL
+To amend sections 3501.01 and 5747.502 and to enact 1
+sections 3505.011, 3513.141, 5747.504, and 2
+5747.505 of the Revised Code to generally 3
+prohibit the use of ranked choice voting and to 4
+withhold Local Government Fund distributions 5
+from a municipality or chartered county that 6
+uses ranked choice voting. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3501.01 and 5747.502 be amended 8
+and sections 3505.011, 3513.141, 5747.504, and 5747.505 of the 9
+Revised Code be enacted to read as follows: 10
+Sec. 3501.01. As used in the sections of the Revised Code 11
+relating to elections and political communications: 12
+(A) "General election" means the election held on the 13
+first Tuesday after the first Monday in each November. 14
+(B) "Regular municipal election" means the election held 15
+on the first Tuesday after the first Monday in November in each 16
+odd-numbered year. 17
+
+S. B. No. 63 Page 2
+As Reported by the Senate General Government Committee
+(C) "Regular state election" means the election held on 18
+the first Tuesday after the first Monday in November in each 19
+even-numbered year. 20
+(D) "Special election" means any election other than those 21
+elections defined in other divisions of this section. A special 22
+election may be held only on the first Tuesday after the first 23
+Monday in May or November, on the first Tuesday after the first 24
+Monday in August in accordance with section 3501.022 of the 25
+Revised Code, or on the day authorized by a particular municipal 26
+or county charter for the holding of a primary election, except 27
+that in any year in which a presidential primary election is 28
+held, no special election shall be held in May, except as 29
+authorized by a municipal or county charter, but may be held on 30
+the third Tuesday after the first Monday in March. 31
+(E)(1) "Primary" or "primary election" means an election 32
+held for the purpose of nominating persons as candidates of 33
+political parties for election to offices, and for the purpose 34
+of electing persons as members of the controlling committees of 35
+political parties and as delegates and alternates to the 36
+conventions of political parties. Primary elections shall be 37
+held on the first Tuesday after the first Monday in May of each 38
+year except in years in which a presidential primary election is 39
+held. 40
+(2) "Presidential primary election" means a primary 41
+election as defined by division (E)(1) of this section at which 42
+an election is held for the purpose of choosing delegates and 43
+alternates to the national conventions of the major political 44
+parties pursuant to section 3513.12 of the Revised Code. Unless 45
+otherwise specified, presidential primary elections are included 46
+in references to primary elections. In years in which a 47
+
+S. B. No. 63 Page 3
+As Reported by the Senate General Government Committee
+presidential primary election is held, all primary elections 48
+shall be held on the third Tuesday after the first Monday in 49
+March except as otherwise authorized by a municipal or county 50
+charter. 51
+(F) "Political party" means any group of voters meeting 52
+the requirements set forth in section 3517.01 of the Revised 53
+Code for the formation and existence of a political party. 54
+(1) "Major political party" means any political party 55
+organized under the laws of this state whose candidate for 56
+governor or nominees for presidential electors received not less 57
+than twenty per cent of the total vote cast for such office at 58
+the most recent regular state election. 59
+(2) "Minor political party" means any political party 60
+organized under the laws of this state that meets either of the 61
+following requirements: 62
+(a) Except as otherwise provided in this division, the 63
+political party's candidate for governor or nominees for 64
+presidential electors received less than twenty per cent but not 65
+less than three per cent of the total vote cast for such office 66
+at the most recent regular state election. A political party 67
+that meets the requirements of this division remains a political 68
+party for a period of four years after meeting those 69
+requirements. 70
+(b) The political party has filed with the secretary of 71
+state, subsequent to its failure to meet the requirements of 72
+division (F)(2)(a) of this section, a petition that meets the 73
+requirements of section 3517.01 of the Revised Code. 74
+A newly formed political party shall be known as a minor 75
+political party until the time of the first election for 76
+
+S. B. No. 63 Page 4
+As Reported by the Senate General Government Committee
+governor or president which occurs not less than twelve months 77
+subsequent to the formation of such party, after which election 78
+the status of such party shall be determined by the vote for the 79
+office of governor or president. 80
+(G) "Dominant party in a precinct" or "dominant political 81
+party in a precinct" means that political party whose candidate 82
+for election to the office of governor at the most recent 83
+regular state election at which a governor was elected received 84
+more votes than any other person received for election to that 85
+office in such precinct at such election. 86
+(H) "Candidate" means any qualified person certified in 87
+accordance with the provisions of the Revised Code for placement 88
+on the official ballot of a primary, general, or special 89
+election to be held in this state, or any qualified person who 90
+claims to be a write-in candidate, or who knowingly assents to 91
+being represented as a write-in candidate by another at either a 92
+primary, general, or special election to be held in this state. 93
+(I) "Independent candidate" means any candidate who claims 94
+not to be affiliated with a political party, and whose name has 95
+been certified on the office-type ballot at a general or special 96
+election through the filing of a statement of candidacy and 97
+nominating petition, as prescribed in section 3513.257 of the 98
+Revised Code. 99
+(J) "Nonpartisan candidate" means any candidate whose name 100
+is required, pursuant to section 3505.04 of the Revised Code, to 101
+be listed on the nonpartisan ballot, including all candidates 102
+for judge of a municipal court, county court, or court of common 103
+pleas, for member of any board of education, for municipal or 104
+township offices in which primary elections are not held for 105
+nominating candidates by political parties, and for offices of 106
+
+S. B. No. 63 Page 5
+As Reported by the Senate General Government Committee
+municipal corporations having charters that provide for separate 107
+ballots for elections for these offices. 108
+(K) "Party candidate" means any candidate who claims to be 109
+a member of a political party and who has been certified to 110
+appear on the office-type ballot at a general or special 111
+election as the nominee of a political party because the 112
+candidate has won the primary election of the candidate's party 113
+for the public office the candidate seeks, has been nominated 114
+under section 3517.012, or is selected by party committee in 115
+accordance with section 3513.31 of the Revised Code. 116
+(L) "Officer of a political party" includes, but is not 117
+limited to, any member, elected or appointed, of a controlling 118
+committee, whether representing the territory of the state, a 119
+district therein, a county, township, a city, a ward, a 120
+precinct, or other territory, of a major or minor political 121
+party. 122
+(M) "Question or issue" means any question or issue 123
+certified in accordance with the Revised Code for placement on 124
+an official ballot at a general or special election to be held 125
+in this state. 126
+(N) "Elector" or "qualified elector" means a person having 127
+the qualifications provided by law to be entitled to vote. 128
+(O) "Voter" means an elector who votes at an election. 129
+(P) "Voting residence" means that place of residence of an 130
+elector which shall determine the precinct in which the elector 131
+may vote. 132
+(Q) "Precinct" means a district within a county 133
+established by the board of elections of such county within 134
+which all qualified electors having a voting residence therein 135
+
+S. B. No. 63 Page 6
+As Reported by the Senate General Government Committee
+may vote at the same polling place. 136
+(R) "Polling place" means that place provided for each 137
+precinct at which the electors having a voting residence in such 138
+precinct may vote. 139
+(S) "Board" or "board of elections" means the board of 140
+elections appointed in a county pursuant to section 3501.06 of 141
+the Revised Code. 142
+(T) "Political subdivision" means a county, township, 143
+city, village, or school district. 144
+(U) "Election officer" or "election official" means any of 145
+the following: 146
+(1) Secretary of state; 147
+(2) Employees of the secretary of state serving the 148
+division of elections in the capacity of attorney, 149
+administrative officer, administrative assistant, elections 150
+administrator, office manager, or clerical supervisor; 151
+(3) Director of a board of elections; 152
+(4) Deputy director of a board of elections; 153
+(5) Member of a board of elections; 154
+(6) Employees of a board of elections; 155
+(7) Precinct election officials; 156
+(8) Employees appointed by the boards of elections on a 157
+temporary or part-time basis. 158
+(V) "Acknowledgment notice" means a notice sent by a board 159
+of elections, on a form prescribed by the secretary of state, 160
+informing a voter registration applicant or an applicant who 161
+
+S. B. No. 63 Page 7
+As Reported by the Senate General Government Committee
+wishes to change the applicant's residence or name of the status 162
+of the application; the information necessary to complete or 163
+update the application, if any; and if the application is 164
+complete, the precinct in which the applicant is to vote. 165
+(W) "Confirmation notice" means a notice sent by a board 166
+of elections, on a form prescribed by the secretary of state, to 167
+a registered elector to confirm the registered elector's current 168
+address. 169
+(X) "Designated agency" means an office or agency in the 170
+state that provides public assistance or that provides state- 171
+funded programs primarily engaged in providing services to 172
+persons with disabilities and that is required by the National 173
+Voter Registration Act of 1993 to implement a program designed 174
+and administered by the secretary of state for registering 175
+voters, or any other public or government office or agency that 176
+implements a program designed and administered by the secretary 177
+of state for registering voters, including the department of job 178
+and family services, the program administered under section 179
+3701.132 of the Revised Code by the department of health, the 180
+department of mental health and addiction services, the 181
+department of developmental disabilities, the opportunities for 182
+Ohioans with disabilities agency, and any other agency the 183
+secretary of state designates. "Designated agency" does not 184
+include public high schools and vocational schools, public 185
+libraries, or the office of a county treasurer. 186
+(Y) "National Voter Registration Act of 1993" means the 187
+"National Voter Registration Act of 1993," 107 Stat. 77, 42 188
+U.S.C.A. 1973gg. 189
+(Z) "Voting Rights Act of 1965" means the "Voting Rights 190
+Act of 1965," 79 Stat. 437, 42 U.S.C.A. 1973, as amended. 191
+
+S. B. No. 63 Page 8
+As Reported by the Senate General Government Committee
+(AA)(1) "Photo identification" means one of the following 192
+documents that includes the individual's name and photograph and 193
+is not expired: 194
+(a) An Ohio driver's license, state identification card, 195
+or interim identification form issued by the registrar of motor 196
+vehicles or a deputy registrar under Chapter 4506. or 4507. of 197
+the Revised Code; 198
+(b) A United States passport or passport card; 199
+(c) A United States military identification card, Ohio 200
+national guard identification card, or United States department 201
+of veterans affairs identification card. 202
+(2) A "copy" of an individual's photo identification means 203
+images of both the front and back of a document described in 204
+division (AA)(1) of this section, except that if the document is 205
+a United States passport, a copy of the photo identification 206
+means an image of the passport's identification page that 207
+includes the individual's name, photograph, and other 208
+identifying information and the passport's expiration date. 209
+(BB) "Driver's license" means a license or permit issued 210
+by the registrar or a deputy registrar under Chapter 4506. or 211
+4507. of the Revised Code that authorizes an individual to 212
+drive. "Driver's license" includes a driver's license, 213
+commercial driver's license, probationary license, restricted 214
+license, motorcycle operator's license, or temporary instruction 215
+permit identification card. "Driver's license" does not include 216
+a limited term license issued under section 4507.09 of the 217
+Revised Code. 218
+(CC) "State identification card" means a card issued by 219
+the registrar or a deputy registrar under sections 4507.50 to 220
+
+S. B. No. 63 Page 9
+As Reported by the Senate General Government Committee
+4507.52 of the Revised Code. 221
+(DD) "Interim identification form" means the document 222
+issued by the registrar or a deputy registrar to an applicant 223
+for a driver's license or state identification card that 224
+contains all of the information otherwise found on the license 225
+or card and that an applicant may use as a form of 226
+identification until the physical license or card arrives in the 227
+mail. 228
+(EE) "Ranked choice voting" and "instant runoff voting" 229
+mean a method of nominating or electing one or more candidates 230
+to an office as follows: 231
+(1) Voters rank candidates on the ballot in order of 232
+preference. 233
+(2) Tabulation proceeds in rounds such that in each round, 234
+one or more candidates are nominated or elected or a last-place 235
+candidate is defeated. 236
+(3) Votes are transferred from nominated, elected, or 237
+defeated candidates to the voter's next-ranked candidate or 238
+candidates in order of preference. 239
+(4) Tabulation ends when a candidate receives the majority 240
+of the votes cast or when the number of candidates nominated or 241
+elected equals the number of offices to be filled, as 242
+applicable. 243
+Sec. 3505.011. (A) Except as otherwise permitted under 244
+Article X or Article XVIII, Ohio Constitution, no election shall 245
+be conducted in this state using ranked choice voting or instant 246
+runoff voting. 247
+(B) If the secretary of state determines that a county or 248
+
+S. B. No. 63 Page 10
+As Reported by the Senate General Government Committee
+municipal corporation has, by resolution or ordinance, approved 249
+the use of ranked choice voting or instant runoff voting in an 250
+election, then the county or municipal corporation is ineligible 251
+to receive any local government fund distributions from the 252
+state during the period beginning with the month following the 253
+adoption of the resolution or ordinance and ending with the 254
+month following the last day it is in effect. Upon making that 255
+determination, the secretary of state promptly shall notify the 256
+tax commissioner of the county or municipal corporation's 257
+ineligibility. 258
+(C) Upon determining that a county or municipal 259
+corporation has, by resolution or ordinance, rescinded previous 260
+approval for the use of ranked choice voting that resulted in 261
+notice to the tax commissioner under division (B) of this 262
+section, the secretary of state shall promptly notify the tax 263
+commissioner of the rescission. 264
+Sec. 3513.141. (A) Except as otherwise permitted under 265
+Article X or Article XVIII, Ohio Constitution, no primary 266
+election shall be conducted in this state using ranked choice 267
+voting or instant runoff voting. 268
+(B) If the secretary of state determines that a county or 269
+municipal corporation has, by resolution or ordinance, approved 270
+the use of ranked choice voting or instant runoff voting in a 271
+primary election, then the county or municipal corporation is 272
+ineligible to receive any local government fund distributions 273
+from the state during the period beginning with the month 274
+following the adoption of the resolution or ordinance and ending 275
+with the month following the last day it is in effect. Upon 276
+making that determination, the secretary of state promptly shall 277
+notify the tax commissioner of the county or municipal 278
+
+S. B. No. 63 Page 11
+As Reported by the Senate General Government Committee
+corporation's ineligibility. 279
+(C) Upon determining that a county or municipal 280
+corporation has, by resolution or ordinance, rescinded previous 281
+approval for the use of ranked choice voting that resulted in 282
+notice to the tax commissioner under division (B) of this 283
+section, the secretary of state shall promptly notify the tax 284
+commissioner of the rescission. 285
+Sec. 5747.502. (A) As used in this section: 286
+(1) "Local authority" and "traffic law photo-monitoring 287
+device" have the same meanings as in section 4511.092 of the 288
+Revised Code. 289
+(2) "School zone" has the same meaning as in section 290
+4511.21 of the Revised Code. 291
+(3) "Transportation district" means a territorial district 292
+established by the director of transportation under section 293
+5501.14 of the Revised Code. 294
+(4) "District deputy director" means the person appointed 295
+and assigned by the director of transportation under section 296
+5501.14 of the Revised Code to administer the activities of a 297
+transportation district. 298
+(5) "Gross amount" means the entire amount of traffic 299
+camera fines and fees paid by a driver. 300
+(6) "Local government fund adjustment" or "LGF adjustment" 301
+means the sum of: 302
+(a) The gross amount of all traffic camera fines collected 303
+by a local authority during the preceding fiscal year, as 304
+reported under division (B)(1) of this section, if such a report 305
+is required; plus 306
+
+S. B. No. 63 Page 12
+As Reported by the Senate General Government Committee
+(b) The residual adjustment computed for the local 307
+authority under division (B)(4) of this section, if such an 308
+adjustment applies. 309
+(7) "Local government fund payments" or "LGF payments" 310
+means the payments a local authority would receive under 311
+sections 5747.502 5747.503, 5747.51, and 5747.53, and division 312
+(C) of section 5747.50 of the Revised Code, as applicable, if 313
+not for the reductions required by divisions (C) and (D) of this 314
+section. 315
+(8) "Residual adjustment" means the most recent LGF 316
+adjustment computed for a local authority under division (B)(2) 317
+or (3) of this section minus the sum of the reductions applied 318
+after that computation under division (C) of this section to the 319
+local authority's LGF payments. 320
+(9) "Traffic camera fines" means civil fines for any 321
+violation of any local ordinance or resolution that are based 322
+upon evidence recorded by a traffic law photo-monitoring device. 323
+(10) "Qualifying village" has the same meaning as in 324
+section 5747.503 of the Revised Code. 325
+(B)(1) Annually, on or before the thirty-first day of 326
+July, any local authority that directly or indirectly collected 327
+traffic camera fines during the preceding fiscal year shall file 328
+a report with the tax commissioner that includes a detailed 329
+statement of the gross amount of all traffic camera fines the 330
+local authority collected during that period and the gross 331
+amount of such fines that the local authority collected for 332
+violations that occurred within a school zone. 333
+(2) Annually, on or before the tenth day of August, the 334
+commissioner shall compute a local government fund adjustment 335
+
+S. B. No. 63 Page 13
+As Reported by the Senate General Government Committee
+for each local authority that files a report under division (B) 336
+(1) of this section or with respect to which a residual 337
+adjustment applies. Subject to division (B)(3) of this section 338
+and section 5747.505 of the Revised Code, the LGF adjustment 339
+shall be used by the commissioner to determine the amount of the 340
+reductions required under division (C) of this section for each 341
+of the next twelve months, starting with the month in which the 342
+LGF adjustment is computed. After those twelve months, the LGF 343
+adjustment ceases to apply and, if an LGF adjustment continues 344
+to be required, the amount of the reductions required under 345
+division (C) of this section shall be determined based on an 346
+updated LGF adjustment computed under this division. 347
+(3) Upon receipt of a report described by division (B)(1) 348
+of this section that is not timely filed, the commissioner shall 349
+do both of the following: 350
+(a) If one or more payments to the local authority has 351
+been withheld under division (D) of this section because of the 352
+local authority's failure to file the report, notify the county 353
+auditor and county treasurer of the appropriate county that the 354
+report has been received and that, subject to division (C) of 355
+this section, payments to the local authority from the undivided 356
+local government fund are to resume. 357
+(b) Compute the local authority's LGF adjustment using the 358
+information in the report. An LGF adjustment computed under this 359
+division shall be used by the commissioner to determine the 360
+amount of the reductions required under division (C) of this 361
+section starting with the next required reduction. The LGF 362
+adjustment ceases to apply on the thirty-first day of the 363
+ensuing July, following which, if an LGF adjustment continues to 364
+be required, the amount of the reductions required under 365
+
+S. B. No. 63 Page 14
+As Reported by the Senate General Government Committee
+division (C) of this section shall be determined based on an 366
+updated LGF adjustment computed under division (B)(2) of this 367
+section. 368
+(4) Annually, on or before the tenth day of August, the 369
+commissioner shall compute a residual adjustment for each local 370
+authority whose LGF adjustment for the preceding year exceeds 371
+the amount by which the local authority's LGF payments were 372
+reduced during that year under division (C) of this section. The 373
+residual adjustment shall be used to compute the LGF adjustment 374
+for the ensuing year under division (B)(2) of this section. 375
+(C) The Subject to section 5747.505 of the Revised Code, 376
+the commissioner shall do the following, as applicable, 377
+respecting any local authority to which an LGF adjustment 378
+computed under division (B) of this section applies: 379
+(1) If the local authority is a municipal corporation with 380
+a population of one thousand or more, reduce payments to the 381
+municipal corporation under division (C) of section 5747.50 of 382
+the Revised Code by one-twelfth of the LGF adjustment. If one- 383
+twelfth of the LGF adjustment exceeds the amount of money the 384
+municipal corporation would otherwise receive under division (C) 385
+of section 5747.50 of the Revised Code, the commissioner also 386
+shall reduce payments to the appropriate county undivided local 387
+government fund under division (B) of section 5747.50 of the 388
+Revised Code by an amount equal to the lesser of (a) one-twelfth 389
+of the excess, or (b) the amount of the payment the municipal 390
+corporation would otherwise receive from the fund under section 391
+5747.51 or 5747.53 of the Revised Code. 392
+(2) If the local authority is a township or qualifying 393
+village, reduce the supplemental payments to the appropriate 394
+county undivided local government fund under section 5747.503 of 395
+
+S. B. No. 63 Page 15
+As Reported by the Senate General Government Committee
+the Revised Code by the lesser of one-twelfth of the LGF 396
+adjustment, or the amount of money the township or qualifying 397
+village would otherwise receive under that section. If one- 398
+twelfth of the LGF adjustment exceeds the amount of money the 399
+township or qualifying village would otherwise receive under 400
+section 5747.503 of the Revised Code, the commissioner also 401
+shall reduce payments to the appropriate county undivided local 402
+government fund under division (B) of section 5747.50 of the 403
+Revised Code by an amount equal to the lesser of (a) one-twelfth 404
+of the excess, or (b) the amount of the payment the township or 405
+qualifying village would otherwise receive from the fund under 406
+section 5747.51 or 5747.53 of the Revised Code. 407
+(3) If the local authority is a county, reduce payments to 408
+the appropriate county undivided local government fund under 409
+division (B) of section 5747.50 of the Revised Code by an amount 410
+equal to the lesser of (a) one-twelfth of the LGF adjustment, or 411
+(b) the amount of the payment the county would otherwise receive 412
+from the fund under section 5747.51 or 5747.53 of the Revised 413
+Code. 414
+(4) For any local authority, on or before the tenth day of 415
+each month a reduction is made under division (C)(1), (2), or 416
+(3) of this section, make a payment to the local authority in an 417
+amount equal to the lesser of (a) one-twelfth of the gross 418
+amount of traffic camera fines the local authority collected in 419
+the preceding fiscal year for violations that occurred within a 420
+school zone, as indicated on the report filed by the local 421
+authority pursuant to division (B)(1) of this section, or (b) 422
+the amount by which the local authority's LGF payments were 423
+reduced that month pursuant to division (C)(1), (2), or (3) of 424
+this section. Payments received by a local authority under this 425
+division shall be used by the local authority for school safety 426
+
+S. B. No. 63 Page 16
+As Reported by the Senate General Government Committee
+purposes. 427
+(D) Upon Subject to section 5747.505 of the Revised Code, 428
+upon discovery, based on information in the commissioner's 429
+possession, that a local authority required to file a report 430
+under division (B)(1) of this section has failed to do so, the 431
+commissioner shall do the following, as applicable: 432
+(1) If the local authority is a municipal corporation with 433
+a population of one thousand or more, cease providing for 434
+payments to the municipal corporation under section 5747.50 of 435
+the Revised Code beginning with the next required payment and 436
+until such time as the report is received by the commissioner; 437
+(2) If the local authority is a township or qualifying 438
+village, reduce the supplemental payments to the appropriate 439
+county undivided local government fund under section 5747.503 of 440
+the Revised Code by an amount equal to the amount of such 441
+payments the local authority would otherwise receive under that 442
+section, beginning with the next required payment and until such 443
+time as the report is received by the commissioner; 444
+(3) For any local authority, reduce payments to the 445
+appropriate county undivided local government fund under 446
+division (B) of section 5747.50 of the Revised Code by an amount 447
+equal to the amount of such payments the local authority would 448
+otherwise receive under section 5747.51 or 5747.53 of the 449
+Revised Code, beginning with the next required payment and until 450
+such time as the report is received by the commissioner; 451
+(4) For any local authority, notify the county auditor and 452
+county treasurer that such payments are to cease until the 453
+commissioner notifies the auditor and treasurer under division 454
+(E) of this section that the payments are to resume. 455
+
+S. B. No. 63 Page 17
+As Reported by the Senate General Government Committee
+(E) The commissioner shall notify the county auditor and 456
+county treasurer on or before the day the commissioner first 457
+reduces a county undivided local government fund payment to that 458
+county under division (C) of this section. The notice shall 459
+include the full amount of the reduction, a list of the local 460
+authorities to which the reduction applies, and the amount of 461
+reduction attributed to each such local authority. The 462
+commissioner shall send an updated notice to the county auditor 463
+and county treasurer any time the amount the reduction 464
+attributed to any local authority changes. 465
+A county treasurer that receives a notice from the 466
+commissioner under this division or division (B)(3)(a) or (D)(4) 467
+of this section shall reduce, cease, or resume payments from the 468
+undivided local government fund to the local authority that is 469
+the subject of the notice as specified by the commissioner in 470
+the notice. Unless otherwise specified in the notice, the 471
+payments shall be reduced, ceased, or resumed beginning with the 472
+next required payment. 473
+(F) There is hereby created in the state treasury the Ohio 474
+highway and transportation safety fund. On or before the tenth 475
+day of each month, the commissioner shall deposit in the fund an 476
+amount equal to the total amount by which payments to local 477
+authorities were reduced or ceased under division (C) or (D) of 478
+this section minus the total amount of payments made under 479
+division (C)(4) of this section. The amount deposited with 480
+respect to a local authority shall be credited to an account to 481
+be created in the fund for the transportation district in which 482
+that local authority is located. If the local authority is 483
+located within more than one transportation district, the amount 484
+credited to the account of each such transportation district 485
+shall be prorated on the basis of the number of centerline miles 486
+
+S. B. No. 63 Page 18
+As Reported by the Senate General Government Committee
+of public roads and highways in both the local authority and the 487
+respective districts. Amounts credited to a transportation 488
+district's account shall be used by the department of 489
+transportation and the district deputy director exclusively to 490
+enhance public safety on public roads and highways within that 491
+transportation district. 492
+Sec. 5747.504. (A) As used in this section, "local 493
+government fund payments" means the payments a municipal 494
+corporation or county would receive under sections 5747.503, 495
+5747.51, and 5747.53, and division (C) of section 5747.50 of the 496
+Revised Code, as applicable, if not for the reductions required 497
+by this section or section 5747.502 of the Revised Code. 498
+(B) Beginning with the month following receipt of a notice 499
+from the secretary of state pursuant to division (B) of section 500
+3505.011 or 3513.141 of the Revised Code, the tax commissioner 501
+shall do the following, as applicable: 502
+(1) If the notice concerns a municipal corporation with a 503
+population of one thousand or more, cease providing for payments 504
+to the municipal corporation under section 5747.50 of the 505
+Revised Code beginning with the next required payment; 506
+(2) If the notice concerns a qualifying village, as 507
+defined in section 5747.503 of the Revised Code, reduce the 508
+supplemental payments to the appropriate county undivided local 509
+government fund under section 5747.503 of the Revised Code by an 510
+amount equal to the amount of such payments the qualifying 511
+village would otherwise receive under that section, beginning 512
+with the next required payment; 513
+(3) For any county or municipal corporation identified in 514
+the notice, reduce payments to the appropriate county undivided 515
+
+S. B. No. 63 Page 19
+As Reported by the Senate General Government Committee
+local government fund under division (B) of section 5747.50 of 516
+the Revised Code by an amount equal to the amount of such 517
+payments the county or municipal corporation would otherwise 518
+receive under section 5747.51 or 5747.53 of the Revised Code, 519
+beginning with the next required payment. 520
+(C) Subject to section 5747.505 of the Revised Code, upon 521
+receiving notice from the secretary of state, under division (C) 522
+of section 3505.11 or 3513.141 of the Revised Code, that a 523
+county or municipal corporation has, by resolution or ordinance, 524
+rescinded previous approval for the use of ranked choice voting, 525
+the commissioner shall resume all local government fund payments 526
+ceased or reduced under division (B) of this section due to that 527
+county's or municipal corporation's use of ranked choice voting. 528
+(D)(1) The commissioner shall notify the county auditor 529
+and county treasurer on or before the day the commissioner first 530
+reduces a county undivided local government fund payment to that 531
+county under division (B)(3) of this section. The notice shall 532
+include the full amount of the reduction, a list of the counties 533
+and municipal corporations to which the reduction applies, and 534
+the amount of reduction attributed to each such county or 535
+municipal corporation. 536
+(2) The commissioner shall also notify the county auditor 537
+and county treasurer on or before the day that the commissioner 538
+first resumes payments to the county undivided local government 539
+fund under division (C) of this section. The notification shall 540
+include a list of the counties or municipal corporations that 541
+are again eligible to receive local government fund payments. 542
+(3) Subject to section 5747.505 of the Revised Code, a 543
+county treasurer that receives a notice from the commissioner 544
+under division (D)(1) or (2) of this section shall cease or 545
+
+S. B. No. 63 Page 20
+As Reported by the Senate General Government Committee
+resume payments from the undivided local government fund to the 546
+county or municipal corporation that is the subject of the 547
+notice as specified by the commissioner in the notice. 548
+(E) On or before the tenth day of each month, the 549
+commissioner shall transfer from the local government fund to 550
+the general revenue fund the sum of the payments withheld that 551
+month under division (B) of this section. 552
+Sec. 5747.505. If a municipal corporation or county is 553
+subject to more than one reduction required by sections 5747.502 554
+and 5747.504 of the Revised Code for the same month, the tax 555
+commissioner shall apply the reduction required by section 556
+5747.504 of the Revised Code first and deposit the amount of 557
+payments withheld to the general revenue fund under division (E) 558
+of that section. 559
+Section 2. That existing sections 3501.01 and 5747.502 of 560
+the Revised Code are hereby repealed. 561
+
+[DELETED: nS BIL      .  :1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7]
+[DELETED: 3  7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2:2 2.2 2 2.2 2 2.2 2 2 2.2 2 2 2.2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3 .2 2 2 2 2 2.2:2 2 2.2 2.2 2 2.2 2 2 2.2 2.3 3:3 3 3 3s3]
+[DELETED: 3  3 3.3 3 3 3 3 3.3 3 3 3 3.3 3 3.3 3.3 3 3 3 3 3 3 3.3 3 3]
+[DELETED: 3 )3 3 3 3 3 3 3 3 3 3 3.3 3 3:3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3.3 3 3 3 3 3 3.3 3 3 3:3 3 3 3-3 3 3 3 3 3 3 3 3.3 3 3 3]
+[DELETED: 3  3 3-3 3 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3 .4 4 4 4 4:4 4 4 4 4;4 4 4 4 4 4 4;4 4 4 4 4 4 4;4 4 4 4.4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4.4 4 4 4 4 4.4 4 5 5:5 5 5 5;5 5 5 5 5 5 5;5 5 5]
+[DELETED: 3  5 5 5 5.5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5.5 5 5 5 5 5.5 5 5 5]
+[DELETED: 3  5 5.5 5 5 5.5 5 5 5 5 5 5.5 5.5]

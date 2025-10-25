@@ -1,0 +1,147 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 540
+2025-2026
+Representatives Pizzulli, Thomas, D.
+To enact section 5709.122 of the Revised Code to 1
+require payments in lieu of taxes from 2
+conservation organizations with significant 3
+holdings of tax-exempt land. 4
+
+Section 2:
+Section 1. That section 5709.122 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5709.122. (A) As used in this section : 7
+(1) "Nonprofit conservation organization" means an 8
+organization that is described under section 501(c)(3) of the 9
+Internal Revenue Code and exempt from federal income taxation 10
+under section 501(a) of the Internal Revenue Code and the 11
+primary purpose of which is to conserve the environment. 12
+(2) "Qualifying real property" means real property that 13
+meets all of the following criteria: 14
+(a) The property is owned by a nonprofit conservation 15
+organization or its subsidiary, or such an organization or its 16
+subsidiary owns an interest in the property. 17
+(b) The property or the organization's interest in the 18
+property is exempt from taxation under section 5709.12 or 19
+H. B. No. 540 Page 2
+As Introduced
+
+Section 3:
+5790.121 of the Revised Code as land used exclusively for 20
+charitable purposes. 21
+(c) The total area of the property located in a single 22
+county is more than fifteen thousand acres. 23
+"Qualifying real property" does not include any portion of 24
+such property that is used primarily for meetings, research or 25
+educational activities, or the administration of a nonprofit 26
+conservation organization. 27
+(3) "Unimproved taxable value" means the taxable value of 28
+qualifying real property for the current tax year, exclusive of 29
+improvements, and assuming that the property was subject to 30
+taxation. 31
+(B) On or before the thirtieth day of June of each year, 32
+beginning in 2026, a nonprofit conservation organization shall 33
+pay to the county treasurer of each county in which qualifying 34
+real property is located an amount equal to two and one-half per 35
+cent of the unimproved taxable value of qualifying real property 36
+located within that county. 37
+(C) Within thirty days after receiving a payment under 38
+division (B) of this section, the county auditor shall 39
+distribute the money among the taxing units within the territory 40
+of which the qualifying real property is located in proportion 41
+to the amount of taxes that would have been collected and 42
+distributed to those taxing units with respect to such property 43
+if the property was subject to taxation. 44
+(D) Money received by a taxing unit under this section 45
+shall be used for any lawful purpose. 46
+(E) If a payment required under this section is not paid 47
+when due, the unpaid amount shall be collected in the same 48
+H. B. No. 540 Page 3
+As Introduced
+manner provided for the collection of delinquent real property 49
+taxes. 50
+[DELETED: nH   . ::   1 1.1 1:1 1 1.1 1 1]
+[DELETED: 0  2.2 2.2 2 2 2.2 2 2 3.3 3 3 3 3 3.3 3 3 4 4 4 4.4 4.4 4 4]
+[DELETED: 0  4.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 540
+2025-2026
+Representatives Pizzulli, Thomas, D.
+To enact section 5709.122 of the Revised Code to 1
+require payments in lieu of taxes from 2
+conservation organizations with significant 3
+holdings of tax-exempt land. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5709.122 of the Revised Code be 5
+enacted to read as follows: 6
+Sec. 5709.122. (A) As used in this section : 7
+(1) "Nonprofit conservation organization" means an 8
+organization that is described under section 501(c)(3) of the 9
+Internal Revenue Code and exempt from federal income taxation 10
+under section 501(a) of the Internal Revenue Code and the 11
+primary purpose of which is to conserve the environment. 12
+(2) "Qualifying real property" means real property that 13
+meets all of the following criteria: 14
+(a) The property is owned by a nonprofit conservation 15
+organization or its subsidiary, or such an organization or its 16
+subsidiary owns an interest in the property. 17
+(b) The property or the organization's interest in the 18
+property is exempt from taxation under section 5709.12 or 19
+
+H. B. No. 540 Page 2
+As Introduced
+5790.121 of the Revised Code as land used exclusively for 20
+charitable purposes. 21
+(c) The total area of the property located in a single 22
+county is more than fifteen thousand acres. 23
+"Qualifying real property" does not include any portion of 24
+such property that is used primarily for meetings, research or 25
+educational activities, or the administration of a nonprofit 26
+conservation organization. 27
+(3) "Unimproved taxable value" means the taxable value of 28
+qualifying real property for the current tax year, exclusive of 29
+improvements, and assuming that the property was subject to 30
+taxation. 31
+(B) On or before the thirtieth day of June of each year, 32
+beginning in 2026, a nonprofit conservation organization shall 33
+pay to the county treasurer of each county in which qualifying 34
+real property is located an amount equal to two and one-half per 35
+cent of the unimproved taxable value of qualifying real property 36
+located within that county. 37
+(C) Within thirty days after receiving a payment under 38
+division (B) of this section, the county auditor shall 39
+distribute the money among the taxing units within the territory 40
+of which the qualifying real property is located in proportion 41
+to the amount of taxes that would have been collected and 42
+distributed to those taxing units with respect to such property 43
+if the property was subject to taxation. 44
+(D) Money received by a taxing unit under this section 45
+shall be used for any lawful purpose. 46
+(E) If a payment required under this section is not paid 47
+when due, the unpaid amount shall be collected in the same 48
+
+H. B. No. 540 Page 3
+As Introduced
+manner provided for the collection of delinquent real property 49
+taxes. 50
+
+[DELETED: nH   . ::   1 1.1 1:1 1 1.1 1 1]
+[DELETED: 0  2.2 2.2 2 2 2.2 2 2 3.3 3 3 3 3 3.3 3 3 4 4 4 4.4 4.4 4 4]
+[DELETED: 0  4.5]

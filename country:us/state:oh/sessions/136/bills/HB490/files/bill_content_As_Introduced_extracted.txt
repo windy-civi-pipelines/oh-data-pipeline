@@ -1,0 +1,1190 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 18
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 490
+2025-2026
+Representatives Schmidt, Williams
+To amend sections 2953.21 and 2953.23 of the 1
+Revised Code to expand the availability of 2
+postconviction relief based on DNA testing 3
+showing actual innocence. 4
+
+Section 2:
+Section 1. That sections 2953.21 and 2953.23 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 2953.21. (A)(1)(a) A person in any of the following 7
+categories may file a petition in the court that imposed 8
+sentence, stating the grounds for relief relied upon, and asking 9
+the court to vacate or set aside the judgment or sentence or to 10
+grant other appropriate relief: 11
+(i) Any person who has been convicted of a criminal 12
+offense or adjudicated a delinquent child and who claims that 13
+there was such a denial or infringement of the person's rights 14
+as to render the judgment void or voidable under the Ohio 15
+Constitution or the Constitution of the United States; 16
+(ii) Any person who has been convicted of a criminal 17
+offense and sentenced to death and who claims that there was a 18
+denial or infringement of the person's rights under either of 19
+those Constitutions that creates a reasonable probability of an 20
+H. B. No. 490 Page 2
+As Introduced
+altered verdict; 21
+(iii) Any person who has been convicted of a criminal 22
+offense that is a felony and who is an offender for whom whose 23
+petition is based on qualifying DNA testing that was performed 24
+under sections 2953.71 to 2953.81 of the Revised Code or under 25
+former section 2953.82 of the Revised Code and analyzed in the 26
+context of and upon consideration of all available admissible 27
+evidence related to the person's case as described in division 28
+(D) of section 2953.74 of the Revised Code that provided results 29
+that establish, by clear and convincing evidence, actual 30
+innocence of that felony offense or, if the person was sentenced 31
+to death, establish, by clear and convincing evidence, actual 32
+innocence of the aggravating circumstance or circumstances the 33
+person was found guilty of committing and that is or are the 34
+basis of that sentence of death; 35
+(iv) Any person who has been convicted of aggravated 36
+murder and sentenced to death for the offense and who claims 37
+that the person had a serious mental illness at the time of the 38
+commission of the offense and that as a result the court should 39
+render void the sentence of death, with the filing of the 40
+petition constituting the waiver described in division (A)(3)(b) 41
+of this section. 42
+(b) A petitioner under division (A)(1)(a) of this section 43
+may file a supporting affidavit and other documentary evidence 44
+in support of the claim for relief. 45
+(c) As used in division (A)(1)(a) of this section: 46
+(i) "Qualifying DNA testing" means either of the 47
+following: 48
+(I) DNA testing that was performed under sections 2953.71 49
+H. B. No. 490 Page 3
+As Introduced
+to 2953.81 of the Revised Code or under former section 2953.82 50
+of the Revised Code; 51
+(II) DNA testing that was performed on or after the 52
+effective date of this amendment at the request or on behalf of 53
+the state or the prosecuting attorney of the county in which the 54
+offender was convicted. 55
+(ii) "Actual innocence" means that, had the results of the 56
+DNA testing conducted under sections 2953.71 to 2953.81 of the 57
+Revised Code or under former section 2953.82 of the Revised Code 58
+in a context described in division (A)(1)(c)(i) of this section 59
+been presented at trial, and had those results been analyzed in 60
+the context of and upon consideration of all available 61
+admissible evidence related to the person's case as described in 62
+division (D) of section 2953.74 of the Revised Code, no 63
+reasonable factfinder would have found the petitioner guilty of 64
+the offense of which the petitioner was convicted, or, if the 65
+person was sentenced to death, no reasonable factfinder would 66
+have found the petitioner guilty of the aggravating circumstance 67
+or circumstances the petitioner was found guilty of committing 68
+and that is or are the basis of that sentence of death. 69
+(ii)(iii) "Serious mental illness" has the same meaning as 70
+in section 2929.025 of the Revised Code. 71
+(d) As used in divisions (A)(1)(a) and (c) of this 72
+
+Section 3:
+section, "former section 2953.82 of the Revised Code" means 73
+
+Section 4:
+section 2953.82 of the Revised Code as it existed prior to July 74
+6, 2010. 75
+(e) At any time in conjunction with the filing of a 76
+petition for postconviction relief under division (A) of this 77
+
+Section 5:
+section by a person who has been sentenced to death, or with the 78
+H. B. No. 490 Page 4
+As Introduced
+litigation of a petition so filed, the court, for good cause 79
+shown, may authorize the petitioner in seeking the 80
+postconviction relief and the prosecuting attorney of the county 81
+served by the court in defending the proceeding, to take 82
+depositions and to issue subpoenas and subpoenas duces tecum in 83
+accordance with divisions (A)(1)(e), (A)(1)(f), and (C) of this 84
+
+Section 6:
+section, and to any other form of discovery as in a civil action 85
+that the court in its discretion permits. The court may limit 86
+the extent of discovery under this division. In addition to 87
+discovery that is relevant to the claim and was available under 88
+Criminal Rule 16 through conclusion of the original criminal 89
+trial, the court, for good cause shown, may authorize the 90
+petitioner or prosecuting attorney to take depositions and issue 91
+subpoenas and subpoenas duces tecum in either of the following 92
+circumstances: 93
+(i) For any witness who testified at trial or who was 94
+disclosed by the state prior to trial, except as otherwise 95
+provided in this division, the petitioner or prosecuting 96
+attorney shows clear and convincing evidence that the witness is 97
+material and that a deposition of the witness or the issuing of 98
+a subpoena or subpoena duces tecum is of assistance in order to 99
+substantiate or refute the petitioner's claim that there is a 100
+reasonable probability of an altered verdict. This division does 101
+not apply if the witness was unavailable for trial or would not 102
+voluntarily be interviewed by the defendant or prosecuting 103
+attorney. 104
+(ii) For any witness with respect to whom division (A)(1) 105
+(e)(i) of this section does not apply, the petitioner or 106
+prosecuting attorney shows good cause that the witness is 107
+material and that a deposition of the witness or the issuing of 108
+a subpoena or subpoena duces tecum is of assistance in order to 109
+H. B. No. 490 Page 5
+As Introduced
+substantiate or refute the petitioner's claim that there is a 110
+reasonable probability of an altered verdict. 111
+(f) If a person who has been sentenced to death and who 112
+files a petition for postconviction relief under division (A) of 113
+this section requests postconviction discovery as described in 114
+division (A)(1)(e) of this section or if the prosecuting 115
+attorney of the county served by the court requests 116
+postconviction discovery as described in that division, within 117
+ten days after the docketing of the request, or within any other 118
+time that the court sets for good cause shown, the prosecuting 119
+attorney shall respond by answer or motion to the petitioner's 120
+request or the petitioner shall respond by answer or motion to 121
+the prosecuting attorney's request, whichever is applicable. 122
+(g) If a person who has been sentenced to death and who 123
+files a petition for postconviction relief under division (A) of 124
+this section requests postconviction discovery as described in 125
+division (A)(1)(e) of this section or if the prosecuting 126
+attorney of the county served by the court requests 127
+postconviction discovery as described in that division, upon 128
+motion by the petitioner, the prosecuting attorney, or the 129
+person from whom discovery is sought, and for good cause shown, 130
+the court in which the action is pending may make any order that 131
+justice requires to protect a party or person from oppression or 132
+undue burden or expense, including but not limited to the orders 133
+described in divisions (A)(1)(h)(i) to (viii) of this section. 134
+The court also may make any such order if, in its discretion, it 135
+determines that the discovery sought would be irrelevant to the 136
+claims made in the petition; and if the court makes any such 137
+order on that basis, it shall explain in the order the reasons 138
+why the discovery would be irrelevant. 139
+H. B. No. 490 Page 6
+As Introduced
+(h) If a petitioner, prosecuting attorney, or person from 140
+whom discovery is sought makes a motion for an order under 141
+division (A)(1)(g) of this section and the order is denied in 142
+whole or in part, the court, on terms and conditions as are 143
+just, may order that any party or person provide or permit 144
+discovery as described in division (A)(1)(e) of this section. 145
+The provisions of Civil Rule 37(A)(4) apply to the award of 146
+expenses incurred in relation to the motion, except that in no 147
+case shall a court require a petitioner who is indigent to pay 148
+expenses under those provisions. 149
+Before any person moves for an order under division (A)(1) 150
+(g) of this section, that person shall make a reasonable effort 151
+to resolve the matter through discussion with the petitioner or 152
+prosecuting attorney seeking discovery. A motion for an order 153
+under division (A)(1)(g) of this section shall be accompanied by 154
+a statement reciting the effort made to resolve the matter in 155
+accordance with this paragraph. 156
+The orders that may be made under division (A)(1)(g) of 157
+this section include, but are not limited to, any of the 158
+following: 159
+(i) That the discovery not be had; 160
+(ii) That the discovery may be had only on specified terms 161
+and conditions, including a designation of the time or place; 162
+(iii) That the discovery may be had only by a method of 163
+discovery other than that selected by the party seeking 164
+discovery; 165
+(iv) That certain matters not be inquired into or that the 166
+scope of the discovery be limited to certain matters; 167
+(v) That discovery be conducted with no one present except 168
+H. B. No. 490 Page 7
+As Introduced
+persons designated by the court; 169
+(vi) That a deposition after being sealed be opened only 170
+by order of the court; 171
+(vii) That a trade secret or other confidential research, 172
+development, or commercial information not be disclosed or be 173
+disclosed only in a designated way; 174
+(viii) That the parties simultaneously file specified 175
+documents or information enclosed in sealed envelopes to be 176
+opened as directed by the court. 177
+(i) Any postconviction discovery authorized under division 178
+(A)(1)(e) of this section shall be completed not later than 179
+eighteen months after the start of the discovery proceedings 180
+unless, for good cause shown, the court extends that period for 181
+completing the discovery. 182
+(j) Nothing in division (A)(1)(e) of this section 183
+authorizes, or shall be construed as authorizing, the 184
+relitigation, or discovery in support of relitigation, of any 185
+matter barred by the doctrine of res judicata. 186
+(k) Division (A)(1) of this section does not apply to any 187
+person who has been convicted of a criminal offense and 188
+sentenced to death and who has unsuccessfully raised the same 189
+claims in a petition for postconviction relief, provided that 190
+this division does not limit or preclude a person from filing a 191
+second or successive petition for postconviction relief when 192
+authorized under section 2953.23 of the Revised Code. 193
+(2)(a) Except as otherwise provided in section 2953.23 of 194
+the Revised Code, a petition under division (A)(1)(a)(i), (ii), 195
+or (iii) of this section shall be filed no later than three 196
+hundred sixty-five days after the date on which the trial 197
+H. B. No. 490 Page 8
+As Introduced
+transcript is filed in the court of appeals in the direct appeal 198
+of the judgment of conviction or adjudication or, if the direct 199
+appeal involves a sentence of death, the date on which the trial 200
+transcript is filed in the supreme court. If no appeal is taken, 201
+except as otherwise provided in section 2953.23 of the Revised 202
+Code, the petition shall be filed no later than three hundred 203
+sixty-five days after the expiration of the time for filing the 204
+appeal. 205
+(b) Except as otherwise provided in section 2953.23 of the 206
+Revised Code, a petition under division (A)(1)(a)(iv) of this 207
+
+Section 7:
+section shall be filed not later than three hundred sixty-five 208
+days after the effective date of this amendment April 12, 2021. 209
+(3)(a) In a petition filed under division (A)(1)(a)(i), 210
+(ii), or (iii) of this section, a person who has been sentenced 211
+to death may ask the court to render void or voidable the 212
+judgment with respect to the conviction of aggravated murder or 213
+the specification of an aggravating circumstance or the sentence 214
+of death. 215
+(b) A person sentenced to death who files a petition under 216
+division (A)(1)(a)(iv) of this section may ask the court to 217
+render void the sentence of death and to order the resentencing 218
+of the person under division (A) of section 2929.06 of the 219
+Revised Code. If a person sentenced to death files such a 220
+petition and asks the court to render void the sentence of death 221
+and to order the resentencing of the person under division (A) 222
+of section 2929.06 of the Revised Code, the act of filing the 223
+petition constitutes a waiver of any right to be sentenced under 224
+the law that existed at the time the offense was committed and 225
+constitutes consent to be sentenced to life imprisonment without 226
+parole under division (A) of section 2929.06 of the Revised 227
+H. B. No. 490 Page 9
+As Introduced
+Code. 228
+(4) A petitioner shall state in the original or amended 229
+petition filed under division (A) of this section all grounds 230
+for relief claimed by the petitioner. Except as provided in 231
+
+Section 8:
+section 2953.23 of the Revised Code, any ground for relief that 232
+is not so stated in the petition is waived. 233
+(5) If the petitioner in a petition filed under division 234
+(A)(1)(a)(i), (ii), or (iii) of this section was convicted of or 235
+pleaded guilty to a felony, the petition may include a claim 236
+that the petitioner was denied the equal protection of the laws 237
+in violation of the Ohio Constitution or the United States 238
+Constitution because the sentence imposed upon the petitioner 239
+for the felony was part of a consistent pattern of disparity in 240
+sentencing by the judge who imposed the sentence, with regard to 241
+the petitioner's race, gender, ethnic background, or religion. 242
+If the supreme court adopts a rule requiring a court of common 243
+pleas to maintain information with regard to an offender's race, 244
+gender, ethnic background, or religion, the supporting evidence 245
+for the petition shall include, but shall not be limited to, a 246
+copy of that type of information relative to the petitioner's 247
+sentence and copies of that type of information relative to 248
+sentences that the same judge imposed upon other persons. 249
+(6) Notwithstanding any law or court rule to the contrary, 250
+there is no limit on the number of pages in, or on the length 251
+of, a petition filed under division (A)(1)(a)(i), (ii), (iii), 252
+or (iv) of this section by a person who has been sentenced to 253
+death. If any court rule specifies a limit on the number of 254
+pages in, or on the length of, a petition filed under division 255
+(A)(1)(a)(i), (ii), (iii), or (iv) of this section or on a 256
+prosecuting attorney's response to such a petition by answer or 257
+H. B. No. 490 Page 10
+As Introduced
+motion and a person who has been sentenced to death files a 258
+petition that exceeds the limit specified for the petition, the 259
+prosecuting attorney may respond by an answer or motion that 260
+exceeds the limit specified for the response. 261
+(B) The clerk of the court in which the petition for 262
+postconviction relief and, if applicable, a request for 263
+postconviction discovery described in division (A)(1)(e) of this 264
+
+Section 9:
+section is filed shall docket the petition and the request and 265
+bring them promptly to the attention of the court. The clerk of 266
+the court in which the petition for postconviction relief and, 267
+if applicable, a request for postconviction discovery described 268
+in division (A)(1)(e) of this section is filed immediately shall 269
+forward a copy of the petition and a copy of the request if 270
+filed by the petitioner to the prosecuting attorney of the 271
+county served by the court. If the request for postconviction 272
+discovery is filed by the prosecuting attorney, the clerk of the 273
+court immediately shall forward a copy of the request to the 274
+petitioner or the petitioner's counsel. 275
+(C) If a person who has been sentenced to death and who 276
+files a petition for postconviction relief under division (A)(1) 277
+(a)(i), (ii), (iii), or (iv) of this section requests a 278
+deposition or the prosecuting attorney in the case requests a 279
+deposition, and if the court grants the request under division 280
+(A)(1)(e) of this section, the court shall notify the petitioner 281
+or the petitioner's counsel and the prosecuting attorney. The 282
+deposition shall be conducted pursuant to divisions (B), (D), 283
+and (E) of Criminal Rule 15. Notwithstanding division (C) of 284
+Criminal Rule 15, the petitioner is not entitled to attend the 285
+deposition. The prosecuting attorney shall be permitted to 286
+attend and participate in any deposition. 287
+H. B. No. 490 Page 11
+As Introduced
+(D) The court shall consider a petition that is timely 288
+filed within the period specified in division (A)(2) of this 289
+
+Section 10:
+section even if a direct appeal of the judgment is pending. 290
+Before granting a hearing on a petition filed under division (A) 291
+(1)(a)(i), (ii), (iii), or (iv) of this section, the court shall 292
+determine whether there are substantive grounds for relief. In 293
+making such a determination, the court shall consider, in 294
+addition to the petition, the supporting affidavits, and the 295
+documentary evidence, all the files and records pertaining to 296
+the proceedings against the petitioner, including, but not 297
+limited to, the indictment, the court's journal entries, the 298
+journalized records of the clerk of the court, and the court 299
+reporter's transcript. The court reporter's transcript, if 300
+ordered and certified by the court, shall be taxed as court 301
+costs. If the court dismisses the petition, it shall make and 302
+file findings of fact and conclusions of law with respect to 303
+such dismissal. If the petition was filed by a person who has 304
+been sentenced to death, the findings of fact and conclusions of 305
+law shall state specifically the reasons for the dismissal of 306
+the petition and of each claim it contains. 307
+(E) Within ten days after the docketing of the petition, 308
+or within any further time that the court may fix for good cause 309
+shown, the prosecuting attorney shall respond by answer or 310
+motion. Division (A)(6) of this section applies with respect to 311
+the prosecuting attorney's response. Within twenty days from the 312
+date the issues are raised, either party may move for summary 313
+judgment. The right to summary judgment shall appear on the face 314
+of the record. 315
+(F) Unless the petition and the files and records of the 316
+case show the petitioner is not entitled to relief, the court 317
+shall proceed to a prompt hearing on the issues even if a direct 318
+H. B. No. 490 Page 12
+As Introduced
+appeal of the case is pending. If the court notifies the parties 319
+that it has found grounds for granting relief, either party may 320
+request an appellate court in which a direct appeal of the 321
+judgment is pending to remand the pending case to the court. 322
+With respect to a petition filed under division (A)(1)(a) 323
+(iv) of this section, the procedures and rules regarding 324
+introduction of evidence and burden of proof at the pretrial 325
+hearing that are set forth in divisions (C), (D), and (F) of 326
+
+Section 11:
+section 2929.025 of the Revised Code apply in considering the 327
+petition. With respect to such a petition, the grounds for 328
+granting relief are that the person has been diagnosed with one 329
+or more of the conditions set forth in division (A)(1)(a) of 330
+
+Section 12:
+section 2929.025 of the Revised Code and that, at the time of 331
+the aggravated murder that was the basis of the sentence of 332
+death, the condition or conditions significantly impaired the 333
+person's capacity in a manner described in division (A)(1)(b) of 334
+that section. 335
+(G) A petitioner who files a petition under division (A) 336
+(1)(a)(i), (ii), (iii), or (iv) of this section may amend the 337
+petition as follows: 338
+(1) If the petition was filed by a person who has been 339
+sentenced to death, at any time that is not later than one 340
+hundred eighty days after the petition is filed, the petitioner 341
+may amend the petition with or without leave or prejudice to the 342
+proceedings. 343
+(2) If division (G)(1) of this section does not apply, at 344
+any time before the answer or motion is filed, the petitioner 345
+may amend the petition with or without leave or prejudice to the 346
+proceedings. 347
+H. B. No. 490 Page 13
+As Introduced
+(3) The petitioner may amend the petition with leave of 348
+court at any time after the expiration of the applicable period 349
+specified in division (G)(1) or (2) of this section. 350
+(H) If the court does not find grounds for granting 351
+relief, it shall make and file findings of fact and conclusions 352
+of law and shall enter judgment denying relief on the petition. 353
+If the petition was filed by a person who has been sentenced to 354
+death, the findings of fact and conclusions of law shall state 355
+specifically the reasons for the denial of relief on the 356
+petition and of each claim it contains. If no direct appeal of 357
+the case is pending and the court finds grounds for relief or if 358
+a pending direct appeal of the case has been remanded to the 359
+court pursuant to a request made pursuant to division (F) of 360
+this section and the court finds grounds for granting relief, it 361
+shall make and file findings of fact and conclusions of law and 362
+shall enter a judgment that vacates and sets aside the judgment 363
+in question, and, in the case of a petitioner who is a prisoner 364
+in custody, except as otherwise described in this division, 365
+shall discharge or resentence the petitioner or grant a new 366
+trial as the court determines appropriate. If the court finds 367
+grounds for relief in the case of a petitioner who filed a 368
+petition under division (A)(1)(a)(iv) of this section, the court 369
+shall render void the sentence of death and order the 370
+resentencing of the offender under division (A) of section 371
+
+Section 13:
+2929.06 of the Revised Code. If the petitioner has been 372
+sentenced to death, the findings of fact and conclusions of law 373
+shall state specifically the reasons for the finding of grounds 374
+for granting the relief, with respect to each claim contained in 375
+the petition. The court also may make supplementary orders to 376
+the relief granted, concerning such matters as rearraignment, 377
+retrial, custody, and bail. If the trial court's order granting 378
+H. B. No. 490 Page 14
+As Introduced
+the petition is reversed on appeal and if the direct appeal of 379
+the case has been remanded from an appellate court pursuant to a 380
+request under division (F) of this section, the appellate court 381
+reversing the order granting the petition shall notify the 382
+appellate court in which the direct appeal of the case was 383
+pending at the time of the remand of the reversal and remand of 384
+the trial court's order. Upon the reversal and remand of the 385
+trial court's order granting the petition, regardless of whether 386
+notice is sent or received, the direct appeal of the case that 387
+was remanded is reinstated. 388
+(I) Upon the filing of a petition pursuant to division (A) 389
+(1)(a)(i), (ii), (iii), or (iv) of this section by a person 390
+sentenced to death, only the supreme court may stay execution of 391
+the sentence of death. 392
+(J)(1) If a person sentenced to death intends to file a 393
+petition under this section, the court shall appoint counsel to 394
+represent the person upon a finding that the person is indigent 395
+and that the person either accepts the appointment of counsel or 396
+is unable to make a competent decision whether to accept or 397
+reject the appointment of counsel. The court may decline to 398
+appoint counsel for the person only upon a finding, after a 399
+hearing if necessary, that the person rejects the appointment of 400
+counsel and understands the legal consequences of that decision 401
+or upon a finding that the person is not indigent. 402
+(2) The court shall not appoint as counsel under division 403
+(J)(1) of this section an attorney who represented the 404
+petitioner at trial in the case to which the petition relates 405
+unless the person and the attorney expressly request the 406
+appointment. The court shall appoint as counsel under division 407
+(J)(1) of this section only an attorney who is certified under 408
+H. B. No. 490 Page 15
+As Introduced
+Rule 20 of the Rules of Superintendence for the Courts of Ohio 409
+to represent indigent defendants charged with or convicted of an 410
+offense for which the death penalty can be or has been imposed. 411
+The ineffectiveness or incompetence of counsel during 412
+proceedings under this section does not constitute grounds for 413
+relief in a proceeding under this section, in an appeal of any 414
+action under this section, or in an application to reopen a 415
+direct appeal. 416
+(3) Division (J) of this section does not preclude 417
+attorneys who represent the state of Ohio from invoking the 418
+provisions of 28 U.S.C. 154 with respect to capital cases that 419
+were pending in federal habeas corpus proceedings prior to July 420
+1, 1996, insofar as the petitioners in those cases were 421
+represented in proceedings under this section by one or more 422
+counsel appointed by the court under this section or section 423
+
+Section 14:
+120.06, 120.16, 120.26, or 120.33 of the Revised Code and those 424
+appointed counsel meet the requirements of division (J)(2) of 425
+this section. 426
+(K) Subject to the appeal of a sentence for a felony that 427
+is authorized by section 2953.08 of the Revised Code, the remedy 428
+set forth in this section is the exclusive remedy by which a 429
+person may bring a collateral challenge to the validity of a 430
+conviction or sentence in a criminal case or to the validity of 431
+an adjudication of a child as a delinquent child for the 432
+commission of an act that would be a criminal offense if 433
+committed by an adult or the validity of a related order of 434
+disposition. 435
+Sec. 2953.23. (A) Whether a hearing is or is not held on a 436
+petition filed pursuant to section 2953.21 of the Revised Code, 437
+a court may not entertain a petition filed after the expiration 438
+H. B. No. 490 Page 16
+As Introduced
+of the period prescribed in division (A) of that section or a 439
+second petition or successive petitions for similar relief on 440
+behalf of a petitioner unless division (A)(1) or (2) of this 441
+
+Section 15:
+section applies: 442
+(1) Both of the following apply: 443
+(a) Either the petitioner shows that the petitioner was 444
+unavoidably prevented from discovery of the facts upon which the 445
+petitioner must rely to present the claim for relief, or, 446
+subsequent to the period prescribed in division (A)(2) of 447
+
+Section 16:
+section 2953.21 of the Revised Code or to the filing of an 448
+earlier petition, the United States Supreme Court recognized a 449
+new federal or state right that applies retroactively to persons 450
+in the petitioner's situation, and the petition asserts a claim 451
+based on that right. 452
+(b) The petitioner shows by clear and convincing evidence 453
+that, but for constitutional error at trial, no reasonable 454
+factfinder would have found the petitioner guilty of the offense 455
+of which the petitioner was convicted or, if the claim 456
+challenges a sentence of death that, but for constitutional 457
+error at the sentencing hearing, no reasonable factfinder would 458
+have found the petitioner eligible for the death sentence. 459
+(2) All of the following apply: 460
+(a) The petitioner was convicted of a felony, the 461
+petitioner is an offender for whom. 462
+(b) The petitioner's petition is based on qualifying DNA 463
+testing was performed under sections 2953.71 to 2953.81 of the 464
+Revised Code or under former section 2953.82 of the Revised Code 465
+and analyzed in the context of and upon consideration of all 466
+available admissible evidence related to the inmate's case as 467
+H. B. No. 490 Page 17
+As Introduced
+described in division (D) of section 2953.74 of the Revised 468
+Code, and the. 469
+(c) The results of the qualifying DNA testing establish, 470
+by clear and convincing evidence, actual innocence of that 471
+felony offense or, if the person was sentenced to death, 472
+establish, by clear and convincing evidence, actual innocence of 473
+the aggravating circumstance or circumstances the person was 474
+found guilty of committing and that is or are the basis of that 475
+sentence of death. 476
+As used in this division, "actual innocence" has the same 477
+meaning as in division (A)(1)(c) of section 2953.21 of the 478
+Revised Code, and "former section 2953.82 of the Revised Code" 479
+has the same meaning as in division (A)(1)(d) of section 2953.21 480
+of the Revised Code. 481
+(B) An order awarding or denying relief sought in a 482
+petition filed pursuant to section 2953.21 of the Revised Code 483
+is a final judgment and may be appealed pursuant to Chapter 484
+
+Section 17:
+2953. of the Revised Code. 485
+If a petition filed pursuant to section 2953.21 of the 486
+Revised Code by a person who has been sentenced to death is 487
+denied and the person appeals the judgment, notwithstanding any 488
+law or court rule to the contrary, there is no limit on the 489
+number of pages in, or on the length of, a notice of appeal or 490
+briefs related to an appeal filed by the person. If any court 491
+rule specifies a limit on the number of pages in, or on the 492
+length of, a notice of appeal or briefs described in this 493
+division or on a prosecuting attorney's response or briefs with 494
+respect to such an appeal and a person who has been sentenced to 495
+death files a notice of appeal or briefs that exceed the limit 496
+specified for the petition, the prosecuting attorney may file a 497
+H. B. No. 490 Page 18
+As Introduced
+response or briefs that exceed the limit specified for the 498
+answer or briefs. 499
+(C) As used in division (A)(2) of this section, "actual 500
+innocence" and "qualifying DNA testing" have the same meanings 501
+as in division (A)(1)(c) of section 2953.21 of the Revised Code. 502
+
+Section 18:
+Section 2. That existing sections 2953.21 and 2953.23 of 503
+the Revised Code are hereby repealed. 504
+[DELETED: nH   . :    1:1 1 1 1 1;1 1 1 1 2]
+[DELETED: 0 ;2 2 2 2 2 2 2 2 2 3 3 3 3 3;3 3 3 3 3 4 4.4 4 4.4:4 4:4 4]
+[DELETED: 0  5;5 5 5 5.5 5 5 5 5 6 6 6 6 6 6 6 6 6.6 7.7 7 7 7.7 7 7 7]
+[DELETED: 0  7 8 8 8 8 8 8 8 8 8 8 9 9 9:9 9 9 9 9 9 9 1 1 1 1.1)1 1 1 1 1]
+[DELETED: 0  1.1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1]
+[DELETED: 0  1 1 1 1 1 1 1 1 1.1)1 1 1 1 1 1.1 1 1:1;1 1;1 1 1;1 1;1 1]
+[DELETED: 0 ;1 1;1 1 1;1 1 1.1 1 1 1 1.1 1 1 1.1 1 1 1 1 1 1.1 1 1 1 1]
+[DELETED: 0  1 1 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 0 .2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2]
+[DELETED: 0  2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2)2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 0  2 2 2)2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3.3 3 3 3]
+[DELETED: 0  3 3 3.3)3 3 3 3 3 3 3 3 3 3 3 3.3)3 3:3 3 3 3 3.3 3 3 3.3]
+[DELETED: 0  3 3.3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 0  3 3 3 3 3 3 3 3 3.3)3 3 3.3 3 3 3 3 3 3 3 4 4.4 4 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4 4]
+[DELETED: 0  4 4 4:4:4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4:4 4.4 4 4 4 4 4]
+[DELETED: 0  4.4 4 4 4 4 4 4.4 4 4 4 4.4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 0  4.4 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 490
+2025-2026
+Representatives Schmidt, Williams
+To amend sections 2953.21 and 2953.23 of the 1
+Revised Code to expand the availability of 2
+postconviction relief based on DNA testing 3
+showing actual innocence. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2953.21 and 2953.23 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 2953.21. (A)(1)(a) A person in any of the following 7
+categories may file a petition in the court that imposed 8
+sentence, stating the grounds for relief relied upon, and asking 9
+the court to vacate or set aside the judgment or sentence or to 10
+grant other appropriate relief: 11
+(i) Any person who has been convicted of a criminal 12
+offense or adjudicated a delinquent child and who claims that 13
+there was such a denial or infringement of the person's rights 14
+as to render the judgment void or voidable under the Ohio 15
+Constitution or the Constitution of the United States; 16
+(ii) Any person who has been convicted of a criminal 17
+offense and sentenced to death and who claims that there was a 18
+denial or infringement of the person's rights under either of 19
+those Constitutions that creates a reasonable probability of an 20
+
+H. B. No. 490 Page 2
+As Introduced
+altered verdict; 21
+(iii) Any person who has been convicted of a criminal 22
+offense that is a felony and who is an offender for whom whose 23
+petition is based on qualifying DNA testing that was performed 24
+under sections 2953.71 to 2953.81 of the Revised Code or under 25
+former section 2953.82 of the Revised Code and analyzed in the 26
+context of and upon consideration of all available admissible 27
+evidence related to the person's case as described in division 28
+(D) of section 2953.74 of the Revised Code that provided results 29
+that establish, by clear and convincing evidence, actual 30
+innocence of that felony offense or, if the person was sentenced 31
+to death, establish, by clear and convincing evidence, actual 32
+innocence of the aggravating circumstance or circumstances the 33
+person was found guilty of committing and that is or are the 34
+basis of that sentence of death; 35
+(iv) Any person who has been convicted of aggravated 36
+murder and sentenced to death for the offense and who claims 37
+that the person had a serious mental illness at the time of the 38
+commission of the offense and that as a result the court should 39
+render void the sentence of death, with the filing of the 40
+petition constituting the waiver described in division (A)(3)(b) 41
+of this section. 42
+(b) A petitioner under division (A)(1)(a) of this section 43
+may file a supporting affidavit and other documentary evidence 44
+in support of the claim for relief. 45
+(c) As used in division (A)(1)(a) of this section: 46
+(i) "Qualifying DNA testing" means either of the 47
+following: 48
+(I) DNA testing that was performed under sections 2953.71 49
+
+H. B. No. 490 Page 3
+As Introduced
+to 2953.81 of the Revised Code or under former section 2953.82 50
+of the Revised Code; 51
+(II) DNA testing that was performed on or after the 52
+effective date of this amendment at the request or on behalf of 53
+the state or the prosecuting attorney of the county in which the 54
+offender was convicted. 55
+(ii) "Actual innocence" means that, had the results of the 56
+DNA testing conducted under sections 2953.71 to 2953.81 of the 57
+Revised Code or under former section 2953.82 of the Revised Code 58
+in a context described in division (A)(1)(c)(i) of this section 59
+been presented at trial, and had those results been analyzed in 60
+the context of and upon consideration of all available 61
+admissible evidence related to the person's case as described in 62
+division (D) of section 2953.74 of the Revised Code, no 63
+reasonable factfinder would have found the petitioner guilty of 64
+the offense of which the petitioner was convicted, or, if the 65
+person was sentenced to death, no reasonable factfinder would 66
+have found the petitioner guilty of the aggravating circumstance 67
+or circumstances the petitioner was found guilty of committing 68
+and that is or are the basis of that sentence of death. 69
+(ii)(iii) "Serious mental illness" has the same meaning as 70
+in section 2929.025 of the Revised Code. 71
+(d) As used in divisions (A)(1)(a) and (c) of this 72
+section, "former section 2953.82 of the Revised Code" means 73
+section 2953.82 of the Revised Code as it existed prior to July 74
+6, 2010. 75
+(e) At any time in conjunction with the filing of a 76
+petition for postconviction relief under division (A) of this 77
+section by a person who has been sentenced to death, or with the 78
+
+H. B. No. 490 Page 4
+As Introduced
+litigation of a petition so filed, the court, for good cause 79
+shown, may authorize the petitioner in seeking the 80
+postconviction relief and the prosecuting attorney of the county 81
+served by the court in defending the proceeding, to take 82
+depositions and to issue subpoenas and subpoenas duces tecum in 83
+accordance with divisions (A)(1)(e), (A)(1)(f), and (C) of this 84
+section, and to any other form of discovery as in a civil action 85
+that the court in its discretion permits. The court may limit 86
+the extent of discovery under this division. In addition to 87
+discovery that is relevant to the claim and was available under 88
+Criminal Rule 16 through conclusion of the original criminal 89
+trial, the court, for good cause shown, may authorize the 90
+petitioner or prosecuting attorney to take depositions and issue 91
+subpoenas and subpoenas duces tecum in either of the following 92
+circumstances: 93
+(i) For any witness who testified at trial or who was 94
+disclosed by the state prior to trial, except as otherwise 95
+provided in this division, the petitioner or prosecuting 96
+attorney shows clear and convincing evidence that the witness is 97
+material and that a deposition of the witness or the issuing of 98
+a subpoena or subpoena duces tecum is of assistance in order to 99
+substantiate or refute the petitioner's claim that there is a 100
+reasonable probability of an altered verdict. This division does 101
+not apply if the witness was unavailable for trial or would not 102
+voluntarily be interviewed by the defendant or prosecuting 103
+attorney. 104
+(ii) For any witness with respect to whom division (A)(1) 105
+(e)(i) of this section does not apply, the petitioner or 106
+prosecuting attorney shows good cause that the witness is 107
+material and that a deposition of the witness or the issuing of 108
+a subpoena or subpoena duces tecum is of assistance in order to 109
+
+H. B. No. 490 Page 5
+As Introduced
+substantiate or refute the petitioner's claim that there is a 110
+reasonable probability of an altered verdict. 111
+(f) If a person who has been sentenced to death and who 112
+files a petition for postconviction relief under division (A) of 113
+this section requests postconviction discovery as described in 114
+division (A)(1)(e) of this section or if the prosecuting 115
+attorney of the county served by the court requests 116
+postconviction discovery as described in that division, within 117
+ten days after the docketing of the request, or within any other 118
+time that the court sets for good cause shown, the prosecuting 119
+attorney shall respond by answer or motion to the petitioner's 120
+request or the petitioner shall respond by answer or motion to 121
+the prosecuting attorney's request, whichever is applicable. 122
+(g) If a person who has been sentenced to death and who 123
+files a petition for postconviction relief under division (A) of 124
+this section requests postconviction discovery as described in 125
+division (A)(1)(e) of this section or if the prosecuting 126
+attorney of the county served by the court requests 127
+postconviction discovery as described in that division, upon 128
+motion by the petitioner, the prosecuting attorney, or the 129
+person from whom discovery is sought, and for good cause shown, 130
+the court in which the action is pending may make any order that 131
+justice requires to protect a party or person from oppression or 132
+undue burden or expense, including but not limited to the orders 133
+described in divisions (A)(1)(h)(i) to (viii) of this section. 134
+The court also may make any such order if, in its discretion, it 135
+determines that the discovery sought would be irrelevant to the 136
+claims made in the petition; and if the court makes any such 137
+order on that basis, it shall explain in the order the reasons 138
+why the discovery would be irrelevant. 139
+
+H. B. No. 490 Page 6
+As Introduced
+(h) If a petitioner, prosecuting attorney, or person from 140
+whom discovery is sought makes a motion for an order under 141
+division (A)(1)(g) of this section and the order is denied in 142
+whole or in part, the court, on terms and conditions as are 143
+just, may order that any party or person provide or permit 144
+discovery as described in division (A)(1)(e) of this section. 145
+The provisions of Civil Rule 37(A)(4) apply to the award of 146
+expenses incurred in relation to the motion, except that in no 147
+case shall a court require a petitioner who is indigent to pay 148
+expenses under those provisions. 149
+Before any person moves for an order under division (A)(1) 150
+(g) of this section, that person shall make a reasonable effort 151
+to resolve the matter through discussion with the petitioner or 152
+prosecuting attorney seeking discovery. A motion for an order 153
+under division (A)(1)(g) of this section shall be accompanied by 154
+a statement reciting the effort made to resolve the matter in 155
+accordance with this paragraph. 156
+The orders that may be made under division (A)(1)(g) of 157
+this section include, but are not limited to, any of the 158
+following: 159
+(i) That the discovery not be had; 160
+(ii) That the discovery may be had only on specified terms 161
+and conditions, including a designation of the time or place; 162
+(iii) That the discovery may be had only by a method of 163
+discovery other than that selected by the party seeking 164
+discovery; 165
+(iv) That certain matters not be inquired into or that the 166
+scope of the discovery be limited to certain matters; 167
+(v) That discovery be conducted with no one present except 168
+
+H. B. No. 490 Page 7
+As Introduced
+persons designated by the court; 169
+(vi) That a deposition after being sealed be opened only 170
+by order of the court; 171
+(vii) That a trade secret or other confidential research, 172
+development, or commercial information not be disclosed or be 173
+disclosed only in a designated way; 174
+(viii) That the parties simultaneously file specified 175
+documents or information enclosed in sealed envelopes to be 176
+opened as directed by the court. 177
+(i) Any postconviction discovery authorized under division 178
+(A)(1)(e) of this section shall be completed not later than 179
+eighteen months after the start of the discovery proceedings 180
+unless, for good cause shown, the court extends that period for 181
+completing the discovery. 182
+(j) Nothing in division (A)(1)(e) of this section 183
+authorizes, or shall be construed as authorizing, the 184
+relitigation, or discovery in support of relitigation, of any 185
+matter barred by the doctrine of res judicata. 186
+(k) Division (A)(1) of this section does not apply to any 187
+person who has been convicted of a criminal offense and 188
+sentenced to death and who has unsuccessfully raised the same 189
+claims in a petition for postconviction relief, provided that 190
+this division does not limit or preclude a person from filing a 191
+second or successive petition for postconviction relief when 192
+authorized under section 2953.23 of the Revised Code. 193
+(2)(a) Except as otherwise provided in section 2953.23 of 194
+the Revised Code, a petition under division (A)(1)(a)(i), (ii), 195
+or (iii) of this section shall be filed no later than three 196
+hundred sixty-five days after the date on which the trial 197
+
+H. B. No. 490 Page 8
+As Introduced
+transcript is filed in the court of appeals in the direct appeal 198
+of the judgment of conviction or adjudication or, if the direct 199
+appeal involves a sentence of death, the date on which the trial 200
+transcript is filed in the supreme court. If no appeal is taken, 201
+except as otherwise provided in section 2953.23 of the Revised 202
+Code, the petition shall be filed no later than three hundred 203
+sixty-five days after the expiration of the time for filing the 204
+appeal. 205
+(b) Except as otherwise provided in section 2953.23 of the 206
+Revised Code, a petition under division (A)(1)(a)(iv) of this 207
+section shall be filed not later than three hundred sixty-five 208
+days after the effective date of this amendment April 12, 2021. 209
+(3)(a) In a petition filed under division (A)(1)(a)(i), 210
+(ii), or (iii) of this section, a person who has been sentenced 211
+to death may ask the court to render void or voidable the 212
+judgment with respect to the conviction of aggravated murder or 213
+the specification of an aggravating circumstance or the sentence 214
+of death. 215
+(b) A person sentenced to death who files a petition under 216
+division (A)(1)(a)(iv) of this section may ask the court to 217
+render void the sentence of death and to order the resentencing 218
+of the person under division (A) of section 2929.06 of the 219
+Revised Code. If a person sentenced to death files such a 220
+petition and asks the court to render void the sentence of death 221
+and to order the resentencing of the person under division (A) 222
+of section 2929.06 of the Revised Code, the act of filing the 223
+petition constitutes a waiver of any right to be sentenced under 224
+the law that existed at the time the offense was committed and 225
+constitutes consent to be sentenced to life imprisonment without 226
+parole under division (A) of section 2929.06 of the Revised 227
+
+H. B. No. 490 Page 9
+As Introduced
+Code. 228
+(4) A petitioner shall state in the original or amended 229
+petition filed under division (A) of this section all grounds 230
+for relief claimed by the petitioner. Except as provided in 231
+section 2953.23 of the Revised Code, any ground for relief that 232
+is not so stated in the petition is waived. 233
+(5) If the petitioner in a petition filed under division 234
+(A)(1)(a)(i), (ii), or (iii) of this section was convicted of or 235
+pleaded guilty to a felony, the petition may include a claim 236
+that the petitioner was denied the equal protection of the laws 237
+in violation of the Ohio Constitution or the United States 238
+Constitution because the sentence imposed upon the petitioner 239
+for the felony was part of a consistent pattern of disparity in 240
+sentencing by the judge who imposed the sentence, with regard to 241
+the petitioner's race, gender, ethnic background, or religion. 242
+If the supreme court adopts a rule requiring a court of common 243
+pleas to maintain information with regard to an offender's race, 244
+gender, ethnic background, or religion, the supporting evidence 245
+for the petition shall include, but shall not be limited to, a 246
+copy of that type of information relative to the petitioner's 247
+sentence and copies of that type of information relative to 248
+sentences that the same judge imposed upon other persons. 249
+(6) Notwithstanding any law or court rule to the contrary, 250
+there is no limit on the number of pages in, or on the length 251
+of, a petition filed under division (A)(1)(a)(i), (ii), (iii), 252
+or (iv) of this section by a person who has been sentenced to 253
+death. If any court rule specifies a limit on the number of 254
+pages in, or on the length of, a petition filed under division 255
+(A)(1)(a)(i), (ii), (iii), or (iv) of this section or on a 256
+prosecuting attorney's response to such a petition by answer or 257
+
+H. B. No. 490 Page 10
+As Introduced
+motion and a person who has been sentenced to death files a 258
+petition that exceeds the limit specified for the petition, the 259
+prosecuting attorney may respond by an answer or motion that 260
+exceeds the limit specified for the response. 261
+(B) The clerk of the court in which the petition for 262
+postconviction relief and, if applicable, a request for 263
+postconviction discovery described in division (A)(1)(e) of this 264
+section is filed shall docket the petition and the request and 265
+bring them promptly to the attention of the court. The clerk of 266
+the court in which the petition for postconviction relief and, 267
+if applicable, a request for postconviction discovery described 268
+in division (A)(1)(e) of this section is filed immediately shall 269
+forward a copy of the petition and a copy of the request if 270
+filed by the petitioner to the prosecuting attorney of the 271
+county served by the court. If the request for postconviction 272
+discovery is filed by the prosecuting attorney, the clerk of the 273
+court immediately shall forward a copy of the request to the 274
+petitioner or the petitioner's counsel. 275
+(C) If a person who has been sentenced to death and who 276
+files a petition for postconviction relief under division (A)(1) 277
+(a)(i), (ii), (iii), or (iv) of this section requests a 278
+deposition or the prosecuting attorney in the case requests a 279
+deposition, and if the court grants the request under division 280
+(A)(1)(e) of this section, the court shall notify the petitioner 281
+or the petitioner's counsel and the prosecuting attorney. The 282
+deposition shall be conducted pursuant to divisions (B), (D), 283
+and (E) of Criminal Rule 15. Notwithstanding division (C) of 284
+Criminal Rule 15, the petitioner is not entitled to attend the 285
+deposition. The prosecuting attorney shall be permitted to 286
+attend and participate in any deposition. 287
+
+H. B. No. 490 Page 11
+As Introduced
+(D) The court shall consider a petition that is timely 288
+filed within the period specified in division (A)(2) of this 289
+section even if a direct appeal of the judgment is pending. 290
+Before granting a hearing on a petition filed under division (A) 291
+(1)(a)(i), (ii), (iii), or (iv) of this section, the court shall 292
+determine whether there are substantive grounds for relief. In 293
+making such a determination, the court shall consider, in 294
+addition to the petition, the supporting affidavits, and the 295
+documentary evidence, all the files and records pertaining to 296
+the proceedings against the petitioner, including, but not 297
+limited to, the indictment, the court's journal entries, the 298
+journalized records of the clerk of the court, and the court 299
+reporter's transcript. The court reporter's transcript, if 300
+ordered and certified by the court, shall be taxed as court 301
+costs. If the court dismisses the petition, it shall make and 302
+file findings of fact and conclusions of law with respect to 303
+such dismissal. If the petition was filed by a person who has 304
+been sentenced to death, the findings of fact and conclusions of 305
+law shall state specifically the reasons for the dismissal of 306
+the petition and of each claim it contains. 307
+(E) Within ten days after the docketing of the petition, 308
+or within any further time that the court may fix for good cause 309
+shown, the prosecuting attorney shall respond by answer or 310
+motion. Division (A)(6) of this section applies with respect to 311
+the prosecuting attorney's response. Within twenty days from the 312
+date the issues are raised, either party may move for summary 313
+judgment. The right to summary judgment shall appear on the face 314
+of the record. 315
+(F) Unless the petition and the files and records of the 316
+case show the petitioner is not entitled to relief, the court 317
+shall proceed to a prompt hearing on the issues even if a direct 318
+
+H. B. No. 490 Page 12
+As Introduced
+appeal of the case is pending. If the court notifies the parties 319
+that it has found grounds for granting relief, either party may 320
+request an appellate court in which a direct appeal of the 321
+judgment is pending to remand the pending case to the court. 322
+With respect to a petition filed under division (A)(1)(a) 323
+(iv) of this section, the procedures and rules regarding 324
+introduction of evidence and burden of proof at the pretrial 325
+hearing that are set forth in divisions (C), (D), and (F) of 326
+section 2929.025 of the Revised Code apply in considering the 327
+petition. With respect to such a petition, the grounds for 328
+granting relief are that the person has been diagnosed with one 329
+or more of the conditions set forth in division (A)(1)(a) of 330
+section 2929.025 of the Revised Code and that, at the time of 331
+the aggravated murder that was the basis of the sentence of 332
+death, the condition or conditions significantly impaired the 333
+person's capacity in a manner described in division (A)(1)(b) of 334
+that section. 335
+(G) A petitioner who files a petition under division (A) 336
+(1)(a)(i), (ii), (iii), or (iv) of this section may amend the 337
+petition as follows: 338
+(1) If the petition was filed by a person who has been 339
+sentenced to death, at any time that is not later than one 340
+hundred eighty days after the petition is filed, the petitioner 341
+may amend the petition with or without leave or prejudice to the 342
+proceedings. 343
+(2) If division (G)(1) of this section does not apply, at 344
+any time before the answer or motion is filed, the petitioner 345
+may amend the petition with or without leave or prejudice to the 346
+proceedings. 347
+
+H. B. No. 490 Page 13
+As Introduced
+(3) The petitioner may amend the petition with leave of 348
+court at any time after the expiration of the applicable period 349
+specified in division (G)(1) or (2) of this section. 350
+(H) If the court does not find grounds for granting 351
+relief, it shall make and file findings of fact and conclusions 352
+of law and shall enter judgment denying relief on the petition. 353
+If the petition was filed by a person who has been sentenced to 354
+death, the findings of fact and conclusions of law shall state 355
+specifically the reasons for the denial of relief on the 356
+petition and of each claim it contains. If no direct appeal of 357
+the case is pending and the court finds grounds for relief or if 358
+a pending direct appeal of the case has been remanded to the 359
+court pursuant to a request made pursuant to division (F) of 360
+this section and the court finds grounds for granting relief, it 361
+shall make and file findings of fact and conclusions of law and 362
+shall enter a judgment that vacates and sets aside the judgment 363
+in question, and, in the case of a petitioner who is a prisoner 364
+in custody, except as otherwise described in this division, 365
+shall discharge or resentence the petitioner or grant a new 366
+trial as the court determines appropriate. If the court finds 367
+grounds for relief in the case of a petitioner who filed a 368
+petition under division (A)(1)(a)(iv) of this section, the court 369
+shall render void the sentence of death and order the 370
+resentencing of the offender under division (A) of section 371
+2929.06 of the Revised Code. If the petitioner has been 372
+sentenced to death, the findings of fact and conclusions of law 373
+shall state specifically the reasons for the finding of grounds 374
+for granting the relief, with respect to each claim contained in 375
+the petition. The court also may make supplementary orders to 376
+the relief granted, concerning such matters as rearraignment, 377
+retrial, custody, and bail. If the trial court's order granting 378
+
+H. B. No. 490 Page 14
+As Introduced
+the petition is reversed on appeal and if the direct appeal of 379
+the case has been remanded from an appellate court pursuant to a 380
+request under division (F) of this section, the appellate court 381
+reversing the order granting the petition shall notify the 382
+appellate court in which the direct appeal of the case was 383
+pending at the time of the remand of the reversal and remand of 384
+the trial court's order. Upon the reversal and remand of the 385
+trial court's order granting the petition, regardless of whether 386
+notice is sent or received, the direct appeal of the case that 387
+was remanded is reinstated. 388
+(I) Upon the filing of a petition pursuant to division (A) 389
+(1)(a)(i), (ii), (iii), or (iv) of this section by a person 390
+sentenced to death, only the supreme court may stay execution of 391
+the sentence of death. 392
+(J)(1) If a person sentenced to death intends to file a 393
+petition under this section, the court shall appoint counsel to 394
+represent the person upon a finding that the person is indigent 395
+and that the person either accepts the appointment of counsel or 396
+is unable to make a competent decision whether to accept or 397
+reject the appointment of counsel. The court may decline to 398
+appoint counsel for the person only upon a finding, after a 399
+hearing if necessary, that the person rejects the appointment of 400
+counsel and understands the legal consequences of that decision 401
+or upon a finding that the person is not indigent. 402
+(2) The court shall not appoint as counsel under division 403
+(J)(1) of this section an attorney who represented the 404
+petitioner at trial in the case to which the petition relates 405
+unless the person and the attorney expressly request the 406
+appointment. The court shall appoint as counsel under division 407
+(J)(1) of this section only an attorney who is certified under 408
+
+H. B. No. 490 Page 15
+As Introduced
+Rule 20 of the Rules of Superintendence for the Courts of Ohio 409
+to represent indigent defendants charged with or convicted of an 410
+offense for which the death penalty can be or has been imposed. 411
+The ineffectiveness or incompetence of counsel during 412
+proceedings under this section does not constitute grounds for 413
+relief in a proceeding under this section, in an appeal of any 414
+action under this section, or in an application to reopen a 415
+direct appeal. 416
+(3) Division (J) of this section does not preclude 417
+attorneys who represent the state of Ohio from invoking the 418
+provisions of 28 U.S.C. 154 with respect to capital cases that 419
+were pending in federal habeas corpus proceedings prior to July 420
+1, 1996, insofar as the petitioners in those cases were 421
+represented in proceedings under this section by one or more 422
+counsel appointed by the court under this section or section 423
+120.06, 120.16, 120.26, or 120.33 of the Revised Code and those 424
+appointed counsel meet the requirements of division (J)(2) of 425
+this section. 426
+(K) Subject to the appeal of a sentence for a felony that 427
+is authorized by section 2953.08 of the Revised Code, the remedy 428
+set forth in this section is the exclusive remedy by which a 429
+person may bring a collateral challenge to the validity of a 430
+conviction or sentence in a criminal case or to the validity of 431
+an adjudication of a child as a delinquent child for the 432
+commission of an act that would be a criminal offense if 433
+committed by an adult or the validity of a related order of 434
+disposition. 435
+Sec. 2953.23. (A) Whether a hearing is or is not held on a 436
+petition filed pursuant to section 2953.21 of the Revised Code, 437
+a court may not entertain a petition filed after the expiration 438
+
+H. B. No. 490 Page 16
+As Introduced
+of the period prescribed in division (A) of that section or a 439
+second petition or successive petitions for similar relief on 440
+behalf of a petitioner unless division (A)(1) or (2) of this 441
+section applies: 442
+(1) Both of the following apply: 443
+(a) Either the petitioner shows that the petitioner was 444
+unavoidably prevented from discovery of the facts upon which the 445
+petitioner must rely to present the claim for relief, or, 446
+subsequent to the period prescribed in division (A)(2) of 447
+section 2953.21 of the Revised Code or to the filing of an 448
+earlier petition, the United States Supreme Court recognized a 449
+new federal or state right that applies retroactively to persons 450
+in the petitioner's situation, and the petition asserts a claim 451
+based on that right. 452
+(b) The petitioner shows by clear and convincing evidence 453
+that, but for constitutional error at trial, no reasonable 454
+factfinder would have found the petitioner guilty of the offense 455
+of which the petitioner was convicted or, if the claim 456
+challenges a sentence of death that, but for constitutional 457
+error at the sentencing hearing, no reasonable factfinder would 458
+have found the petitioner eligible for the death sentence. 459
+(2) All of the following apply: 460
+(a) The petitioner was convicted of a felony, the 461
+petitioner is an offender for whom. 462
+(b) The petitioner's petition is based on qualifying DNA 463
+testing was performed under sections 2953.71 to 2953.81 of the 464
+Revised Code or under former section 2953.82 of the Revised Code 465
+and analyzed in the context of and upon consideration of all 466
+available admissible evidence related to the inmate's case as 467
+
+H. B. No. 490 Page 17
+As Introduced
+described in division (D) of section 2953.74 of the Revised 468
+Code, and the. 469
+(c) The results of the qualifying DNA testing establish, 470
+by clear and convincing evidence, actual innocence of that 471
+felony offense or, if the person was sentenced to death, 472
+establish, by clear and convincing evidence, actual innocence of 473
+the aggravating circumstance or circumstances the person was 474
+found guilty of committing and that is or are the basis of that 475
+sentence of death. 476
+As used in this division, "actual innocence" has the same 477
+meaning as in division (A)(1)(c) of section 2953.21 of the 478
+Revised Code, and "former section 2953.82 of the Revised Code" 479
+has the same meaning as in division (A)(1)(d) of section 2953.21 480
+of the Revised Code. 481
+(B) An order awarding or denying relief sought in a 482
+petition filed pursuant to section 2953.21 of the Revised Code 483
+is a final judgment and may be appealed pursuant to Chapter 484
+2953. of the Revised Code. 485
+If a petition filed pursuant to section 2953.21 of the 486
+Revised Code by a person who has been sentenced to death is 487
+denied and the person appeals the judgment, notwithstanding any 488
+law or court rule to the contrary, there is no limit on the 489
+number of pages in, or on the length of, a notice of appeal or 490
+briefs related to an appeal filed by the person. If any court 491
+rule specifies a limit on the number of pages in, or on the 492
+length of, a notice of appeal or briefs described in this 493
+division or on a prosecuting attorney's response or briefs with 494
+respect to such an appeal and a person who has been sentenced to 495
+death files a notice of appeal or briefs that exceed the limit 496
+specified for the petition, the prosecuting attorney may file a 497
+
+H. B. No. 490 Page 18
+As Introduced
+response or briefs that exceed the limit specified for the 498
+answer or briefs. 499
+(C) As used in division (A)(2) of this section, "actual 500
+innocence" and "qualifying DNA testing" have the same meanings 501
+as in division (A)(1)(c) of section 2953.21 of the Revised Code. 502
+Section 2. That existing sections 2953.21 and 2953.23 of 503
+the Revised Code are hereby repealed. 504
+
+[DELETED: nH   . :    1:1 1 1 1 1;1 1 1 1 2]
+[DELETED: 0 ;2 2 2 2 2 2 2 2 2 3 3 3 3 3;3 3 3 3 3 4 4.4 4 4.4:4 4:4 4]
+[DELETED: 0  5;5 5 5 5.5 5 5 5 5 6 6 6 6 6 6 6 6 6.6 7.7 7 7 7.7 7 7 7]
+[DELETED: 0  7 8 8 8 8 8 8 8 8 8 8 9 9 9:9 9 9 9 9 9 9 1 1 1 1.1)1 1 1 1 1]
+[DELETED: 0  1.1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1]
+[DELETED: 0  1 1 1 1 1 1 1 1 1.1)1 1 1 1 1 1.1 1 1:1;1 1;1 1 1;1 1;1 1]
+[DELETED: 0 ;1 1;1 1 1;1 1 1.1 1 1 1 1.1 1 1 1.1 1 1 1 1 1 1.1 1 1 1 1]
+[DELETED: 0  1 1 2 2 2 2 2.2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 0 .2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2]
+[DELETED: 0  2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2)2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 0  2 2 2)2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3.3 3 3 3]
+[DELETED: 0  3 3 3.3)3 3 3 3 3 3 3 3 3 3 3 3.3)3 3:3 3 3 3 3.3 3 3 3.3]
+[DELETED: 0  3 3.3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 0  3 3 3 3 3 3 3 3 3.3)3 3 3.3 3 3 3 3 3 3 3 4 4.4 4 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4.4 4 4 4]
+[DELETED: 0  4 4 4:4:4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4:4 4.4 4 4 4 4 4]
+[DELETED: 0  4.4 4 4 4 4 4 4.4 4 4 4 4.4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 0  4.4 5 5.5 5.5]

@@ -1,0 +1,1684 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 32
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 152
+2025-2026
+Senator Brenner
+Cosponsor: Senator Lang
+To amend sections 4729.01, 4729.531, 4729.532, 1
+
+Section 2:
+4729.54, and 4729.55 of the Revised Code to 2
+allow wild animal rehabilitation facilities to 3
+receive a limited license to administer 4
+euthanasia drugs. 5
+
+Section 3:
+Section 1. That sections 4729.01, 4729.531, 4729.532, 6
+
+Section 4:
+4729.54, and 4729.55 of the Revised Code be amended to read as 7
+follows: 8
+Sec. 4729.01. As used in this chapter: 9
+(A) "Pharmacy," except when used in a context that refers 10
+to the practice of pharmacy, means any area, room, rooms, place 11
+of business, department, or portion of any of the foregoing 12
+where the practice of pharmacy is conducted. 13
+(B) "Practice of pharmacy" means providing pharmacist care 14
+requiring specialized knowledge, judgment, and skill derived 15
+from the principles of biological, chemical, behavioral, social, 16
+pharmaceutical, and clinical sciences. As used in this division, 17
+"pharmacist care" includes the following: 18
+(1) Interpreting prescriptions; 19
+S. B. No. 152 Page 2
+As Introduced
+(2) Dispensing drugs and drug therapy related devices; 20
+(3) Compounding drugs; 21
+(4) Counseling individuals with regard to their drug 22
+therapy, recommending drug therapy related devices, and 23
+assisting in the selection of drugs and appliances for treatment 24
+of common diseases and injuries and providing instruction in the 25
+proper use of the drugs and appliances; 26
+(5) Performing drug regimen reviews with individuals by 27
+discussing all of the drugs that the individual is taking and 28
+explaining the interactions of the drugs; 29
+(6) Performing drug utilization reviews with licensed 30
+health professionals authorized to prescribe drugs when the 31
+pharmacist determines that an individual with a prescription has 32
+a drug regimen that warrants additional discussion with the 33
+prescriber; 34
+(7) Advising an individual and the health care 35
+professionals treating an individual with regard to the 36
+individual's drug therapy; 37
+(8) Acting pursuant to a consult agreement, if an 38
+agreement has been established; 39
+(9) Engaging in the administration of immunizations to the 40
+extent authorized by section 4729.41 of the Revised Code; 41
+(10) Engaging in the administration of drugs to the extent 42
+authorized by section 4729.45 of the Revised Code. 43
+(C) "Compounding" means the preparation, mixing, 44
+assembling, packaging, and labeling of one or more drugs in any 45
+of the following circumstances: 46
+S. B. No. 152 Page 3
+As Introduced
+(1) Pursuant to a prescription issued by a licensed health 47
+professional authorized to prescribe drugs; 48
+(2) Pursuant to the modification of a prescription made in 49
+accordance with a consult agreement; 50
+(3) As an incident to research, teaching activities, or 51
+chemical analysis; 52
+(4) In anticipation of orders for drugs pursuant to 53
+prescriptions, based on routine, regularly observed dispensing 54
+patterns; 55
+(5) Pursuant to a request made by a licensed health 56
+professional authorized to prescribe drugs for a drug that is to 57
+be used by the professional for the purpose of direct 58
+administration to patients in the course of the professional's 59
+practice, if all of the following apply: 60
+(a) At the time the request is made, the drug is not 61
+commercially available regardless of the reason that the drug is 62
+not available, including the absence of a manufacturer for the 63
+drug or the lack of a readily available supply of the drug from 64
+a manufacturer. 65
+(b) A limited quantity of the drug is compounded and 66
+provided to the professional. 67
+(c) The drug is compounded and provided to the 68
+professional as an occasional exception to the normal practice 69
+of dispensing drugs pursuant to patient-specific prescriptions. 70
+(D) "Consult agreement" means an agreement that has been 71
+entered into under section 4729.39 of the Revised Code. 72
+(E) "Drug" means: 73
+S. B. No. 152 Page 4
+As Introduced
+(1) Any article recognized in the United States 74
+pharmacopoeia and national formulary, or any supplement to them, 75
+intended for use in the diagnosis, cure, mitigation, treatment, 76
+or prevention of disease in humans or animals; 77
+(2) Any other article intended for use in the diagnosis, 78
+cure, mitigation, treatment, or prevention of disease in humans 79
+or animals; 80
+(3) Any article, other than food, intended to affect the 81
+structure or any function of the body of humans or animals; 82
+(4) Any article intended for use as a component of any 83
+article specified in division (E)(1), (2), or (3) of this 84
+
+Section 5:
+section; but does not include devices or their components, 85
+parts, or accessories. 86
+"Drug" does not include "hemp" or a "hemp product" as 87
+those terms are defined in section 928.01 of the Revised Code. 88
+(F) "Dangerous drug" means any of the following: 89
+(1) Any drug to which either of the following applies: 90
+(a) Under the "Federal Food, Drug, and Cosmetic Act," 52 91
+Stat. 1040 (1938), 21 U.S.C.A. 301, as amended, the drug is 92
+required to bear a label containing the legend "Caution: Federal 93
+law prohibits dispensing without prescription" or "Caution: 94
+Federal law restricts this drug to use by or on the order of a 95
+licensed veterinarian" or any similar restrictive statement, or 96
+the drug may be dispensed only upon a prescription; 97
+(b) Under Chapter 3715. or 3719. of the Revised Code, the 98
+drug may be dispensed only upon a prescription. 99
+(2) Any drug that contains a schedule V controlled 100
+substance and that is exempt from Chapter 3719. of the Revised 101
+S. B. No. 152 Page 5
+As Introduced
+Code or to which that chapter does not apply; 102
+(3) Any drug intended for administration by injection into 103
+the human body other than through a natural orifice of the human 104
+body; 105
+(4) Any drug that is a biological product, as defined in 106
+
+Section 6:
+section 3715.01 of the Revised Code. 107
+(G) "Federal drug abuse control laws" has the same meaning 108
+as in section 3719.01 of the Revised Code. 109
+(H) "Prescription" means all of the following: 110
+(1) A written, electronic, or oral order for drugs or 111
+combinations or mixtures of drugs to be used by a particular 112
+individual or for treating a particular animal, issued by a 113
+licensed health professional authorized to prescribe drugs; 114
+(2) For purposes of sections 4723.4810, 4729.282, 115
+
+Section 7:
+4730.432, and 4731.93 of the Revised Code, a written, 116
+electronic, or oral order for a drug to treat chlamydia, 117
+gonorrhea, or trichomoniasis issued to and in the name of a 118
+patient who is not the intended user of the drug but is the 119
+sexual partner of the intended user; 120
+(3) For purposes of sections 3313.7110, 3313.7111, 121
+
+Section 8:
+3314.143, 3326.28, 3328.29, 4723.483, 4729.88, 4730.433, 122
+
+Section 9:
+4731.96, and 5101.76 of the Revised Code, a written, electronic, 123
+or oral order for an epinephrine autoinjector issued to and in 124
+the name of a school, school district, or camp; 125
+(4) For purposes of Chapter 3728. and sections 4723.483, 126
+
+Section 10:
+4729.88, 4730.433, and 4731.96 of the Revised Code, a written, 127
+electronic, or oral order for an epinephrine autoinjector issued 128
+to and in the name of a qualified entity, as defined in section 129
+S. B. No. 152 Page 6
+As Introduced
+
+Section 11:
+3728.01 of the Revised Code; 130
+(5) For purposes of sections 3313.7115, 3313.7116, 131
+
+Section 12:
+3314.147, 3326.60, 3328.38, 4723.4811, 4730.437, 4731.92, and 132
+
+Section 13:
+5101.78 of the Revised Code, a written, electronic, or oral 133
+order for injectable or nasally administered glucagon in the 134
+name of a school, school district, or camp. 135
+(I) "Licensed health professional authorized to prescribe 136
+drugs" or "prescriber" means an individual who is authorized by 137
+law to prescribe drugs or dangerous drugs or drug therapy 138
+related devices in the course of the individual's professional 139
+practice, including only the following: 140
+(1) A dentist licensed under Chapter 4715. of the Revised 141
+Code; 142
+(2) A clinical nurse specialist, certified nurse-midwife, 143
+or certified nurse practitioner who holds a current, valid 144
+license issued under Chapter 4723. of the Revised Code to 145
+practice nursing as an advanced practice registered nurse; 146
+(3) A certified registered nurse anesthetist who holds a 147
+current, valid license issued under Chapter 4723. of the Revised 148
+Code to practice nursing as an advanced practice registered 149
+nurse, but only to the extent of the nurse's authority under 150
+
+Section 14:
+sections 4723.43 and 4723.434 of the Revised Code; 151
+(4) An optometrist licensed under Chapter 4725. of the 152
+Revised Code to practice optometry; 153
+(5) A physician authorized under Chapter 4731. of the 154
+Revised Code to practice medicine and surgery, osteopathic 155
+medicine and surgery, or podiatric medicine and surgery; 156
+(6) A physician assistant who holds a license to practice 157
+S. B. No. 152 Page 7
+As Introduced
+as a physician assistant issued under Chapter 4730. of the 158
+Revised Code, holds a valid prescriber number issued by the 159
+state medical board, and has been granted physician-delegated 160
+prescriptive authority; 161
+(7) A veterinarian licensed under Chapter 4741. of the 162
+Revised Code; 163
+(8) A certified mental health assistant licensed under 164
+Chapter 4772. of the Revised Code who has been granted 165
+physician-delegated prescriptive authority by the physician 166
+supervising the certified mental health assistant. 167
+(J) "Sale" or "sell" includes any transaction made by any 168
+person, whether as principal proprietor, agent, or employee, to 169
+do or offer to do any of the following: deliver, distribute, 170
+broker, exchange, gift or otherwise give away, or transfer, 171
+whether the transfer is by passage of title, physical movement, 172
+or both. 173
+(K) "Wholesale sale" and "sale at wholesale" mean any sale 174
+in which the purpose of the purchaser is to resell the article 175
+purchased or received by the purchaser. 176
+(L) "Retail sale" and "sale at retail" mean any sale other 177
+than a wholesale sale or sale at wholesale. 178
+(M) "Retail seller" means any person that sells any 179
+dangerous drug to consumers without assuming control over and 180
+responsibility for its administration. Mere advice or 181
+instructions regarding administration do not constitute control 182
+or establish responsibility. 183
+(N) "Price information" means the price charged for a 184
+prescription for a particular drug product and, in an easily 185
+understandable manner, all of the following: 186
+S. B. No. 152 Page 8
+As Introduced
+(1) The proprietary name of the drug product; 187
+(2) The established (generic) name of the drug product; 188
+(3) The strength of the drug product if the product 189
+contains a single active ingredient or if the drug product 190
+contains more than one active ingredient and a relevant strength 191
+can be associated with the product without indicating each 192
+active ingredient. The established name and quantity of each 193
+active ingredient are required if such a relevant strength 194
+cannot be so associated with a drug product containing more than 195
+one ingredient. 196
+(4) The dosage form; 197
+(5) The price charged for a specific quantity of the drug 198
+product. The stated price shall include all charges to the 199
+consumer, including, but not limited to, the cost of the drug 200
+product, professional fees, handling fees, if any, and a 201
+statement identifying professional services routinely furnished 202
+by the pharmacy. Any mailing fees and delivery fees may be 203
+stated separately without repetition. The information shall not 204
+be false or misleading. 205
+(O) "Wholesale distributor of dangerous drugs" or 206
+"wholesale distributor" means a person engaged in the sale of 207
+dangerous drugs at wholesale and includes any agent or employee 208
+of such a person authorized by the person to engage in the sale 209
+of dangerous drugs at wholesale. 210
+(P) "Manufacturer of dangerous drugs" or "manufacturer" 211
+means a person, other than a pharmacist or prescriber, who 212
+manufactures dangerous drugs and who is engaged in the sale of 213
+those dangerous drugs. 214
+(Q) "Terminal distributor of dangerous drugs" or "terminal 215
+S. B. No. 152 Page 9
+As Introduced
+distributor" means a person who is engaged in the sale of 216
+dangerous drugs at retail, or any person, other than a 217
+manufacturer, repackager, outsourcing facility, third-party 218
+logistics provider, wholesale distributor, or pharmacist, who 219
+has possession, custody, or control of dangerous drugs for any 220
+purpose other than for that person's own use and consumption. 221
+"Terminal distributor" includes pharmacies, hospitals, nursing 222
+homes, and laboratories and all other persons who procure 223
+dangerous drugs for sale or other distribution by or under the 224
+supervision of a pharmacist, licensed health professional 225
+authorized to prescribe drugs, or other person authorized by the 226
+state board of pharmacy. 227
+(R) "Promote to the public" means disseminating a 228
+representation to the public in any manner or by any means, 229
+other than by labeling, for the purpose of inducing, or that is 230
+likely to induce, directly or indirectly, the purchase of a 231
+dangerous drug at retail. 232
+(S) "Person" includes any individual, partnership, 233
+association, limited liability company, or corporation, the 234
+state, any political subdivision of the state, and any district, 235
+department, or agency of the state or its political 236
+subdivisions. 237
+(T)(1) "Animal shelter" means a facility operated by a 238
+humane society or any society organized under Chapter 1717. of 239
+the Revised Code or a dog pound operated pursuant to Chapter 240
+
+Section 15:
+955. of the Revised Code. 241
+(2) "County dog warden" means a dog warden or deputy dog 242
+warden appointed or employed under section 955.12 of the Revised 243
+Code. 244
+S. B. No. 152 Page 10
+As Introduced
+(3) "Wild animal rehabilitation facility" means a facility 245
+that holds a permit issued by the chief of the division of 246
+wildlife for rehabilitation purposes in accordance with section 247
+
+Section 16:
+1533.08 of the Revised Code or rules adopted by the chief. 248
+(U) "Food" has the same meaning as in section 3715.01 of 249
+the Revised Code. 250
+(V) "Pain management clinic" has the same meaning as in 251
+
+Section 17:
+section 4731.054 of the Revised Code. 252
+(W) "Investigational drug or product" means a drug or 253
+product that has successfully completed phase one of the United 254
+States food and drug administration clinical trials and remains 255
+under clinical trial, but has not been approved for general use 256
+by the United States food and drug administration. 257
+"Investigational drug or product" does not include controlled 258
+substances in schedule I, as defined in section 3719.01 of the 259
+Revised Code. 260
+(X) "Product," when used in reference to an 261
+investigational drug or product, means a biological product, 262
+other than a drug, that is made from a natural human, animal, or 263
+microorganism source and is intended to treat a disease or 264
+medical condition. 265
+(Y) "Third-party logistics provider" means a person that 266
+provides or coordinates warehousing or other logistics services 267
+pertaining to dangerous drugs including distribution, on behalf 268
+of a manufacturer, wholesale distributor, or terminal 269
+distributor of dangerous drugs, but does not take ownership of 270
+the drugs or have responsibility to direct the sale or 271
+disposition of the drugs. 272
+(Z) "Repackager of dangerous drugs" or "repackager" means 273
+S. B. No. 152 Page 11
+As Introduced
+a person that repacks and relabels dangerous drugs for sale or 274
+distribution. 275
+(AA) "Outsourcing facility" means a facility that is 276
+engaged in the compounding and sale of sterile drugs and is 277
+registered as an outsourcing facility with the United States 278
+food and drug administration. 279
+(BB) "Laboratory" means a laboratory licensed under this 280
+chapter as a terminal distributor of dangerous drugs and 281
+entrusted to have custody of any of the following drugs and to 282
+use the drugs for scientific and clinical purposes and for 283
+purposes of instruction: dangerous drugs that are not controlled 284
+substances, as defined in section 3719.01 of the Revised Code; 285
+dangerous drugs that are controlled substances, as defined in 286
+that section; and controlled substances in schedule I, as 287
+defined in that section. 288
+(CC) "Overdose reversal drug" means both of the following: 289
+(1) Naloxone; 290
+(2) Any other drug that the state board of pharmacy, 291
+through rules adopted in accordance with Chapter 119. of the 292
+Revised Code, designates as a drug that is approved by the 293
+federal food and drug administration for the reversal of a known 294
+or suspected opioid-related overdose. 295
+Sec. 4729.531. (A) The state board of pharmacy may issue a 296
+limited license to an animal shelter, a wild animal 297
+rehabilitation facility, or county dog warden solely for the 298
+purpose of purchasing, possessing, and administering drugs that 299
+are distributed in a manufactured dosage form as described in 300
+
+Section 18:
+section 4729.532 of the Revised Code. Unless otherwise approved 301
+by the board, no such license shall authorize or permit the 302
+S. B. No. 152 Page 12
+As Introduced
+distribution of these drugs to any person other than the 303
+originating wholesale distributor of the drugs. An application 304
+for licensure shall include the information the board requires 305
+by rule under this section. If the application meets the 306
+requirements of the rules adopted under this section, the board 307
+shall issue the license. 308
+(B) The board, in accordance with Chapter 119. of the 309
+Revised Code, shall adopt any rules necessary to administer and 310
+enforce this section. The rules shall do all of the following: 311
+(1) Require as a condition of licensure that an agent or 312
+employee of an animal shelter or wild animal rehabilitation 313
+facility or an agent or employee of a county dog warden, other 314
+than a registered veterinary technician as defined in section 315
+
+Section 19:
+4741.01 of the Revised Code, has successfully completed a 316
+euthanasia technician certification course described in section 317
+
+Section 20:
+4729.532 of the Revised Code; 318
+(2) Specify the information the animal shelter, wild 319
+animal rehabilitation facility, or county dog warden must 320
+provide the board for issuance or renewal of a license; 321
+(3) Address any other matters the board considers 322
+necessary or appropriate for the administration and enforcement 323
+of this section. 324
+Sec. 4729.532. (A) No agent or employee of an animal 325
+shelter, no agent or employee of a wild animal rehabilitation 326
+facility, and no county dog warden or agent or employee of a 327
+county dog warden shall perform euthanasia by means of lethal 328
+injection on an animal by use of any substance other than a 329
+substance in a manufactured dosage form that the state 330
+veterinary medical licensing board, in consultation with the 331
+S. B. No. 152 Page 13
+As Introduced
+state board of pharmacy, approves by rule adopted in accordance 332
+with Chapter 119. of the Revised Code. 333
+The agent or employee of an animal shelter or wild animal 334
+rehabilitation facility, county dog warden, or agent or employee 335
+of a county dog warden when using a lethal solution to perform 336
+euthanasia on an animal shall use the solution in accordance 337
+with the following methods: 338
+(1) Intravenous injection by hypodermic needle; 339
+(2) Intraperitoneal injection by hypodermic needle; 340
+(3) Intracardial injection by hypodermic needle, but only 341
+on an animal verified to be unconscious; 342
+(4) Oral administration of solution or powder. 343
+(B) Before euthanasia, a euthanasia technician may 344
+administer a solution of one or more drugs exclusively for the 345
+purpose of inducing anesthesia, sedation, or unconsciousness 346
+prior to euthanasia. Only those drugs that have been approved by 347
+rule adopted in accordance with Chapter 119. of the Revised Code 348
+by the state board of pharmacy, in consultation with the state 349
+veterinary medical licensing board, may be used. 350
+(C) No agent or employee of an animal shelter or wild 351
+animal rehabilitation facility and no county dog warden or agent 352
+or employee of a county dog warden, other than a registered 353
+veterinary technician as defined in section 4741.01 of the 354
+Revised Code, shall perform euthanasia by means of lethal 355
+injection on an animal or administer pre-euthanasia drugs that 356
+induce anesthesia, sedation, or unconsciousness unless the agent 357
+or employee or county dog warden has received certification 358
+after successfully completing a euthanasia technician 359
+certification course as described in this division. 360
+S. B. No. 152 Page 14
+As Introduced
+The curriculum for a euthanasia technician certification 361
+course shall be one that has been approved by the state 362
+veterinary medical licensing board, shall be at least sixteen 363
+hours in length, and shall include information in at least all 364
+of the following areas: 365
+(1) The pharmacology, proper administration, and storage 366
+of euthanasia, sedation, and anesthesia solutions; 367
+(2) Federal and state laws regulating the storage and 368
+accountability of euthanasia, sedation, and anesthesia 369
+solutions; 370
+(3) Euthanasia technician stress management; 371
+(4) Proper disposal of euthanized animals. 372
+(D)(1) No agent or employee of an animal shelter or wild 373
+animal rehabilitation facility shall perform euthanasia by means 374
+of lethal injection on animals or administer pre-euthanasia 375
+drugs that induce anesthesia, sedation, or unconsciousness under 376
+this section unless the facility in which the agent or employee 377
+works or is employed is licensed with the state board of 378
+pharmacy under section 4729.531 of the Revised Code. No agent or 379
+employee of a county dog warden shall perform euthanasia by 380
+means of lethal injection on animals or administer pre- 381
+euthanasia drugs that induce anesthesia, sedation, or 382
+unconsciousness under this section unless the county dog warden 383
+is licensed under section 4729.531 of the Revised Code. 384
+(2) Any agent or employee of an animal shelter or wild 385
+animal rehabilitation facility or county dog warden performing 386
+euthanasia by means of lethal injection or administering pre- 387
+euthanasia drugs that induce anesthesia, sedation, or 388
+unconsciousness shall do so only in a humane and proficient 389
+S. B. No. 152 Page 15
+As Introduced
+manner that is in conformity with the methods described in 390
+divisions (A) and (B) of this section and not in violation of 391
+Chapter 959. of the Revised Code. 392
+(E) Nothing in this section precludes a licensed 393
+veterinarian or registered veterinary technician as defined in 394
+
+Section 21:
+section 4741.01 of the Revised Code from engaging in the 395
+practice of veterinary medicine as authorized in Chapter 4741. 396
+of the Revised Code. 397
+Sec. 4729.54. (A) As used in this section: 398
+(1) "Category II" means any dangerous drug that is not 399
+included in category III. 400
+(2) "Category III" means any controlled substance that is 401
+contained in schedule I, II, III, IV, or V. 402
+(3) "Emergency medical service organization" has the same 403
+meaning as in section 4765.01 of the Revised Code. 404
+(4) "Emergency medical service organization satellite" 405
+means a location where dangerous drugs are stored that is 406
+separate from, but associated with, the headquarters of an 407
+emergency medical service organization. "Emergency medical 408
+service organization satellite" does not include the units under 409
+the control of the emergency medical service organization. 410
+(5) "Person" includes an emergency medical service 411
+organization or an emergency medical service organization 412
+satellite. 413
+(6) "Schedule I," "schedule II," "schedule III," "schedule 414
+IV," and "schedule V" have the same meanings as in section 415
+
+Section 22:
+3719.01 of the Revised Code. 416
+(B)(1) A person seeking to be licensed as a terminal 417
+S. B. No. 152 Page 16
+As Introduced
+distributor of dangerous drugs shall file with the executive 418
+director of the state board of pharmacy a verified application. 419
+After it is filed, the application may not be withdrawn without 420
+approval of the board. 421
+(2) An application shall contain all the following that 422
+apply in the applicant's case: 423
+(a) Information that the board requires relative to the 424
+qualifications of a terminal distributor of dangerous drugs set 425
+forth in section 4729.55 of the Revised Code; 426
+(b) A statement as to whether the person is seeking to be 427
+licensed as a category II, category III, limited category II, or 428
+limited category III terminal distributor of dangerous drugs; 429
+(c) If the person is seeking to be licensed as a limited 430
+category II or limited category III terminal distributor of 431
+dangerous drugs, a list of the dangerous drugs that the person 432
+is seeking to possess, have custody or control of, and 433
+distribute, which list shall also specify the purpose for which 434
+those drugs will be used and their source; 435
+(d) If the person is an emergency medical service 436
+organization, the information that is specified in divisions (C) 437
+(1) and (2) of this section, and if the person is an emergency 438
+medical service organization satellite, the information required 439
+under division (D) of this section; 440
+(e) Except with respect to the units under the control of 441
+an emergency medical service organization, the identity of the 442
+one establishment or place at which the person intends to engage 443
+in the sale or other distribution of dangerous drugs at retail, 444
+and maintain possession, custody, or control of dangerous drugs 445
+for purposes other than the person's own use or consumption; 446
+S. B. No. 152 Page 17
+As Introduced
+(f) If the application pertains to a pain management 447
+clinic, information that demonstrates, to the satisfaction of 448
+the board, compliance with division (A) of section 4729.552 of 449
+the Revised Code. 450
+(C)(1) Each emergency medical service organization that 451
+applies for a terminal distributor of dangerous drugs license 452
+shall submit with its application all of the following: 453
+(a) A copy of its standing orders or protocol, which 454
+orders or protocol shall be signed by a physician; 455
+(b) A list of the dangerous drugs that the units under its 456
+control may carry, expressed in standard dose units, which shall 457
+be signed by a physician; 458
+(c) A list of the personnel employed or used by the 459
+organization to provide emergency medical services in accordance 460
+with Chapter 4765. of the Revised Code. 461
+In accordance with Chapter 119. of the Revised Code, the 462
+board shall adopt rules specifying when an emergency medical 463
+service organization that is licensed as a terminal distributor 464
+must notify the board of any changes in its documentation 465
+submitted pursuant to division (C)(1) of this section. 466
+(2) An emergency medical service organization seeking to 467
+be licensed as a terminal distributor of dangerous drugs shall 468
+list in its application for licensure the following additional 469
+information: 470
+(a) The units under its control that the organization 471
+determines will possess dangerous drugs for the purpose of 472
+administering emergency medical services in accordance with 473
+Chapter 4765. of the Revised Code; 474
+S. B. No. 152 Page 18
+As Introduced
+(b) With respect to each such unit, whether the dangerous 475
+drugs that the organization determines the unit will possess are 476
+in category II or III. 477
+(3) An emergency medical service organization that is 478
+licensed as a terminal distributor of dangerous drugs shall file 479
+a new application for such licensure if there is any change in 480
+the number or location of any of its units or if there is any 481
+change in the category of the dangerous drugs that any unit will 482
+possess. 483
+(4) A unit listed in an application for licensure pursuant 484
+to division (C)(2) of this section may obtain the dangerous 485
+drugs it is authorized to possess from its emergency medical 486
+service organization or, on a replacement basis, from a hospital 487
+pharmacy. If units will obtain dangerous drugs from a hospital 488
+pharmacy, the organization shall file, and maintain in current 489
+form, the following items with the pharmacist who is responsible 490
+for the hospital's terminal distributor of dangerous drugs 491
+license: 492
+(a) A copy of its standing orders or protocol; 493
+(b) A list of the personnel employed or used by the 494
+organization to provide emergency medical services in accordance 495
+with Chapter 4765. of the Revised Code, who are authorized to 496
+possess the drugs, which list also shall indicate the personnel 497
+who are authorized to administer the drugs. 498
+(D) Each emergency medical service organization satellite 499
+that applies for a terminal distributor of dangerous drugs 500
+license shall submit with its application all of the information 501
+that the board requires to be submitted with the application, as 502
+specified in rules the board shall adopt in accordance with 503
+S. B. No. 152 Page 19
+As Introduced
+Chapter 119. of the Revised Code. 504
+(E) There shall be four categories of terminal distributor 505
+of dangerous drugs licenses. The categories are as follows: 506
+(1) Category II license. A person who obtains this license 507
+may possess, have custody or control of, and distribute only the 508
+dangerous drugs described in category II. 509
+(2) Limited category II license. A person who obtains this 510
+license may possess, have custody or control of, and distribute 511
+only the dangerous drugs described in category II that were 512
+listed in the application for licensure. 513
+(3) Category III license, which may include a pain 514
+management clinic classification issued under section 4729.552 515
+of the Revised Code. A person who obtains this license may 516
+possess, have custody or control of, and distribute the 517
+dangerous drugs described in category II and category III. If 518
+the license includes a pain management clinic classification, 519
+the person may operate a pain management clinic. 520
+(4) Limited category III license. A person who obtains 521
+this license may possess, have custody or control of, and 522
+distribute only the dangerous drugs described in category II or 523
+category III that were listed in the application for licensure. 524
+(F) Except for an application made by a county dog warden 525
+or on behalf of an animal shelter or wild animal rehabilitation 526
+facility, if an applicant for a limited category II license or 527
+limited category III license intends to administer dangerous 528
+drugs to a person or animal, the applicant shall submit, with 529
+the application, a copy of its protocol or standing orders. The 530
+protocol or orders shall be signed by a licensed health 531
+professional authorized to prescribe drugs, specify the 532
+S. B. No. 152 Page 20
+As Introduced
+dangerous drugs to be administered, and list personnel who are 533
+authorized to administer the dangerous drugs in accordance with 534
+federal law or the law of this state. 535
+An application made by a county dog warden or on behalf of 536
+an animal shelter or wild animal rehabilitation facility shall 537
+include a list of the dangerous drugs to be administered to 538
+animals and the personnel who are authorized to administer the 539
+drugs to animals in accordance with section 4729.532 of the 540
+Revised Code. 541
+In accordance with Chapter 119. of the Revised Code, the 542
+board shall adopt rules specifying when a licensee must notify 543
+the board of any changes in its documentation submitted pursuant 544
+to this division. 545
+(G)(1) Except as provided in division (G)(3) of this 546
+
+Section 23:
+section, each applicant for licensure as a terminal distributor 547
+of dangerous drugs shall submit, with the application, a license 548
+fee. The amount assessed shall not be returned to the applicant 549
+if the applicant fails to qualify for the license. 550
+(2) The following fees apply under division (G)(1) of this 551
+
+Section 24:
+section: 552
+(a) Except as provided in division (G)(2)(b) of this 553
+
+Section 25:
+section: 554
+(i) Three hundred twenty dollars for a category II or 555
+limited category II license; 556
+(ii) Four hundred forty dollars for a category III 557
+license, including a license with a pain management clinic 558
+classification issued under section 4729.552 of the Revised 559
+Code, or a limited category III license. 560
+S. B. No. 152 Page 21
+As Introduced
+(b) One hundred twenty dollars for all of the following: 561
+(i) A person who is required to hold a license as a 562
+terminal distributor of dangerous drugs pursuant to division (C) 563
+of section 4729.541 of the Revised Code; 564
+(ii) A professional association, corporation, partnership, 565
+or limited liability company organized for the purpose of 566
+practicing veterinary medicine that is not included in division 567
+(G)(2)(b)(i) of this section; 568
+(iii) An emergency medical service organization satellite. 569
+(3) No fee applies for a license issued to a charitable 570
+pharmacy, as defined in section 3719.811 of the Revised Code, if 571
+the charitable pharmacy is participating in the drug repository 572
+program established under section 3715.87 of the Revised Code. 573
+(H)(1) The board shall issue a terminal distributor of 574
+dangerous drugs license to each person who submits an 575
+application for such licensure in accordance with this section, 576
+pays the required license fee, is determined by the board to 577
+meet the requirements set forth in section 4729.55 of the 578
+Revised Code, and satisfies any other applicable requirements of 579
+this section. 580
+(2) Except for the license of a county dog warden, the 581
+license shall describe the one establishment or place at which 582
+the licensee may engage in the sale or other distribution of 583
+dangerous drugs at retail and maintain possession, custody, or 584
+control of dangerous drugs for purposes other than the 585
+licensee's own use or consumption. The one establishment or 586
+place shall be that which is identified in the application for 587
+licensure. 588
+No such license shall authorize or permit the terminal 589
+S. B. No. 152 Page 22
+As Introduced
+distributor of dangerous drugs named in it to engage in the sale 590
+or other distribution of dangerous drugs at retail or to 591
+maintain possession, custody, or control of dangerous drugs for 592
+any purpose other than the distributor's own use or consumption, 593
+at any establishment or place other than that described in the 594
+license, except that an agent or employee of an animal shelter 595
+or wild animal rehabilitation facility or county dog warden may 596
+possess and use dangerous drugs in the course of business as 597
+provided in section 4729.532 of the Revised Code. 598
+(3) The license of an emergency medical service 599
+organization shall cover the organization's headquarters and, in 600
+addition, shall cover and describe all the units of the 601
+organization listed in its application for licensure. 602
+(I)(1) All licenses issued or renewed pursuant to this 603
+
+Section 26:
+section shall be effective for a period specified by the board 604
+in rules adopted under section 4729.26 of the Revised Code. The 605
+effective period for an initial or renewed license shall not 606
+exceed twenty-four months unless the board extends the period in 607
+rules to adjust license renewal schedules. A license shall be 608
+renewed by the board according to the provisions of this 609
+
+Section 27:
+section, the standard renewal procedure of Chapter 4745. of the 610
+Revised Code, and rules adopted by the board under section 611
+
+Section 28:
+4729.26 of the Revised Code. A person seeking to renew a license 612
+shall submit an application for renewal and pay the required fee 613
+on or before the date specified in the rules adopted by the 614
+board. The fee required for the renewal of a license shall be 615
+the same as the license fee that applies under division (G)(2) 616
+of this section. 617
+(2)(a) Subject to division (I)(2)(b) of this section, a 618
+license that has not been renewed by the date specified in rules 619
+S. B. No. 152 Page 23
+As Introduced
+adopted by the board may be reinstated only upon payment of the 620
+required renewal fee and a penalty fee of one hundred ten 621
+dollars. 622
+(b) If an application for renewal has not been submitted 623
+by the sixty-first day after the renewal date specified in rules 624
+adopted by the board, the license is considered void and cannot 625
+be renewed, but the license holder may reapply for licensure. 626
+(3) A terminal distributor of dangerous drugs that fails 627
+to renew licensure in accordance with this section and rules 628
+adopted by the board is prohibited from engaging in the retail 629
+sale, possession, or distribution of dangerous drugs until a 630
+valid license is issued by the board. 631
+(J)(1) No emergency medical service organization that is 632
+licensed as a terminal distributor of dangerous drugs shall fail 633
+to comply with division (C)(1), (3), or (4) of this section. 634
+(2) No licensed terminal distributor of dangerous drugs 635
+shall possess, have custody or control of, or distribute 636
+dangerous drugs that the terminal distributor is not entitled to 637
+possess, have custody or control of, or distribute by virtue of 638
+its category of licensure. 639
+(3) No licensee that is required by division (F) of this 640
+
+Section 29:
+section to notify the board of changes in its protocol or 641
+standing orders, or in personnel, shall fail to comply with that 642
+division. 643
+(K) The board may enter into agreements with other states, 644
+federal agencies, and other entities to exchange information 645
+concerning licensing and inspection of terminal distributors of 646
+dangerous drugs located within or outside this state and to 647
+investigate alleged violations of the laws and rules governing 648
+S. B. No. 152 Page 24
+As Introduced
+distribution of drugs by terminal distributors. Any information 649
+received pursuant to such an agreement is subject to the same 650
+confidentiality requirements applicable to the agency or entity 651
+from which it was received and shall not be released without 652
+prior authorization from that agency or entity. 653
+Sec. 4729.55. No license shall be issued to an applicant 654
+for licensure as a terminal distributor of dangerous drugs 655
+unless the applicant has furnished satisfactory proof to the 656
+state board of pharmacy that: 657
+(A) The applicant is equipped as to land, buildings, and 658
+equipment to properly carry on the business of a terminal 659
+distributor of dangerous drugs within the category of licensure 660
+approved by the board. 661
+(B) One of the following will maintain supervision and 662
+control over the possession and custody of dangerous drugs and 663
+controlled substances that may be acquired by or on behalf of 664
+the applicant: 665
+(1) A pharmacist, licensed health professional authorized 666
+to prescribe drugs, or other person authorized by the board,; 667
+(2) An animal shelter, wild animal rehabilitation 668
+facility, or county dog warden licensed under section 4729.531 669
+of the Revised Code, or ; 670
+(3) A laboratory will maintain supervision and control 671
+over the possession and custody of dangerous drugs and 672
+controlled substances that may be acquired by or on behalf of 673
+the applicant. 674
+(C) Adequate safeguards are assured to prevent the sale or 675
+other distribution of dangerous drugs by any person other than a 676
+pharmacist or licensed health professional authorized to 677
+S. B. No. 152 Page 25
+As Introduced
+prescribe drugs. 678
+(D) Adequate safeguards are assured that the applicant 679
+will carry on the business of a terminal distributor of 680
+dangerous drugs in a manner that allows pharmacists and pharmacy 681
+interns employed by the terminal distributor to practice 682
+pharmacy in a safe and effective manner. 683
+(E) If the applicant, or any agent or employee of the 684
+applicant, has been found guilty of violating section 4729.51 of 685
+the Revised Code, the "Federal Food, Drug, and Cosmetic Act," 52 686
+Stat. 1040 (1938), 21 U.S.C.A. 301, the federal drug abuse 687
+control laws, Chapter 2925., 3715., 3719., or 4729. of the 688
+Revised Code, or any rule of the board, adequate safeguards are 689
+assured to prevent the recurrence of the violation. 690
+(F) If the application is made on behalf of an animal 691
+shelter, wild animal rehabilitation facility, or county dog 692
+warden, at least one of the agents or employees of the animal 693
+shelter or county dog warden is certified in compliance with 694
+
+Section 30:
+section 4729.532 of the Revised Code. 695
+(G) In the case of an applicant who is a retail seller of 696
+peritoneal dialysis solutions in original packages labeled as 697
+required by the "Federal Food, Drug, and Cosmetic Act," 52 Stat. 698
+1040 (1938), 21 U.S.C.A. 301, the applicant will maintain 699
+supervision and control over the possession, custody, and retail 700
+sale of the peritoneal dialysis solutions. 701
+(H) In the case of an applicant who is a pain management 702
+clinic, the applicant meets the requirements to receive a 703
+license with a pain management clinic classification issued 704
+under section 4729.552 of the Revised Code. 705
+
+Section 31:
+Section 2. That existing sections 4729.01, 4729.531, 706
+S. B. No. 152 Page 26
+As Introduced
+
+Section 32:
+4729.532, 4729.54, and 4729.55 of the Revised Code are hereby 707
+repealed. 708
+[DELETED: nS    .  :  1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7]
+[DELETED: 2  7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1;1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2:2;2 2 2 2 2.2 2 2 2 2 3 3 3]
+[DELETED: 2  3 3 3 3 3.3 3 3:3 3 3 3 3 3 3;3 3 3;3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 2  3.3 3 3 3 3:3;3;3 3;3.3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3.3]
+[DELETED: 2  3 3 3 3:3 3;3 3 3;3;3.3 3 3 3 3 3 3 3 3-3 3 3.3 3 3-3 3 3]
+[DELETED: 2  3 3.3 3 3 3 3.3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4)4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6:6 6;6 6 6;6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7.7 7]
+[DELETED: 2  7.7]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 152
+2025-2026
+Senator Brenner
+Cosponsor: Senator Lang
+To amend sections 4729.01, 4729.531, 4729.532, 1
+4729.54, and 4729.55 of the Revised Code to 2
+allow wild animal rehabilitation facilities to 3
+receive a limited license to administer 4
+euthanasia drugs. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 4729.01, 4729.531, 4729.532, 6
+4729.54, and 4729.55 of the Revised Code be amended to read as 7
+follows: 8
+Sec. 4729.01. As used in this chapter: 9
+(A) "Pharmacy," except when used in a context that refers 10
+to the practice of pharmacy, means any area, room, rooms, place 11
+of business, department, or portion of any of the foregoing 12
+where the practice of pharmacy is conducted. 13
+(B) "Practice of pharmacy" means providing pharmacist care 14
+requiring specialized knowledge, judgment, and skill derived 15
+from the principles of biological, chemical, behavioral, social, 16
+pharmaceutical, and clinical sciences. As used in this division, 17
+"pharmacist care" includes the following: 18
+(1) Interpreting prescriptions; 19
+
+S. B. No. 152 Page 2
+As Introduced
+(2) Dispensing drugs and drug therapy related devices; 20
+(3) Compounding drugs; 21
+(4) Counseling individuals with regard to their drug 22
+therapy, recommending drug therapy related devices, and 23
+assisting in the selection of drugs and appliances for treatment 24
+of common diseases and injuries and providing instruction in the 25
+proper use of the drugs and appliances; 26
+(5) Performing drug regimen reviews with individuals by 27
+discussing all of the drugs that the individual is taking and 28
+explaining the interactions of the drugs; 29
+(6) Performing drug utilization reviews with licensed 30
+health professionals authorized to prescribe drugs when the 31
+pharmacist determines that an individual with a prescription has 32
+a drug regimen that warrants additional discussion with the 33
+prescriber; 34
+(7) Advising an individual and the health care 35
+professionals treating an individual with regard to the 36
+individual's drug therapy; 37
+(8) Acting pursuant to a consult agreement, if an 38
+agreement has been established; 39
+(9) Engaging in the administration of immunizations to the 40
+extent authorized by section 4729.41 of the Revised Code; 41
+(10) Engaging in the administration of drugs to the extent 42
+authorized by section 4729.45 of the Revised Code. 43
+(C) "Compounding" means the preparation, mixing, 44
+assembling, packaging, and labeling of one or more drugs in any 45
+of the following circumstances: 46
+
+S. B. No. 152 Page 3
+As Introduced
+(1) Pursuant to a prescription issued by a licensed health 47
+professional authorized to prescribe drugs; 48
+(2) Pursuant to the modification of a prescription made in 49
+accordance with a consult agreement; 50
+(3) As an incident to research, teaching activities, or 51
+chemical analysis; 52
+(4) In anticipation of orders for drugs pursuant to 53
+prescriptions, based on routine, regularly observed dispensing 54
+patterns; 55
+(5) Pursuant to a request made by a licensed health 56
+professional authorized to prescribe drugs for a drug that is to 57
+be used by the professional for the purpose of direct 58
+administration to patients in the course of the professional's 59
+practice, if all of the following apply: 60
+(a) At the time the request is made, the drug is not 61
+commercially available regardless of the reason that the drug is 62
+not available, including the absence of a manufacturer for the 63
+drug or the lack of a readily available supply of the drug from 64
+a manufacturer. 65
+(b) A limited quantity of the drug is compounded and 66
+provided to the professional. 67
+(c) The drug is compounded and provided to the 68
+professional as an occasional exception to the normal practice 69
+of dispensing drugs pursuant to patient-specific prescriptions. 70
+(D) "Consult agreement" means an agreement that has been 71
+entered into under section 4729.39 of the Revised Code. 72
+(E) "Drug" means: 73
+
+S. B. No. 152 Page 4
+As Introduced
+(1) Any article recognized in the United States 74
+pharmacopoeia and national formulary, or any supplement to them, 75
+intended for use in the diagnosis, cure, mitigation, treatment, 76
+or prevention of disease in humans or animals; 77
+(2) Any other article intended for use in the diagnosis, 78
+cure, mitigation, treatment, or prevention of disease in humans 79
+or animals; 80
+(3) Any article, other than food, intended to affect the 81
+structure or any function of the body of humans or animals; 82
+(4) Any article intended for use as a component of any 83
+article specified in division (E)(1), (2), or (3) of this 84
+section; but does not include devices or their components, 85
+parts, or accessories. 86
+"Drug" does not include "hemp" or a "hemp product" as 87
+those terms are defined in section 928.01 of the Revised Code. 88
+(F) "Dangerous drug" means any of the following: 89
+(1) Any drug to which either of the following applies: 90
+(a) Under the "Federal Food, Drug, and Cosmetic Act," 52 91
+Stat. 1040 (1938), 21 U.S.C.A. 301, as amended, the drug is 92
+required to bear a label containing the legend "Caution: Federal 93
+law prohibits dispensing without prescription" or "Caution: 94
+Federal law restricts this drug to use by or on the order of a 95
+licensed veterinarian" or any similar restrictive statement, or 96
+the drug may be dispensed only upon a prescription; 97
+(b) Under Chapter 3715. or 3719. of the Revised Code, the 98
+drug may be dispensed only upon a prescription. 99
+(2) Any drug that contains a schedule V controlled 100
+substance and that is exempt from Chapter 3719. of the Revised 101
+
+S. B. No. 152 Page 5
+As Introduced
+Code or to which that chapter does not apply; 102
+(3) Any drug intended for administration by injection into 103
+the human body other than through a natural orifice of the human 104
+body; 105
+(4) Any drug that is a biological product, as defined in 106
+section 3715.01 of the Revised Code. 107
+(G) "Federal drug abuse control laws" has the same meaning 108
+as in section 3719.01 of the Revised Code. 109
+(H) "Prescription" means all of the following: 110
+(1) A written, electronic, or oral order for drugs or 111
+combinations or mixtures of drugs to be used by a particular 112
+individual or for treating a particular animal, issued by a 113
+licensed health professional authorized to prescribe drugs; 114
+(2) For purposes of sections 4723.4810, 4729.282, 115
+4730.432, and 4731.93 of the Revised Code, a written, 116
+electronic, or oral order for a drug to treat chlamydia, 117
+gonorrhea, or trichomoniasis issued to and in the name of a 118
+patient who is not the intended user of the drug but is the 119
+sexual partner of the intended user; 120
+(3) For purposes of sections 3313.7110, 3313.7111, 121
+3314.143, 3326.28, 3328.29, 4723.483, 4729.88, 4730.433, 122
+4731.96, and 5101.76 of the Revised Code, a written, electronic, 123
+or oral order for an epinephrine autoinjector issued to and in 124
+the name of a school, school district, or camp; 125
+(4) For purposes of Chapter 3728. and sections 4723.483, 126
+4729.88, 4730.433, and 4731.96 of the Revised Code, a written, 127
+electronic, or oral order for an epinephrine autoinjector issued 128
+to and in the name of a qualified entity, as defined in section 129
+
+S. B. No. 152 Page 6
+As Introduced
+3728.01 of the Revised Code; 130
+(5) For purposes of sections 3313.7115, 3313.7116, 131
+3314.147, 3326.60, 3328.38, 4723.4811, 4730.437, 4731.92, and 132
+5101.78 of the Revised Code, a written, electronic, or oral 133
+order for injectable or nasally administered glucagon in the 134
+name of a school, school district, or camp. 135
+(I) "Licensed health professional authorized to prescribe 136
+drugs" or "prescriber" means an individual who is authorized by 137
+law to prescribe drugs or dangerous drugs or drug therapy 138
+related devices in the course of the individual's professional 139
+practice, including only the following: 140
+(1) A dentist licensed under Chapter 4715. of the Revised 141
+Code; 142
+(2) A clinical nurse specialist, certified nurse-midwife, 143
+or certified nurse practitioner who holds a current, valid 144
+license issued under Chapter 4723. of the Revised Code to 145
+practice nursing as an advanced practice registered nurse; 146
+(3) A certified registered nurse anesthetist who holds a 147
+current, valid license issued under Chapter 4723. of the Revised 148
+Code to practice nursing as an advanced practice registered 149
+nurse, but only to the extent of the nurse's authority under 150
+sections 4723.43 and 4723.434 of the Revised Code; 151
+(4) An optometrist licensed under Chapter 4725. of the 152
+Revised Code to practice optometry; 153
+(5) A physician authorized under Chapter 4731. of the 154
+Revised Code to practice medicine and surgery, osteopathic 155
+medicine and surgery, or podiatric medicine and surgery; 156
+(6) A physician assistant who holds a license to practice 157
+
+S. B. No. 152 Page 7
+As Introduced
+as a physician assistant issued under Chapter 4730. of the 158
+Revised Code, holds a valid prescriber number issued by the 159
+state medical board, and has been granted physician-delegated 160
+prescriptive authority; 161
+(7) A veterinarian licensed under Chapter 4741. of the 162
+Revised Code; 163
+(8) A certified mental health assistant licensed under 164
+Chapter 4772. of the Revised Code who has been granted 165
+physician-delegated prescriptive authority by the physician 166
+supervising the certified mental health assistant. 167
+(J) "Sale" or "sell" includes any transaction made by any 168
+person, whether as principal proprietor, agent, or employee, to 169
+do or offer to do any of the following: deliver, distribute, 170
+broker, exchange, gift or otherwise give away, or transfer, 171
+whether the transfer is by passage of title, physical movement, 172
+or both. 173
+(K) "Wholesale sale" and "sale at wholesale" mean any sale 174
+in which the purpose of the purchaser is to resell the article 175
+purchased or received by the purchaser. 176
+(L) "Retail sale" and "sale at retail" mean any sale other 177
+than a wholesale sale or sale at wholesale. 178
+(M) "Retail seller" means any person that sells any 179
+dangerous drug to consumers without assuming control over and 180
+responsibility for its administration. Mere advice or 181
+instructions regarding administration do not constitute control 182
+or establish responsibility. 183
+(N) "Price information" means the price charged for a 184
+prescription for a particular drug product and, in an easily 185
+understandable manner, all of the following: 186
+
+S. B. No. 152 Page 8
+As Introduced
+(1) The proprietary name of the drug product; 187
+(2) The established (generic) name of the drug product; 188
+(3) The strength of the drug product if the product 189
+contains a single active ingredient or if the drug product 190
+contains more than one active ingredient and a relevant strength 191
+can be associated with the product without indicating each 192
+active ingredient. The established name and quantity of each 193
+active ingredient are required if such a relevant strength 194
+cannot be so associated with a drug product containing more than 195
+one ingredient. 196
+(4) The dosage form; 197
+(5) The price charged for a specific quantity of the drug 198
+product. The stated price shall include all charges to the 199
+consumer, including, but not limited to, the cost of the drug 200
+product, professional fees, handling fees, if any, and a 201
+statement identifying professional services routinely furnished 202
+by the pharmacy. Any mailing fees and delivery fees may be 203
+stated separately without repetition. The information shall not 204
+be false or misleading. 205
+(O) "Wholesale distributor of dangerous drugs" or 206
+"wholesale distributor" means a person engaged in the sale of 207
+dangerous drugs at wholesale and includes any agent or employee 208
+of such a person authorized by the person to engage in the sale 209
+of dangerous drugs at wholesale. 210
+(P) "Manufacturer of dangerous drugs" or "manufacturer" 211
+means a person, other than a pharmacist or prescriber, who 212
+manufactures dangerous drugs and who is engaged in the sale of 213
+those dangerous drugs. 214
+(Q) "Terminal distributor of dangerous drugs" or "terminal 215
+
+S. B. No. 152 Page 9
+As Introduced
+distributor" means a person who is engaged in the sale of 216
+dangerous drugs at retail, or any person, other than a 217
+manufacturer, repackager, outsourcing facility, third-party 218
+logistics provider, wholesale distributor, or pharmacist, who 219
+has possession, custody, or control of dangerous drugs for any 220
+purpose other than for that person's own use and consumption. 221
+"Terminal distributor" includes pharmacies, hospitals, nursing 222
+homes, and laboratories and all other persons who procure 223
+dangerous drugs for sale or other distribution by or under the 224
+supervision of a pharmacist, licensed health professional 225
+authorized to prescribe drugs, or other person authorized by the 226
+state board of pharmacy. 227
+(R) "Promote to the public" means disseminating a 228
+representation to the public in any manner or by any means, 229
+other than by labeling, for the purpose of inducing, or that is 230
+likely to induce, directly or indirectly, the purchase of a 231
+dangerous drug at retail. 232
+(S) "Person" includes any individual, partnership, 233
+association, limited liability company, or corporation, the 234
+state, any political subdivision of the state, and any district, 235
+department, or agency of the state or its political 236
+subdivisions. 237
+(T)(1) "Animal shelter" means a facility operated by a 238
+humane society or any society organized under Chapter 1717. of 239
+the Revised Code or a dog pound operated pursuant to Chapter 240
+955. of the Revised Code. 241
+(2) "County dog warden" means a dog warden or deputy dog 242
+warden appointed or employed under section 955.12 of the Revised 243
+Code. 244
+
+S. B. No. 152 Page 10
+As Introduced
+(3) "Wild animal rehabilitation facility" means a facility 245
+that holds a permit issued by the chief of the division of 246
+wildlife for rehabilitation purposes in accordance with section 247
+1533.08 of the Revised Code or rules adopted by the chief. 248
+(U) "Food" has the same meaning as in section 3715.01 of 249
+the Revised Code. 250
+(V) "Pain management clinic" has the same meaning as in 251
+section 4731.054 of the Revised Code. 252
+(W) "Investigational drug or product" means a drug or 253
+product that has successfully completed phase one of the United 254
+States food and drug administration clinical trials and remains 255
+under clinical trial, but has not been approved for general use 256
+by the United States food and drug administration. 257
+"Investigational drug or product" does not include controlled 258
+substances in schedule I, as defined in section 3719.01 of the 259
+Revised Code. 260
+(X) "Product," when used in reference to an 261
+investigational drug or product, means a biological product, 262
+other than a drug, that is made from a natural human, animal, or 263
+microorganism source and is intended to treat a disease or 264
+medical condition. 265
+(Y) "Third-party logistics provider" means a person that 266
+provides or coordinates warehousing or other logistics services 267
+pertaining to dangerous drugs including distribution, on behalf 268
+of a manufacturer, wholesale distributor, or terminal 269
+distributor of dangerous drugs, but does not take ownership of 270
+the drugs or have responsibility to direct the sale or 271
+disposition of the drugs. 272
+(Z) "Repackager of dangerous drugs" or "repackager" means 273
+
+S. B. No. 152 Page 11
+As Introduced
+a person that repacks and relabels dangerous drugs for sale or 274
+distribution. 275
+(AA) "Outsourcing facility" means a facility that is 276
+engaged in the compounding and sale of sterile drugs and is 277
+registered as an outsourcing facility with the United States 278
+food and drug administration. 279
+(BB) "Laboratory" means a laboratory licensed under this 280
+chapter as a terminal distributor of dangerous drugs and 281
+entrusted to have custody of any of the following drugs and to 282
+use the drugs for scientific and clinical purposes and for 283
+purposes of instruction: dangerous drugs that are not controlled 284
+substances, as defined in section 3719.01 of the Revised Code; 285
+dangerous drugs that are controlled substances, as defined in 286
+that section; and controlled substances in schedule I, as 287
+defined in that section. 288
+(CC) "Overdose reversal drug" means both of the following: 289
+(1) Naloxone; 290
+(2) Any other drug that the state board of pharmacy, 291
+through rules adopted in accordance with Chapter 119. of the 292
+Revised Code, designates as a drug that is approved by the 293
+federal food and drug administration for the reversal of a known 294
+or suspected opioid-related overdose. 295
+Sec. 4729.531. (A) The state board of pharmacy may issue a 296
+limited license to an animal shelter, a wild animal 297
+rehabilitation facility, or county dog warden solely for the 298
+purpose of purchasing, possessing, and administering drugs that 299
+are distributed in a manufactured dosage form as described in 300
+section 4729.532 of the Revised Code. Unless otherwise approved 301
+by the board, no such license shall authorize or permit the 302
+
+S. B. No. 152 Page 12
+As Introduced
+distribution of these drugs to any person other than the 303
+originating wholesale distributor of the drugs. An application 304
+for licensure shall include the information the board requires 305
+by rule under this section. If the application meets the 306
+requirements of the rules adopted under this section, the board 307
+shall issue the license. 308
+(B) The board, in accordance with Chapter 119. of the 309
+Revised Code, shall adopt any rules necessary to administer and 310
+enforce this section. The rules shall do all of the following: 311
+(1) Require as a condition of licensure that an agent or 312
+employee of an animal shelter or wild animal rehabilitation 313
+facility or an agent or employee of a county dog warden, other 314
+than a registered veterinary technician as defined in section 315
+4741.01 of the Revised Code, has successfully completed a 316
+euthanasia technician certification course described in section 317
+4729.532 of the Revised Code; 318
+(2) Specify the information the animal shelter, wild 319
+animal rehabilitation facility, or county dog warden must 320
+provide the board for issuance or renewal of a license; 321
+(3) Address any other matters the board considers 322
+necessary or appropriate for the administration and enforcement 323
+of this section. 324
+Sec. 4729.532. (A) No agent or employee of an animal 325
+shelter, no agent or employee of a wild animal rehabilitation 326
+facility, and no county dog warden or agent or employee of a 327
+county dog warden shall perform euthanasia by means of lethal 328
+injection on an animal by use of any substance other than a 329
+substance in a manufactured dosage form that the state 330
+veterinary medical licensing board, in consultation with the 331
+
+S. B. No. 152 Page 13
+As Introduced
+state board of pharmacy, approves by rule adopted in accordance 332
+with Chapter 119. of the Revised Code. 333
+The agent or employee of an animal shelter or wild animal 334
+rehabilitation facility, county dog warden, or agent or employee 335
+of a county dog warden when using a lethal solution to perform 336
+euthanasia on an animal shall use the solution in accordance 337
+with the following methods: 338
+(1) Intravenous injection by hypodermic needle; 339
+(2) Intraperitoneal injection by hypodermic needle; 340
+(3) Intracardial injection by hypodermic needle, but only 341
+on an animal verified to be unconscious; 342
+(4) Oral administration of solution or powder. 343
+(B) Before euthanasia, a euthanasia technician may 344
+administer a solution of one or more drugs exclusively for the 345
+purpose of inducing anesthesia, sedation, or unconsciousness 346
+prior to euthanasia. Only those drugs that have been approved by 347
+rule adopted in accordance with Chapter 119. of the Revised Code 348
+by the state board of pharmacy, in consultation with the state 349
+veterinary medical licensing board, may be used. 350
+(C) No agent or employee of an animal shelter or wild 351
+animal rehabilitation facility and no county dog warden or agent 352
+or employee of a county dog warden, other than a registered 353
+veterinary technician as defined in section 4741.01 of the 354
+Revised Code, shall perform euthanasia by means of lethal 355
+injection on an animal or administer pre-euthanasia drugs that 356
+induce anesthesia, sedation, or unconsciousness unless the agent 357
+or employee or county dog warden has received certification 358
+after successfully completing a euthanasia technician 359
+certification course as described in this division. 360
+
+S. B. No. 152 Page 14
+As Introduced
+The curriculum for a euthanasia technician certification 361
+course shall be one that has been approved by the state 362
+veterinary medical licensing board, shall be at least sixteen 363
+hours in length, and shall include information in at least all 364
+of the following areas: 365
+(1) The pharmacology, proper administration, and storage 366
+of euthanasia, sedation, and anesthesia solutions; 367
+(2) Federal and state laws regulating the storage and 368
+accountability of euthanasia, sedation, and anesthesia 369
+solutions; 370
+(3) Euthanasia technician stress management; 371
+(4) Proper disposal of euthanized animals. 372
+(D)(1) No agent or employee of an animal shelter or wild 373
+animal rehabilitation facility shall perform euthanasia by means 374
+of lethal injection on animals or administer pre-euthanasia 375
+drugs that induce anesthesia, sedation, or unconsciousness under 376
+this section unless the facility in which the agent or employee 377
+works or is employed is licensed with the state board of 378
+pharmacy under section 4729.531 of the Revised Code. No agent or 379
+employee of a county dog warden shall perform euthanasia by 380
+means of lethal injection on animals or administer pre- 381
+euthanasia drugs that induce anesthesia, sedation, or 382
+unconsciousness under this section unless the county dog warden 383
+is licensed under section 4729.531 of the Revised Code. 384
+(2) Any agent or employee of an animal shelter or wild 385
+animal rehabilitation facility or county dog warden performing 386
+euthanasia by means of lethal injection or administering pre- 387
+euthanasia drugs that induce anesthesia, sedation, or 388
+unconsciousness shall do so only in a humane and proficient 389
+
+S. B. No. 152 Page 15
+As Introduced
+manner that is in conformity with the methods described in 390
+divisions (A) and (B) of this section and not in violation of 391
+Chapter 959. of the Revised Code. 392
+(E) Nothing in this section precludes a licensed 393
+veterinarian or registered veterinary technician as defined in 394
+section 4741.01 of the Revised Code from engaging in the 395
+practice of veterinary medicine as authorized in Chapter 4741. 396
+of the Revised Code. 397
+Sec. 4729.54. (A) As used in this section: 398
+(1) "Category II" means any dangerous drug that is not 399
+included in category III. 400
+(2) "Category III" means any controlled substance that is 401
+contained in schedule I, II, III, IV, or V. 402
+(3) "Emergency medical service organization" has the same 403
+meaning as in section 4765.01 of the Revised Code. 404
+(4) "Emergency medical service organization satellite" 405
+means a location where dangerous drugs are stored that is 406
+separate from, but associated with, the headquarters of an 407
+emergency medical service organization. "Emergency medical 408
+service organization satellite" does not include the units under 409
+the control of the emergency medical service organization. 410
+(5) "Person" includes an emergency medical service 411
+organization or an emergency medical service organization 412
+satellite. 413
+(6) "Schedule I," "schedule II," "schedule III," "schedule 414
+IV," and "schedule V" have the same meanings as in section 415
+3719.01 of the Revised Code. 416
+(B)(1) A person seeking to be licensed as a terminal 417
+
+S. B. No. 152 Page 16
+As Introduced
+distributor of dangerous drugs shall file with the executive 418
+director of the state board of pharmacy a verified application. 419
+After it is filed, the application may not be withdrawn without 420
+approval of the board. 421
+(2) An application shall contain all the following that 422
+apply in the applicant's case: 423
+(a) Information that the board requires relative to the 424
+qualifications of a terminal distributor of dangerous drugs set 425
+forth in section 4729.55 of the Revised Code; 426
+(b) A statement as to whether the person is seeking to be 427
+licensed as a category II, category III, limited category II, or 428
+limited category III terminal distributor of dangerous drugs; 429
+(c) If the person is seeking to be licensed as a limited 430
+category II or limited category III terminal distributor of 431
+dangerous drugs, a list of the dangerous drugs that the person 432
+is seeking to possess, have custody or control of, and 433
+distribute, which list shall also specify the purpose for which 434
+those drugs will be used and their source; 435
+(d) If the person is an emergency medical service 436
+organization, the information that is specified in divisions (C) 437
+(1) and (2) of this section, and if the person is an emergency 438
+medical service organization satellite, the information required 439
+under division (D) of this section; 440
+(e) Except with respect to the units under the control of 441
+an emergency medical service organization, the identity of the 442
+one establishment or place at which the person intends to engage 443
+in the sale or other distribution of dangerous drugs at retail, 444
+and maintain possession, custody, or control of dangerous drugs 445
+for purposes other than the person's own use or consumption; 446
+
+S. B. No. 152 Page 17
+As Introduced
+(f) If the application pertains to a pain management 447
+clinic, information that demonstrates, to the satisfaction of 448
+the board, compliance with division (A) of section 4729.552 of 449
+the Revised Code. 450
+(C)(1) Each emergency medical service organization that 451
+applies for a terminal distributor of dangerous drugs license 452
+shall submit with its application all of the following: 453
+(a) A copy of its standing orders or protocol, which 454
+orders or protocol shall be signed by a physician; 455
+(b) A list of the dangerous drugs that the units under its 456
+control may carry, expressed in standard dose units, which shall 457
+be signed by a physician; 458
+(c) A list of the personnel employed or used by the 459
+organization to provide emergency medical services in accordance 460
+with Chapter 4765. of the Revised Code. 461
+In accordance with Chapter 119. of the Revised Code, the 462
+board shall adopt rules specifying when an emergency medical 463
+service organization that is licensed as a terminal distributor 464
+must notify the board of any changes in its documentation 465
+submitted pursuant to division (C)(1) of this section. 466
+(2) An emergency medical service organization seeking to 467
+be licensed as a terminal distributor of dangerous drugs shall 468
+list in its application for licensure the following additional 469
+information: 470
+(a) The units under its control that the organization 471
+determines will possess dangerous drugs for the purpose of 472
+administering emergency medical services in accordance with 473
+Chapter 4765. of the Revised Code; 474
+
+S. B. No. 152 Page 18
+As Introduced
+(b) With respect to each such unit, whether the dangerous 475
+drugs that the organization determines the unit will possess are 476
+in category II or III. 477
+(3) An emergency medical service organization that is 478
+licensed as a terminal distributor of dangerous drugs shall file 479
+a new application for such licensure if there is any change in 480
+the number or location of any of its units or if there is any 481
+change in the category of the dangerous drugs that any unit will 482
+possess. 483
+(4) A unit listed in an application for licensure pursuant 484
+to division (C)(2) of this section may obtain the dangerous 485
+drugs it is authorized to possess from its emergency medical 486
+service organization or, on a replacement basis, from a hospital 487
+pharmacy. If units will obtain dangerous drugs from a hospital 488
+pharmacy, the organization shall file, and maintain in current 489
+form, the following items with the pharmacist who is responsible 490
+for the hospital's terminal distributor of dangerous drugs 491
+license: 492
+(a) A copy of its standing orders or protocol; 493
+(b) A list of the personnel employed or used by the 494
+organization to provide emergency medical services in accordance 495
+with Chapter 4765. of the Revised Code, who are authorized to 496
+possess the drugs, which list also shall indicate the personnel 497
+who are authorized to administer the drugs. 498
+(D) Each emergency medical service organization satellite 499
+that applies for a terminal distributor of dangerous drugs 500
+license shall submit with its application all of the information 501
+that the board requires to be submitted with the application, as 502
+specified in rules the board shall adopt in accordance with 503
+
+S. B. No. 152 Page 19
+As Introduced
+Chapter 119. of the Revised Code. 504
+(E) There shall be four categories of terminal distributor 505
+of dangerous drugs licenses. The categories are as follows: 506
+(1) Category II license. A person who obtains this license 507
+may possess, have custody or control of, and distribute only the 508
+dangerous drugs described in category II. 509
+(2) Limited category II license. A person who obtains this 510
+license may possess, have custody or control of, and distribute 511
+only the dangerous drugs described in category II that were 512
+listed in the application for licensure. 513
+(3) Category III license, which may include a pain 514
+management clinic classification issued under section 4729.552 515
+of the Revised Code. A person who obtains this license may 516
+possess, have custody or control of, and distribute the 517
+dangerous drugs described in category II and category III. If 518
+the license includes a pain management clinic classification, 519
+the person may operate a pain management clinic. 520
+(4) Limited category III license. A person who obtains 521
+this license may possess, have custody or control of, and 522
+distribute only the dangerous drugs described in category II or 523
+category III that were listed in the application for licensure. 524
+(F) Except for an application made by a county dog warden 525
+or on behalf of an animal shelter or wild animal rehabilitation 526
+facility, if an applicant for a limited category II license or 527
+limited category III license intends to administer dangerous 528
+drugs to a person or animal, the applicant shall submit, with 529
+the application, a copy of its protocol or standing orders. The 530
+protocol or orders shall be signed by a licensed health 531
+professional authorized to prescribe drugs, specify the 532
+
+S. B. No. 152 Page 20
+As Introduced
+dangerous drugs to be administered, and list personnel who are 533
+authorized to administer the dangerous drugs in accordance with 534
+federal law or the law of this state. 535
+An application made by a county dog warden or on behalf of 536
+an animal shelter or wild animal rehabilitation facility shall 537
+include a list of the dangerous drugs to be administered to 538
+animals and the personnel who are authorized to administer the 539
+drugs to animals in accordance with section 4729.532 of the 540
+Revised Code. 541
+In accordance with Chapter 119. of the Revised Code, the 542
+board shall adopt rules specifying when a licensee must notify 543
+the board of any changes in its documentation submitted pursuant 544
+to this division. 545
+(G)(1) Except as provided in division (G)(3) of this 546
+section, each applicant for licensure as a terminal distributor 547
+of dangerous drugs shall submit, with the application, a license 548
+fee. The amount assessed shall not be returned to the applicant 549
+if the applicant fails to qualify for the license. 550
+(2) The following fees apply under division (G)(1) of this 551
+section: 552
+(a) Except as provided in division (G)(2)(b) of this 553
+section: 554
+(i) Three hundred twenty dollars for a category II or 555
+limited category II license; 556
+(ii) Four hundred forty dollars for a category III 557
+license, including a license with a pain management clinic 558
+classification issued under section 4729.552 of the Revised 559
+Code, or a limited category III license. 560
+
+S. B. No. 152 Page 21
+As Introduced
+(b) One hundred twenty dollars for all of the following: 561
+(i) A person who is required to hold a license as a 562
+terminal distributor of dangerous drugs pursuant to division (C) 563
+of section 4729.541 of the Revised Code; 564
+(ii) A professional association, corporation, partnership, 565
+or limited liability company organized for the purpose of 566
+practicing veterinary medicine that is not included in division 567
+(G)(2)(b)(i) of this section; 568
+(iii) An emergency medical service organization satellite. 569
+(3) No fee applies for a license issued to a charitable 570
+pharmacy, as defined in section 3719.811 of the Revised Code, if 571
+the charitable pharmacy is participating in the drug repository 572
+program established under section 3715.87 of the Revised Code. 573
+(H)(1) The board shall issue a terminal distributor of 574
+dangerous drugs license to each person who submits an 575
+application for such licensure in accordance with this section, 576
+pays the required license fee, is determined by the board to 577
+meet the requirements set forth in section 4729.55 of the 578
+Revised Code, and satisfies any other applicable requirements of 579
+this section. 580
+(2) Except for the license of a county dog warden, the 581
+license shall describe the one establishment or place at which 582
+the licensee may engage in the sale or other distribution of 583
+dangerous drugs at retail and maintain possession, custody, or 584
+control of dangerous drugs for purposes other than the 585
+licensee's own use or consumption. The one establishment or 586
+place shall be that which is identified in the application for 587
+licensure. 588
+No such license shall authorize or permit the terminal 589
+
+S. B. No. 152 Page 22
+As Introduced
+distributor of dangerous drugs named in it to engage in the sale 590
+or other distribution of dangerous drugs at retail or to 591
+maintain possession, custody, or control of dangerous drugs for 592
+any purpose other than the distributor's own use or consumption, 593
+at any establishment or place other than that described in the 594
+license, except that an agent or employee of an animal shelter 595
+or wild animal rehabilitation facility or county dog warden may 596
+possess and use dangerous drugs in the course of business as 597
+provided in section 4729.532 of the Revised Code. 598
+(3) The license of an emergency medical service 599
+organization shall cover the organization's headquarters and, in 600
+addition, shall cover and describe all the units of the 601
+organization listed in its application for licensure. 602
+(I)(1) All licenses issued or renewed pursuant to this 603
+section shall be effective for a period specified by the board 604
+in rules adopted under section 4729.26 of the Revised Code. The 605
+effective period for an initial or renewed license shall not 606
+exceed twenty-four months unless the board extends the period in 607
+rules to adjust license renewal schedules. A license shall be 608
+renewed by the board according to the provisions of this 609
+section, the standard renewal procedure of Chapter 4745. of the 610
+Revised Code, and rules adopted by the board under section 611
+4729.26 of the Revised Code. A person seeking to renew a license 612
+shall submit an application for renewal and pay the required fee 613
+on or before the date specified in the rules adopted by the 614
+board. The fee required for the renewal of a license shall be 615
+the same as the license fee that applies under division (G)(2) 616
+of this section. 617
+(2)(a) Subject to division (I)(2)(b) of this section, a 618
+license that has not been renewed by the date specified in rules 619
+
+S. B. No. 152 Page 23
+As Introduced
+adopted by the board may be reinstated only upon payment of the 620
+required renewal fee and a penalty fee of one hundred ten 621
+dollars. 622
+(b) If an application for renewal has not been submitted 623
+by the sixty-first day after the renewal date specified in rules 624
+adopted by the board, the license is considered void and cannot 625
+be renewed, but the license holder may reapply for licensure. 626
+(3) A terminal distributor of dangerous drugs that fails 627
+to renew licensure in accordance with this section and rules 628
+adopted by the board is prohibited from engaging in the retail 629
+sale, possession, or distribution of dangerous drugs until a 630
+valid license is issued by the board. 631
+(J)(1) No emergency medical service organization that is 632
+licensed as a terminal distributor of dangerous drugs shall fail 633
+to comply with division (C)(1), (3), or (4) of this section. 634
+(2) No licensed terminal distributor of dangerous drugs 635
+shall possess, have custody or control of, or distribute 636
+dangerous drugs that the terminal distributor is not entitled to 637
+possess, have custody or control of, or distribute by virtue of 638
+its category of licensure. 639
+(3) No licensee that is required by division (F) of this 640
+section to notify the board of changes in its protocol or 641
+standing orders, or in personnel, shall fail to comply with that 642
+division. 643
+(K) The board may enter into agreements with other states, 644
+federal agencies, and other entities to exchange information 645
+concerning licensing and inspection of terminal distributors of 646
+dangerous drugs located within or outside this state and to 647
+investigate alleged violations of the laws and rules governing 648
+
+S. B. No. 152 Page 24
+As Introduced
+distribution of drugs by terminal distributors. Any information 649
+received pursuant to such an agreement is subject to the same 650
+confidentiality requirements applicable to the agency or entity 651
+from which it was received and shall not be released without 652
+prior authorization from that agency or entity. 653
+Sec. 4729.55. No license shall be issued to an applicant 654
+for licensure as a terminal distributor of dangerous drugs 655
+unless the applicant has furnished satisfactory proof to the 656
+state board of pharmacy that: 657
+(A) The applicant is equipped as to land, buildings, and 658
+equipment to properly carry on the business of a terminal 659
+distributor of dangerous drugs within the category of licensure 660
+approved by the board. 661
+(B) One of the following will maintain supervision and 662
+control over the possession and custody of dangerous drugs and 663
+controlled substances that may be acquired by or on behalf of 664
+the applicant: 665
+(1) A pharmacist, licensed health professional authorized 666
+to prescribe drugs, or other person authorized by the board,; 667
+(2) An animal shelter, wild animal rehabilitation 668
+facility, or county dog warden licensed under section 4729.531 669
+of the Revised Code, or ; 670
+(3) A laboratory will maintain supervision and control 671
+over the possession and custody of dangerous drugs and 672
+controlled substances that may be acquired by or on behalf of 673
+the applicant. 674
+(C) Adequate safeguards are assured to prevent the sale or 675
+other distribution of dangerous drugs by any person other than a 676
+pharmacist or licensed health professional authorized to 677
+
+S. B. No. 152 Page 25
+As Introduced
+prescribe drugs. 678
+(D) Adequate safeguards are assured that the applicant 679
+will carry on the business of a terminal distributor of 680
+dangerous drugs in a manner that allows pharmacists and pharmacy 681
+interns employed by the terminal distributor to practice 682
+pharmacy in a safe and effective manner. 683
+(E) If the applicant, or any agent or employee of the 684
+applicant, has been found guilty of violating section 4729.51 of 685
+the Revised Code, the "Federal Food, Drug, and Cosmetic Act," 52 686
+Stat. 1040 (1938), 21 U.S.C.A. 301, the federal drug abuse 687
+control laws, Chapter 2925., 3715., 3719., or 4729. of the 688
+Revised Code, or any rule of the board, adequate safeguards are 689
+assured to prevent the recurrence of the violation. 690
+(F) If the application is made on behalf of an animal 691
+shelter, wild animal rehabilitation facility, or county dog 692
+warden, at least one of the agents or employees of the animal 693
+shelter or county dog warden is certified in compliance with 694
+section 4729.532 of the Revised Code. 695
+(G) In the case of an applicant who is a retail seller of 696
+peritoneal dialysis solutions in original packages labeled as 697
+required by the "Federal Food, Drug, and Cosmetic Act," 52 Stat. 698
+1040 (1938), 21 U.S.C.A. 301, the applicant will maintain 699
+supervision and control over the possession, custody, and retail 700
+sale of the peritoneal dialysis solutions. 701
+(H) In the case of an applicant who is a pain management 702
+clinic, the applicant meets the requirements to receive a 703
+license with a pain management clinic classification issued 704
+under section 4729.552 of the Revised Code. 705
+Section 2. That existing sections 4729.01, 4729.531, 706
+
+S. B. No. 152 Page 26
+As Introduced
+4729.532, 4729.54, and 4729.55 of the Revised Code are hereby 707
+repealed. 708
+
+[DELETED: nS    .  :  1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7]
+[DELETED: 2  7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1;1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2:2;2 2 2 2 2.2 2 2 2 2 3 3 3]
+[DELETED: 2  3 3 3 3 3.3 3 3:3 3 3 3 3 3 3;3 3 3;3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 2  3.3 3 3 3 3:3;3;3 3;3.3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3.3]
+[DELETED: 2  3 3 3 3:3 3;3 3 3;3;3.3 3 3 3 3 3 3 3 3-3 3 3.3 3 3-3 3 3]
+[DELETED: 2  3 3.3 3 3 3 3.3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4)4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6:6 6;6 6 6;6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7.7 7]
+[DELETED: 2  7.7]

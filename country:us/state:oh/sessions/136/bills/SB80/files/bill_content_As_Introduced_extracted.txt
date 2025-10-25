@@ -1,0 +1,335 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 8
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 80
+2025-2026
+Senators Ingram, Blackshear
+Cosponsor: Senator Craig
+To amend section 1327.70 of the Revised Code to 1
+authorize a county to implement a motor fuel 2
+quality testing program. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 1327.70 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 1327.70. (A) As used in this section: 6
+(1) "Biodiesel" and "blended biodiesel" have the same 7
+meanings as in section 125.831 of the Revised Code. 8
+"Conventional fuel" means gasoline and diesel fuel. 9
+"Diesel fuel" has the same meaning as in section 5735.01 10
+of the Revised Code. 11
+(2) "Ethanol extended fuel" means a mixture of gasoline 12
+and ethanol. 13
+"Fuel inspector" means a county auditor or any person who 14
+is designated by the county auditor to perform motor fuel 15
+quality testing under this section. 16
+S. B. No. 80 Page 2
+As Introduced
+"Motor fuel" means gasoline or diesel any of the following 17
+types of fuel that is sold by a retailer retail dealer: 18
+(1) Conventional fuel; 19
+(2) Biodiesel or blended biodiesel fuel; 20
+(3) Ethanol extended fuel. 21
+"Retail dealer" has the same meaning as in section 5735.01 22
+of the Revised Code. 23
+"Retail service station" has the same meaning as in 24
+
+Section 3:
+section 5735.01 of the Revised Code. 25
+(B) The director of agriculture may adopt rules in 26
+accordance with Chapter 119. of the Revised Code establishing a 27
+motor fuel quality testing program that is uniform throughout 28
+the state. 29
+(C)(1) Unless a motor fuel quality testing program is 30
+established in rules under division (B) of this section, is 31
+funded, and is implemented by the department of agriculture, a 32
+county auditor may implement a motor fuel quality testing 33
+program in the auditor's county whereby a fuel inspector may 34
+test motor fuel quality for octane level, sediment, and water in 35
+the fuel. No fuel inspector shall charge any inspection or 36
+registration fees to perform motor fuel quality testing. 37
+(2) Except as provided in this division, a county auditor 38
+who implements a motor fuel quality testing program under this 39
+
+Section 4:
+section shall acquire testing equipment or ensure that testing 40
+equipment is available for the county's program. The county 41
+auditor shall ensure that the testing equipment meets the most 42
+recent standards established by the American society for testing 43
+and materials (ASTM) international. A county auditor may 44
+S. B. No. 80 Page 3
+As Introduced
+contract with another county to use that county's testing 45
+equipment so long as the contract provides that the testing is 46
+performed by a fuel inspector from the county that owns the 47
+testing equipment. A county auditor shall not allow the county's 48
+testing equipment to be used in any other county for fuel 49
+quality testing purposes unless a fuel inspector for the county 50
+that owns the equipment is conducting the testing. 51
+(D) If a county auditor implements a fuel quality testing 52
+program under this section, a retail dealer in the applicable 53
+county shall do all of the following when requested by a fuel 54
+inspector: 55
+(1) Allow the fuel inspector to test the octane level and 56
+sediment from the retail dealer's motor fuel pumps; 57
+(2) Allow the fuel inspector to test the water and 58
+sediment in the retail dealer's motor fuel storage tanks; 59
+(3) Allow the fuel inspector to pump a sample of motor 60
+fuel, free of charge and in containers provided by the fuel 61
+inspector, in an amount required by the fuel inspector for 62
+testing. 63
+(E) A fuel inspector shall do all of the following when 64
+performing motor fuel quality testing: 65
+(1) Use testing equipment that meets the most recent 66
+standards established by the American society for testing and 67
+materials (ASTM) international; 68
+(2) Adhere to any standard or guideline set forth by the 69
+director of agriculture, in accordance with division (F)(3) of 70
+this section, relating to petroleum product quality and sampling 71
+and testing methods that are consistent with the ASTM; 72
+S. B. No. 80 Page 4
+As Introduced
+(3) Except as otherwise provided in division (E)(2) of 73
+this section, adhere to the following motor fuel quality testing 74
+compliance standards: 75
+(a) Fuel storage tanks shall not exceed one-quarter inch 76
+of water for ethanol extended fuel and shall not exceed two 77
+inches of water for conventional fuel. 78
+(b) Gasoline and ethanol extended fuel octane levels 79
+tested at the pump shall be within one octane point of the 80
+octane level listed on the pump. 81
+(c) Gasoline and ethanol extended fuel tested at the pump, 82
+per ASTM requirements, shall be visually free of undissolved 83
+water, sediment, and suspended matter and shall be clear and 84
+bright at either an ambient temperature or seventy degrees 85
+Fahrenheit, whichever is higher. 86
+(d) Diesel fuel tested at the pump shall meet the 87
+standards defined by the ASTM. 88
+(F)(1) For a violation of a motor fuel quality standard 89
+detected at a retail service station, a fuel inspector shall 90
+issue to the applicable retail dealer an order to stop selling 91
+fuel until the fuel is in compliance with this section as 92
+determined by the fuel inspector. 93
+(2) A fuel inspector, when issuing an order to stop 94
+selling fuel under division (F)(1) of this section, may impose a 95
+civil penalty on the retail dealer in accordance with rules 96
+adopted by the director of agriculture under division (F)(3) of 97
+this section. If the director does not adopt such rules, the 98
+county auditor shall not adopt civil penalties for that county. 99
+All civil penalties collected under division (F)(2) of this 100
+
+Section 5:
+section shall be deposited into the applicable county general 101
+S. B. No. 80 Page 5
+As Introduced
+fund. 102
+(3) For purposes of a county auditor-implemented motor 103
+fuel quality testing program, the director of agriculture may 104
+adopt rules in accordance with Chapter 119. of the Revised Code 105
+establishing civil penalties for violations of motor fuel 106
+quality standards. The rules shall include procedures by which a 107
+retail dealer may appeal a civil penalty. 108
+(G) A fuel inspector shall transmit data collected from 109
+motor fuel quality testing to the director of agriculture. The 110
+director shall compile such data, including dates, locations, 111
+and results received from fuel inspectors, and make the data 112
+accessible to the public via the department of agriculture's web 113
+site. 114
+(H) Any county that lawfully implemented a motor fuel 115
+quality testing program prior to the effective date of this 116
+
+Section 6:
+section is exempt from divisions (C) to (F) of this section. 117
+Such a county may continue to implement the motor fuel quality 118
+testing program as that program existed prior to the effective 119
+date of this section. 120
+(I) Whenever the department of agriculture is notified of 121
+a United States environmental protection agency waiver of 122
+standards that applies to federal fuel standards, the department 123
+shall notify every county auditor's office. Any auditor 124
+participating in a fuel quality testing program under this 125
+
+Section 7:
+section, or a fuel quality testing program implemented prior to 126
+the effective date of this section, shall only test for water 127
+and sediment during the waiver period. 128
+
+Section 8:
+Section 2. That existing section 1327.70 of the Revised 129
+Code is hereby repealed. 130
+[DELETED: nS BIL  . :: .. 1.1 1.1 1 1.1]
+[DELETED: 0  1:1;1;2.2 2.2 2.2 2 2 2.2 3 3 3 3 3 3 3.3 3 3 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 5.5 5 5 5:5 5;5 5;5 6 6 6.6 6:6 6 6;6 6 7 7;7]
+[DELETED: 0  7 7:7 7 7.7 7 8.8 8 8 8 8.8 8.8 8 9 9 9.9 9 9 9 9 9 9 1 1]
+[DELETED: 0 .1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 80
+2025-2026
+Senators Ingram, Blackshear
+Cosponsor: Senator Craig
+A BILL
+To amend section 1327.70 of the Revised Code to 1
+authorize a county to implement a motor fuel 2
+quality testing program. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 1327.70 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 1327.70. (A) As used in this section: 6
+(1) "Biodiesel" and "blended biodiesel" have the same 7
+meanings as in section 125.831 of the Revised Code. 8
+"Conventional fuel" means gasoline and diesel fuel. 9
+"Diesel fuel" has the same meaning as in section 5735.01 10
+of the Revised Code. 11
+(2) "Ethanol extended fuel" means a mixture of gasoline 12
+and ethanol. 13
+"Fuel inspector" means a county auditor or any person who 14
+is designated by the county auditor to perform motor fuel 15
+quality testing under this section. 16
+
+S. B. No. 80 Page 2
+As Introduced
+"Motor fuel" means gasoline or diesel any of the following 17
+types of fuel that is sold by a retailer retail dealer: 18
+(1) Conventional fuel; 19
+(2) Biodiesel or blended biodiesel fuel; 20
+(3) Ethanol extended fuel. 21
+"Retail dealer" has the same meaning as in section 5735.01 22
+of the Revised Code. 23
+"Retail service station" has the same meaning as in 24
+section 5735.01 of the Revised Code. 25
+(B) The director of agriculture may adopt rules in 26
+accordance with Chapter 119. of the Revised Code establishing a 27
+motor fuel quality testing program that is uniform throughout 28
+the state. 29
+(C)(1) Unless a motor fuel quality testing program is 30
+established in rules under division (B) of this section, is 31
+funded, and is implemented by the department of agriculture, a 32
+county auditor may implement a motor fuel quality testing 33
+program in the auditor's county whereby a fuel inspector may 34
+test motor fuel quality for octane level, sediment, and water in 35
+the fuel. No fuel inspector shall charge any inspection or 36
+registration fees to perform motor fuel quality testing. 37
+(2) Except as provided in this division, a county auditor 38
+who implements a motor fuel quality testing program under this 39
+section shall acquire testing equipment or ensure that testing 40
+equipment is available for the county's program. The county 41
+auditor shall ensure that the testing equipment meets the most 42
+recent standards established by the American society for testing 43
+and materials (ASTM) international. A county auditor may 44
+
+S. B. No. 80 Page 3
+As Introduced
+contract with another county to use that county's testing 45
+equipment so long as the contract provides that the testing is 46
+performed by a fuel inspector from the county that owns the 47
+testing equipment. A county auditor shall not allow the county's 48
+testing equipment to be used in any other county for fuel 49
+quality testing purposes unless a fuel inspector for the county 50
+that owns the equipment is conducting the testing. 51
+(D) If a county auditor implements a fuel quality testing 52
+program under this section, a retail dealer in the applicable 53
+county shall do all of the following when requested by a fuel 54
+inspector: 55
+(1) Allow the fuel inspector to test the octane level and 56
+sediment from the retail dealer's motor fuel pumps; 57
+(2) Allow the fuel inspector to test the water and 58
+sediment in the retail dealer's motor fuel storage tanks; 59
+(3) Allow the fuel inspector to pump a sample of motor 60
+fuel, free of charge and in containers provided by the fuel 61
+inspector, in an amount required by the fuel inspector for 62
+testing. 63
+(E) A fuel inspector shall do all of the following when 64
+performing motor fuel quality testing: 65
+(1) Use testing equipment that meets the most recent 66
+standards established by the American society for testing and 67
+materials (ASTM) international; 68
+(2) Adhere to any standard or guideline set forth by the 69
+director of agriculture, in accordance with division (F)(3) of 70
+this section, relating to petroleum product quality and sampling 71
+and testing methods that are consistent with the ASTM; 72
+
+S. B. No. 80 Page 4
+As Introduced
+(3) Except as otherwise provided in division (E)(2) of 73
+this section, adhere to the following motor fuel quality testing 74
+compliance standards: 75
+(a) Fuel storage tanks shall not exceed one-quarter inch 76
+of water for ethanol extended fuel and shall not exceed two 77
+inches of water for conventional fuel. 78
+(b) Gasoline and ethanol extended fuel octane levels 79
+tested at the pump shall be within one octane point of the 80
+octane level listed on the pump. 81
+(c) Gasoline and ethanol extended fuel tested at the pump, 82
+per ASTM requirements, shall be visually free of undissolved 83
+water, sediment, and suspended matter and shall be clear and 84
+bright at either an ambient temperature or seventy degrees 85
+Fahrenheit, whichever is higher. 86
+(d) Diesel fuel tested at the pump shall meet the 87
+standards defined by the ASTM. 88
+(F)(1) For a violation of a motor fuel quality standard 89
+detected at a retail service station, a fuel inspector shall 90
+issue to the applicable retail dealer an order to stop selling 91
+fuel until the fuel is in compliance with this section as 92
+determined by the fuel inspector. 93
+(2) A fuel inspector, when issuing an order to stop 94
+selling fuel under division (F)(1) of this section, may impose a 95
+civil penalty on the retail dealer in accordance with rules 96
+adopted by the director of agriculture under division (F)(3) of 97
+this section. If the director does not adopt such rules, the 98
+county auditor shall not adopt civil penalties for that county. 99
+All civil penalties collected under division (F)(2) of this 100
+section shall be deposited into the applicable county general 101
+
+S. B. No. 80 Page 5
+As Introduced
+fund. 102
+(3) For purposes of a county auditor-implemented motor 103
+fuel quality testing program, the director of agriculture may 104
+adopt rules in accordance with Chapter 119. of the Revised Code 105
+establishing civil penalties for violations of motor fuel 106
+quality standards. The rules shall include procedures by which a 107
+retail dealer may appeal a civil penalty. 108
+(G) A fuel inspector shall transmit data collected from 109
+motor fuel quality testing to the director of agriculture. The 110
+director shall compile such data, including dates, locations, 111
+and results received from fuel inspectors, and make the data 112
+accessible to the public via the department of agriculture's web 113
+site. 114
+(H) Any county that lawfully implemented a motor fuel 115
+quality testing program prior to the effective date of this 116
+section is exempt from divisions (C) to (F) of this section. 117
+Such a county may continue to implement the motor fuel quality 118
+testing program as that program existed prior to the effective 119
+date of this section. 120
+(I) Whenever the department of agriculture is notified of 121
+a United States environmental protection agency waiver of 122
+standards that applies to federal fuel standards, the department 123
+shall notify every county auditor's office. Any auditor 124
+participating in a fuel quality testing program under this 125
+section, or a fuel quality testing program implemented prior to 126
+the effective date of this section, shall only test for water 127
+and sediment during the waiver period. 128
+Section 2. That existing section 1327.70 of the Revised 129
+Code is hereby repealed. 130
+
+[DELETED: nS BIL  . :: .. 1.1 1.1 1 1.1]
+[DELETED: 0  1:1;1;2.2 2.2 2.2 2 2 2.2 3 3 3 3 3 3 3.3 3 3 4 4 4 4 4]
+[DELETED: 0  4 4 4 4 4 5.5 5 5 5:5 5;5 5;5 6 6 6.6 6:6 6 6;6 6 7 7;7]
+[DELETED: 0  7 7:7 7 7.7 7 8.8 8 8 8 8.8 8.8 8 9 9 9.9 9 9 9 9 9 9 1 1]
+[DELETED: 0 .1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1.1]

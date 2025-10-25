@@ -1,0 +1,234 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 388
+2025-2026
+Representatives Williams, Jarrells
+To enact section 124.826 of the Revised Code 1
+regarding reimbursements to state employees and 2
+elected state officials for GLP-1 drug costs. 3
+
+Section 2:
+Section 1. That section 124.826 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 124.826. (A) As used in this section : 6
+(1) "GLP-1 drug" means a drug included within the class of 7
+drugs known as glucagon-like peptide-1 receptor agonists. 8
+(2) "Pharmacy" has the same meaning as in section 4729.01 9
+of the Revised Code. 10
+(3) "Physician" means an individual authorized under 11
+Chapter 4731. of the Revised Code to practice medicine and 12
+surgery or osteopathic medicine and surgery. 13
+(B) Notwithstanding section 3901.71 of the Revised Code or 14
+any other provision of the Revised Code to the contrary, and 15
+subject to divisions (C), (D), and (E) of this section, 16
+beginning on the effective date of this section, the health care 17
+benefits provided under section 124.82 of the Revised Code shall 18
+include reimbursements to cover out-of-pocket costs that a state 19
+H. B. No. 388 Page 2
+As Introduced
+employee or elected state official pays to purchase a supply of 20
+a GLP-1 drug that meets all of the following conditions: 21
+(1) The drug is approved by the federal food and drug 22
+administration for chronic weight management. 23
+(2) The drug is purchased from a manufacturer's direct-to- 24
+consumer program or through a pharmacy or other entity 25
+participating in a manufacturer's direct-to-consumer program. 26
+(3) The drug is not a compounded version of a GLP-1 drug. 27
+(C) Except as provided in division (F) of this section, no 28
+employee or official may apply to receive a reimbursement under 29
+this section for a period exceeding twenty-four consecutive 30
+months. The twenty-four-month period during which an employee or 31
+official may apply begins in the month in which the employee or 32
+official first applies for a reimbursement under this section. 33
+No reimbursement shall exceed either of the amounts described 34
+under division (E) of this section. 35
+(D) For each month in which an employee or official pays 36
+out of pocket to purchase a supply of a GLP-1 drug described 37
+under division (B) of this section, the employee or official may 38
+apply to the director of administrative services for a 39
+reimbursement. The employee or official shall include in the 40
+reimbursement application both of the following: 41
+(1) Proof that, at the time treatment is initiated, the 42
+employee's or official's body mass index is at least thirty, as 43
+determined by a physician; 44
+(2) The amount that the employee or official paid out of 45
+pocket to purchase a supply of a GLP-1 drug described under 46
+division (B) of this section. 47
+H. B. No. 388 Page 3
+As Introduced
+(E)(1) An employee or official whom the director 48
+determines is eligible for a reimbursement under this section 49
+shall be reimbursed in either of the following amounts: 50
+(a) For any month of the first year during which the 51
+employee or official is eligible for reimbursement, not more 52
+than five hundred dollars; 53
+(b) For any month of the second year during which the 54
+employee or official is eligible for reimbursement, an amount 55
+equal to one-half of the cost the employee or official paid out 56
+of pocket to purchase a supply of a GLP-1 drug described under 57
+division (B) of this section, not to exceed two hundred fifty 58
+dollars. 59
+(2) If the director determines that an employee or 60
+official is not eligible for a reimbursement in any month, the 61
+employee or official shall not receive a reimbursement for that 62
+month. An employee or official whom the director determines is 63
+not eligible for a reimbursement in any month during the twenty- 64
+four-month period described under division (C) or (F)(2) of this 65
+
+Section 3:
+section is not precluded from applying for a reimbursement in 66
+any subsequent month during that period. 67
+(F)(1) Not earlier than six months after the previous 68
+twenty-four-month period during which an employee or official 69
+applies for reimbursements under this section elapses, the 70
+employee or official may apply to the director to seek 71
+reimbursements under this section for a subsequent period not 72
+exceeding twenty-four consecutive months. The employee or 73
+official shall include in the application proof that, at the 74
+time of application, the employee's or official's weight has 75
+increased by at least twenty per cent of the total amount of 76
+weight the employee or official lost during the previous twenty- 77
+H. B. No. 388 Page 4
+As Introduced
+four-month period, measured as of the last day of that period. 78
+(2) If the director determines the employee's or 79
+official's weight has increased by the amount specified under 80
+division (F)(1) of this section, the director shall approve the 81
+employee's or official's application. An employee or official 82
+whose application is approved may apply for reimbursements under 83
+this section for a subsequent twenty-four-month period. 84
+(3) If the director determines the employee's or 85
+official's weight has not increased by the amount specified 86
+under division (F)(1) of this section, the director shall not 87
+approve the employee's or official's application. 88
+(G) The director shall adopt rules in accordance with 89
+Chapter 119. of the Revised Code to implement this section. 90
+[DELETED: nH  . :: . .1 1 1.1 1 1 1 1 1 1]
+[DELETED: 8  2:2 2.2-2 2.2 2 2 2 3 3 3 3 3 3 3 3 3 3 4:4 4 4;4 4 4.4]
+[DELETED: 8  4 4:5 5 5;5 5 5 5 5 5.5 6 6 6 6-6 6 6 6 6 6 7 7 7 7 7 7 7-7]
+[DELETED: 8  7 7 8 8 8 8 8 8 8 8 8 8 9]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 388
+2025-2026
+Representatives Williams, Jarrells
+To enact section 124.826 of the Revised Code 1
+regarding reimbursements to state employees and 2
+elected state officials for GLP-1 drug costs. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 124.826 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 124.826. (A) As used in this section : 6
+(1) "GLP-1 drug" means a drug included within the class of 7
+drugs known as glucagon-like peptide-1 receptor agonists. 8
+(2) "Pharmacy" has the same meaning as in section 4729.01 9
+of the Revised Code. 10
+(3) "Physician" means an individual authorized under 11
+Chapter 4731. of the Revised Code to practice medicine and 12
+surgery or osteopathic medicine and surgery. 13
+(B) Notwithstanding section 3901.71 of the Revised Code or 14
+any other provision of the Revised Code to the contrary, and 15
+subject to divisions (C), (D), and (E) of this section, 16
+beginning on the effective date of this section, the health care 17
+benefits provided under section 124.82 of the Revised Code shall 18
+include reimbursements to cover out-of-pocket costs that a state 19
+
+H. B. No. 388 Page 2
+As Introduced
+employee or elected state official pays to purchase a supply of 20
+a GLP-1 drug that meets all of the following conditions: 21
+(1) The drug is approved by the federal food and drug 22
+administration for chronic weight management. 23
+(2) The drug is purchased from a manufacturer's direct-to- 24
+consumer program or through a pharmacy or other entity 25
+participating in a manufacturer's direct-to-consumer program. 26
+(3) The drug is not a compounded version of a GLP-1 drug. 27
+(C) Except as provided in division (F) of this section, no 28
+employee or official may apply to receive a reimbursement under 29
+this section for a period exceeding twenty-four consecutive 30
+months. The twenty-four-month period during which an employee or 31
+official may apply begins in the month in which the employee or 32
+official first applies for a reimbursement under this section. 33
+No reimbursement shall exceed either of the amounts described 34
+under division (E) of this section. 35
+(D) For each month in which an employee or official pays 36
+out of pocket to purchase a supply of a GLP-1 drug described 37
+under division (B) of this section, the employee or official may 38
+apply to the director of administrative services for a 39
+reimbursement. The employee or official shall include in the 40
+reimbursement application both of the following: 41
+(1) Proof that, at the time treatment is initiated, the 42
+employee's or official's body mass index is at least thirty, as 43
+determined by a physician; 44
+(2) The amount that the employee or official paid out of 45
+pocket to purchase a supply of a GLP-1 drug described under 46
+division (B) of this section. 47
+
+H. B. No. 388 Page 3
+As Introduced
+(E)(1) An employee or official whom the director 48
+determines is eligible for a reimbursement under this section 49
+shall be reimbursed in either of the following amounts: 50
+(a) For any month of the first year during which the 51
+employee or official is eligible for reimbursement, not more 52
+than five hundred dollars; 53
+(b) For any month of the second year during which the 54
+employee or official is eligible for reimbursement, an amount 55
+equal to one-half of the cost the employee or official paid out 56
+of pocket to purchase a supply of a GLP-1 drug described under 57
+division (B) of this section, not to exceed two hundred fifty 58
+dollars. 59
+(2) If the director determines that an employee or 60
+official is not eligible for a reimbursement in any month, the 61
+employee or official shall not receive a reimbursement for that 62
+month. An employee or official whom the director determines is 63
+not eligible for a reimbursement in any month during the twenty- 64
+four-month period described under division (C) or (F)(2) of this 65
+section is not precluded from applying for a reimbursement in 66
+any subsequent month during that period. 67
+(F)(1) Not earlier than six months after the previous 68
+twenty-four-month period during which an employee or official 69
+applies for reimbursements under this section elapses, the 70
+employee or official may apply to the director to seek 71
+reimbursements under this section for a subsequent period not 72
+exceeding twenty-four consecutive months. The employee or 73
+official shall include in the application proof that, at the 74
+time of application, the employee's or official's weight has 75
+increased by at least twenty per cent of the total amount of 76
+weight the employee or official lost during the previous twenty- 77
+
+H. B. No. 388 Page 4
+As Introduced
+four-month period, measured as of the last day of that period. 78
+(2) If the director determines the employee's or 79
+official's weight has increased by the amount specified under 80
+division (F)(1) of this section, the director shall approve the 81
+employee's or official's application. An employee or official 82
+whose application is approved may apply for reimbursements under 83
+this section for a subsequent twenty-four-month period. 84
+(3) If the director determines the employee's or 85
+official's weight has not increased by the amount specified 86
+under division (F)(1) of this section, the director shall not 87
+approve the employee's or official's application. 88
+(G) The director shall adopt rules in accordance with 89
+Chapter 119. of the Revised Code to implement this section. 90
+
+[DELETED: nH  . :: . .1 1 1.1 1 1 1 1 1 1]
+[DELETED: 8  2:2 2.2-2 2.2 2 2 2 3 3 3 3 3 3 3 3 3 3 4:4 4 4;4 4 4.4]
+[DELETED: 8  4 4:5 5 5;5 5 5 5 5 5.5 6 6 6 6-6 6 6 6 6 6 7 7 7 7 7 7 7-7]
+[DELETED: 8  7 7 8 8 8 8 8 8 8 8 8 8 9]

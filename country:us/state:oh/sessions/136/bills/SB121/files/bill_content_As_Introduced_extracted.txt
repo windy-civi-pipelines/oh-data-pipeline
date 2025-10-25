@@ -1,0 +1,47 @@
+Title: Cosponsors: Senators Craig, DeMora, Hicks-Hudson, Ingram, Romanchuk, Smith,
+Official Title: Cosponsors: Senators Craig, DeMora, Hicks-Hudson, Ingram, Romanchuk, Smith,
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 121
+2025-2026
+Senator Blackshear
+Weinstein
+To enact section 5.2322 of the Revised Code to 1
+designate April as "Counseling Awareness Month." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2322 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.2322. The month of April is designated as 5
+"Counseling Awareness Month." 6
+[DELETED: nS " : "]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 121
+2025-2026
+Senator Blackshear
+Cosponsors: Senators Craig, DeMora, Hicks-Hudson, Ingram, Romanchuk, Smith,
+Weinstein
+To enact section 5.2322 of the Revised Code to 1
+designate April as "Counseling Awareness Month." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2322 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.2322. The month of April is designated as 5
+"Counseling Awareness Month." 6
+
+[DELETED: nS " : "]

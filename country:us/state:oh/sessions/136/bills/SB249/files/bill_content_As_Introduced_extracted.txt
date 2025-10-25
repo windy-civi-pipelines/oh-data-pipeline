@@ -1,0 +1,232 @@
+Title: Cosponsors: Senators Brenner, O'Brien, Reineke, Roegner, Timken
+Official Title: Cosponsors: Senators Brenner, O'Brien, Reineke, Roegner, Timken
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 249
+2025-2026
+Senators Lang, Johnson
+To enact section 4729.44 of the Revised Code to 1
+authorize the dispensing of ivermectin without a 2
+prescription. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 4729.44 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 4729.44. (A) As used in this section, "prescriber" 6
+means any of the following: 7
+(1) A certified nurse-midwife, certified nurse 8
+practitioner, or clinical nurse specialist who holds a current, 9
+valid license to practice as an advanced practice registered 10
+nurse issued under Chapter 4723. of the Revised Code; 11
+(2) A physician authorized under Chapter 4731. of the 12
+Revised Code to practice medicine and surgery or osteopathic 13
+medicine and surgery; 14
+(3) A physician assistant who holds a license to practice 15
+as a physician assistant issued under Chapter 4730. of the 16
+Revised Code. 17
+(B) A pharmacist, or any pharmacy intern supervised by the 18
+S. B. No. 249 Page 2
+As Introduced
+pharmacist, may dispense ivermectin without a prescription to an 19
+individual who is eighteen years of age or older, but only if 20
+the drug is dispensed as follows: 21
+(1) Under a protocol that satisfies the requirements of 22
+division (C)(1) of this section; 23
+(2) In accordance with rules adopted under this section. 24
+(C)(1) All of the following apply with respect to a 25
+protocol required by this section: 26
+(a) The protocol shall be established by a prescriber. 27
+(b) The protocol shall include provisions for implementing 28
+all of the following requirements: 29
+(i) Providing the individual with a screening risk 30
+assessment tool; 31
+(ii) Providing the individual with a standardized fact 32
+sheet that describes ivermectin's indications and 33
+contraindications, the appropriate method for using the drug, 34
+the importance of following up with a prescriber, and any other 35
+information required by the board in rule; 36
+(iii) Either dispensing the ivermectin or referring the 37
+individual to a pharmacy that may dispense the drug as soon as 38
+practical. 39
+(c) The protocol shall satisfy requirements established in 40
+rules adopted by the state board of pharmacy under this section. 41
+(2) In addition to the requirements of division (C)(1) of 42
+this section, a protocol may include guidelines related to the 43
+dosage at which ivermectin should be dispensed and the duration 44
+of treatment with the drug. 45
+S. B. No. 249 Page 3
+As Introduced
+(D)(1) When dispensing ivermectin under this section, the 46
+pharmacist or pharmacy intern may charge an administrative fee 47
+for services provided under this section, which is in addition 48
+to any costs associated with the drug's dispensing that may be 49
+paid by the individual or submitted to the individual's health 50
+benefit plan for reimbursement. 51
+(2) As soon as practicable after dispensing ivermectin to 52
+an individual under this section, the pharmacist or pharmacy 53
+intern shall inform, if known, the individual's primary care 54
+provider of the drug's dispensing. 55
+(E) This section does not affect the authority of a 56
+pharmacist or pharmacy intern to fill or refill a prescription 57
+for ivermectin. 58
+(F) A prescriber who establishes a protocol that meets the 59
+requirements of this section may authorize one or more 60
+pharmacists, and any of the pharmacy interns supervised by the 61
+one or more pharmacists, to use the protocol for the purpose of 62
+dispensing ivermectin without a prescription under this section. 63
+(G)(1) Both of the following apply to a pharmacist or 64
+pharmacy intern who dispenses ivermectin without a prescription 65
+under this section: 66
+(a) A pharmacist or pharmacy intern acting in good faith 67
+is not subject to criminal prosecution or professional 68
+disciplinary action for any action or omission during the drug's 69
+dispensing. 70
+(b) A pharmacist or pharmacy intern is not liable for 71
+damages in a civil action, except in cases of gross negligence 72
+or willful misconduct. 73
+(2) Both of the following apply to a prescriber who 74
+S. B. No. 249 Page 4
+As Introduced
+authorizes a pharmacist or pharmacy intern to dispense 75
+ivermectin without a prescription under this section: 76
+(a) A prescriber acting in good faith is not subject to 77
+criminal prosecution or professional disciplinary action for any 78
+act or omission during the drug's dispensing. 79
+(b) A prescriber is not liable for damages in a civil 80
+action, except in cases of gross negligence or willful 81
+misconduct. 82
+(H) In consultation with the state medical board and board 83
+of nursing, the board of pharmacy shall adopt rules to implement 84
+this section. The rules shall specify minimum requirements for 85
+protocols established by prescribers under which pharmacists or 86
+pharmacy interns may dispense ivermectin without a prescription. 87
+The rules shall be adopted in accordance with Chapter 119. of 88
+the Revised Code. 89
+[DELETED: nS  . : :   1;1 1 1;1 1 1.1 1]
+[DELETED: 9  1 2:2 2;2.2 2:2.2 2:2 3;3 3 3 3 3;3 3 3.3 4.4 4 4 4.4]
+[DELETED: 9  4 4 4 4 5.5 5 5 5.5 5 5.5 5 6 6 6.6 6 6:6 6 6 6.7 7 7.7 7]
+[DELETED: 9  7:7 7 7.7 8 8.8 8 8 8 8 8 8.8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 249
+2025-2026
+Senators Lang, Johnson
+Cosponsors: Senators Brenner, O'Brien, Reineke, Roegner, Timken
+To enact section 4729.44 of the Revised Code to 1
+authorize the dispensing of ivermectin without a 2
+prescription. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 4729.44 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 4729.44. (A) As used in this section, "prescriber" 6
+means any of the following: 7
+(1) A certified nurse-midwife, certified nurse 8
+practitioner, or clinical nurse specialist who holds a current, 9
+valid license to practice as an advanced practice registered 10
+nurse issued under Chapter 4723. of the Revised Code; 11
+(2) A physician authorized under Chapter 4731. of the 12
+Revised Code to practice medicine and surgery or osteopathic 13
+medicine and surgery; 14
+(3) A physician assistant who holds a license to practice 15
+as a physician assistant issued under Chapter 4730. of the 16
+Revised Code. 17
+(B) A pharmacist, or any pharmacy intern supervised by the 18
+
+S. B. No. 249 Page 2
+As Introduced
+pharmacist, may dispense ivermectin without a prescription to an 19
+individual who is eighteen years of age or older, but only if 20
+the drug is dispensed as follows: 21
+(1) Under a protocol that satisfies the requirements of 22
+division (C)(1) of this section; 23
+(2) In accordance with rules adopted under this section. 24
+(C)(1) All of the following apply with respect to a 25
+protocol required by this section: 26
+(a) The protocol shall be established by a prescriber. 27
+(b) The protocol shall include provisions for implementing 28
+all of the following requirements: 29
+(i) Providing the individual with a screening risk 30
+assessment tool; 31
+(ii) Providing the individual with a standardized fact 32
+sheet that describes ivermectin's indications and 33
+contraindications, the appropriate method for using the drug, 34
+the importance of following up with a prescriber, and any other 35
+information required by the board in rule; 36
+(iii) Either dispensing the ivermectin or referring the 37
+individual to a pharmacy that may dispense the drug as soon as 38
+practical. 39
+(c) The protocol shall satisfy requirements established in 40
+rules adopted by the state board of pharmacy under this section. 41
+(2) In addition to the requirements of division (C)(1) of 42
+this section, a protocol may include guidelines related to the 43
+dosage at which ivermectin should be dispensed and the duration 44
+of treatment with the drug. 45
+
+S. B. No. 249 Page 3
+As Introduced
+(D)(1) When dispensing ivermectin under this section, the 46
+pharmacist or pharmacy intern may charge an administrative fee 47
+for services provided under this section, which is in addition 48
+to any costs associated with the drug's dispensing that may be 49
+paid by the individual or submitted to the individual's health 50
+benefit plan for reimbursement. 51
+(2) As soon as practicable after dispensing ivermectin to 52
+an individual under this section, the pharmacist or pharmacy 53
+intern shall inform, if known, the individual's primary care 54
+provider of the drug's dispensing. 55
+(E) This section does not affect the authority of a 56
+pharmacist or pharmacy intern to fill or refill a prescription 57
+for ivermectin. 58
+(F) A prescriber who establishes a protocol that meets the 59
+requirements of this section may authorize one or more 60
+pharmacists, and any of the pharmacy interns supervised by the 61
+one or more pharmacists, to use the protocol for the purpose of 62
+dispensing ivermectin without a prescription under this section. 63
+(G)(1) Both of the following apply to a pharmacist or 64
+pharmacy intern who dispenses ivermectin without a prescription 65
+under this section: 66
+(a) A pharmacist or pharmacy intern acting in good faith 67
+is not subject to criminal prosecution or professional 68
+disciplinary action for any action or omission during the drug's 69
+dispensing. 70
+(b) A pharmacist or pharmacy intern is not liable for 71
+damages in a civil action, except in cases of gross negligence 72
+or willful misconduct. 73
+(2) Both of the following apply to a prescriber who 74
+
+S. B. No. 249 Page 4
+As Introduced
+authorizes a pharmacist or pharmacy intern to dispense 75
+ivermectin without a prescription under this section: 76
+(a) A prescriber acting in good faith is not subject to 77
+criminal prosecution or professional disciplinary action for any 78
+act or omission during the drug's dispensing. 79
+(b) A prescriber is not liable for damages in a civil 80
+action, except in cases of gross negligence or willful 81
+misconduct. 82
+(H) In consultation with the state medical board and board 83
+of nursing, the board of pharmacy shall adopt rules to implement 84
+this section. The rules shall specify minimum requirements for 85
+protocols established by prescribers under which pharmacists or 86
+pharmacy interns may dispense ivermectin without a prescription. 87
+The rules shall be adopted in accordance with Chapter 119. of 88
+the Revised Code. 89
+
+[DELETED: nS  . : :   1;1 1 1;1 1 1.1 1]
+[DELETED: 9  1 2:2 2;2.2 2:2.2 2:2 3;3 3 3 3 3;3 3 3.3 4.4 4 4 4.4]
+[DELETED: 9  4 4 4 4 5.5 5 5 5.5 5 5.5 5 6 6 6.6 6 6:6 6 6 6.7 7 7.7 7]
+[DELETED: 9  7:7 7 7.7 8 8.8 8 8 8 8 8 8.8]

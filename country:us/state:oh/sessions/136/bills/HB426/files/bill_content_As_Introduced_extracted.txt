@@ -1,0 +1,760 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 10
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 426
+2025-2026
+Representatives Williams, Demetriou
+To amend section 169.01 and to enact sections 1
+
+Section 2:
+169.20, 169.21, 169.22, 169.23, 169.24, 169.25, 2
+and 169.26 of the Revised Code to provide for 3
+the safekeeping and management of unclaimed 4
+digital assets. 5
+
+Section 3:
+Section 1. That section 169.01 be amended and sections 6
+
+Section 4:
+169.20, 169.21, 169.22, 169.23, 169.24, 169.25, and 169.26 of 7
+the Revised Code be enacted to read as follows: 8
+Sec. 169.01. As used in this chapter, unless the context 9
+otherwise requires: 10
+(A) "Financial organization" means any bank, trust 11
+company, savings bank, safe deposit company, mutual savings bank 12
+without mutual stock, savings and loan association, credit 13
+union, or investment company. 14
+(B)(1) "Unclaimed funds" means any moneys, rights to 15
+moneys, or intangible property, described in section 169.02 of 16
+the Revised Code, when, as shown by the records of the holder, 17
+the owner has not, within the times provided in section 169.02 18
+of the Revised Code, done any of the following: 19
+(a) Increased, decreased, or adjusted the amount of such 20
+H. B. No. 426 Page 2
+As Introduced
+funds; 21
+(b) Assigned, paid premiums, or encumbered such funds; 22
+(c) Presented an appropriate record for the crediting of 23
+such funds or received payment of such funds by check, draft, or 24
+otherwise; 25
+(d) Corresponded with the holder concerning such funds; 26
+(e) Otherwise indicated an interest in or knowledge of 27
+such funds; 28
+(f) Transacted business with the holder. 29
+(2) "Unclaimed funds" does not include any of the 30
+following: 31
+(a) Money received or collected under section 9.39 of the 32
+Revised Code; 33
+(b) Any payment or credit due to a business association 34
+from a business association representing sums payable to 35
+suppliers, or payment for services rendered, in the course of 36
+business, including, but not limited to, checks or memoranda, 37
+overpayments, unidentified remittances, nonrefunded overcharges, 38
+discounts, refunds, and rebates; 39
+(c) Any payment or credit received by a business 40
+association from a business association for tangible goods sold, 41
+or services performed, in the course of business, including, but 42
+not limited to, checks or memoranda, overpayments, unidentified 43
+remittances, nonrefunded overcharges, discounts, refunds, and 44
+rebates; 45
+(d) Either of the following: 46
+(i) Any credit or obligation due a retail customer that is 47
+H. B. No. 426 Page 3
+As Introduced
+represented by a gift certificate, gift card, merchandise 48
+credit, or merchandise credit card, redeemable only for goods or 49
+services, including gift cards issued by financial organizations 50
+or business associations; 51
+(ii) Any electronic payment device that is issued by a 52
+financial organization or a business association that has no 53
+expiration date and meets all of the following conditions: 54
+(I) It is purchased or loaded on a prepaid basis for the 55
+future purchase or delivery of goods or services. 56
+(II) It is redeemable upon presentation to a single 57
+merchant or service provider or an affiliated group of merchants 58
+or service providers. 59
+(III) It is not redeemable for cash in whole or in part. 60
+(e) Any open-loop prepaid card that is issued by a 61
+financial organization or a business association for which the 62
+underlying funds do not expire. For purposes of division (B)(2) 63
+(e) of this section, "open-loop prepaid card" means an 64
+electronic payment device that meets all of the following 65
+conditions: 66
+(i) It is purchased or loaded on a prepaid basis for the 67
+future purchase or delivery of any goods or services. 68
+(ii) It can be used to purchase goods and services at 69
+multiple unaffiliated merchants or service providers. 70
+(iii) It is not redeemable for cash in whole or in part. 71
+(f) Any rewards card. For purposes of division (B)(2)(f) 72
+of this section, "rewards card" includes any loyalty, incentive, 73
+or promotional type program that is issued by a financial 74
+organization or a business association whether represented by a 75
+H. B. No. 426 Page 4
+As Introduced
+card or electronic record, which program is established for the 76
+purposes of providing cardholder awards, rewards, rebates, or 77
+other amounts to reward the cardholder for the cardholder's 78
+relationship with the entity sponsoring the rewards card, 79
+provided that no direct money was paid by the cardholder for the 80
+rewards card. "Rewards card" includes both of the following: 81
+(i) Cards or electronic records consisting of points, 82
+cash, or other tokens of value given to a cardholder as a reward 83
+or incentive for engaging in a transaction or a series of 84
+transactions; 85
+(ii) The unpaid portion of a rewards card when the rewards 86
+card is partially loaded by the cardholder with the remaining 87
+portion funded as a reward or incentive. 88
+(g) "Digital assets" as defined in section 169.20 of the 89
+Revised Code. 90
+A minimal annual fee charged to the cardholder for joining 91
+any such loyalty, incentive, or promotional type program shall 92
+not be considered direct money paid by the cardholder for the 93
+rewards card. For purposes of division (B)(2)(f) of this 94
+
+Section 5:
+section, "cardholder" means the holder of a rewards card, 95
+regardless of whether the rewards card is represented by a card 96
+or by an electronic record. 97
+For purposes of division (B)(2) of this section, "business 98
+association" means any corporation, joint venture, business 99
+trust, limited liability company, partnership, association, or 100
+other business entity composed of one or more individuals, 101
+whether or not the entity is for profit. 102
+(C) "Owner" means any person, or the person's legal 103
+representative, entitled to receive or having a legal or 104
+H. B. No. 426 Page 5
+As Introduced
+equitable interest in or claim against moneys, rights to moneys, 105
+or other intangible property, subject to this chapter. 106
+(D)(1) "Holder" means any person that has possession, 107
+custody, or control of moneys, rights to moneys, or other 108
+intangible property, or that is indebted to another, if any of 109
+the following applies: 110
+(a) Such person resides in this state; 111
+(b) Such person is formed under the laws of this state; 112
+(c) Such person is formed under the laws of the United 113
+States and has an office or principal place of business in this 114
+state; 115
+(d) The records of such person indicate that the last 116
+known address of the owner of such moneys, rights to moneys, or 117
+other intangible property is in this state; 118
+(e) The records of such person do not indicate the last 119
+known address of the owner of the moneys, rights to moneys, or 120
+other intangible property and the entity originating or issuing 121
+the moneys, rights to moneys, or other intangible property in 122
+this state or any political subdivision of this state, or is 123
+incorporated, organized, created, or otherwise located in this 124
+state. Division (D)(1)(e) of this section applies to all moneys, 125
+rights to moneys, or other intangible property that is in the 126
+possession, custody, or control of such person on or after July 127
+22, 1994, whether the moneys, rights to moneys, or other 128
+intangible property becomes unclaimed funds prior to or on or 129
+after that date. 130
+(2) "Holder" does not mean any hospital granted tax-exempt 131
+status under section 501(c)(3) of the Internal Revenue Code or 132
+any hospital owned or operated by the state or by any political 133
+H. B. No. 426 Page 6
+As Introduced
+subdivision. Any entity in order to be exempt from the 134
+definition of "holder" pursuant to this division shall make a 135
+reasonable, good-faith effort to contact the owner of the 136
+unclaimed funds. 137
+(E) "Person" includes a natural person; corporation, 138
+whether for profit or not for profit; copartnership; 139
+unincorporated nonprofit association; public authority; estate; 140
+trust; two or more persons having a joint or common interest; 141
+eleemosynary organization; fraternal or cooperative association; 142
+other legal or community entity; the United States government, 143
+including any district, territory, possession, officer, agency, 144
+department, authority, instrumentality, board, bureau, or court; 145
+or any state or political subdivision thereof, including any 146
+officer, agency, board, bureau, commission, division, 147
+department, authority, court, or instrumentality. 148
+(F) "Mortgage funds" means the housing guarantee 149
+development fund created by division (D) of section 128.11 150
+
+Section 6:
+175.11 of the Revised Code. 151
+(G) "Lawful claims" means any vested right a holder of 152
+unclaimed funds has against the owner of such unclaimed funds. 153
+(H) "Public utility" means any entity defined as such by 154
+division (A) of section 745.01 or by section 4905.02 of the 155
+Revised Code. 156
+(I) "Deposit" means to place money in the custody of a 157
+financial organization for the purpose of establishing an 158
+income-bearing account by purchase or otherwise. 159
+(J) "Income-bearing account" means a time or savings 160
+account, whether or not evidenced by a certificate of deposit, 161
+or an investment account through which investments are made 162
+H. B. No. 426 Page 7
+As Introduced
+solely in obligations of the United States or its agencies or 163
+instrumentalities or guaranteed as to principal and interest by 164
+the United States or its agencies or instrumentalities, debt 165
+securities rated as investment grade by at least two nationally 166
+recognized rating services, debt securities which the director 167
+of commerce has determined to have been issued for the safety 168
+and welfare of the residents of this state, and equity interests 169
+in mutual funds that invest solely in some or all of the above- 170
+listed securities and involve no general liability, without 171
+regard to whether income earned on such accounts, securities, or 172
+interests is paid periodically or at the end of a term. 173
+(K) "Director of commerce" may be read as the "division of 174
+unclaimed funds" or the "superintendent of unclaimed funds." 175
+(L) "Attorney unclaimed funds" means any unclaimed funds, 176
+as defined in division (B)(1) of this section, that are any of 177
+the following: 178
+(1) Funds held in interest on lawyer trust accounts 179
+pursuant to section 4705.09 of the Revised Code; 180
+(2) Funds held in an interest on trust accounts pursuant 181
+to section 3953.231 of the Revised Code; 182
+(3) Residual settlement funds whether for named or unnamed 183
+plaintiffs, received by the division of unclaimed funds, and 184
+held, paid out, or allocated by the division pursuant to or 185
+consistent with the terms and conditions of the court order 186
+authorizing the settlement fund. 187
+Sec. 169.20. As used in sections 169.20 to 169.26 of the 188
+Revised Code: 189
+(A) "Act of ownership interest" includes any of the 190
+following actions by the owner of a digital asset account: 191
+H. B. No. 426 Page 8
+As Introduced
+(1) Conducting a transaction utilizing the digital asset 192
+account, whether by a one-time transaction or a recurring 193
+transaction previously authorized by the owner, including both 194
+of the following: 195
+(a) Buying or selling digital assets; 196
+(b) Depositing into or withdrawing from the account fiat 197
+currency or other property. 198
+(2) Electronically accessing the digital asset account; 199
+(3) Conducting any activity with respect to another 200
+digital asset account or any other property owned by the owner 201
+with the same holder; 202
+(4) Taking any other action that reasonably demonstrates 203
+to the holder that the owner knows that the property exists. 204
+(B) "Digital asset" means virtual currencies, 205
+cryptocurrencies, native electronic assets, including 206
+stablecoins and nonfungible tokens, and other digital-only 207
+assets that confer economic, proprietary, or access rights or 208
+powers. 209
+(C) "Digital asset account" means a customer account, 210
+wallet, or other repository device maintained by an owner with a 211
+holder, that contains one or more types of digital assets. A 212
+digital asset account may also contain fiat currency or other 213
+property, in addition to one or more digital assets. 214
+(D) "Private key" means a unique element of cryptographic 215
+data, used for signing transactions on a blockchain, and is 216
+known to the owner of the element. 217
+(E) "Qualified custodian" means a company that sells 218
+digital assets to customers and offers custody services for 219
+H. B. No. 426 Page 9
+As Introduced
+them, or any federal or state-chartered bank, trust company, or 220
+special purpose depository institution that is authorized to 221
+sell digital assets or offer custody services for them. 222
+Sec. 169.21. (A) Digital assets held within a digital 223
+asset account are presumed abandoned two years after either of 224
+the following: 225
+(1) The date a written or electronic communication from 226
+the digital asset account holder to the owner is returned 227
+undelivered by the United States postal service or by electronic 228
+mail or other electronic messaging method, as applicable; 229
+(2) If the owner does not receive written or electronic 230
+communications from the holder, or if the holder does not have 231
+the means of systematically tracking or monitoring the 232
+nondelivery of such communications, the date of the last 233
+exercise of an act of ownership interest by the owner in the 234
+digital asset account. 235
+(B) A period of abandonment described under division (A) 236
+of this section ceases to run immediately upon the exercise of 237
+an act of ownership interest in the digital asset account or a 238
+written, oral, or electronic communication with the holder as 239
+evidenced by a memorandum or other record on file with the 240
+holder or its agents. 241
+Sec. 169.22. (A) If a digital asset within a digital asse t 242
+account is presumed abandoned under section 169.21 of the 243
+Revised Code and the holder has full control of the necessary 244
+private keys required to transfer the asset, the holder shall 245
+report and deliver the asset in its native form to the qualified 246
+custodian designated by the director of commerce under section 247
+
+Section 7:
+169.24 of the Revised Code within thirty days of reporting. 248
+H. B. No. 426 Page 10
+As Introduced
+(B) The holder shall provide the director of commerce with 249
+proof of delivery upon request. 250
+(C) In the event the holder possesses only a partial 251
+private key to the asset or is otherwise unable to move the 252
+asset to the director's designated qualified custodian, the 253
+holder shall maintain the asset until the additional key or keys 254
+required to transfer the asset become available or the holder is 255
+otherwise able to transfer the asset to the director's 256
+designated qualified custodian. 257
+Sec. 169.23. (A) The director of commerce shall require 258
+the qualified custodian to maintain a presumed abandoned digital 259
+asset in its native form for a minimum period of two years prior 260
+to arranging for the sale of the asset in accordance with 261
+division (B) of this section, in order to enable owners to make 262
+claims to the asset prior to sale. If an owner makes a claim to 263
+the asset still in the custody of the director of commerce in 264
+its native form, the director shall cooperate with the owner to 265
+transfer the property to the owner's selected custodian. 266
+(B)(1) The director of commerce may sell or arrange for 267
+the sale of an asset held under sections 169.21 and 169.22 of 268
+the Revised Code not sooner than two years after the asset is 269
+delivered to the qualified custodian. 270
+(2) Proceeds of the sale of an asset under division (B)(1) 271
+of this section shall be deposited as unclaimed funds into the 272
+unclaimed funds trust fund created under section 169.05 of the 273
+Revised Code. 274
+(C) The director of commerce may not sell an asset for 275
+less than the prevailing market price at the time of sale. If an 276
+asset does not have a prevailing market price or the director of 277
+H. B. No. 426 Page 11
+As Introduced
+commerce does not have a means of determining the prevailing 278
+market price, the director may sell the asset by any 279
+commercially reasonable method. 280
+Sec. 169.24. (A) The director of commerce shall select a 281
+qualified custodian for the management and safekeeping of 282
+presumed abandoned digital assets held under sections 169.21 and 283
+
+Section 8:
+169.22 of the Revised Code not later than one year after the 284
+effective date of this section. 285
+(B) The director shall select a qualified custodian based 286
+on evaluation of all of the following criteria: 287
+(1) Use of secure storage solutions to ensure the 288
+safekeeping of digital assets, including robust cybersecurity 289
+measures to prevent unauthorized access; 290
+(2) The capability to manage private keys associated with 291
+digital assets and ensure the ability to transfer or transact 292
+with the assets when required; 293
+(3) Proven experience in handling digital assets; 294
+(4) Compliance with all applicable federal and state 295
+regulations related to digital asset custody; 296
+(5) Regular reporting mechanisms to the director of 297
+commerce regarding the status and value of the digital assets 298
+under custody; 299
+(6) Processes used to reunite owners with their digital 300
+assets, including maintaining updated contact records and 301
+issuing timely notifications; 302
+(7) Qualifying as a "financial institution" under 31 303
+C.F.R. part 1010; 304
+H. B. No. 426 Page 12
+As Introduced
+(8) Any other factors the director determines relevant. 305
+Sec. 169.25. The qualified custodian selected pursuant to 306
+
+Section 9:
+section 169.24 of the Revised Code shall enter into a formal 307
+agreement with the director of commerce. This agreement shall 308
+specify the custodian's duties, obligations, and compensation, 309
+as well as terms governing termination of the agreement and 310
+auditing rights by the state. 311
+Sec. 169.26. Nothing in sections 169.20 to 169.25 of the 312
+Revised Code shall be construed to apply to any money, rights to 313
+money, or intangible property, described in section 169.02 of 314
+the Revised Code, considered to be unclaimed funds for the 315
+purposes of sections 169.01 to 169.17 of the Revised Code. 316
+
+Section 10:
+Section 2. That existing section 169.01 of the Revised 317
+Code is hereby repealed. 318
+[DELETED: nH    .  : :1 1 1 1.1 1 1 1 1:1 2]
+[DELETED: 6 ;2;2 2 2;2;2 2;2.2 3:3 3;3 3 3 3 3 3;3 4 4 4 4 4;4:4 4]
+[DELETED: 6  4 4 5;5 5 5:5 5.5 5 5.5.6 6 6)6 6 6:6 6.6 6.7.7 7 7 7 7]
+[DELETED: 6  7 7 7 7 8:8 8 8 8;8 8 8.8 8.9 9 9 9 9 9 9.9 9 9 1 1.1 1 1]
+[DELETED: 6  1.1 1 1 1:1;1;1 1 1;1 1 1;1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 6  1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1 1.1 1.1 1 1.1 1 1.1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1-1 1 1.1 1"1 1 1:1 1;1 1 1 1 1 1 1.1 1:1 1:1]
+[DELETED: 6  1 1 1:1;1 1.1 1 2 2;2 2.2 2 2 2 2.2 2 2 2 2.2 2 2.2 2 2]
+[DELETED: 6  2 2.2 2 2:2 2 2 2;2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2.2]
+[DELETED: 6  2.2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2.2 2 2 2.2 2 2 2]
+[DELETED: 6  2 2.2 2 2 2 2.2 2:2 2 2;2 2 2;2;2 2;2 2 2;2 3 3;3 3;3]
+[DELETED: 6 .3 3 3 3 3 3.3 3 3 3 3.3 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 426
+2025-2026
+Representatives Williams, Demetriou
+To amend section 169.01 and to enact sections 1
+169.20, 169.21, 169.22, 169.23, 169.24, 169.25, 2
+and 169.26 of the Revised Code to provide for 3
+the safekeeping and management of unclaimed 4
+digital assets. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 169.01 be amended and sections 6
+169.20, 169.21, 169.22, 169.23, 169.24, 169.25, and 169.26 of 7
+the Revised Code be enacted to read as follows: 8
+Sec. 169.01. As used in this chapter, unless the context 9
+otherwise requires: 10
+(A) "Financial organization" means any bank, trust 11
+company, savings bank, safe deposit company, mutual savings bank 12
+without mutual stock, savings and loan association, credit 13
+union, or investment company. 14
+(B)(1) "Unclaimed funds" means any moneys, rights to 15
+moneys, or intangible property, described in section 169.02 of 16
+the Revised Code, when, as shown by the records of the holder, 17
+the owner has not, within the times provided in section 169.02 18
+of the Revised Code, done any of the following: 19
+(a) Increased, decreased, or adjusted the amount of such 20
+
+H. B. No. 426 Page 2
+As Introduced
+funds; 21
+(b) Assigned, paid premiums, or encumbered such funds; 22
+(c) Presented an appropriate record for the crediting of 23
+such funds or received payment of such funds by check, draft, or 24
+otherwise; 25
+(d) Corresponded with the holder concerning such funds; 26
+(e) Otherwise indicated an interest in or knowledge of 27
+such funds; 28
+(f) Transacted business with the holder. 29
+(2) "Unclaimed funds" does not include any of the 30
+following: 31
+(a) Money received or collected under section 9.39 of the 32
+Revised Code; 33
+(b) Any payment or credit due to a business association 34
+from a business association representing sums payable to 35
+suppliers, or payment for services rendered, in the course of 36
+business, including, but not limited to, checks or memoranda, 37
+overpayments, unidentified remittances, nonrefunded overcharges, 38
+discounts, refunds, and rebates; 39
+(c) Any payment or credit received by a business 40
+association from a business association for tangible goods sold, 41
+or services performed, in the course of business, including, but 42
+not limited to, checks or memoranda, overpayments, unidentified 43
+remittances, nonrefunded overcharges, discounts, refunds, and 44
+rebates; 45
+(d) Either of the following: 46
+(i) Any credit or obligation due a retail customer that is 47
+
+H. B. No. 426 Page 3
+As Introduced
+represented by a gift certificate, gift card, merchandise 48
+credit, or merchandise credit card, redeemable only for goods or 49
+services, including gift cards issued by financial organizations 50
+or business associations; 51
+(ii) Any electronic payment device that is issued by a 52
+financial organization or a business association that has no 53
+expiration date and meets all of the following conditions: 54
+(I) It is purchased or loaded on a prepaid basis for the 55
+future purchase or delivery of goods or services. 56
+(II) It is redeemable upon presentation to a single 57
+merchant or service provider or an affiliated group of merchants 58
+or service providers. 59
+(III) It is not redeemable for cash in whole or in part. 60
+(e) Any open-loop prepaid card that is issued by a 61
+financial organization or a business association for which the 62
+underlying funds do not expire. For purposes of division (B)(2) 63
+(e) of this section, "open-loop prepaid card" means an 64
+electronic payment device that meets all of the following 65
+conditions: 66
+(i) It is purchased or loaded on a prepaid basis for the 67
+future purchase or delivery of any goods or services. 68
+(ii) It can be used to purchase goods and services at 69
+multiple unaffiliated merchants or service providers. 70
+(iii) It is not redeemable for cash in whole or in part. 71
+(f) Any rewards card. For purposes of division (B)(2)(f) 72
+of this section, "rewards card" includes any loyalty, incentive, 73
+or promotional type program that is issued by a financial 74
+organization or a business association whether represented by a 75
+
+H. B. No. 426 Page 4
+As Introduced
+card or electronic record, which program is established for the 76
+purposes of providing cardholder awards, rewards, rebates, or 77
+other amounts to reward the cardholder for the cardholder's 78
+relationship with the entity sponsoring the rewards card, 79
+provided that no direct money was paid by the cardholder for the 80
+rewards card. "Rewards card" includes both of the following: 81
+(i) Cards or electronic records consisting of points, 82
+cash, or other tokens of value given to a cardholder as a reward 83
+or incentive for engaging in a transaction or a series of 84
+transactions; 85
+(ii) The unpaid portion of a rewards card when the rewards 86
+card is partially loaded by the cardholder with the remaining 87
+portion funded as a reward or incentive. 88
+(g) "Digital assets" as defined in section 169.20 of the 89
+Revised Code. 90
+A minimal annual fee charged to the cardholder for joining 91
+any such loyalty, incentive, or promotional type program shall 92
+not be considered direct money paid by the cardholder for the 93
+rewards card. For purposes of division (B)(2)(f) of this 94
+section, "cardholder" means the holder of a rewards card, 95
+regardless of whether the rewards card is represented by a card 96
+or by an electronic record. 97
+For purposes of division (B)(2) of this section, "business 98
+association" means any corporation, joint venture, business 99
+trust, limited liability company, partnership, association, or 100
+other business entity composed of one or more individuals, 101
+whether or not the entity is for profit. 102
+(C) "Owner" means any person, or the person's legal 103
+representative, entitled to receive or having a legal or 104
+
+H. B. No. 426 Page 5
+As Introduced
+equitable interest in or claim against moneys, rights to moneys, 105
+or other intangible property, subject to this chapter. 106
+(D)(1) "Holder" means any person that has possession, 107
+custody, or control of moneys, rights to moneys, or other 108
+intangible property, or that is indebted to another, if any of 109
+the following applies: 110
+(a) Such person resides in this state; 111
+(b) Such person is formed under the laws of this state; 112
+(c) Such person is formed under the laws of the United 113
+States and has an office or principal place of business in this 114
+state; 115
+(d) The records of such person indicate that the last 116
+known address of the owner of such moneys, rights to moneys, or 117
+other intangible property is in this state; 118
+(e) The records of such person do not indicate the last 119
+known address of the owner of the moneys, rights to moneys, or 120
+other intangible property and the entity originating or issuing 121
+the moneys, rights to moneys, or other intangible property in 122
+this state or any political subdivision of this state, or is 123
+incorporated, organized, created, or otherwise located in this 124
+state. Division (D)(1)(e) of this section applies to all moneys, 125
+rights to moneys, or other intangible property that is in the 126
+possession, custody, or control of such person on or after July 127
+22, 1994, whether the moneys, rights to moneys, or other 128
+intangible property becomes unclaimed funds prior to or on or 129
+after that date. 130
+(2) "Holder" does not mean any hospital granted tax-exempt 131
+status under section 501(c)(3) of the Internal Revenue Code or 132
+any hospital owned or operated by the state or by any political 133
+
+H. B. No. 426 Page 6
+As Introduced
+subdivision. Any entity in order to be exempt from the 134
+definition of "holder" pursuant to this division shall make a 135
+reasonable, good-faith effort to contact the owner of the 136
+unclaimed funds. 137
+(E) "Person" includes a natural person; corporation, 138
+whether for profit or not for profit; copartnership; 139
+unincorporated nonprofit association; public authority; estate; 140
+trust; two or more persons having a joint or common interest; 141
+eleemosynary organization; fraternal or cooperative association; 142
+other legal or community entity; the United States government, 143
+including any district, territory, possession, officer, agency, 144
+department, authority, instrumentality, board, bureau, or court; 145
+or any state or political subdivision thereof, including any 146
+officer, agency, board, bureau, commission, division, 147
+department, authority, court, or instrumentality. 148
+(F) "Mortgage funds" means the housing guarantee 149
+development fund created by division (D) of section 128.11 150
+175.11 of the Revised Code. 151
+(G) "Lawful claims" means any vested right a holder of 152
+unclaimed funds has against the owner of such unclaimed funds. 153
+(H) "Public utility" means any entity defined as such by 154
+division (A) of section 745.01 or by section 4905.02 of the 155
+Revised Code. 156
+(I) "Deposit" means to place money in the custody of a 157
+financial organization for the purpose of establishing an 158
+income-bearing account by purchase or otherwise. 159
+(J) "Income-bearing account" means a time or savings 160
+account, whether or not evidenced by a certificate of deposit, 161
+or an investment account through which investments are made 162
+
+H. B. No. 426 Page 7
+As Introduced
+solely in obligations of the United States or its agencies or 163
+instrumentalities or guaranteed as to principal and interest by 164
+the United States or its agencies or instrumentalities, debt 165
+securities rated as investment grade by at least two nationally 166
+recognized rating services, debt securities which the director 167
+of commerce has determined to have been issued for the safety 168
+and welfare of the residents of this state, and equity interests 169
+in mutual funds that invest solely in some or all of the above- 170
+listed securities and involve no general liability, without 171
+regard to whether income earned on such accounts, securities, or 172
+interests is paid periodically or at the end of a term. 173
+(K) "Director of commerce" may be read as the "division of 174
+unclaimed funds" or the "superintendent of unclaimed funds." 175
+(L) "Attorney unclaimed funds" means any unclaimed funds, 176
+as defined in division (B)(1) of this section, that are any of 177
+the following: 178
+(1) Funds held in interest on lawyer trust accounts 179
+pursuant to section 4705.09 of the Revised Code; 180
+(2) Funds held in an interest on trust accounts pursuant 181
+to section 3953.231 of the Revised Code; 182
+(3) Residual settlement funds whether for named or unnamed 183
+plaintiffs, received by the division of unclaimed funds, and 184
+held, paid out, or allocated by the division pursuant to or 185
+consistent with the terms and conditions of the court order 186
+authorizing the settlement fund. 187
+Sec. 169.20. As used in sections 169.20 to 169.26 of the 188
+Revised Code: 189
+(A) "Act of ownership interest" includes any of the 190
+following actions by the owner of a digital asset account: 191
+
+H. B. No. 426 Page 8
+As Introduced
+(1) Conducting a transaction utilizing the digital asset 192
+account, whether by a one-time transaction or a recurring 193
+transaction previously authorized by the owner, including both 194
+of the following: 195
+(a) Buying or selling digital assets; 196
+(b) Depositing into or withdrawing from the account fiat 197
+currency or other property. 198
+(2) Electronically accessing the digital asset account; 199
+(3) Conducting any activity with respect to another 200
+digital asset account or any other property owned by the owner 201
+with the same holder; 202
+(4) Taking any other action that reasonably demonstrates 203
+to the holder that the owner knows that the property exists. 204
+(B) "Digital asset" means virtual currencies, 205
+cryptocurrencies, native electronic assets, including 206
+stablecoins and nonfungible tokens, and other digital-only 207
+assets that confer economic, proprietary, or access rights or 208
+powers. 209
+(C) "Digital asset account" means a customer account, 210
+wallet, or other repository device maintained by an owner with a 211
+holder, that contains one or more types of digital assets. A 212
+digital asset account may also contain fiat currency or other 213
+property, in addition to one or more digital assets. 214
+(D) "Private key" means a unique element of cryptographic 215
+data, used for signing transactions on a blockchain, and is 216
+known to the owner of the element. 217
+(E) "Qualified custodian" means a company that sells 218
+digital assets to customers and offers custody services for 219
+
+H. B. No. 426 Page 9
+As Introduced
+them, or any federal or state-chartered bank, trust company, or 220
+special purpose depository institution that is authorized to 221
+sell digital assets or offer custody services for them. 222
+Sec. 169.21. (A) Digital assets held within a digital 223
+asset account are presumed abandoned two years after either of 224
+the following: 225
+(1) The date a written or electronic communication from 226
+the digital asset account holder to the owner is returned 227
+undelivered by the United States postal service or by electronic 228
+mail or other electronic messaging method, as applicable; 229
+(2) If the owner does not receive written or electronic 230
+communications from the holder, or if the holder does not have 231
+the means of systematically tracking or monitoring the 232
+nondelivery of such communications, the date of the last 233
+exercise of an act of ownership interest by the owner in the 234
+digital asset account. 235
+(B) A period of abandonment described under division (A) 236
+of this section ceases to run immediately upon the exercise of 237
+an act of ownership interest in the digital asset account or a 238
+written, oral, or electronic communication with the holder as 239
+evidenced by a memorandum or other record on file with the 240
+holder or its agents. 241
+Sec. 169.22. (A) If a digital asset within a digital asse t 242
+account is presumed abandoned under section 169.21 of the 243
+Revised Code and the holder has full control of the necessary 244
+private keys required to transfer the asset, the holder shall 245
+report and deliver the asset in its native form to the qualified 246
+custodian designated by the director of commerce under section 247
+169.24 of the Revised Code within thirty days of reporting. 248
+
+H. B. No. 426 Page 10
+As Introduced
+(B) The holder shall provide the director of commerce with 249
+proof of delivery upon request. 250
+(C) In the event the holder possesses only a partial 251
+private key to the asset or is otherwise unable to move the 252
+asset to the director's designated qualified custodian, the 253
+holder shall maintain the asset until the additional key or keys 254
+required to transfer the asset become available or the holder is 255
+otherwise able to transfer the asset to the director's 256
+designated qualified custodian. 257
+Sec. 169.23. (A) The director of commerce shall require 258
+the qualified custodian to maintain a presumed abandoned digital 259
+asset in its native form for a minimum period of two years prior 260
+to arranging for the sale of the asset in accordance with 261
+division (B) of this section, in order to enable owners to make 262
+claims to the asset prior to sale. If an owner makes a claim to 263
+the asset still in the custody of the director of commerce in 264
+its native form, the director shall cooperate with the owner to 265
+transfer the property to the owner's selected custodian. 266
+(B)(1) The director of commerce may sell or arrange for 267
+the sale of an asset held under sections 169.21 and 169.22 of 268
+the Revised Code not sooner than two years after the asset is 269
+delivered to the qualified custodian. 270
+(2) Proceeds of the sale of an asset under division (B)(1) 271
+of this section shall be deposited as unclaimed funds into the 272
+unclaimed funds trust fund created under section 169.05 of the 273
+Revised Code. 274
+(C) The director of commerce may not sell an asset for 275
+less than the prevailing market price at the time of sale. If an 276
+asset does not have a prevailing market price or the director of 277
+
+H. B. No. 426 Page 11
+As Introduced
+commerce does not have a means of determining the prevailing 278
+market price, the director may sell the asset by any 279
+commercially reasonable method. 280
+Sec. 169.24. (A) The director of commerce shall select a 281
+qualified custodian for the management and safekeeping of 282
+presumed abandoned digital assets held under sections 169.21 and 283
+169.22 of the Revised Code not later than one year after the 284
+effective date of this section. 285
+(B) The director shall select a qualified custodian based 286
+on evaluation of all of the following criteria: 287
+(1) Use of secure storage solutions to ensure the 288
+safekeeping of digital assets, including robust cybersecurity 289
+measures to prevent unauthorized access; 290
+(2) The capability to manage private keys associated with 291
+digital assets and ensure the ability to transfer or transact 292
+with the assets when required; 293
+(3) Proven experience in handling digital assets; 294
+(4) Compliance with all applicable federal and state 295
+regulations related to digital asset custody; 296
+(5) Regular reporting mechanisms to the director of 297
+commerce regarding the status and value of the digital assets 298
+under custody; 299
+(6) Processes used to reunite owners with their digital 300
+assets, including maintaining updated contact records and 301
+issuing timely notifications; 302
+(7) Qualifying as a "financial institution" under 31 303
+C.F.R. part 1010; 304
+
+H. B. No. 426 Page 12
+As Introduced
+(8) Any other factors the director determines relevant. 305
+Sec. 169.25. The qualified custodian selected pursuant to 306
+section 169.24 of the Revised Code shall enter into a formal 307
+agreement with the director of commerce. This agreement shall 308
+specify the custodian's duties, obligations, and compensation, 309
+as well as terms governing termination of the agreement and 310
+auditing rights by the state. 311
+Sec. 169.26. Nothing in sections 169.20 to 169.25 of the 312
+Revised Code shall be construed to apply to any money, rights to 313
+money, or intangible property, described in section 169.02 of 314
+the Revised Code, considered to be unclaimed funds for the 315
+purposes of sections 169.01 to 169.17 of the Revised Code. 316
+Section 2. That existing section 169.01 of the Revised 317
+Code is hereby repealed. 318
+
+[DELETED: nH    .  : :1 1 1 1.1 1 1 1 1:1 2]
+[DELETED: 6 ;2;2 2 2;2;2 2;2.2 3:3 3;3 3 3 3 3 3;3 4 4 4 4 4;4:4 4]
+[DELETED: 6  4 4 5;5 5 5:5 5.5 5 5.5.6 6 6)6 6 6:6 6.6 6.7.7 7 7 7 7]
+[DELETED: 6  7 7 7 7 8:8 8 8 8;8 8 8.8 8.9 9 9 9 9 9 9.9 9 9 1 1.1 1 1]
+[DELETED: 6  1.1 1 1 1:1;1;1 1 1;1 1 1;1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1]
+[DELETED: 6  1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1 1.1 1.1 1 1.1 1 1.1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1-1 1 1.1 1"1 1 1:1 1;1 1 1 1 1 1 1.1 1:1 1:1]
+[DELETED: 6  1 1 1:1;1 1.1 1 2 2;2 2.2 2 2 2 2.2 2 2 2 2.2 2 2.2 2 2]
+[DELETED: 6  2 2.2 2 2:2 2 2 2;2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2.2]
+[DELETED: 6  2.2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2.2 2 2 2.2 2 2 2]
+[DELETED: 6  2 2.2 2 2 2 2.2 2:2 2 2;2 2 2;2;2 2;2 2 2;2 3 3;3 3;3]
+[DELETED: 6 .3 3 3 3 3 3.3 3 3 3 3.3 3.3]

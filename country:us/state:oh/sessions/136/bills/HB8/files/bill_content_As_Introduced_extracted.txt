@@ -1,0 +1,307 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 6
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 8
+2025-2026
+Representative White, A.
+To enact sections 3902.65 and 5164.13 of the 1
+Revised Code to require health benefit plan and 2
+Medicaid program coverage of biomarker testing. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 3902.65 and 5164.13 of the 4
+Revised Code be enacted to read as follows: 5
+Sec. 3902.65. (A) As used in this section, "biomarker," 6
+"biomarker testing," and "nationally recognized clinical 7
+practice guidelines" have the same meanings as in section 8
+
+Section 3:
+5164.13 of the Revised Code. 9
+(B) Notwithstanding section 3901.71 of the Revised Code, a 10
+health benefit plan issued, renewed, or modified in this state 11
+on or after the effective date of this section shall cover 12
+biomarker testing for any of the following purposes: 13
+(1) Diagnosis; 14
+(2) Treatment and appropriate management of a disease or 15
+condition; 16
+(3) Ongoing monitoring of a disease or condition. 17
+H. B. No. 8 Page 2
+As Introduced
+(C) A health benefit plan shall cover biomarker testing 18
+ordered and deemed medically necessary by the qualified treating 19
+health care provider working within the provider's scope of 20
+practice for the purposes included in division (B) of this 21
+
+Section 4:
+section when the test is supported by medical or scientific 22
+evidence, as defined by section 3922.01 of the Revised Code, 23
+including at least one of the following: 24
+(1) Labeled indications for a United States food and drug 25
+administration approved or cleared test; 26
+(2) Indicated tests for a drug approved by the United 27
+States food and drug administration; 28
+(3) Warnings and precautions for United States food and 29
+drug administration approved drug labels; 30
+(4) National coverage determinations made by the United 31
+States centers for medicare and medicaid services; 32
+(5) Medicare administrative contractor local coverage 33
+determinations; 34
+(6) Nationally recognized clinical practice guidelines; 35
+(7) Nationally recognized and peer reviewed studies 36
+indicating that the test materially improves health outcomes. 37
+(D) A health plan issuer shall ensure coverage as required 38
+in division (B) of this section in a manner that limits 39
+disruptions in care, including the need for multiple biopsies or 40
+biospecimen samples. 41
+(E) Any appeal of a biomarker testing coverage 42
+determination shall be handled in accordance with the health 43
+plan issuer's appeal policy and any other relevant provision of 44
+law, including section 1751.82 or Chapter 3922. of the Revised 45
+H. B. No. 8 Page 3
+As Introduced
+Code. The appeal process shall be made readily accessible to all 46
+participating providers and recipients in writing and online. 47
+(F) Nothing in this section shall be construed to require 48
+coverage of biomarker testing for screening purposes. 49
+Sec. 5164.13. (A) As used in this section : 50
+(1) "Biomarker" means a characteristic that is objectively 51
+measured and evaluated as an indicator of normal biological 52
+processes, pathogenic processes, or pharmacologic responses to 53
+specific therapeutic intervention, including known gene-drug 54
+interactions for drugs being considered for use or already 55
+available for use. Biomarkers include, but are not limited to, 56
+gene mutations, characteristics of genes, or protein expression. 57
+(2) "Biomarker testing" means the analysis of tissue, 58
+blood, or another biospecimen for the presence of a biomarker, 59
+and includes, but is not limited to, single-analyte tests, 60
+multiplex panel tests, protein expression, and whole exome, 61
+whole genome, and whole transcriptome sequencing. 62
+(3) "Nationally recognized clinical practice guidelines" 63
+are evidence-based clinical practice guidelines establishing 64
+standards of care informed by a systematic review and assessment 65
+of benefits and risks of alternative care options and include 66
+recommendations intended to optimize patient care, developed by 67
+independent organizations or medical professional societies 68
+utilizing a transparent methodology and reporting structure and 69
+with a conflict of interest policy. 70
+(B) The medicaid program shall cover biomarker testing, 71
+subject to division (C) of this section, for any of the 72
+following purposes: 73
+(1) Diagnosis; 74
+H. B. No. 8 Page 4
+As Introduced
+(2) Treatment and appropriate management of a disease or 75
+condition; 76
+(3) Ongoing monitoring of a disease or condition. 77
+(C) The medicaid program shall cover biomarker testing 78
+ordered and deemed medically necessary by the qualified treating 79
+health care provider working within the provider's scope of 80
+practice for the purposes included in division (B) of this 81
+
+Section 5:
+section when the test is supported by medical or scientific 82
+evidence, as defined by section 3922.01 of the Revised Code, 83
+including at least one of the following: 84
+(1) Labeled indications for a United States food and drug 85
+administration approved or cleared test; 86
+(2) Indicated tests for a drug approved by the United 87
+States food and drug administration; 88
+(3) Warnings and precautions for United States food and 89
+drug administration approved drug labels; 90
+(4) National coverage determinations made by the United 91
+States centers for medicare and medicaid services; 92
+(5) Medicare administrative contractor local coverage 93
+determinations; 94
+(6) Nationally recognized clinical practice guidelines; 95
+(7) Nationally recognized and peer reviewed studies 96
+indicating that the test materially improves health outcomes. 97
+(D) The Medicaid program shall ensure coverage as required 98
+in division (B) of this section in a manner that limits 99
+disruptions in care, including the need for multiple biopsies or 100
+biospecimen samples. 101
+H. B. No. 8 Page 5
+As Introduced
+(E) Any appeal of a biomarker testing coverage policy 102
+shall be handled in accordance with section 5160.31 of the 103
+Revised Code. The appeal process shall be made readily 104
+accessible to all participating providers and recipients in 105
+writing and online. 106
+(F) Nothing in this section shall be construed to require 107
+coverage of biomarker testing for screening purposes. 108
+
+Section 6:
+Section 2. It is the intent of the General Assembly to 109
+ensure coverage for appropriate biomarker testing supported by 110
+medical or scientific evidence, as defined by section 3922.01 of 111
+the Revised Code, with the goal of producing long-term 112
+healthcare cost savings and improving health outcomes for 113
+Ohioans covered under this act. The General Assembly does not 114
+intend to create a landscape which allows manufacturers and 115
+administrators of biomarker tests to substantially increase 116
+pricing for existing and new biomarker tests as a result of the 117
+coverage requirements for certain health insurance markets under 118
+this act. 119
+[DELETED: nH BIL  . :   .a1 1 1:1;1 1 1.1]
+[DELETED: 8  1g1 2 2 2 2:2 2;2 2;2 2;3 3;3 3;3 3 3.3d3 3r4.4 4 4 4 4]
+[DELETED: 8 l4 4 4.4:5y5 5 5 5 5 5.5 5 5 6 6.6 6 6t6 6 6 6 6.7 7 7:7;7]
+[DELETED: 8  7;7.7 7g7 8 8 8 8:8 8;8 8;8 8;9 9;9 9;9;9 9.9d9 9r1.1]
+[DELETED: 8  1 1 1 1.1 1.1 1 1f1 1 1 1 1 1 1r1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 8
+2025-2026
+Representative White, A.
+A BILL
+To enact sections 3902.65 and 5164.13 of the 1
+Revised Code to require health benefit plan and 2
+Medicaid program coverage of biomarker testing. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3902.65 and 5164.13 of the 4
+Revised Code be enacted to read as follows: 5
+Sec. 3902.65. (A) As used in this section, "biomarker," 6
+"biomarker testing," and "nationally recognized clinical 7
+practice guidelines" have the same meanings as in section 8
+5164.13 of the Revised Code. 9
+(B) Notwithstanding section 3901.71 of the Revised Code, a 10
+health benefit plan issued, renewed, or modified in this state 11
+on or after the effective date of this section shall cover 12
+biomarker testing for any of the following purposes: 13
+(1) Diagnosis; 14
+(2) Treatment and appropriate management of a disease or 15
+condition; 16
+(3) Ongoing monitoring of a disease or condition. 17
+
+H. B. No. 8 Page 2
+As Introduced
+(C) A health benefit plan shall cover biomarker testing 18
+ordered and deemed medically necessary by the qualified treating 19
+health care provider working within the provider's scope of 20
+practice for the purposes included in division (B) of this 21
+section when the test is supported by medical or scientific 22
+evidence, as defined by section 3922.01 of the Revised Code, 23
+including at least one of the following: 24
+(1) Labeled indications for a United States food and drug 25
+administration approved or cleared test; 26
+(2) Indicated tests for a drug approved by the United 27
+States food and drug administration; 28
+(3) Warnings and precautions for United States food and 29
+drug administration approved drug labels; 30
+(4) National coverage determinations made by the United 31
+States centers for medicare and medicaid services; 32
+(5) Medicare administrative contractor local coverage 33
+determinations; 34
+(6) Nationally recognized clinical practice guidelines; 35
+(7) Nationally recognized and peer reviewed studies 36
+indicating that the test materially improves health outcomes. 37
+(D) A health plan issuer shall ensure coverage as required 38
+in division (B) of this section in a manner that limits 39
+disruptions in care, including the need for multiple biopsies or 40
+biospecimen samples. 41
+(E) Any appeal of a biomarker testing coverage 42
+determination shall be handled in accordance with the health 43
+plan issuer's appeal policy and any other relevant provision of 44
+law, including section 1751.82 or Chapter 3922. of the Revised 45
+
+H. B. No. 8 Page 3
+As Introduced
+Code. The appeal process shall be made readily accessible to all 46
+participating providers and recipients in writing and online. 47
+(F) Nothing in this section shall be construed to require 48
+coverage of biomarker testing for screening purposes. 49
+Sec. 5164.13. (A) As used in this section : 50
+(1) "Biomarker" means a characteristic that is objectively 51
+measured and evaluated as an indicator of normal biological 52
+processes, pathogenic processes, or pharmacologic responses to 53
+specific therapeutic intervention, including known gene-drug 54
+interactions for drugs being considered for use or already 55
+available for use. Biomarkers include, but are not limited to, 56
+gene mutations, characteristics of genes, or protein expression. 57
+(2) "Biomarker testing" means the analysis of tissue, 58
+blood, or another biospecimen for the presence of a biomarker, 59
+and includes, but is not limited to, single-analyte tests, 60
+multiplex panel tests, protein expression, and whole exome, 61
+whole genome, and whole transcriptome sequencing. 62
+(3) "Nationally recognized clinical practice guidelines" 63
+are evidence-based clinical practice guidelines establishing 64
+standards of care informed by a systematic review and assessment 65
+of benefits and risks of alternative care options and include 66
+recommendations intended to optimize patient care, developed by 67
+independent organizations or medical professional societies 68
+utilizing a transparent methodology and reporting structure and 69
+with a conflict of interest policy. 70
+(B) The medicaid program shall cover biomarker testing, 71
+subject to division (C) of this section, for any of the 72
+following purposes: 73
+(1) Diagnosis; 74
+
+H. B. No. 8 Page 4
+As Introduced
+(2) Treatment and appropriate management of a disease or 75
+condition; 76
+(3) Ongoing monitoring of a disease or condition. 77
+(C) The medicaid program shall cover biomarker testing 78
+ordered and deemed medically necessary by the qualified treating 79
+health care provider working within the provider's scope of 80
+practice for the purposes included in division (B) of this 81
+section when the test is supported by medical or scientific 82
+evidence, as defined by section 3922.01 of the Revised Code, 83
+including at least one of the following: 84
+(1) Labeled indications for a United States food and drug 85
+administration approved or cleared test; 86
+(2) Indicated tests for a drug approved by the United 87
+States food and drug administration; 88
+(3) Warnings and precautions for United States food and 89
+drug administration approved drug labels; 90
+(4) National coverage determinations made by the United 91
+States centers for medicare and medicaid services; 92
+(5) Medicare administrative contractor local coverage 93
+determinations; 94
+(6) Nationally recognized clinical practice guidelines; 95
+(7) Nationally recognized and peer reviewed studies 96
+indicating that the test materially improves health outcomes. 97
+(D) The Medicaid program shall ensure coverage as required 98
+in division (B) of this section in a manner that limits 99
+disruptions in care, including the need for multiple biopsies or 100
+biospecimen samples. 101
+
+H. B. No. 8 Page 5
+As Introduced
+(E) Any appeal of a biomarker testing coverage policy 102
+shall be handled in accordance with section 5160.31 of the 103
+Revised Code. The appeal process shall be made readily 104
+accessible to all participating providers and recipients in 105
+writing and online. 106
+(F) Nothing in this section shall be construed to require 107
+coverage of biomarker testing for screening purposes. 108
+Section 2. It is the intent of the General Assembly to 109
+ensure coverage for appropriate biomarker testing supported by 110
+medical or scientific evidence, as defined by section 3922.01 of 111
+the Revised Code, with the goal of producing long-term 112
+healthcare cost savings and improving health outcomes for 113
+Ohioans covered under this act. The General Assembly does not 114
+intend to create a landscape which allows manufacturers and 115
+administrators of biomarker tests to substantially increase 116
+pricing for existing and new biomarker tests as a result of the 117
+coverage requirements for certain health insurance markets under 118
+this act. 119
+
+[DELETED: nH BIL  . :   .a1 1 1:1;1 1 1.1]
+[DELETED: 8  1g1 2 2 2 2:2 2;2 2;2 2;3 3;3 3;3 3 3.3d3 3r4.4 4 4 4 4]
+[DELETED: 8 l4 4 4.4:5y5 5 5 5 5 5.5 5 5 6 6.6 6 6t6 6 6 6 6.7 7 7:7;7]
+[DELETED: 8  7;7.7 7g7 8 8 8 8:8 8;8 8;8 8;9 9;9 9;9;9 9.9d9 9r1.1]
+[DELETED: 8  1 1 1 1.1 1.1 1 1f1 1 1 1 1 1 1r1.1]

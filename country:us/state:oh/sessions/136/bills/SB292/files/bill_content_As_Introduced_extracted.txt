@@ -1,0 +1,2542 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 33
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 38 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 292
+2025-2026
+Senator Blessing
+To amend sections 2305.01, 2307.80, 2315.18, 1
+
+Section 2:
+2315.21, 2323.43, 2744.05, and 3345.40 of the 2
+Revised Code to increase the dollar caps on 3
+noneconomic damages and punitive or exemplary 4
+damages in civil actions and to provide a 5
+procedure for the Department of Taxation to make 6
+annual adjustments of those caps based on the 7
+consumer price index. 8
+
+Section 3:
+Section 1. That sections 2305.01, 2307.80, 2315.18, 9
+
+Section 4:
+2315.21, 2323.43, 2744.05, and 3345.40 of the Revised Code be 10
+amended to read as follows: 11
+Sec. 2305.01. Except as otherwise provided by this section 12
+or section 2305.03 of the Revised Code, the court of common 13
+pleas has original jurisdiction in all civil cases in which the 14
+sum or matter in dispute exceeds the exclusive original 15
+jurisdiction of county courts and appellate jurisdiction from 16
+the decisions of boards of county commissioners. The court of 17
+common pleas shall not have jurisdiction, in any tort action to 18
+which the amounts apply, to award punitive or exemplary damages 19
+that exceed the amounts set forth, or the adjusted amounts 20
+provided, in section 2315.21 of the Revised Code. The court of 21
+S. B. No. 292 Page 2
+As Introduced
+common pleas shall not have jurisdiction in any tort action to 22
+which the limits apply to enter judgment on an award of 23
+compensatory damages for noneconomic loss in excess of the 24
+limits set forth, or the adjusted amounts of the limits 25
+provided, in section 2315.18 of the Revised Code. 26
+The court of common pleas may on its own motion transfer 27
+for trial any action in the court to any municipal court in the 28
+county having concurrent jurisdiction of the subject matter of, 29
+and the parties to, the action, if the amount sought by the 30
+plaintiff does not exceed one thousand dollars and if the judge 31
+or presiding judge of the municipal court concurs in the 32
+proposed transfer. Upon the issuance of an order of transfer, 33
+the clerk of courts shall remove to the designated municipal 34
+court the entire case file. Any untaxed portion of the common 35
+pleas deposit for court costs shall be remitted to the municipal 36
+court by the clerk of courts to be applied in accordance with 37
+
+Section 5:
+section 1901.26 of the Revised Code, and the costs taxed by the 38
+municipal court shall be added to any costs taxed in the common 39
+pleas court. 40
+The court of common pleas has jurisdiction in any action 41
+brought pursuant to division (I) of section 4781.40 of the 42
+Revised Code if the residential premises that are the subject of 43
+the action are located within the territorial jurisdiction of 44
+the court. 45
+The courts of common pleas of Adams, Athens, Belmont, 46
+Brown, Clermont, Columbiana, Gallia, Hamilton, Jefferson, 47
+Lawrence, Meigs, Monroe, Scioto, and Washington counties have 48
+jurisdiction beyond the north or northwest shore of the Ohio 49
+river extending to the opposite shore line, between the extended 50
+boundary lines of any adjacent counties or adjacent state. Each 51
+S. B. No. 292 Page 3
+As Introduced
+of those courts of common pleas has concurrent jurisdiction on 52
+the Ohio river with any adjacent court of common pleas that 53
+borders on that river and with any court of Kentucky or of West 54
+Virginia that borders on the Ohio river and that has 55
+jurisdiction on the Ohio river under the law of Kentucky or the 56
+law of West Virginia, whichever is applicable, or under federal 57
+law. 58
+Sec. 2307.80. (A) Subject to divisions (C) and (D) of this 59
+
+Section 6:
+section, punitive or exemplary damages shall not be awarded 60
+against a manufacturer or supplier in question in connection 61
+with a product liability claim unless the claimant establishes, 62
+by clear and convincing evidence, that harm for which the 63
+claimant is entitled to recover compensatory damages in 64
+accordance with section 2307.73 or 2307.78 of the Revised Code 65
+was the result of misconduct of the manufacturer or supplier in 66
+question that manifested a flagrant disregard of the safety of 67
+persons who might be harmed by the product in question. The fact 68
+by itself that a product is defective does not establish a 69
+flagrant disregard of the safety of persons who might be harmed 70
+by that product. 71
+(B) Whether the trier of fact is a jury or the court, if 72
+the trier of fact determines that a manufacturer or supplier in 73
+question is liable for punitive or exemplary damages in 74
+connection with a product liability claim, the amount of those 75
+damages shall be determined by the court. In determining the 76
+amount of punitive or exemplary damages, the court shall 77
+consider factors including, but not limited to, the following: 78
+(1) The likelihood that serious harm would arise from the 79
+misconduct of the manufacturer or supplier in question; 80
+(2) The degree of the awareness of the manufacturer or 81
+S. B. No. 292 Page 4
+As Introduced
+supplier in question of that likelihood; 82
+(3) The profitability of the misconduct to the 83
+manufacturer or supplier in question; 84
+(4) The duration of the misconduct and any concealment of 85
+it by the manufacturer or supplier in question; 86
+(5) The attitude and conduct of the manufacturer or 87
+supplier in question upon the discovery of the misconduct and 88
+whether the misconduct has terminated; 89
+(6) The financial condition of the manufacturer or 90
+supplier in question; 91
+(7) The total effect of other punishment imposed or likely 92
+to be imposed upon the manufacturer or supplier in question as a 93
+result of the misconduct, including awards of punitive or 94
+exemplary damages to persons similarly situated to the claimant 95
+and the severity of criminal penalties to which the manufacturer 96
+or supplier in question has been or is likely to be subjected. 97
+(C)(1) Except as provided in division (C)(2) of this 98
+
+Section 7:
+section, if a claimant alleges in a product liability claim that 99
+a drug or device caused harm to the claimant, the manufacturer 100
+of the drug or device shall not be liable for punitive or 101
+exemplary damages in connection with that product liability 102
+claim if the drug or device that allegedly caused the harm 103
+satisfies either of the following: 104
+(a) It was manufactured and labeled in relevant and 105
+material respects in accordance with the terms of an approval or 106
+license issued by the federal food and drug administration under 107
+the "Federal Food, Drug, and Cosmetic Act," 52 Stat. 1040 108
+(1938), 21 U.S.C. 301-392, as amended, or the "Public Health 109
+Service Act," 58 Stat. 682 (1944), 42 U.S.C. 201-300cc-15, as 110
+S. B. No. 292 Page 5
+As Introduced
+amended. 111
+(b) It was an over-the-counter drug marketed pursuant to 112
+federal regulations, was generally recognized as safe and 113
+effective and as not being misbranded pursuant to the applicable 114
+federal regulations, and satisfied in relevant and material 115
+respects each of the conditions contained in the applicable 116
+regulations and each of the conditions contained in an 117
+applicable monograph. 118
+(2) Division (C)(1) of this section does not apply if the 119
+claimant establishes, by a preponderance of the evidence, that 120
+the manufacturer fraudulently and in violation of applicable 121
+regulations of the food and drug administration withheld from 122
+the food and drug administration information known to be 123
+material and relevant to the harm that the claimant allegedly 124
+suffered or misrepresented to the food and drug administration 125
+information of that type. 126
+(3) For purposes of divisions (C) and (D) of this section: 127
+(a) "Drug" has the same meaning as in the "Federal Food, 128
+Drug, and Cosmetic Act," 52 Stat. 1040, 1041 (1938), 21 U.S.C. 129
+321(g)(1), as amended. 130
+(b) "Device" has the same meaning as in the "Federal Food, 131
+Drug, and Cosmetic Act," 52 Stat. 1040, 1041 (1938), 21 U.S.C. 132
+321(h), as amended. 133
+(D)(1) If a claimant alleges in a product liability claim 134
+that a product other than a drug or device caused harm to the 135
+claimant, the manufacturer or supplier of the product shall not 136
+be liable for punitive or exemplary damages in connection with 137
+the claim if the manufacturer or supplier fully complied with 138
+all applicable government safety and performance standards, 139
+S. B. No. 292 Page 6
+As Introduced
+whether or not designated as such by the government, relative to 140
+the product's manufacture or construction, the product's design 141
+or formulation, adequate warnings or instructions, and 142
+representations when the product left the control of the 143
+manufacturer or supplier, and the claimant's injury results from 144
+an alleged defect of a product's manufacture or construction, 145
+the product's design or formulation, adequate warnings or 146
+instructions, and representations for which there is an 147
+applicable government safety or performance standard. 148
+(2) Division (D)(1) of this section does not apply if the 149
+claimant establishes, by a preponderance of the evidence, that 150
+the manufacturer or supplier of the product other than a drug or 151
+device fraudulently and in violation of applicable government 152
+safety and performance standards, whether or not designated as 153
+such by the government, withheld from an applicable government 154
+agency information known to be material and relevant to the harm 155
+that the claimant allegedly suffered or misrepresented to an 156
+applicable government agency information of that type. 157
+(E) The bifurcated trial provisions of division (B) of 158
+
+Section 8:
+section 2315.21 of the Revised Code, the ceiling on recoverable 159
+punitive or exemplary damages specified in division (D)(1) 160
+divisions (D)(2) and (3) of that section, and the provisions of 161
+division (D)(3) (D)(4) of that section apply to awards of 162
+punitive or exemplary damages under this section. 163
+Sec. 2315.18. (A) As used in this section and in section 164
+
+Section 9:
+2315.19 of the Revised Code: 165
+(1) "Asbestos claim" has the same meaning as in section 166
+
+Section 10:
+2307.91 of the Revised Code. 167
+(2) "Economic loss" means any of the following types of 168
+S. B. No. 292 Page 7
+As Introduced
+pecuniary harm: 169
+(a) All wages, salaries, or other compensation lost as a 170
+result of an injury or loss to person or property that is a 171
+subject of a tort action; 172
+(b) All expenditures for medical care or treatment, 173
+rehabilitation services, or other care, treatment, services, 174
+products, or accommodations as a result of an injury or loss to 175
+person or property that is a subject of a tort action; 176
+(c) Any other expenditures incurred as a result of an 177
+injury or loss to person or property that is a subject of a tort 178
+action, other than attorney's fees incurred in connection with 179
+that action. 180
+(3) "Medical claim," "dental claim," "optometric claim," 181
+and "chiropractic claim" have the same meanings as in section 182
+
+Section 11:
+2305.113 of the Revised Code. 183
+(4) "Noneconomic loss" means nonpecuniary harm that 184
+results from an injury or loss to person or property that is a 185
+subject of a tort action, including, but not limited to, pain 186
+and suffering, loss of society, consortium, companionship, care, 187
+assistance, attention, protection, advice, guidance, counsel, 188
+instruction, training, or education, disfigurement, mental 189
+anguish, and any other intangible loss. 190
+(5) "Occurrence" means all claims resulting from or 191
+arising out of any one person's bodily injury. 192
+(6) "Product liability claim" has the same meaning as in 193
+
+Section 12:
+section 2307.71 of the Revised Code. 194
+(7) "Tort action" means a civil action for damages for 195
+injury or loss to person or property. "Tort action" includes a 196
+S. B. No. 292 Page 8
+As Introduced
+civil action upon a product liability claim or an asbestos 197
+claim, a civil action based on an unlawful discriminatory 198
+practice relating to employment brought under section 4112.052 199
+of the Revised Code, and a civil action brought under section 200
+
+Section 13:
+4112.14 of the Revised Code. "Tort action" does not include a 201
+civil action upon a medical claim, dental claim, optometric 202
+claim, or chiropractic claim or a civil action for damages for a 203
+breach of contract or another agreement between persons. 204
+(8) "Trier of fact" means the jury or, in a nonjury 205
+action, the court. 206
+(B) In a tort action to recover damages for injury or loss 207
+to person or property, all of the following apply: 208
+(1) There shall not be any limitation on the amount of 209
+compensatory damages that represents the economic loss of the 210
+person who is awarded the damages in the tort action. 211
+(2) Except as otherwise provided in division (B)(3) of 212
+this section and subject to division (B)(4) of this section, the 213
+amount of compensatory damages that represents damages for 214
+noneconomic loss that is recoverable in a tort action under this 215
+
+Section 14:
+section to recover damages for injury or loss to person or 216
+property shall not exceed the greater of two hundred fifty four 217
+hundred fifteen thousand dollars or an amount that is equal to 218
+three times the economic loss, as determined by the trier of 219
+fact, of the plaintiff in that tort action to a maximum of three 220
+hundred fifty five hundred eighty thousand dollars for each 221
+plaintiff in that tort action or a maximum of five hundred eight 222
+hundred thirty thousand dollars for each occurrence that is the 223
+basis of that tort action. 224
+(3) There shall not be any limitation on the amount of 225
+S. B. No. 292 Page 9
+As Introduced
+compensatory damages that represents damages for noneconomic 226
+loss that is recoverable in a tort action to recover damages for 227
+injury or loss to person or property if the noneconomic losses 228
+of the plaintiff are for either of the following: 229
+(a) Permanent and substantial physical deformity, loss of 230
+use of a limb, or loss of a bodily organ system; 231
+(b) Permanent physical functional injury that permanently 232
+prevents the injured person from being able to independently 233
+care for self and perform life-sustaining activities. 234
+(4)(a) In January of each year, the department of 235
+taxation, in accordance with this division and division (B)(4) 236
+(b) of this section, shall adjust each of the actual dollar 237
+figures specified in division (B)(2) of this section or each of 238
+the actual dollar amounts determined pursuant to this division 239
+and division (B)(4)(b) of this section. The adjustment shall be 240
+based on the percentage increase in the consumer price index as 241
+determined by the United States bureau of labor statistics (U.S. 242
+city average, all urban consumers) for the twelve-month period 243
+ending on the thirtieth day of June of the immediately preceding 244
+calendar year. If the consumer price index for that period did 245
+not increase, no increase shall be made under this division and 246
+division (B)(4)(b) of this section. 247
+(b) The department of taxation shall calculate the 248
+adjustments under division (B)(4)(a) of this section on or 249
+before the thirty-first day of January of each calendar year. 250
+The first adjustments shall be made in January following one 251
+year after the effective date of this amendment. 252
+(c) The department of taxation shall certify the 253
+calculations made under division (B)(4)(b) of this section on or 254
+S. B. No. 292 Page 10
+As Introduced
+before the thirty-first day of January of each calendar year. 255
+(d) On or before the fifteenth day of February of each 256
+year, the department of taxation shall prepare a report setting 257
+forth the amounts of the adjustments calculated under divisions 258
+(B)(4)(a) and (b) of this section and certified under division 259
+(B)(4)(c) of this section. 260
+(e) The report shall contain an indication of the period 261
+in which the calculated amounts apply, a summary of how the 262
+amounts were calculated, and a statement that the report and all 263
+related documents are available for inspection and copying at 264
+the office of the department of taxation. 265
+(f) On or before the fifteenth day of February of each 266
+year, the department of taxation shall transmit the report to 267
+the general assembly. 268
+(g) On the fifteenth day of February of each year, each of 269
+the dollar amounts of the adjustments set forth in the report of 270
+the department of taxation under division (B)(4)(d) of this 271
+
+Section 15:
+section shall replace each corresponding dollar figure set forth 272
+in division (B)(2) of this section or each of the corresponding 273
+actual dollar amounts determined pursuant to divisions (B)(4)(a) 274
+and (b) of this section, whichever is applicable, for the period 275
+in which the calculated amounts apply as indicated in the report 276
+of the department of taxation under division (B)(4)(e) of this 277
+
+Section 16:
+section. 278
+(C) In determining an award of compensatory damages for 279
+noneconomic loss in a tort action, the trier of fact shall not 280
+consider any of the following: 281
+(1) Evidence of a defendant's alleged wrongdoing, 282
+misconduct, or guilt; 283
+S. B. No. 292 Page 11
+As Introduced
+(2) Evidence of the defendant's wealth or financial 284
+resources; 285
+(3) All other evidence that is offered for the purpose of 286
+punishing the defendant, rather than offered for a compensatory 287
+purpose. 288
+(D) If a trial is conducted in a tort action to recover 289
+damages for injury or loss to person or property and a plaintiff 290
+prevails in that action, the court in a nonjury trial shall make 291
+findings of fact, and the jury in a jury trial shall return a 292
+general verdict accompanied by answers to interrogatories, that 293
+shall specify all of the following: 294
+(1) The total compensatory damages recoverable by the 295
+plaintiff; 296
+(2) The portion of the total compensatory damages that 297
+represents damages for economic loss; 298
+(3) The portion of the total compensatory damages that 299
+represents damages for noneconomic loss. 300
+(E)(1) After the trier of fact in a tort action to recover 301
+damages for injury or loss to person or property complies with 302
+division (D) of this section, the court shall enter a judgment 303
+in favor of the plaintiff for compensatory damages for economic 304
+loss in the amount determined pursuant to division (D)(2) of 305
+this section, and, subject to division (F)(1) of this section, 306
+the court shall enter a judgment in favor of the plaintiff for 307
+compensatory damages for noneconomic loss. Except as provided in 308
+division (B)(3) of this section, in no event shall a judgment 309
+for compensatory damages for noneconomic loss exceed the maximum 310
+recoverable amount that represents damages for noneconomic loss 311
+as provided in division (B)(2) of this section or as adjusted 312
+S. B. No. 292 Page 12
+As Introduced
+and calculated as provided in division (B)(4) of this section. 313
+Division (B) of this section shall be applied in a jury trial 314
+only after the jury has made its factual findings and 315
+determination as to the damages. 316
+(2) Prior to the trial in the tort action described in 317
+division (D) of this section, any party may seek summary 318
+judgment with respect to the nature of the alleged injury or 319
+loss to person or property, seeking a determination of the 320
+damages as described in division (B)(2) of this section or as 321
+adjusted and calculated as provided in division (B)(4) of this 322
+
+Section 17:
+section. 323
+(F)(1) A court of common pleas has no jurisdiction to 324
+enter judgment on an award of compensatory damages for 325
+noneconomic loss in excess of the limits set forth, or the 326
+adjustments and calculations provided, in this section. 327
+(2) If the trier of fact is a jury, the court shall not 328
+instruct the jury with respect to the limit on compensatory 329
+damages for noneconomic loss described in division (B)(2) of 330
+this section or adjusted and calculated as provided in division 331
+(B)(4) of this section, and neither counsel for any party nor a 332
+witness shall inform the jury or potential jurors of that limit. 333
+(G) With respect to a tort action to which division 334
+divisions (B)(2) and (4) of this section appliesapply, any 335
+excess amount of compensatory damages for noneconomic loss that 336
+is greater than the applicable amount specified in division (B) 337
+(2) of this section or the applicable amount of the adjustment 338
+and calculation as provided in division (B)(4) of this section 339
+shall not be reallocated to any other tortfeasor beyond the 340
+amount of compensatory damages that the tortfeasor would 341
+otherwise be responsible for under the laws of this state. 342
+S. B. No. 292 Page 13
+As Introduced
+(H) This section does not apply to any of the following: 343
+(1) Tort actions that are brought against the state in the 344
+court of claims, including, but not limited to, those actions in 345
+which a state university or college is a defendant and to which 346
+division divisions (B)(3) and (4) of section 3345.40 of the 347
+Revised Code appliesapply; 348
+(2) Tort actions that are brought against political 349
+subdivisions of this state and that are commenced under or are 350
+subject to Chapter 2744. of the Revised Code. Division (C) of 351
+
+Section 18:
+section 2744.05 of the Revised Code applies to recoverable 352
+damages in those actions. 353
+(3) Wrongful death actions brought pursuant to Chapter 354
+
+Section 19:
+2125. of the Revised Code. 355
+(I) If the provisions regarding the limits on compensatory 356
+damages for noneconomic loss set forth in division (B)(2) of 357
+this section or adjusted and calculated under division (B)(4) of 358
+this section have been determined to be unconstitutional, then 359
+division (C) of this section and section 2315.19 of the Revised 360
+Code shall govern the determination of an award of compensatory 361
+damages for noneconomic loss in a tort action. 362
+Sec. 2315.21. (A) As used in this section: 363
+(1) "Tort action" means a civil action for damages for 364
+injury or loss to person or property. 365
+(a) "Tort action" includes all of the following: 366
+(i) A product liability claim for damages for injury or 367
+loss to person or property that is subject to sections 2307.71 368
+to 2307.80 of the Revised Code; 369
+(ii) A civil action based on an unlawful discriminatory 370
+S. B. No. 292 Page 14
+As Introduced
+practice relating to employment brought under section 4112.052 371
+of the Revised Code; 372
+(iii) A civil action brought under section 4112.14 of the 373
+Revised Code. 374
+(b) "Tort action" does not include a civil action for 375
+damages for a breach of contract or another agreement between 376
+persons. 377
+(2) "Trier of fact" means the jury or, in a nonjury 378
+action, the court. 379
+(3) "Home" has the same meaning as in section 3721.10 of 380
+the Revised Code. 381
+(4) "Employer" includes, but is not limited to, a parent, 382
+subsidiary, affiliate, division, or department of the employer. 383
+If the employer is an individual, the individual shall be 384
+considered an employer under this section only if the subject of 385
+the tort action is related to the individual's capacity as an 386
+employer. 387
+(5) "Small employer" means an employer who employs not 388
+more than one hundred persons on a full-time permanent basis, 389
+or, if the employer is classified as being in the manufacturing 390
+sector by the North American industrial classification system, 391
+"small employer" means an employer who employs not more than 392
+five hundred persons on a full-time permanent basis. 393
+(B)(1) In a tort action that is tried to a jury and in 394
+which a plaintiff makes a claim for compensatory damages and a 395
+claim for punitive or exemplary damages, upon the motion of any 396
+party, the trial of the tort action shall be bifurcated as 397
+follows: 398
+S. B. No. 292 Page 15
+As Introduced
+(a) The initial stage of the trial shall relate only to 399
+the presentation of evidence, and a determination by the jury, 400
+with respect to whether the plaintiff is entitled to recover 401
+compensatory damages for the injury or loss to person or 402
+property from the defendant. During this stage, no party to the 403
+tort action shall present, and the court shall not permit a 404
+party to present, evidence that relates solely to the issue of 405
+whether the plaintiff is entitled to recover punitive or 406
+exemplary damages for the injury or loss to person or property 407
+from the defendant. 408
+(b) If the jury determines in the initial stage of the 409
+trial that the plaintiff is entitled to recover compensatory 410
+damages for the injury or loss to person or property from the 411
+defendant, evidence may be presented in the second stage of the 412
+trial, and a determination by that jury shall be made, with 413
+respect to whether the plaintiff additionally is entitled to 414
+recover punitive or exemplary damages for the injury or loss to 415
+person or property from the defendant. 416
+(2) In a tort action that is tried to a jury and in which 417
+a plaintiff makes a claim for both compensatory damages and 418
+punitive or exemplary damages, the court shall instruct the jury 419
+to return, and the jury shall return, a general verdict and, if 420
+that verdict is in favor of the plaintiff, answers to an 421
+interrogatory that specifies the total compensatory damages 422
+recoverable by the plaintiff from each defendant. 423
+(3) In a tort action that is tried to a court and in which 424
+a plaintiff makes a claim for both compensatory damages and 425
+punitive or exemplary damages, the court shall make its 426
+determination with respect to whether the plaintiff is entitled 427
+to recover compensatory damages for the injury or loss to person 428
+S. B. No. 292 Page 16
+As Introduced
+or property from the defendant and, if that determination is in 429
+favor of the plaintiff, shall make findings of fact that specify 430
+the total compensatory damages recoverable by the plaintiff from 431
+the defendant. 432
+(C) Subject to division (E) of this section, punitive or 433
+exemplary damages are not recoverable from a defendant in 434
+question in a tort action unless both of the following apply: 435
+(1) The actions or omissions of that defendant demonstrate 436
+malice or aggravated or egregious fraud, or that defendant as 437
+principal or master knowingly authorized, participated in, or 438
+ratified actions or omissions of an agent or servant that so 439
+demonstrate. 440
+(2) The trier of fact has returned a verdict or has made a 441
+determination pursuant to division (B)(2) or (3) of this section 442
+of the total compensatory damages recoverable by the plaintiff 443
+from that defendant. 444
+(D)(1) In a tort action, the trier of fact shall determine 445
+the liability of any defendant for punitive or exemplary damages 446
+and the amount of those damages. 447
+(2) Except as provided in division (D)(6) (D)(7) of this 448
+
+Section 20:
+section, all of the following apply regarding any award of 449
+punitive or exemplary damages in a tort action: 450
+(a) The court shall not enter judgment for punitive or 451
+exemplary damages in excess of two times the amount of the 452
+compensatory damages awarded to the plaintiff from that 453
+defendant, as determined pursuant to division (B)(2) or (3) of 454
+this section. 455
+(b) If Subject to division (D)(3) of this section, if the 456
+defendant is a small employer or individual, the court shall not 457
+S. B. No. 292 Page 17
+As Introduced
+enter judgment for punitive or exemplary damages in excess of 458
+the lesser of two times the amount of the compensatory damages 459
+awarded to the plaintiff from the defendant or ten per cent of 460
+the employer's or individual's net worth when the tort was 461
+committed up to a maximum of three hundred fifty five hundred 462
+eighty thousand dollars, as determined pursuant to division (B) 463
+(2) or (3) of this section. 464
+(c) Any attorney's fees awarded as a result of a claim for 465
+punitive or exemplary damages shall not be considered for 466
+purposes of determining the cap on punitive damages. 467
+(3)(3)(a) In January of each year, the department of 468
+taxation, in accordance with this division and division (D)(3) 469
+(b) of this section, shall adjust the actual dollar figure 470
+specified in division (D)(2)(b) of this section or the actual 471
+dollar amount determined pursuant to this division and division 472
+(D)(3)(b) of this section. The adjustment shall be based on the 473
+percentage increase in the consumer price index as determined by 474
+the United States bureau of labor statistics (U.S. city average, 475
+all urban consumers) for the twelve-month period ending on the 476
+thirtieth day of June of the immediately preceding calendar 477
+year. If the consumer price index for that period did not 478
+increase, no increase shall be made under this division and 479
+division (D)(3)(b) of this section. 480
+(b) The department of taxation shall calculate the 481
+adjustment under division (D)(3)(a) of this section on or before 482
+the thirty-first day of January of each calendar year. The first 483
+adjustment shall be made in January following one year after the 484
+effective date of this amendment. 485
+(c) The department of taxation shall certify the 486
+calculation made under division (D)(3)(b) of this section on or 487
+S. B. No. 292 Page 18
+As Introduced
+before the thirty-first day of January of each calendar year. 488
+(d) On or before the fifteenth day of February of each 489
+year, the department of taxation shall prepare a report setting 490
+forth the amount of the adjustment calculated under divisions 491
+(D)(3)(a) and (b) of this section and certified under division 492
+(D)(3)(c) of this section. 493
+(e) The report shall contain an indication of the period 494
+in which the calculated amount applies, a summary of how the 495
+amount was calculated, and a statement that the report and all 496
+related documents are available for inspection and copying at 497
+the office of the department of taxation. 498
+(f) On or before the fifteenth day of February of each 499
+year, the department of taxation shall transmit the report to 500
+the general assembly. 501
+(g) On the fifteenth day of February of each year, the 502
+dollar amount of the adjustment set forth in the report of the 503
+department of taxation under division (D)(3)(d) of this section 504
+shall replace the dollar figure set forth in division (D)(2)(b) 505
+of this section or the actual dollar amount determined pursuant 506
+to divisions (D)(3)(a) and (b) of this section, whichever is 507
+applicable, for the period in which the calculated amount 508
+applies as indicated in the report of the department of taxation 509
+under division (D)(3)(e) of this section. 510
+(4) No award of prejudgment interest under division (C)(1) 511
+of section 1343.03 of the Revised Code shall include any 512
+prejudgment interest on punitive or exemplary damages found by 513
+the trier of fact. 514
+(4) (5) In a tort action, the burden of proof shall be 515
+upon a plaintiff in question, by clear and convincing evidence, 516
+S. B. No. 292 Page 19
+As Introduced
+to establish that the plaintiff is entitled to recover punitive 517
+or exemplary damages. 518
+(5)(a) (6)(a) In any tort action, except as provided in 519
+division (D)(5)(b) (D)(6)(b) or (6) (7) of this section, 520
+punitive or exemplary damages shall not be awarded against a 521
+defendant if that defendant files with the court a certified 522
+judgment, judgment entries, or other evidence showing that 523
+punitive or exemplary damages have already been awarded and have 524
+been collected, in any state or federal court, against that 525
+defendant based on the same act or course of conduct that is 526
+alleged to have caused the injury or loss to person or property 527
+for which the plaintiff seeks compensatory damages and that the 528
+aggregate of those previous punitive or exemplary damage awards 529
+exceeds the maximum amount of punitive or exemplary damages that 530
+may be awarded under division (D)(2) of this section or under 531
+the adjustment of that maximum amount as provided in division 532
+(D)(3) of this section, against that defendant in the tort 533
+action. 534
+(b) Notwithstanding division (D)(5)(a) (D)(6)(a) of this 535
+
+Section 21:
+section and except as provided in division (D)(6) (D)(7) of this 536
+
+Section 22:
+section, punitive or exemplary damages may be awarded against a 537
+defendant in either of the following types of tort actions: 538
+(i) In subsequent tort actions involving the same act or 539
+course of conduct for which punitive or exemplary damages have 540
+already been awarded, if the court determines by clear and 541
+convincing evidence that the plaintiff will offer new and 542
+substantial evidence of previously undiscovered, additional 543
+behavior of a type described in division (C) of this section on 544
+the part of that defendant, other than the injury or loss for 545
+which the plaintiff seeks compensatory damages. In that case, 546
+S. B. No. 292 Page 20
+As Introduced
+the court shall make specific findings of fact in the record to 547
+support its conclusion. The court shall reduce the amount of any 548
+punitive or exemplary damages otherwise awardable pursuant to 549
+this section by the sum of the punitive or exemplary damages 550
+awards previously rendered against that defendant in any state 551
+or federal court. The court shall not inform the jury about the 552
+court's determination and action under division (D)(5)(b)(i) (D) 553
+(6)(b)(i) of this section. 554
+(ii) In subsequent tort actions involving the same act or 555
+course of conduct for which punitive or exemplary damages have 556
+already been awarded, if the court determines by clear and 557
+convincing evidence that the total amount of prior punitive or 558
+exemplary damages awards was totally insufficient to punish that 559
+defendant's behavior of a type described in division (C) of this 560
+
+Section 23:
+section and to deter that defendant and others from similar 561
+behavior in the future. In that case, the court shall make 562
+specific findings of fact in the record to support its 563
+conclusion. The court shall reduce the amount of any punitive or 564
+exemplary damages otherwise awardable pursuant to this section 565
+by the sum of the punitive or exemplary damages awards 566
+previously rendered against that defendant in any state or 567
+federal court. The court shall not inform the jury about the 568
+court's determination and action under division (D)(5)(b)(ii) 569
+(D)(6)(b)(ii) of this section. 570
+(6) (7) Division (D)(2) of this section does not apply to 571
+a tort action where the alleged injury, death, or loss to person 572
+or property resulted from the defendant acting with one or more 573
+of the culpable mental states of purposely and knowingly as 574
+described in section 2901.22 of the Revised Code and when the 575
+defendant has been convicted of or pleaded guilty to a criminal 576
+offense that is a felony, that had as an element of the offense 577
+S. B. No. 292 Page 21
+As Introduced
+one or more of the culpable mental states of purposely and 578
+knowingly as described in that section, and that is the basis of 579
+the tort action. 580
+(E) This section does not apply to tort actions against 581
+the state in the court of claims, including, but not limited to, 582
+tort actions against a state university or college that are 583
+subject to division (B)(1) of section 3345.40 of the Revised 584
+Code, to tort actions against political subdivisions of this 585
+state that are commenced under or are subject to Chapter 2744. 586
+of the Revised Code, or to the extent that another section of 587
+the Revised Code expressly provides any of the following: 588
+(1) Punitive or exemplary damages are recoverable from a 589
+defendant in question in a tort action on a basis other than 590
+that the actions or omissions of that defendant demonstrate 591
+malice or aggravated or egregious fraud or on a basis other than 592
+that the defendant in question as principal or master knowingly 593
+authorized, participated in, or ratified actions or omissions of 594
+an agent or servant that so demonstrate. 595
+(2) Punitive or exemplary damages are recoverable from a 596
+defendant in question in a tort action irrespective of whether 597
+the plaintiff in question has adduced proof of actual damages. 598
+(3) The burden of proof upon a plaintiff in question to 599
+recover punitive or exemplary damages from a defendant in 600
+question in a tort action is one other than clear and convincing 601
+evidence. 602
+(4) Punitive or exemplary damages are not recoverable from 603
+a defendant in question in a tort action. 604
+(F) If the trier of fact is a jury, the court shall not 605
+instruct the jury with respect to the limits on punitive or 606
+S. B. No. 292 Page 22
+As Introduced
+exemplary damages pursuant to division (D) of this section, and 607
+neither counsel for any party or a witness shall inform the jury 608
+or potential jurors of those limits. 609
+(G) When determining the amount of an award of punitive or 610
+exemplary damages against either a home or a residential 611
+facility licensed under section 5123.19 of the Revised Code, the 612
+trier of fact shall consider all of the following: 613
+(1) The ability of the home or residential facility to pay 614
+the award of punitive or exemplary damages based on the home's 615
+or residential facility's assets, income, and net worth; 616
+(2) Whether the amount of punitive or exemplary damages is 617
+sufficient to deter future tortious conduct; 618
+(3) The financial ability of the home or residential 619
+facility, both currently and in the future, to provide 620
+accommodations, personal care services, and skilled nursing 621
+care. 622
+Sec. 2323.43. (A) In a civil action upon a medical, 623
+dental, optometric, or chiropractic claim to recover damages for 624
+injury, death, or loss to person or property, all of the 625
+following apply: 626
+(1) There shall not be any limitation on compensatory 627
+damages that represent the economic loss of the person who is 628
+awarded the damages in the civil action. 629
+(2) Except as otherwise provided in division (A)(3) of 630
+this section and subject to division (A)(4) of this section, the 631
+amount of compensatory damages that represents damages for 632
+noneconomic loss that is recoverable in a civil action under 633
+this section to recover damages for injury, death, or loss to 634
+person or property shall not exceed the greater of two hundred 635
+S. B. No. 292 Page 23
+As Introduced
+fifty four hundred fifteen thousand dollars or an amount that is 636
+equal to three times the plaintiff's economic loss, as 637
+determined by the trier of fact, to a maximum of three hundred 638
+fifty five hundred eighty thousand dollars for each plaintiff or 639
+a maximum of five hundred eight hundred thirty thousand dollars 640
+for each occurrence. 641
+(3) The amount recoverable for noneconomic loss in a civil 642
+action under this section may exceed the amount described in 643
+division (A)(2) of this section but shall not exceed five 644
+hundred thousand dollars for each plaintiff or one million 645
+dollars for each occurrence There shall not be any limitation on 646
+the amount of compensatory damages that represents damages for 647
+noneconomic loss that is recoverable in a civil action under 648
+this section if the noneconomic losses of the plaintiff are for 649
+either of the following: 650
+(a) Permanent and substantial physical deformity, loss of 651
+use of a limb, or loss of a bodily organ system; 652
+(b) Permanent physical functional injury that permanently 653
+prevents the injured person from being able to independently 654
+care for self and perform life sustaining activities. 655
+(4)(a) In January of each year, the department of 656
+taxation, in accordance with this division and division (A)(4) 657
+(b) of this section, shall adjust each of the actual dollar 658
+figures specified in division (A)(2) of this section or each of 659
+the actual dollar amounts determined pursuant to this division 660
+and division (A)(4)(b) of this section. The adjustment shall be 661
+based on the percentage increase in the consumer price index as 662
+determined by the United States bureau of labor statistics (U.S. 663
+city average, all urban consumers) for the twelve-month period 664
+ending on the thirtieth day of June of the immediately preceding 665
+S. B. No. 292 Page 24
+As Introduced
+calendar year. If the consumer price index for that period did 666
+not increase, no increase shall be made under this division and 667
+division (A)(4)(b) of this section. 668
+(b) The department of taxation shall calculate the 669
+adjustments under division (A)(4)(a) of this section on or 670
+before the thirty-first day of January of each calendar year. 671
+The first adjustments shall be made in January following one 672
+year after the effective date of this amendment. 673
+(c) The department of taxation shall certify the 674
+calculations made under division (A)(4)(b) of this section on or 675
+before the thirty-first day of January of each calendar year. 676
+(d) On or before the fifteenth day of February of each 677
+year, the department of taxation shall prepare a report setting 678
+forth the amounts of the adjustments calculated under divisions 679
+(A)(4)(a) and (b) of this section and certified under division 680
+(A)(4)(c) of this section. 681
+(e) The report shall contain an indication of the period 682
+in which the calculated amounts apply, a summary of how the 683
+amounts were calculated, and a statement that the report and all 684
+related documents are available for inspection and copying at 685
+the office of the department of taxation. 686
+(f) On or before the fifteenth day of February of each 687
+year, the department of taxation shall transmit the report to 688
+the general assembly. 689
+(g) On the fifteenth day of February of each year, each of 690
+the dollar amounts of the adjustments set forth in the report of 691
+the department of taxation under division (A)(4)(d) of this 692
+
+Section 24:
+section shall replace each corresponding dollar figure set forth 693
+in division (A)(2) of this section and the corresponding actual 694
+S. B. No. 292 Page 25
+As Introduced
+dollar amount determined pursuant to divisions (A)(4)(a) and (b) 695
+of this section, whichever is applicable, for the period in 696
+which the calculated amounts apply as indicated in the report of 697
+the department of taxation under division (A)(4)(e) of this 698
+
+Section 25:
+section. 699
+(B) If a trial is conducted in a civil action upon a 700
+medical, dental, optometric, or chiropractic claim to recover 701
+damages for injury, death, or loss to person or property and a 702
+plaintiff prevails with respect to that claim, the court in a 703
+nonjury trial shall make findings of fact, and the jury in a 704
+jury trial shall return a general verdict accompanied by answers 705
+to interrogatories, that shall specify all of the following: 706
+(1) The total compensatory damages recoverable by the 707
+plaintiff; 708
+(2) The portion of the total compensatory damages that 709
+represents damages for economic loss; 710
+(3) The portion of the total compensatory damages that 711
+represents damages for noneconomic loss. 712
+(C)(1) After the trier of fact in a civil action upon a 713
+medical, dental, optometric, or chiropractic claim to recover 714
+damages for injury, death, or loss to person or property 715
+complies with division (B) of this section, the court shall 716
+enter a judgment in favor of the plaintiff for compensatory 717
+damages for economic loss in the amount determined pursuant to 718
+division (B)(2) of this section, and, subject to division (D)(1) 719
+of this section, the court shall enter a judgment in favor of 720
+the plaintiff for compensatory damages for noneconomic loss. In 721
+no event shall a judgment for compensatory damages for 722
+noneconomic loss exceed the maximum recoverable amount that 723
+S. B. No. 292 Page 26
+As Introduced
+represents damages for noneconomic loss as provided in divisions 724
+division (A)(2) and (3) of this section or as adjusted and 725
+calculated as provided in division (A)(4) of this section. 726
+Division (A) of this section shall be applied in a jury trial 727
+only after the jury has made its factual findings and 728
+determination as to the damages. 729
+(2) Prior to the trial in the civil action, any party may 730
+seek summary judgment with respect to the nature of the alleged 731
+injury or loss to person or property, seeking a determination of 732
+the damages as described in division (A)(2) or (3) of this 733
+
+Section 26:
+section or as adjusted and calculated as provided in division 734
+(A)(4) of this section. 735
+(D)(1) A court of common pleas has no jurisdiction to 736
+enter judgment on an award of compensatory damages for 737
+noneconomic loss in excess of the limits set forth, or the 738
+adjustments and calculations provided, in this section. 739
+(2) If the trier of fact is a jury, the court shall not 740
+instruct the jury with respect to the limit on compensatory 741
+damages for noneconomic loss described in divisions division (A) 742
+(2) and (3) of this section or as adjusted and calculated as 743
+provided in division (A)(4) of this section, and neither counsel 744
+for any party nor a witness shall inform the jury or potential 745
+jurors of that limit. 746
+(E) Any excess amount of compensatory damages for 747
+noneconomic loss that is greater than the applicable amount 748
+specified in division (A)(2) or (3) of this section or the 749
+applicable amount of the adjustment and calculation as provided 750
+in division (A)(4) of this section shall not be reallocated to 751
+any other tortfeasor beyond the amount of compensatory damages 752
+that that tortfeasor would otherwise be responsible for under 753
+S. B. No. 292 Page 27
+As Introduced
+the laws of this state. 754
+(F)(1) If pursuant to a contingency fee agreement between 755
+an attorney and a plaintiff in a civil action upon a medical 756
+claim, dental claim, optometric claim, or chiropractic claim, 757
+the amount of the attorney's fees exceed the applicable amount 758
+of the limits on compensatory damages for noneconomic loss as 759
+provided in division (A)(2) or (3) of this section or as 760
+adjusted and calculated as provided in division (A)(4) of this 761
+
+Section 27:
+section, the attorney shall make an application in the probate 762
+court of the county in which the civil action was commenced or 763
+in which the settlement was entered. The application shall 764
+contain a statement of facts, including the amount to be 765
+allocated to the settlement of the claim, the amount of the 766
+settlement or judgment that represents the compensatory damages 767
+for economic loss and noneconomic loss, the relevant provision 768
+in the contingency fee agreement, and the dollar amount of the 769
+attorney's fees under the contingency fee agreement. The 770
+application shall include the proposed distribution of the 771
+amount of the judgment or settlement. 772
+(2) The attorney shall give written notice of the hearing 773
+and a copy of the application to all interested persons who have 774
+not waived notice of the hearing. Notwithstanding the waivers 775
+and consents of the interested persons, the probate court shall 776
+retain jurisdiction over the settlement, allocation, and 777
+distribution of the claim. 778
+(3) The application shall state the arrangements, if any, 779
+that have been made with respect to the attorney's fees. The 780
+attorney's fees shall be subject to the approval of the probate 781
+court. 782
+(G) This section does not apply to any of the following: 783
+S. B. No. 292 Page 28
+As Introduced
+(1) Civil actions upon a medical, dental, optometric, or 784
+chiropractic claim that are brought against the state in the 785
+court of claims, including, but not limited to, those actions in 786
+which a state university or college is a defendant and to which 787
+division divisions (B)(3) and (4) of section 3345.40 of the 788
+Revised Code appliesapply; 789
+(2) Civil actions upon a medical, dental, optometric, or 790
+chiropractic claim that are brought against political 791
+subdivisions of this state and that are commenced under or are 792
+subject to Chapter 2744. of the Revised Code. Division (C) of 793
+
+Section 28:
+section 2744.05 of the Revised Code applies to recoverable 794
+damages in those actions; 795
+(3) Wrongful death actions brought pursuant to Chapter 796
+
+Section 29:
+2125. of the Revised Code. 797
+(H) As used in this section: 798
+(1) "Economic loss" means any of the following types of 799
+pecuniary harm: 800
+(a) All wages, salaries, or other compensation lost as a 801
+result of an injury, death, or loss to person or property that 802
+is a subject of a civil action upon a medical, dental, 803
+optometric, or chiropractic claim; 804
+(b) All expenditures for medical care or treatment, 805
+rehabilitation services, or other care, treatment, services, 806
+products, or accommodations as a result of an injury, death, or 807
+loss to person or property that is a subject of a civil action 808
+upon a medical, dental, optometric, or chiropractic claim; 809
+(c) Any other expenditures incurred as a result of an 810
+injury, death, or loss to person or property that is a subject 811
+of a civil action upon a medical, dental, optometric, or 812
+S. B. No. 292 Page 29
+As Introduced
+chiropractic claim, other than attorney's fees incurred in 813
+connection with that action. 814
+(2) "Medical claim," "dental claim," "optometric claim," 815
+and "chiropractic claim" have the same meanings as in section 816
+
+Section 30:
+2305.113 of the Revised Code. 817
+(3) "Noneconomic loss" means nonpecuniary harm that 818
+results from an injury, death, or loss to person or property 819
+that is a subject of a civil action upon a medical, dental, 820
+optometric, or chiropractic claim, including, but not limited 821
+to, pain and suffering, loss of society, consortium, 822
+companionship, care, assistance, attention, protection, advice, 823
+guidance, counsel, instruction, training, or education, 824
+disfigurement, mental anguish, and any other intangible loss. 825
+(4) "Trier of fact" means the jury or, in a nonjury 826
+action, the court. 827
+Sec. 2744.05. Notwithstanding any other provisions of the 828
+Revised Code or rules of a court to the contrary, in an action 829
+against a political subdivision to recover damages for injury, 830
+death, or loss to person or property caused by an act or 831
+omission in connection with a governmental or proprietary 832
+function: 833
+(A) Punitive or exemplary damages shall not be awarded. 834
+(B)(1) If a claimant receives or is entitled to receive 835
+benefits for injuries or loss allegedly incurred from a policy 836
+or policies of insurance or any other source, the benefits shall 837
+be disclosed to the court, and the amount of the benefits shall 838
+be deducted from any award against a political subdivision 839
+recovered by that claimant. No insurer or other person is 840
+entitled to bring an action under a subrogation provision in an 841
+S. B. No. 292 Page 30
+As Introduced
+insurance or other contract against a political subdivision with 842
+respect to those benefits. 843
+The amount of the benefits shall be deducted from an award 844
+against a political subdivision under division (B)(1) of this 845
+
+Section 31:
+section regardless of whether the claimant may be under an 846
+obligation to pay back the benefits upon recovery, in whole or 847
+in part, for the claim. A claimant whose benefits have been 848
+deducted from an award under division (B)(1) of this section is 849
+not considered fully compensated and shall not be required to 850
+reimburse a subrogated claim for benefits deducted from an award 851
+pursuant to division (B)(1) of this section. 852
+(2) Nothing in division (B)(1) of this section shall be 853
+construed to do either of the following: 854
+(a) Limit the rights of a beneficiary under a life 855
+insurance policy or the rights of sureties under fidelity or 856
+surety bonds; 857
+(b) Prohibit the department of medicaid from recovering 858
+from the political subdivision, pursuant to section 5160.37 of 859
+the Revised Code, the cost of medical assistance provided under 860
+a medical assistance program. 861
+(C)(1) There shall not be any limitation on compensatory 862
+damages that represent the actual loss of the person who is 863
+awarded the damages. However, except in wrongful death actions 864
+brought pursuant to Chapter 2125. of the Revised Code, and 865
+subject to division (C)(2) of this section, damages that arise 866
+from the same cause of action, transaction or occurrence, or 867
+series of transactions or occurrences and that do not represent 868
+the actual loss of the person who is awarded the damages shall 869
+not exceed two hundred fifty four hundred fifteen thousand 870
+S. B. No. 292 Page 31
+As Introduced
+dollars in favor of any one person. The limitation on damages 871
+that do not represent the actual loss of the person who is 872
+awarded the damages provided in this division does not apply to 873
+court costs that are awarded to a plaintiff, or to interest on a 874
+judgment rendered in favor of a plaintiff, in an action against 875
+a political subdivision. 876
+(2)(2)(a) In January of each year, the department of 877
+taxation, in accordance with this division and division (C)(2) 878
+(b) of this section, shall adjust the dollar figure specified in 879
+division (C)(1) of this section or the actual dollar amount 880
+determined pursuant to this division and division (C)(2)(b) of 881
+this section. The adjustment shall be based on the percentage 882
+increase in the consumer price index as determined by the United 883
+States bureau of labor statistics (U.S. city average, all urban 884
+consumers) for the twelve-month period ending on the thirtieth 885
+day of June of the immediately preceding calendar year. If the 886
+consumer price index for that period did not increase, no 887
+increase shall be made under this division and division (C)(2) 888
+(b) of this section. 889
+(b) The department of taxation shall calculate the 890
+adjustment under division (C)(2)(a) of this section on or before 891
+the thirty-first day of January of each calendar year. The first 892
+adjustment shall be made in January following one year after the 893
+effective date of this amendment. 894
+(c) The department of taxation shall certify the 895
+calculation made under division (C)(2)(b) of this section on or 896
+before the thirty-first day of January of each calendar year. 897
+(d) On or before the fifteenth day of February of each 898
+year, the department of taxation shall prepare a report setting 899
+forth the amount of the adjustment calculated under divisions 900
+S. B. No. 292 Page 32
+As Introduced
+(C)(2)(a) and (b) of this section and certified under division 901
+(C)(2)(c) of this section. 902
+(e) The report shall contain an indication of the period 903
+in which the calculated amount applies, a summary of how the 904
+amount was calculated, and a statement that the report and all 905
+related documents are available for inspection and copying at 906
+the office of the department of taxation. 907
+(f) On or before the fifteenth day of February of each 908
+year, the department of taxation shall transmit the report to 909
+the general assembly. 910
+(g) On the fifteenth day of February of each year, the 911
+dollar amount of the adjustment set forth in the report of the 912
+department of taxation under division (C)(2)(d) of this section 913
+shall replace the dollar figure set forth in division (C)(1) of 914
+this section or the actual dollar amount determined pursuant to 915
+division (C)(2)(a) and (b) of this section, whichever is 916
+applicable, for the period in which the calculated amount 917
+applies as indicated in the report of the department of taxation 918
+under division (C)(2)(e) of this section. 919
+(3) As used in this division, "the actual loss of the 920
+person who is awarded the damages" includes all of the 921
+following: 922
+(a) All wages, salaries, or other compensation lost by the 923
+person injured as a result of the injury, including wages, 924
+salaries, or other compensation lost as of the date of a 925
+judgment and future expected lost earnings of the person 926
+injured; 927
+(b) All expenditures of the person injured or another 928
+person on behalf of the person injured for medical care or 929
+S. B. No. 292 Page 33
+As Introduced
+treatment, for rehabilitation services, or for other care, 930
+treatment, services, products, or accommodations that were 931
+necessary because of the injury; 932
+(c) All expenditures to be incurred in the future, as 933
+determined by the court, by the person injured or another person 934
+on behalf of the person injured for medical care or treatment, 935
+for rehabilitation services, or for other care, treatment, 936
+services, products, or accommodations that will be necessary 937
+because of the injury; 938
+(d) All expenditures of a person whose property was 939
+injured or destroyed or of another person on behalf of the 940
+person whose property was injured or destroyed in order to 941
+repair or replace the property that was injured or destroyed; 942
+(e) All expenditures of the person injured or of the 943
+person whose property was injured or destroyed or of another 944
+person on behalf of the person injured or of the person whose 945
+property was injured or destroyed in relation to the actual 946
+preparation or presentation of the claim involved; 947
+(f) Any other expenditures of the person injured or of the 948
+person whose property was injured or destroyed or of another 949
+person on behalf of the person injured or of the person whose 950
+property was injured or destroyed that the court determines 951
+represent an actual loss experienced because of the personal or 952
+property injury or property loss. 953
+"The actual loss of the person who is awarded the damages" 954
+does not include any fees paid or owed to an attorney for any 955
+services rendered in relation to a personal or property injury 956
+or property loss, and does not include any damages awarded for 957
+pain and suffering, for the loss of society, consortium, 958
+S. B. No. 292 Page 34
+As Introduced
+companionship, care, assistance, attention, protection, advice, 959
+guidance, counsel, instruction, training, or education of the 960
+person injured, for mental anguish, or for any other intangible 961
+loss. 962
+Sec. 3345.40. (A) As used in this section: 963
+(1) "State university or college" has the same meaning as 964
+in division (A)(1) of section 3345.12 of the Revised Code. 965
+(2)(a) "The actual loss of the person who is awarded the 966
+damages" includes all of the following: 967
+(i) All wages, salaries, or other compensation lost by an 968
+injured person as a result of the injury, including wages, 969
+salaries, or other compensation lost as of the date of a 970
+judgment and future expected lost earnings of the injured 971
+person; 972
+(ii) All expenditures of an injured person or of another 973
+person on behalf of an injured person for medical care or 974
+treatment, for rehabilitation services, or for other care, 975
+treatment, services, products, or accommodations that were 976
+necessary because of the injury; 977
+(iii) All expenditures to be incurred in the future, as 978
+determined by the court, by an injured person or by another 979
+person on behalf of an injured person for medical care or 980
+treatment, for rehabilitation services, or for other care, 981
+treatment, services, products, or accommodations that will be 982
+necessary because of the injury; 983
+(iv) All expenditures of a person whose property was 984
+injured or destroyed, or of another person on behalf of such a 985
+person, in order to repair or replace the property that was 986
+injured or destroyed; 987
+S. B. No. 292 Page 35
+As Introduced
+(v) All expenditures of an injured person, of a person 988
+whose property was injured or destroyed, or of another person on 989
+behalf of an injured person or a person whose property was 990
+injured or destroyed, in relation to the actual preparation or 991
+presentation of the claim of the person; 992
+(vi) Any other expenditures of an injured person, of a 993
+person whose property was injured or destroyed, or of another 994
+person on behalf of an injured person or a person whose property 995
+was injured or destroyed, that the court determines represent an 996
+actual loss experienced because of the personal or property 997
+injury or property loss. 998
+(b) "The actual loss of the person who is awarded the 999
+damages" does not include either of the following: 1000
+(i) Any fees paid or owed to an attorney for any services 1001
+rendered in relation to a person or property injury or property 1002
+loss; 1003
+(ii) Any damages awarded for pain and suffering, for the 1004
+loss of society, consortium, companionship, care, assistance, 1005
+attention, protection, advice, guidance, counsel, instruction, 1006
+training, or education of an injured person, for mental anguish, 1007
+or for any other intangible loss. 1008
+(B) Notwithstanding any other provision of the Revised 1009
+Code or rules of a court to the contrary, in an action against a 1010
+state university or college to recover damages for injury, 1011
+death, or loss to persons or property caused by an act or 1012
+omission of the state university or college itself, by an act or 1013
+omission of any trustee, officer, or employee of the state 1014
+university or college while acting within the scope of his 1015
+employment or official responsibilities, or by an act or 1016
+S. B. No. 292 Page 36
+As Introduced
+omission of any other person authorized to act on behalf of the 1017
+state university or college that occurred while he the person 1018
+was engaged in activities at the request or direction, or for 1019
+the benefit, of the state university or college, the following 1020
+rules shall apply: 1021
+(1) Punitive or exemplary damages shall not be awarded; 1022
+(2) If a plaintiff receives or is entitled to receive 1023
+benefits for injuries or loss allegedly incurred from a policy 1024
+or policies of insurance or any other source, the benefits shall 1025
+be disclosed to the court, and the amount of the benefits shall 1026
+be deducted from any award against the state university or 1027
+college recovered by the plaintiff. No insurer or other person 1028
+is entitled to bring a civil action under a subrogation 1029
+provision in an insurance or other contract against a state 1030
+university or college with respect to such benefits. 1031
+Nothing in this division affects or shall be construed to 1032
+limit the rights of a beneficiary under a life insurance policy 1033
+or the rights of sureties under fidelity or surety bonds. 1034
+(3) There shall not be any limitation on compensatory 1035
+damages that represent the actual loss of the person who is 1036
+awarded the damages. However, except in wrongful death actions 1037
+brought pursuant to Chapter 2125. of the Revised Code, and 1038
+subject to division (B)(4) of this section, damages that arise 1039
+from the same cause of action, transaction or occurrence, or 1040
+series of transactions or occurrences and that do not represent 1041
+the actual loss of the person who is awarded the damages shall 1042
+not exceed two hundred fifty four hundred fifteen thousand 1043
+dollars in favor of any one person. The limitation on damages 1044
+that do not represent the actual loss of the person who is 1045
+awarded the damages provided in this division does not apply to 1046
+S. B. No. 292 Page 37
+As Introduced
+court costs that are awarded to a plaintiff, or to interest on a 1047
+judgment rendered in favor of a plaintiff, in an action against 1048
+a state university or college. 1049
+(4)(a) In January of each year, the department of 1050
+taxation, in accordance with this division and division (B)(4) 1051
+(b) of this section, shall adjust the dollar figure specified in 1052
+division (B)(3) of this section or the actual dollar amount 1053
+determined pursuant to this division and division (B)(4)(b) of 1054
+this section. The adjustment shall be based on the percentage 1055
+increase in the consumer price index as determined by the United 1056
+States bureau of labor statistics (U.S. city average, all urban 1057
+consumers) for the twelve-month period ending on the thirtieth 1058
+day of June of the immediately preceding calendar year. If the 1059
+consumer price index for that period did not increase, no 1060
+increase shall be made under this division and division (B)(4) 1061
+(b) of this section. 1062
+(b) The department of taxation shall calculate the 1063
+adjustment under division (B)(4)(a) of this section on or before 1064
+the thirty-first day of January of each calendar year. The first 1065
+adjustment shall be made in January following one year after the 1066
+effective date of this amendment. 1067
+(c) The department of taxation shall certify the 1068
+calculation made under division (B)(4)(b) of this section on or 1069
+before the thirty-first day of January of each calendar year. 1070
+(d) On or before the fifteenth day of February of each 1071
+year, the department of taxation shall prepare a report setting 1072
+forth the amount of the adjustment calculated under divisions 1073
+(B)(4)(a) and (b) of this section and certified under division 1074
+(B)(4)(c) of this section. 1075
+S. B. No. 292 Page 38
+As Introduced
+(e) The report shall contain an indication of the period 1076
+in which the calculated amount applies, a summary of how the 1077
+amount was calculated, and a statement that the report and all 1078
+related documents are available for inspection and copying at 1079
+the office of the department of taxation. 1080
+(f) On or before the fifteenth day of February of each 1081
+year, the department of taxation shall transmit the report to 1082
+the general assembly. 1083
+(g) On the fifteenth day of February of each year, the 1084
+dollar amount of the adjustment set forth in the report of the 1085
+department of taxation under division (B)(4)(d) of this section 1086
+shall replace the dollar figure set forth in division (B)(3) of 1087
+this section or the actual dollar amount determined pursuant to 1088
+division (B)(4)(a) and (b) of this section, whichever is 1089
+applicable, for the period in which the calculated amount 1090
+applies as indicated in the report of the department of taxation 1091
+under division (B)(4)(e) of this section. 1092
+
+Section 32:
+Section 2. That existing sections 2305.01, 2307.80, 1093
+
+Section 33:
+2315.18, 2315.21, 2323.43, 2744.05, and 3345.40 of the Revised 1094
+Code are hereby repealed. 1095
+[DELETED: nS       .  1:1 1 1 1 1 1 1 1 1 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3.4 4 4 4 4.4 4 4 4 4 5 5]
+[DELETED: 2  5 5 5 5 5 5.5 5 6 6 6 6 6 6 6 6 6 6 7.7 7 7 7 7 7 7:7 7;8 8]
+[DELETED: 2 ;8 8;8 8;8 8 8;8 9;9 9 9 9 9 9.9 9 9 1 1 1 1:1 1 1 1 1 1 1]
+[DELETED: 2 .1 1 1 1 1 1 1.1 1 1 1 1 1 1 1.1:1 1 1.1 1 1.1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1:1 1.1 1]
+[DELETED: 2 :1 1 1;1 1 1 1;1 1 1 1.1 1 1.1 1 1 1 1 1 1.1 1.1 1.1 1 1]
+[DELETED: 2  1 1 1 2 2 2 2.2 2.2 2:2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2.2 2]
+[DELETED: 2  2 2 2:2 2;2 2 2.2 2)2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2]
+[DELETED: 2 .2 2 2 2 2.2 2 2 2 2.2 2 2.2 2 2 2 2 2 2 2 2 2.2 2 2:2 2;2]
+[DELETED: 2  2;2 2 2.2 2 2 2 2 2:2 2;2 2;2 2.3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 2  3 3 3.3 3 3 3 3 3 3.3 3 3 3.3 3 3 3 3 3.3 3 3 3)3 3 3 3 3.3]
+[DELETED: 2 :3 3 3 3 3;3 3 3 3 3.3 3.3 3 3 3 3 3 3.3:3 3.3:3 3 3;3 3]
+[DELETED: 2  3;3 3.3 3 3.3 3.3 3.3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3 3:3]
+[DELETED: 2  3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4 4 4]
+[DELETED: 2  4 4 4.4 4 4:4 4 4 4 4.4 4 4 4.4 4 4.4 4 4:4 4 4 4 4.4 4 4]
+[DELETED: 2  4 4 4 4 4)4.4 4 4.4 4)4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4.4 4 4]
+[DELETED: 2 .4 4 4 4 4.4 4 4 4 4.4 4 5.5 5 5 5 5 5 5 5 5.5 5 5 5.5 5 5]
+[DELETED: 2  5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5:5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5)5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5.5 5 5 5 5 5 5 5:5 5 5 5 5 5 5.5 5 5.5 5 6 6.6 6.6 6 6]
+[DELETED: 2  6 6.6 6 6 6:6 6 6;6 6;6 6 6 6.6 6 6 6:6 6 6.6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6.6 6 6 6 6 6 6 6 6:6 6;6 6 6.6 6)6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6.6 6 6 6 6.6 6 6.6 6 6 6 6.6 6 6 6 6.6 6 6.6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6.6 7 7 7 7 7 7:7 7;7 7;7 7.7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 2  7 7 7 7 7.7 7 7 7 7 7.7 7 7 7.7 7 7)7 7 7 7.7 7 7 7 7 7 7 7]
+[DELETED: 2 .7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7.7 7 7 7.7:7]
+[DELETED: 2  7 7 7 7 7;7 7 7 7 7 7;7 7.7:7 7:8 8 8 8;8 8 8 8 8;8 8 8 8]
+[DELETED: 2  8.8 8 8.8 8 8 8 8 8 8 8.8 8.8 8 8 8 8 8 8.8 8 8 8 8 8 8 8]
+[DELETED: 2  8.8 8 8 8 8 8 8 8 8.8 8:8 8 8;8 8 8 8.8 8 8 8 8 8 8 8 8 8]
+[DELETED: 2  8 8 8 8 8.8 8)8 8 8 8 8 8 8 8 8 8)8.8 8 8 8 8.8 8 8.8 8 8 9]
+[DELETED: 2  9.9 9 9 9 9.9 9 9.9 9 9 9 9 9 9 9 9.9 9 9:9 9 9 9 9;9 9 9]
+[DELETED: 2  9 9;9 9 9 9 9 9;9 9 9 9;9 9 9 9 9;9 9 9 9 9 9.9 9 9 9 9 9]
+[DELETED: 2  9 9 9.9:9 9.9 9:9 9 9 9 9;9 9 9 9 9;9 9 9 9 9 9;9 9 9 9;9]
+[DELETED: 2  9 9 9 9;9 9 9 9 9 9.9 9:1 1 1;1 1 1 1 1.1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1:1;1 1 1 1 1 1 1 1 1.1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1.1 1)1 1 1 1 1 1 1 1 1 1)1.1 1 1 1 1.1 1 1.1 1 1 1 1.1]
+[DELETED: 2  1 1 1 1.1 1 1.1 1 1 1 1 1 1 1 1.1 1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 292
+2025-2026
+Senator Blessing
+To amend sections 2305.01, 2307.80, 2315.18, 1
+2315.21, 2323.43, 2744.05, and 3345.40 of the 2
+Revised Code to increase the dollar caps on 3
+noneconomic damages and punitive or exemplary 4
+damages in civil actions and to provide a 5
+procedure for the Department of Taxation to make 6
+annual adjustments of those caps based on the 7
+consumer price index. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2305.01, 2307.80, 2315.18, 9
+2315.21, 2323.43, 2744.05, and 3345.40 of the Revised Code be 10
+amended to read as follows: 11
+Sec. 2305.01. Except as otherwise provided by this section 12
+or section 2305.03 of the Revised Code, the court of common 13
+pleas has original jurisdiction in all civil cases in which the 14
+sum or matter in dispute exceeds the exclusive original 15
+jurisdiction of county courts and appellate jurisdiction from 16
+the decisions of boards of county commissioners. The court of 17
+common pleas shall not have jurisdiction, in any tort action to 18
+which the amounts apply, to award punitive or exemplary damages 19
+that exceed the amounts set forth, or the adjusted amounts 20
+provided, in section 2315.21 of the Revised Code. The court of 21
+
+S. B. No. 292 Page 2
+As Introduced
+common pleas shall not have jurisdiction in any tort action to 22
+which the limits apply to enter judgment on an award of 23
+compensatory damages for noneconomic loss in excess of the 24
+limits set forth, or the adjusted amounts of the limits 25
+provided, in section 2315.18 of the Revised Code. 26
+The court of common pleas may on its own motion transfer 27
+for trial any action in the court to any municipal court in the 28
+county having concurrent jurisdiction of the subject matter of, 29
+and the parties to, the action, if the amount sought by the 30
+plaintiff does not exceed one thousand dollars and if the judge 31
+or presiding judge of the municipal court concurs in the 32
+proposed transfer. Upon the issuance of an order of transfer, 33
+the clerk of courts shall remove to the designated municipal 34
+court the entire case file. Any untaxed portion of the common 35
+pleas deposit for court costs shall be remitted to the municipal 36
+court by the clerk of courts to be applied in accordance with 37
+section 1901.26 of the Revised Code, and the costs taxed by the 38
+municipal court shall be added to any costs taxed in the common 39
+pleas court. 40
+The court of common pleas has jurisdiction in any action 41
+brought pursuant to division (I) of section 4781.40 of the 42
+Revised Code if the residential premises that are the subject of 43
+the action are located within the territorial jurisdiction of 44
+the court. 45
+The courts of common pleas of Adams, Athens, Belmont, 46
+Brown, Clermont, Columbiana, Gallia, Hamilton, Jefferson, 47
+Lawrence, Meigs, Monroe, Scioto, and Washington counties have 48
+jurisdiction beyond the north or northwest shore of the Ohio 49
+river extending to the opposite shore line, between the extended 50
+boundary lines of any adjacent counties or adjacent state. Each 51
+
+S. B. No. 292 Page 3
+As Introduced
+of those courts of common pleas has concurrent jurisdiction on 52
+the Ohio river with any adjacent court of common pleas that 53
+borders on that river and with any court of Kentucky or of West 54
+Virginia that borders on the Ohio river and that has 55
+jurisdiction on the Ohio river under the law of Kentucky or the 56
+law of West Virginia, whichever is applicable, or under federal 57
+law. 58
+Sec. 2307.80. (A) Subject to divisions (C) and (D) of this 59
+section, punitive or exemplary damages shall not be awarded 60
+against a manufacturer or supplier in question in connection 61
+with a product liability claim unless the claimant establishes, 62
+by clear and convincing evidence, that harm for which the 63
+claimant is entitled to recover compensatory damages in 64
+accordance with section 2307.73 or 2307.78 of the Revised Code 65
+was the result of misconduct of the manufacturer or supplier in 66
+question that manifested a flagrant disregard of the safety of 67
+persons who might be harmed by the product in question. The fact 68
+by itself that a product is defective does not establish a 69
+flagrant disregard of the safety of persons who might be harmed 70
+by that product. 71
+(B) Whether the trier of fact is a jury or the court, if 72
+the trier of fact determines that a manufacturer or supplier in 73
+question is liable for punitive or exemplary damages in 74
+connection with a product liability claim, the amount of those 75
+damages shall be determined by the court. In determining the 76
+amount of punitive or exemplary damages, the court shall 77
+consider factors including, but not limited to, the following: 78
+(1) The likelihood that serious harm would arise from the 79
+misconduct of the manufacturer or supplier in question; 80
+(2) The degree of the awareness of the manufacturer or 81
+
+S. B. No. 292 Page 4
+As Introduced
+supplier in question of that likelihood; 82
+(3) The profitability of the misconduct to the 83
+manufacturer or supplier in question; 84
+(4) The duration of the misconduct and any concealment of 85
+it by the manufacturer or supplier in question; 86
+(5) The attitude and conduct of the manufacturer or 87
+supplier in question upon the discovery of the misconduct and 88
+whether the misconduct has terminated; 89
+(6) The financial condition of the manufacturer or 90
+supplier in question; 91
+(7) The total effect of other punishment imposed or likely 92
+to be imposed upon the manufacturer or supplier in question as a 93
+result of the misconduct, including awards of punitive or 94
+exemplary damages to persons similarly situated to the claimant 95
+and the severity of criminal penalties to which the manufacturer 96
+or supplier in question has been or is likely to be subjected. 97
+(C)(1) Except as provided in division (C)(2) of this 98
+section, if a claimant alleges in a product liability claim that 99
+a drug or device caused harm to the claimant, the manufacturer 100
+of the drug or device shall not be liable for punitive or 101
+exemplary damages in connection with that product liability 102
+claim if the drug or device that allegedly caused the harm 103
+satisfies either of the following: 104
+(a) It was manufactured and labeled in relevant and 105
+material respects in accordance with the terms of an approval or 106
+license issued by the federal food and drug administration under 107
+the "Federal Food, Drug, and Cosmetic Act," 52 Stat. 1040 108
+(1938), 21 U.S.C. 301-392, as amended, or the "Public Health 109
+Service Act," 58 Stat. 682 (1944), 42 U.S.C. 201-300cc-15, as 110
+
+S. B. No. 292 Page 5
+As Introduced
+amended. 111
+(b) It was an over-the-counter drug marketed pursuant to 112
+federal regulations, was generally recognized as safe and 113
+effective and as not being misbranded pursuant to the applicable 114
+federal regulations, and satisfied in relevant and material 115
+respects each of the conditions contained in the applicable 116
+regulations and each of the conditions contained in an 117
+applicable monograph. 118
+(2) Division (C)(1) of this section does not apply if the 119
+claimant establishes, by a preponderance of the evidence, that 120
+the manufacturer fraudulently and in violation of applicable 121
+regulations of the food and drug administration withheld from 122
+the food and drug administration information known to be 123
+material and relevant to the harm that the claimant allegedly 124
+suffered or misrepresented to the food and drug administration 125
+information of that type. 126
+(3) For purposes of divisions (C) and (D) of this section: 127
+(a) "Drug" has the same meaning as in the "Federal Food, 128
+Drug, and Cosmetic Act," 52 Stat. 1040, 1041 (1938), 21 U.S.C. 129
+321(g)(1), as amended. 130
+(b) "Device" has the same meaning as in the "Federal Food, 131
+Drug, and Cosmetic Act," 52 Stat. 1040, 1041 (1938), 21 U.S.C. 132
+321(h), as amended. 133
+(D)(1) If a claimant alleges in a product liability claim 134
+that a product other than a drug or device caused harm to the 135
+claimant, the manufacturer or supplier of the product shall not 136
+be liable for punitive or exemplary damages in connection with 137
+the claim if the manufacturer or supplier fully complied with 138
+all applicable government safety and performance standards, 139
+
+S. B. No. 292 Page 6
+As Introduced
+whether or not designated as such by the government, relative to 140
+the product's manufacture or construction, the product's design 141
+or formulation, adequate warnings or instructions, and 142
+representations when the product left the control of the 143
+manufacturer or supplier, and the claimant's injury results from 144
+an alleged defect of a product's manufacture or construction, 145
+the product's design or formulation, adequate warnings or 146
+instructions, and representations for which there is an 147
+applicable government safety or performance standard. 148
+(2) Division (D)(1) of this section does not apply if the 149
+claimant establishes, by a preponderance of the evidence, that 150
+the manufacturer or supplier of the product other than a drug or 151
+device fraudulently and in violation of applicable government 152
+safety and performance standards, whether or not designated as 153
+such by the government, withheld from an applicable government 154
+agency information known to be material and relevant to the harm 155
+that the claimant allegedly suffered or misrepresented to an 156
+applicable government agency information of that type. 157
+(E) The bifurcated trial provisions of division (B) of 158
+section 2315.21 of the Revised Code, the ceiling on recoverable 159
+punitive or exemplary damages specified in division (D)(1) 160
+divisions (D)(2) and (3) of that section, and the provisions of 161
+division (D)(3) (D)(4) of that section apply to awards of 162
+punitive or exemplary damages under this section. 163
+Sec. 2315.18. (A) As used in this section and in section 164
+2315.19 of the Revised Code: 165
+(1) "Asbestos claim" has the same meaning as in section 166
+2307.91 of the Revised Code. 167
+(2) "Economic loss" means any of the following types of 168
+
+S. B. No. 292 Page 7
+As Introduced
+pecuniary harm: 169
+(a) All wages, salaries, or other compensation lost as a 170
+result of an injury or loss to person or property that is a 171
+subject of a tort action; 172
+(b) All expenditures for medical care or treatment, 173
+rehabilitation services, or other care, treatment, services, 174
+products, or accommodations as a result of an injury or loss to 175
+person or property that is a subject of a tort action; 176
+(c) Any other expenditures incurred as a result of an 177
+injury or loss to person or property that is a subject of a tort 178
+action, other than attorney's fees incurred in connection with 179
+that action. 180
+(3) "Medical claim," "dental claim," "optometric claim," 181
+and "chiropractic claim" have the same meanings as in section 182
+2305.113 of the Revised Code. 183
+(4) "Noneconomic loss" means nonpecuniary harm that 184
+results from an injury or loss to person or property that is a 185
+subject of a tort action, including, but not limited to, pain 186
+and suffering, loss of society, consortium, companionship, care, 187
+assistance, attention, protection, advice, guidance, counsel, 188
+instruction, training, or education, disfigurement, mental 189
+anguish, and any other intangible loss. 190
+(5) "Occurrence" means all claims resulting from or 191
+arising out of any one person's bodily injury. 192
+(6) "Product liability claim" has the same meaning as in 193
+section 2307.71 of the Revised Code. 194
+(7) "Tort action" means a civil action for damages for 195
+injury or loss to person or property. "Tort action" includes a 196
+
+S. B. No. 292 Page 8
+As Introduced
+civil action upon a product liability claim or an asbestos 197
+claim, a civil action based on an unlawful discriminatory 198
+practice relating to employment brought under section 4112.052 199
+of the Revised Code, and a civil action brought under section 200
+4112.14 of the Revised Code. "Tort action" does not include a 201
+civil action upon a medical claim, dental claim, optometric 202
+claim, or chiropractic claim or a civil action for damages for a 203
+breach of contract or another agreement between persons. 204
+(8) "Trier of fact" means the jury or, in a nonjury 205
+action, the court. 206
+(B) In a tort action to recover damages for injury or loss 207
+to person or property, all of the following apply: 208
+(1) There shall not be any limitation on the amount of 209
+compensatory damages that represents the economic loss of the 210
+person who is awarded the damages in the tort action. 211
+(2) Except as otherwise provided in division (B)(3) of 212
+this section and subject to division (B)(4) of this section, the 213
+amount of compensatory damages that represents damages for 214
+noneconomic loss that is recoverable in a tort action under this 215
+section to recover damages for injury or loss to person or 216
+property shall not exceed the greater of two hundred fifty four 217
+hundred fifteen thousand dollars or an amount that is equal to 218
+three times the economic loss, as determined by the trier of 219
+fact, of the plaintiff in that tort action to a maximum of three 220
+hundred fifty five hundred eighty thousand dollars for each 221
+plaintiff in that tort action or a maximum of five hundred eight 222
+hundred thirty thousand dollars for each occurrence that is the 223
+basis of that tort action. 224
+(3) There shall not be any limitation on the amount of 225
+
+S. B. No. 292 Page 9
+As Introduced
+compensatory damages that represents damages for noneconomic 226
+loss that is recoverable in a tort action to recover damages for 227
+injury or loss to person or property if the noneconomic losses 228
+of the plaintiff are for either of the following: 229
+(a) Permanent and substantial physical deformity, loss of 230
+use of a limb, or loss of a bodily organ system; 231
+(b) Permanent physical functional injury that permanently 232
+prevents the injured person from being able to independently 233
+care for self and perform life-sustaining activities. 234
+(4)(a) In January of each year, the department of 235
+taxation, in accordance with this division and division (B)(4) 236
+(b) of this section, shall adjust each of the actual dollar 237
+figures specified in division (B)(2) of this section or each of 238
+the actual dollar amounts determined pursuant to this division 239
+and division (B)(4)(b) of this section. The adjustment shall be 240
+based on the percentage increase in the consumer price index as 241
+determined by the United States bureau of labor statistics (U.S. 242
+city average, all urban consumers) for the twelve-month period 243
+ending on the thirtieth day of June of the immediately preceding 244
+calendar year. If the consumer price index for that period did 245
+not increase, no increase shall be made under this division and 246
+division (B)(4)(b) of this section. 247
+(b) The department of taxation shall calculate the 248
+adjustments under division (B)(4)(a) of this section on or 249
+before the thirty-first day of January of each calendar year. 250
+The first adjustments shall be made in January following one 251
+year after the effective date of this amendment. 252
+(c) The department of taxation shall certify the 253
+calculations made under division (B)(4)(b) of this section on or 254
+
+S. B. No. 292 Page 10
+As Introduced
+before the thirty-first day of January of each calendar year. 255
+(d) On or before the fifteenth day of February of each 256
+year, the department of taxation shall prepare a report setting 257
+forth the amounts of the adjustments calculated under divisions 258
+(B)(4)(a) and (b) of this section and certified under division 259
+(B)(4)(c) of this section. 260
+(e) The report shall contain an indication of the period 261
+in which the calculated amounts apply, a summary of how the 262
+amounts were calculated, and a statement that the report and all 263
+related documents are available for inspection and copying at 264
+the office of the department of taxation. 265
+(f) On or before the fifteenth day of February of each 266
+year, the department of taxation shall transmit the report to 267
+the general assembly. 268
+(g) On the fifteenth day of February of each year, each of 269
+the dollar amounts of the adjustments set forth in the report of 270
+the department of taxation under division (B)(4)(d) of this 271
+section shall replace each corresponding dollar figure set forth 272
+in division (B)(2) of this section or each of the corresponding 273
+actual dollar amounts determined pursuant to divisions (B)(4)(a) 274
+and (b) of this section, whichever is applicable, for the period 275
+in which the calculated amounts apply as indicated in the report 276
+of the department of taxation under division (B)(4)(e) of this 277
+section. 278
+(C) In determining an award of compensatory damages for 279
+noneconomic loss in a tort action, the trier of fact shall not 280
+consider any of the following: 281
+(1) Evidence of a defendant's alleged wrongdoing, 282
+misconduct, or guilt; 283
+
+S. B. No. 292 Page 11
+As Introduced
+(2) Evidence of the defendant's wealth or financial 284
+resources; 285
+(3) All other evidence that is offered for the purpose of 286
+punishing the defendant, rather than offered for a compensatory 287
+purpose. 288
+(D) If a trial is conducted in a tort action to recover 289
+damages for injury or loss to person or property and a plaintiff 290
+prevails in that action, the court in a nonjury trial shall make 291
+findings of fact, and the jury in a jury trial shall return a 292
+general verdict accompanied by answers to interrogatories, that 293
+shall specify all of the following: 294
+(1) The total compensatory damages recoverable by the 295
+plaintiff; 296
+(2) The portion of the total compensatory damages that 297
+represents damages for economic loss; 298
+(3) The portion of the total compensatory damages that 299
+represents damages for noneconomic loss. 300
+(E)(1) After the trier of fact in a tort action to recover 301
+damages for injury or loss to person or property complies with 302
+division (D) of this section, the court shall enter a judgment 303
+in favor of the plaintiff for compensatory damages for economic 304
+loss in the amount determined pursuant to division (D)(2) of 305
+this section, and, subject to division (F)(1) of this section, 306
+the court shall enter a judgment in favor of the plaintiff for 307
+compensatory damages for noneconomic loss. Except as provided in 308
+division (B)(3) of this section, in no event shall a judgment 309
+for compensatory damages for noneconomic loss exceed the maximum 310
+recoverable amount that represents damages for noneconomic loss 311
+as provided in division (B)(2) of this section or as adjusted 312
+
+S. B. No. 292 Page 12
+As Introduced
+and calculated as provided in division (B)(4) of this section. 313
+Division (B) of this section shall be applied in a jury trial 314
+only after the jury has made its factual findings and 315
+determination as to the damages. 316
+(2) Prior to the trial in the tort action described in 317
+division (D) of this section, any party may seek summary 318
+judgment with respect to the nature of the alleged injury or 319
+loss to person or property, seeking a determination of the 320
+damages as described in division (B)(2) of this section or as 321
+adjusted and calculated as provided in division (B)(4) of this 322
+section. 323
+(F)(1) A court of common pleas has no jurisdiction to 324
+enter judgment on an award of compensatory damages for 325
+noneconomic loss in excess of the limits set forth, or the 326
+adjustments and calculations provided, in this section. 327
+(2) If the trier of fact is a jury, the court shall not 328
+instruct the jury with respect to the limit on compensatory 329
+damages for noneconomic loss described in division (B)(2) of 330
+this section or adjusted and calculated as provided in division 331
+(B)(4) of this section, and neither counsel for any party nor a 332
+witness shall inform the jury or potential jurors of that limit. 333
+(G) With respect to a tort action to which division 334
+divisions (B)(2) and (4) of this section appliesapply, any 335
+excess amount of compensatory damages for noneconomic loss that 336
+is greater than the applicable amount specified in division (B) 337
+(2) of this section or the applicable amount of the adjustment 338
+and calculation as provided in division (B)(4) of this section 339
+shall not be reallocated to any other tortfeasor beyond the 340
+amount of compensatory damages that the tortfeasor would 341
+otherwise be responsible for under the laws of this state. 342
+
+S. B. No. 292 Page 13
+As Introduced
+(H) This section does not apply to any of the following: 343
+(1) Tort actions that are brought against the state in the 344
+court of claims, including, but not limited to, those actions in 345
+which a state university or college is a defendant and to which 346
+division divisions (B)(3) and (4) of section 3345.40 of the 347
+Revised Code appliesapply; 348
+(2) Tort actions that are brought against political 349
+subdivisions of this state and that are commenced under or are 350
+subject to Chapter 2744. of the Revised Code. Division (C) of 351
+section 2744.05 of the Revised Code applies to recoverable 352
+damages in those actions. 353
+(3) Wrongful death actions brought pursuant to Chapter 354
+2125. of the Revised Code. 355
+(I) If the provisions regarding the limits on compensatory 356
+damages for noneconomic loss set forth in division (B)(2) of 357
+this section or adjusted and calculated under division (B)(4) of 358
+this section have been determined to be unconstitutional, then 359
+division (C) of this section and section 2315.19 of the Revised 360
+Code shall govern the determination of an award of compensatory 361
+damages for noneconomic loss in a tort action. 362
+Sec. 2315.21. (A) As used in this section: 363
+(1) "Tort action" means a civil action for damages for 364
+injury or loss to person or property. 365
+(a) "Tort action" includes all of the following: 366
+(i) A product liability claim for damages for injury or 367
+loss to person or property that is subject to sections 2307.71 368
+to 2307.80 of the Revised Code; 369
+(ii) A civil action based on an unlawful discriminatory 370
+
+S. B. No. 292 Page 14
+As Introduced
+practice relating to employment brought under section 4112.052 371
+of the Revised Code; 372
+(iii) A civil action brought under section 4112.14 of the 373
+Revised Code. 374
+(b) "Tort action" does not include a civil action for 375
+damages for a breach of contract or another agreement between 376
+persons. 377
+(2) "Trier of fact" means the jury or, in a nonjury 378
+action, the court. 379
+(3) "Home" has the same meaning as in section 3721.10 of 380
+the Revised Code. 381
+(4) "Employer" includes, but is not limited to, a parent, 382
+subsidiary, affiliate, division, or department of the employer. 383
+If the employer is an individual, the individual shall be 384
+considered an employer under this section only if the subject of 385
+the tort action is related to the individual's capacity as an 386
+employer. 387
+(5) "Small employer" means an employer who employs not 388
+more than one hundred persons on a full-time permanent basis, 389
+or, if the employer is classified as being in the manufacturing 390
+sector by the North American industrial classification system, 391
+"small employer" means an employer who employs not more than 392
+five hundred persons on a full-time permanent basis. 393
+(B)(1) In a tort action that is tried to a jury and in 394
+which a plaintiff makes a claim for compensatory damages and a 395
+claim for punitive or exemplary damages, upon the motion of any 396
+party, the trial of the tort action shall be bifurcated as 397
+follows: 398
+
+S. B. No. 292 Page 15
+As Introduced
+(a) The initial stage of the trial shall relate only to 399
+the presentation of evidence, and a determination by the jury, 400
+with respect to whether the plaintiff is entitled to recover 401
+compensatory damages for the injury or loss to person or 402
+property from the defendant. During this stage, no party to the 403
+tort action shall present, and the court shall not permit a 404
+party to present, evidence that relates solely to the issue of 405
+whether the plaintiff is entitled to recover punitive or 406
+exemplary damages for the injury or loss to person or property 407
+from the defendant. 408
+(b) If the jury determines in the initial stage of the 409
+trial that the plaintiff is entitled to recover compensatory 410
+damages for the injury or loss to person or property from the 411
+defendant, evidence may be presented in the second stage of the 412
+trial, and a determination by that jury shall be made, with 413
+respect to whether the plaintiff additionally is entitled to 414
+recover punitive or exemplary damages for the injury or loss to 415
+person or property from the defendant. 416
+(2) In a tort action that is tried to a jury and in which 417
+a plaintiff makes a claim for both compensatory damages and 418
+punitive or exemplary damages, the court shall instruct the jury 419
+to return, and the jury shall return, a general verdict and, if 420
+that verdict is in favor of the plaintiff, answers to an 421
+interrogatory that specifies the total compensatory damages 422
+recoverable by the plaintiff from each defendant. 423
+(3) In a tort action that is tried to a court and in which 424
+a plaintiff makes a claim for both compensatory damages and 425
+punitive or exemplary damages, the court shall make its 426
+determination with respect to whether the plaintiff is entitled 427
+to recover compensatory damages for the injury or loss to person 428
+
+S. B. No. 292 Page 16
+As Introduced
+or property from the defendant and, if that determination is in 429
+favor of the plaintiff, shall make findings of fact that specify 430
+the total compensatory damages recoverable by the plaintiff from 431
+the defendant. 432
+(C) Subject to division (E) of this section, punitive or 433
+exemplary damages are not recoverable from a defendant in 434
+question in a tort action unless both of the following apply: 435
+(1) The actions or omissions of that defendant demonstrate 436
+malice or aggravated or egregious fraud, or that defendant as 437
+principal or master knowingly authorized, participated in, or 438
+ratified actions or omissions of an agent or servant that so 439
+demonstrate. 440
+(2) The trier of fact has returned a verdict or has made a 441
+determination pursuant to division (B)(2) or (3) of this section 442
+of the total compensatory damages recoverable by the plaintiff 443
+from that defendant. 444
+(D)(1) In a tort action, the trier of fact shall determine 445
+the liability of any defendant for punitive or exemplary damages 446
+and the amount of those damages. 447
+(2) Except as provided in division (D)(6) (D)(7) of this 448
+section, all of the following apply regarding any award of 449
+punitive or exemplary damages in a tort action: 450
+(a) The court shall not enter judgment for punitive or 451
+exemplary damages in excess of two times the amount of the 452
+compensatory damages awarded to the plaintiff from that 453
+defendant, as determined pursuant to division (B)(2) or (3) of 454
+this section. 455
+(b) If Subject to division (D)(3) of this section, if the 456
+defendant is a small employer or individual, the court shall not 457
+
+S. B. No. 292 Page 17
+As Introduced
+enter judgment for punitive or exemplary damages in excess of 458
+the lesser of two times the amount of the compensatory damages 459
+awarded to the plaintiff from the defendant or ten per cent of 460
+the employer's or individual's net worth when the tort was 461
+committed up to a maximum of three hundred fifty five hundred 462
+eighty thousand dollars, as determined pursuant to division (B) 463
+(2) or (3) of this section. 464
+(c) Any attorney's fees awarded as a result of a claim for 465
+punitive or exemplary damages shall not be considered for 466
+purposes of determining the cap on punitive damages. 467
+(3)(3)(a) In January of each year, the department of 468
+taxation, in accordance with this division and division (D)(3) 469
+(b) of this section, shall adjust the actual dollar figure 470
+specified in division (D)(2)(b) of this section or the actual 471
+dollar amount determined pursuant to this division and division 472
+(D)(3)(b) of this section. The adjustment shall be based on the 473
+percentage increase in the consumer price index as determined by 474
+the United States bureau of labor statistics (U.S. city average, 475
+all urban consumers) for the twelve-month period ending on the 476
+thirtieth day of June of the immediately preceding calendar 477
+year. If the consumer price index for that period did not 478
+increase, no increase shall be made under this division and 479
+division (D)(3)(b) of this section. 480
+(b) The department of taxation shall calculate the 481
+adjustment under division (D)(3)(a) of this section on or before 482
+the thirty-first day of January of each calendar year. The first 483
+adjustment shall be made in January following one year after the 484
+effective date of this amendment. 485
+(c) The department of taxation shall certify the 486
+calculation made under division (D)(3)(b) of this section on or 487
+
+S. B. No. 292 Page 18
+As Introduced
+before the thirty-first day of January of each calendar year. 488
+(d) On or before the fifteenth day of February of each 489
+year, the department of taxation shall prepare a report setting 490
+forth the amount of the adjustment calculated under divisions 491
+(D)(3)(a) and (b) of this section and certified under division 492
+(D)(3)(c) of this section. 493
+(e) The report shall contain an indication of the period 494
+in which the calculated amount applies, a summary of how the 495
+amount was calculated, and a statement that the report and all 496
+related documents are available for inspection and copying at 497
+the office of the department of taxation. 498
+(f) On or before the fifteenth day of February of each 499
+year, the department of taxation shall transmit the report to 500
+the general assembly. 501
+(g) On the fifteenth day of February of each year, the 502
+dollar amount of the adjustment set forth in the report of the 503
+department of taxation under division (D)(3)(d) of this section 504
+shall replace the dollar figure set forth in division (D)(2)(b) 505
+of this section or the actual dollar amount determined pursuant 506
+to divisions (D)(3)(a) and (b) of this section, whichever is 507
+applicable, for the period in which the calculated amount 508
+applies as indicated in the report of the department of taxation 509
+under division (D)(3)(e) of this section. 510
+(4) No award of prejudgment interest under division (C)(1) 511
+of section 1343.03 of the Revised Code shall include any 512
+prejudgment interest on punitive or exemplary damages found by 513
+the trier of fact. 514
+(4) (5) In a tort action, the burden of proof shall be 515
+upon a plaintiff in question, by clear and convincing evidence, 516
+
+S. B. No. 292 Page 19
+As Introduced
+to establish that the plaintiff is entitled to recover punitive 517
+or exemplary damages. 518
+(5)(a) (6)(a) In any tort action, except as provided in 519
+division (D)(5)(b) (D)(6)(b) or (6) (7) of this section, 520
+punitive or exemplary damages shall not be awarded against a 521
+defendant if that defendant files with the court a certified 522
+judgment, judgment entries, or other evidence showing that 523
+punitive or exemplary damages have already been awarded and have 524
+been collected, in any state or federal court, against that 525
+defendant based on the same act or course of conduct that is 526
+alleged to have caused the injury or loss to person or property 527
+for which the plaintiff seeks compensatory damages and that the 528
+aggregate of those previous punitive or exemplary damage awards 529
+exceeds the maximum amount of punitive or exemplary damages that 530
+may be awarded under division (D)(2) of this section or under 531
+the adjustment of that maximum amount as provided in division 532
+(D)(3) of this section, against that defendant in the tort 533
+action. 534
+(b) Notwithstanding division (D)(5)(a) (D)(6)(a) of this 535
+section and except as provided in division (D)(6) (D)(7) of this 536
+section, punitive or exemplary damages may be awarded against a 537
+defendant in either of the following types of tort actions: 538
+(i) In subsequent tort actions involving the same act or 539
+course of conduct for which punitive or exemplary damages have 540
+already been awarded, if the court determines by clear and 541
+convincing evidence that the plaintiff will offer new and 542
+substantial evidence of previously undiscovered, additional 543
+behavior of a type described in division (C) of this section on 544
+the part of that defendant, other than the injury or loss for 545
+which the plaintiff seeks compensatory damages. In that case, 546
+
+S. B. No. 292 Page 20
+As Introduced
+the court shall make specific findings of fact in the record to 547
+support its conclusion. The court shall reduce the amount of any 548
+punitive or exemplary damages otherwise awardable pursuant to 549
+this section by the sum of the punitive or exemplary damages 550
+awards previously rendered against that defendant in any state 551
+or federal court. The court shall not inform the jury about the 552
+court's determination and action under division (D)(5)(b)(i) (D) 553
+(6)(b)(i) of this section. 554
+(ii) In subsequent tort actions involving the same act or 555
+course of conduct for which punitive or exemplary damages have 556
+already been awarded, if the court determines by clear and 557
+convincing evidence that the total amount of prior punitive or 558
+exemplary damages awards was totally insufficient to punish that 559
+defendant's behavior of a type described in division (C) of this 560
+section and to deter that defendant and others from similar 561
+behavior in the future. In that case, the court shall make 562
+specific findings of fact in the record to support its 563
+conclusion. The court shall reduce the amount of any punitive or 564
+exemplary damages otherwise awardable pursuant to this section 565
+by the sum of the punitive or exemplary damages awards 566
+previously rendered against that defendant in any state or 567
+federal court. The court shall not inform the jury about the 568
+court's determination and action under division (D)(5)(b)(ii) 569
+(D)(6)(b)(ii) of this section. 570
+(6) (7) Division (D)(2) of this section does not apply to 571
+a tort action where the alleged injury, death, or loss to person 572
+or property resulted from the defendant acting with one or more 573
+of the culpable mental states of purposely and knowingly as 574
+described in section 2901.22 of the Revised Code and when the 575
+defendant has been convicted of or pleaded guilty to a criminal 576
+offense that is a felony, that had as an element of the offense 577
+
+S. B. No. 292 Page 21
+As Introduced
+one or more of the culpable mental states of purposely and 578
+knowingly as described in that section, and that is the basis of 579
+the tort action. 580
+(E) This section does not apply to tort actions against 581
+the state in the court of claims, including, but not limited to, 582
+tort actions against a state university or college that are 583
+subject to division (B)(1) of section 3345.40 of the Revised 584
+Code, to tort actions against political subdivisions of this 585
+state that are commenced under or are subject to Chapter 2744. 586
+of the Revised Code, or to the extent that another section of 587
+the Revised Code expressly provides any of the following: 588
+(1) Punitive or exemplary damages are recoverable from a 589
+defendant in question in a tort action on a basis other than 590
+that the actions or omissions of that defendant demonstrate 591
+malice or aggravated or egregious fraud or on a basis other than 592
+that the defendant in question as principal or master knowingly 593
+authorized, participated in, or ratified actions or omissions of 594
+an agent or servant that so demonstrate. 595
+(2) Punitive or exemplary damages are recoverable from a 596
+defendant in question in a tort action irrespective of whether 597
+the plaintiff in question has adduced proof of actual damages. 598
+(3) The burden of proof upon a plaintiff in question to 599
+recover punitive or exemplary damages from a defendant in 600
+question in a tort action is one other than clear and convincing 601
+evidence. 602
+(4) Punitive or exemplary damages are not recoverable from 603
+a defendant in question in a tort action. 604
+(F) If the trier of fact is a jury, the court shall not 605
+instruct the jury with respect to the limits on punitive or 606
+
+S. B. No. 292 Page 22
+As Introduced
+exemplary damages pursuant to division (D) of this section, and 607
+neither counsel for any party or a witness shall inform the jury 608
+or potential jurors of those limits. 609
+(G) When determining the amount of an award of punitive or 610
+exemplary damages against either a home or a residential 611
+facility licensed under section 5123.19 of the Revised Code, the 612
+trier of fact shall consider all of the following: 613
+(1) The ability of the home or residential facility to pay 614
+the award of punitive or exemplary damages based on the home's 615
+or residential facility's assets, income, and net worth; 616
+(2) Whether the amount of punitive or exemplary damages is 617
+sufficient to deter future tortious conduct; 618
+(3) The financial ability of the home or residential 619
+facility, both currently and in the future, to provide 620
+accommodations, personal care services, and skilled nursing 621
+care. 622
+Sec. 2323.43. (A) In a civil action upon a medical, 623
+dental, optometric, or chiropractic claim to recover damages for 624
+injury, death, or loss to person or property, all of the 625
+following apply: 626
+(1) There shall not be any limitation on compensatory 627
+damages that represent the economic loss of the person who is 628
+awarded the damages in the civil action. 629
+(2) Except as otherwise provided in division (A)(3) of 630
+this section and subject to division (A)(4) of this section, the 631
+amount of compensatory damages that represents damages for 632
+noneconomic loss that is recoverable in a civil action under 633
+this section to recover damages for injury, death, or loss to 634
+person or property shall not exceed the greater of two hundred 635
+
+S. B. No. 292 Page 23
+As Introduced
+fifty four hundred fifteen thousand dollars or an amount that is 636
+equal to three times the plaintiff's economic loss, as 637
+determined by the trier of fact, to a maximum of three hundred 638
+fifty five hundred eighty thousand dollars for each plaintiff or 639
+a maximum of five hundred eight hundred thirty thousand dollars 640
+for each occurrence. 641
+(3) The amount recoverable for noneconomic loss in a civil 642
+action under this section may exceed the amount described in 643
+division (A)(2) of this section but shall not exceed five 644
+hundred thousand dollars for each plaintiff or one million 645
+dollars for each occurrence There shall not be any limitation on 646
+the amount of compensatory damages that represents damages for 647
+noneconomic loss that is recoverable in a civil action under 648
+this section if the noneconomic losses of the plaintiff are for 649
+either of the following: 650
+(a) Permanent and substantial physical deformity, loss of 651
+use of a limb, or loss of a bodily organ system; 652
+(b) Permanent physical functional injury that permanently 653
+prevents the injured person from being able to independently 654
+care for self and perform life sustaining activities. 655
+(4)(a) In January of each year, the department of 656
+taxation, in accordance with this division and division (A)(4) 657
+(b) of this section, shall adjust each of the actual dollar 658
+figures specified in division (A)(2) of this section or each of 659
+the actual dollar amounts determined pursuant to this division 660
+and division (A)(4)(b) of this section. The adjustment shall be 661
+based on the percentage increase in the consumer price index as 662
+determined by the United States bureau of labor statistics (U.S. 663
+city average, all urban consumers) for the twelve-month period 664
+ending on the thirtieth day of June of the immediately preceding 665
+
+S. B. No. 292 Page 24
+As Introduced
+calendar year. If the consumer price index for that period did 666
+not increase, no increase shall be made under this division and 667
+division (A)(4)(b) of this section. 668
+(b) The department of taxation shall calculate the 669
+adjustments under division (A)(4)(a) of this section on or 670
+before the thirty-first day of January of each calendar year. 671
+The first adjustments shall be made in January following one 672
+year after the effective date of this amendment. 673
+(c) The department of taxation shall certify the 674
+calculations made under division (A)(4)(b) of this section on or 675
+before the thirty-first day of January of each calendar year. 676
+(d) On or before the fifteenth day of February of each 677
+year, the department of taxation shall prepare a report setting 678
+forth the amounts of the adjustments calculated under divisions 679
+(A)(4)(a) and (b) of this section and certified under division 680
+(A)(4)(c) of this section. 681
+(e) The report shall contain an indication of the period 682
+in which the calculated amounts apply, a summary of how the 683
+amounts were calculated, and a statement that the report and all 684
+related documents are available for inspection and copying at 685
+the office of the department of taxation. 686
+(f) On or before the fifteenth day of February of each 687
+year, the department of taxation shall transmit the report to 688
+the general assembly. 689
+(g) On the fifteenth day of February of each year, each of 690
+the dollar amounts of the adjustments set forth in the report of 691
+the department of taxation under division (A)(4)(d) of this 692
+section shall replace each corresponding dollar figure set forth 693
+in division (A)(2) of this section and the corresponding actual 694
+
+S. B. No. 292 Page 25
+As Introduced
+dollar amount determined pursuant to divisions (A)(4)(a) and (b) 695
+of this section, whichever is applicable, for the period in 696
+which the calculated amounts apply as indicated in the report of 697
+the department of taxation under division (A)(4)(e) of this 698
+section. 699
+(B) If a trial is conducted in a civil action upon a 700
+medical, dental, optometric, or chiropractic claim to recover 701
+damages for injury, death, or loss to person or property and a 702
+plaintiff prevails with respect to that claim, the court in a 703
+nonjury trial shall make findings of fact, and the jury in a 704
+jury trial shall return a general verdict accompanied by answers 705
+to interrogatories, that shall specify all of the following: 706
+(1) The total compensatory damages recoverable by the 707
+plaintiff; 708
+(2) The portion of the total compensatory damages that 709
+represents damages for economic loss; 710
+(3) The portion of the total compensatory damages that 711
+represents damages for noneconomic loss. 712
+(C)(1) After the trier of fact in a civil action upon a 713
+medical, dental, optometric, or chiropractic claim to recover 714
+damages for injury, death, or loss to person or property 715
+complies with division (B) of this section, the court shall 716
+enter a judgment in favor of the plaintiff for compensatory 717
+damages for economic loss in the amount determined pursuant to 718
+division (B)(2) of this section, and, subject to division (D)(1) 719
+of this section, the court shall enter a judgment in favor of 720
+the plaintiff for compensatory damages for noneconomic loss. In 721
+no event shall a judgment for compensatory damages for 722
+noneconomic loss exceed the maximum recoverable amount that 723
+
+S. B. No. 292 Page 26
+As Introduced
+represents damages for noneconomic loss as provided in divisions 724
+division (A)(2) and (3) of this section or as adjusted and 725
+calculated as provided in division (A)(4) of this section. 726
+Division (A) of this section shall be applied in a jury trial 727
+only after the jury has made its factual findings and 728
+determination as to the damages. 729
+(2) Prior to the trial in the civil action, any party may 730
+seek summary judgment with respect to the nature of the alleged 731
+injury or loss to person or property, seeking a determination of 732
+the damages as described in division (A)(2) or (3) of this 733
+section or as adjusted and calculated as provided in division 734
+(A)(4) of this section. 735
+(D)(1) A court of common pleas has no jurisdiction to 736
+enter judgment on an award of compensatory damages for 737
+noneconomic loss in excess of the limits set forth, or the 738
+adjustments and calculations provided, in this section. 739
+(2) If the trier of fact is a jury, the court shall not 740
+instruct the jury with respect to the limit on compensatory 741
+damages for noneconomic loss described in divisions division (A) 742
+(2) and (3) of this section or as adjusted and calculated as 743
+provided in division (A)(4) of this section, and neither counsel 744
+for any party nor a witness shall inform the jury or potential 745
+jurors of that limit. 746
+(E) Any excess amount of compensatory damages for 747
+noneconomic loss that is greater than the applicable amount 748
+specified in division (A)(2) or (3) of this section or the 749
+applicable amount of the adjustment and calculation as provided 750
+in division (A)(4) of this section shall not be reallocated to 751
+any other tortfeasor beyond the amount of compensatory damages 752
+that that tortfeasor would otherwise be responsible for under 753
+
+S. B. No. 292 Page 27
+As Introduced
+the laws of this state. 754
+(F)(1) If pursuant to a contingency fee agreement between 755
+an attorney and a plaintiff in a civil action upon a medical 756
+claim, dental claim, optometric claim, or chiropractic claim, 757
+the amount of the attorney's fees exceed the applicable amount 758
+of the limits on compensatory damages for noneconomic loss as 759
+provided in division (A)(2) or (3) of this section or as 760
+adjusted and calculated as provided in division (A)(4) of this 761
+section, the attorney shall make an application in the probate 762
+court of the county in which the civil action was commenced or 763
+in which the settlement was entered. The application shall 764
+contain a statement of facts, including the amount to be 765
+allocated to the settlement of the claim, the amount of the 766
+settlement or judgment that represents the compensatory damages 767
+for economic loss and noneconomic loss, the relevant provision 768
+in the contingency fee agreement, and the dollar amount of the 769
+attorney's fees under the contingency fee agreement. The 770
+application shall include the proposed distribution of the 771
+amount of the judgment or settlement. 772
+(2) The attorney shall give written notice of the hearing 773
+and a copy of the application to all interested persons who have 774
+not waived notice of the hearing. Notwithstanding the waivers 775
+and consents of the interested persons, the probate court shall 776
+retain jurisdiction over the settlement, allocation, and 777
+distribution of the claim. 778
+(3) The application shall state the arrangements, if any, 779
+that have been made with respect to the attorney's fees. The 780
+attorney's fees shall be subject to the approval of the probate 781
+court. 782
+(G) This section does not apply to any of the following: 783
+
+S. B. No. 292 Page 28
+As Introduced
+(1) Civil actions upon a medical, dental, optometric, or 784
+chiropractic claim that are brought against the state in the 785
+court of claims, including, but not limited to, those actions in 786
+which a state university or college is a defendant and to which 787
+division divisions (B)(3) and (4) of section 3345.40 of the 788
+Revised Code appliesapply; 789
+(2) Civil actions upon a medical, dental, optometric, or 790
+chiropractic claim that are brought against political 791
+subdivisions of this state and that are commenced under or are 792
+subject to Chapter 2744. of the Revised Code. Division (C) of 793
+section 2744.05 of the Revised Code applies to recoverable 794
+damages in those actions; 795
+(3) Wrongful death actions brought pursuant to Chapter 796
+2125. of the Revised Code. 797
+(H) As used in this section: 798
+(1) "Economic loss" means any of the following types of 799
+pecuniary harm: 800
+(a) All wages, salaries, or other compensation lost as a 801
+result of an injury, death, or loss to person or property that 802
+is a subject of a civil action upon a medical, dental, 803
+optometric, or chiropractic claim; 804
+(b) All expenditures for medical care or treatment, 805
+rehabilitation services, or other care, treatment, services, 806
+products, or accommodations as a result of an injury, death, or 807
+loss to person or property that is a subject of a civil action 808
+upon a medical, dental, optometric, or chiropractic claim; 809
+(c) Any other expenditures incurred as a result of an 810
+injury, death, or loss to person or property that is a subject 811
+of a civil action upon a medical, dental, optometric, or 812
+
+S. B. No. 292 Page 29
+As Introduced
+chiropractic claim, other than attorney's fees incurred in 813
+connection with that action. 814
+(2) "Medical claim," "dental claim," "optometric claim," 815
+and "chiropractic claim" have the same meanings as in section 816
+2305.113 of the Revised Code. 817
+(3) "Noneconomic loss" means nonpecuniary harm that 818
+results from an injury, death, or loss to person or property 819
+that is a subject of a civil action upon a medical, dental, 820
+optometric, or chiropractic claim, including, but not limited 821
+to, pain and suffering, loss of society, consortium, 822
+companionship, care, assistance, attention, protection, advice, 823
+guidance, counsel, instruction, training, or education, 824
+disfigurement, mental anguish, and any other intangible loss. 825
+(4) "Trier of fact" means the jury or, in a nonjury 826
+action, the court. 827
+Sec. 2744.05. Notwithstanding any other provisions of the 828
+Revised Code or rules of a court to the contrary, in an action 829
+against a political subdivision to recover damages for injury, 830
+death, or loss to person or property caused by an act or 831
+omission in connection with a governmental or proprietary 832
+function: 833
+(A) Punitive or exemplary damages shall not be awarded. 834
+(B)(1) If a claimant receives or is entitled to receive 835
+benefits for injuries or loss allegedly incurred from a policy 836
+or policies of insurance or any other source, the benefits shall 837
+be disclosed to the court, and the amount of the benefits shall 838
+be deducted from any award against a political subdivision 839
+recovered by that claimant. No insurer or other person is 840
+entitled to bring an action under a subrogation provision in an 841
+
+S. B. No. 292 Page 30
+As Introduced
+insurance or other contract against a political subdivision with 842
+respect to those benefits. 843
+The amount of the benefits shall be deducted from an award 844
+against a political subdivision under division (B)(1) of this 845
+section regardless of whether the claimant may be under an 846
+obligation to pay back the benefits upon recovery, in whole or 847
+in part, for the claim. A claimant whose benefits have been 848
+deducted from an award under division (B)(1) of this section is 849
+not considered fully compensated and shall not be required to 850
+reimburse a subrogated claim for benefits deducted from an award 851
+pursuant to division (B)(1) of this section. 852
+(2) Nothing in division (B)(1) of this section shall be 853
+construed to do either of the following: 854
+(a) Limit the rights of a beneficiary under a life 855
+insurance policy or the rights of sureties under fidelity or 856
+surety bonds; 857
+(b) Prohibit the department of medicaid from recovering 858
+from the political subdivision, pursuant to section 5160.37 of 859
+the Revised Code, the cost of medical assistance provided under 860
+a medical assistance program. 861
+(C)(1) There shall not be any limitation on compensatory 862
+damages that represent the actual loss of the person who is 863
+awarded the damages. However, except in wrongful death actions 864
+brought pursuant to Chapter 2125. of the Revised Code, and 865
+subject to division (C)(2) of this section, damages that arise 866
+from the same cause of action, transaction or occurrence, or 867
+series of transactions or occurrences and that do not represent 868
+the actual loss of the person who is awarded the damages shall 869
+not exceed two hundred fifty four hundred fifteen thousand 870
+
+S. B. No. 292 Page 31
+As Introduced
+dollars in favor of any one person. The limitation on damages 871
+that do not represent the actual loss of the person who is 872
+awarded the damages provided in this division does not apply to 873
+court costs that are awarded to a plaintiff, or to interest on a 874
+judgment rendered in favor of a plaintiff, in an action against 875
+a political subdivision. 876
+(2)(2)(a) In January of each year, the department of 877
+taxation, in accordance with this division and division (C)(2) 878
+(b) of this section, shall adjust the dollar figure specified in 879
+division (C)(1) of this section or the actual dollar amount 880
+determined pursuant to this division and division (C)(2)(b) of 881
+this section. The adjustment shall be based on the percentage 882
+increase in the consumer price index as determined by the United 883
+States bureau of labor statistics (U.S. city average, all urban 884
+consumers) for the twelve-month period ending on the thirtieth 885
+day of June of the immediately preceding calendar year. If the 886
+consumer price index for that period did not increase, no 887
+increase shall be made under this division and division (C)(2) 888
+(b) of this section. 889
+(b) The department of taxation shall calculate the 890
+adjustment under division (C)(2)(a) of this section on or before 891
+the thirty-first day of January of each calendar year. The first 892
+adjustment shall be made in January following one year after the 893
+effective date of this amendment. 894
+(c) The department of taxation shall certify the 895
+calculation made under division (C)(2)(b) of this section on or 896
+before the thirty-first day of January of each calendar year. 897
+(d) On or before the fifteenth day of February of each 898
+year, the department of taxation shall prepare a report setting 899
+forth the amount of the adjustment calculated under divisions 900
+
+S. B. No. 292 Page 32
+As Introduced
+(C)(2)(a) and (b) of this section and certified under division 901
+(C)(2)(c) of this section. 902
+(e) The report shall contain an indication of the period 903
+in which the calculated amount applies, a summary of how the 904
+amount was calculated, and a statement that the report and all 905
+related documents are available for inspection and copying at 906
+the office of the department of taxation. 907
+(f) On or before the fifteenth day of February of each 908
+year, the department of taxation shall transmit the report to 909
+the general assembly. 910
+(g) On the fifteenth day of February of each year, the 911
+dollar amount of the adjustment set forth in the report of the 912
+department of taxation under division (C)(2)(d) of this section 913
+shall replace the dollar figure set forth in division (C)(1) of 914
+this section or the actual dollar amount determined pursuant to 915
+division (C)(2)(a) and (b) of this section, whichever is 916
+applicable, for the period in which the calculated amount 917
+applies as indicated in the report of the department of taxation 918
+under division (C)(2)(e) of this section. 919
+(3) As used in this division, "the actual loss of the 920
+person who is awarded the damages" includes all of the 921
+following: 922
+(a) All wages, salaries, or other compensation lost by the 923
+person injured as a result of the injury, including wages, 924
+salaries, or other compensation lost as of the date of a 925
+judgment and future expected lost earnings of the person 926
+injured; 927
+(b) All expenditures of the person injured or another 928
+person on behalf of the person injured for medical care or 929
+
+S. B. No. 292 Page 33
+As Introduced
+treatment, for rehabilitation services, or for other care, 930
+treatment, services, products, or accommodations that were 931
+necessary because of the injury; 932
+(c) All expenditures to be incurred in the future, as 933
+determined by the court, by the person injured or another person 934
+on behalf of the person injured for medical care or treatment, 935
+for rehabilitation services, or for other care, treatment, 936
+services, products, or accommodations that will be necessary 937
+because of the injury; 938
+(d) All expenditures of a person whose property was 939
+injured or destroyed or of another person on behalf of the 940
+person whose property was injured or destroyed in order to 941
+repair or replace the property that was injured or destroyed; 942
+(e) All expenditures of the person injured or of the 943
+person whose property was injured or destroyed or of another 944
+person on behalf of the person injured or of the person whose 945
+property was injured or destroyed in relation to the actual 946
+preparation or presentation of the claim involved; 947
+(f) Any other expenditures of the person injured or of the 948
+person whose property was injured or destroyed or of another 949
+person on behalf of the person injured or of the person whose 950
+property was injured or destroyed that the court determines 951
+represent an actual loss experienced because of the personal or 952
+property injury or property loss. 953
+"The actual loss of the person who is awarded the damages" 954
+does not include any fees paid or owed to an attorney for any 955
+services rendered in relation to a personal or property injury 956
+or property loss, and does not include any damages awarded for 957
+pain and suffering, for the loss of society, consortium, 958
+
+S. B. No. 292 Page 34
+As Introduced
+companionship, care, assistance, attention, protection, advice, 959
+guidance, counsel, instruction, training, or education of the 960
+person injured, for mental anguish, or for any other intangible 961
+loss. 962
+Sec. 3345.40. (A) As used in this section: 963
+(1) "State university or college" has the same meaning as 964
+in division (A)(1) of section 3345.12 of the Revised Code. 965
+(2)(a) "The actual loss of the person who is awarded the 966
+damages" includes all of the following: 967
+(i) All wages, salaries, or other compensation lost by an 968
+injured person as a result of the injury, including wages, 969
+salaries, or other compensation lost as of the date of a 970
+judgment and future expected lost earnings of the injured 971
+person; 972
+(ii) All expenditures of an injured person or of another 973
+person on behalf of an injured person for medical care or 974
+treatment, for rehabilitation services, or for other care, 975
+treatment, services, products, or accommodations that were 976
+necessary because of the injury; 977
+(iii) All expenditures to be incurred in the future, as 978
+determined by the court, by an injured person or by another 979
+person on behalf of an injured person for medical care or 980
+treatment, for rehabilitation services, or for other care, 981
+treatment, services, products, or accommodations that will be 982
+necessary because of the injury; 983
+(iv) All expenditures of a person whose property was 984
+injured or destroyed, or of another person on behalf of such a 985
+person, in order to repair or replace the property that was 986
+injured or destroyed; 987
+
+S. B. No. 292 Page 35
+As Introduced
+(v) All expenditures of an injured person, of a person 988
+whose property was injured or destroyed, or of another person on 989
+behalf of an injured person or a person whose property was 990
+injured or destroyed, in relation to the actual preparation or 991
+presentation of the claim of the person; 992
+(vi) Any other expenditures of an injured person, of a 993
+person whose property was injured or destroyed, or of another 994
+person on behalf of an injured person or a person whose property 995
+was injured or destroyed, that the court determines represent an 996
+actual loss experienced because of the personal or property 997
+injury or property loss. 998
+(b) "The actual loss of the person who is awarded the 999
+damages" does not include either of the following: 1000
+(i) Any fees paid or owed to an attorney for any services 1001
+rendered in relation to a person or property injury or property 1002
+loss; 1003
+(ii) Any damages awarded for pain and suffering, for the 1004
+loss of society, consortium, companionship, care, assistance, 1005
+attention, protection, advice, guidance, counsel, instruction, 1006
+training, or education of an injured person, for mental anguish, 1007
+or for any other intangible loss. 1008
+(B) Notwithstanding any other provision of the Revised 1009
+Code or rules of a court to the contrary, in an action against a 1010
+state university or college to recover damages for injury, 1011
+death, or loss to persons or property caused by an act or 1012
+omission of the state university or college itself, by an act or 1013
+omission of any trustee, officer, or employee of the state 1014
+university or college while acting within the scope of his 1015
+employment or official responsibilities, or by an act or 1016
+
+S. B. No. 292 Page 36
+As Introduced
+omission of any other person authorized to act on behalf of the 1017
+state university or college that occurred while he the person 1018
+was engaged in activities at the request or direction, or for 1019
+the benefit, of the state university or college, the following 1020
+rules shall apply: 1021
+(1) Punitive or exemplary damages shall not be awarded; 1022
+(2) If a plaintiff receives or is entitled to receive 1023
+benefits for injuries or loss allegedly incurred from a policy 1024
+or policies of insurance or any other source, the benefits shall 1025
+be disclosed to the court, and the amount of the benefits shall 1026
+be deducted from any award against the state university or 1027
+college recovered by the plaintiff. No insurer or other person 1028
+is entitled to bring a civil action under a subrogation 1029
+provision in an insurance or other contract against a state 1030
+university or college with respect to such benefits. 1031
+Nothing in this division affects or shall be construed to 1032
+limit the rights of a beneficiary under a life insurance policy 1033
+or the rights of sureties under fidelity or surety bonds. 1034
+(3) There shall not be any limitation on compensatory 1035
+damages that represent the actual loss of the person who is 1036
+awarded the damages. However, except in wrongful death actions 1037
+brought pursuant to Chapter 2125. of the Revised Code, and 1038
+subject to division (B)(4) of this section, damages that arise 1039
+from the same cause of action, transaction or occurrence, or 1040
+series of transactions or occurrences and that do not represent 1041
+the actual loss of the person who is awarded the damages shall 1042
+not exceed two hundred fifty four hundred fifteen thousand 1043
+dollars in favor of any one person. The limitation on damages 1044
+that do not represent the actual loss of the person who is 1045
+awarded the damages provided in this division does not apply to 1046
+
+S. B. No. 292 Page 37
+As Introduced
+court costs that are awarded to a plaintiff, or to interest on a 1047
+judgment rendered in favor of a plaintiff, in an action against 1048
+a state university or college. 1049
+(4)(a) In January of each year, the department of 1050
+taxation, in accordance with this division and division (B)(4) 1051
+(b) of this section, shall adjust the dollar figure specified in 1052
+division (B)(3) of this section or the actual dollar amount 1053
+determined pursuant to this division and division (B)(4)(b) of 1054
+this section. The adjustment shall be based on the percentage 1055
+increase in the consumer price index as determined by the United 1056
+States bureau of labor statistics (U.S. city average, all urban 1057
+consumers) for the twelve-month period ending on the thirtieth 1058
+day of June of the immediately preceding calendar year. If the 1059
+consumer price index for that period did not increase, no 1060
+increase shall be made under this division and division (B)(4) 1061
+(b) of this section. 1062
+(b) The department of taxation shall calculate the 1063
+adjustment under division (B)(4)(a) of this section on or before 1064
+the thirty-first day of January of each calendar year. The first 1065
+adjustment shall be made in January following one year after the 1066
+effective date of this amendment. 1067
+(c) The department of taxation shall certify the 1068
+calculation made under division (B)(4)(b) of this section on or 1069
+before the thirty-first day of January of each calendar year. 1070
+(d) On or before the fifteenth day of February of each 1071
+year, the department of taxation shall prepare a report setting 1072
+forth the amount of the adjustment calculated under divisions 1073
+(B)(4)(a) and (b) of this section and certified under division 1074
+(B)(4)(c) of this section. 1075
+
+S. B. No. 292 Page 38
+As Introduced
+(e) The report shall contain an indication of the period 1076
+in which the calculated amount applies, a summary of how the 1077
+amount was calculated, and a statement that the report and all 1078
+related documents are available for inspection and copying at 1079
+the office of the department of taxation. 1080
+(f) On or before the fifteenth day of February of each 1081
+year, the department of taxation shall transmit the report to 1082
+the general assembly. 1083
+(g) On the fifteenth day of February of each year, the 1084
+dollar amount of the adjustment set forth in the report of the 1085
+department of taxation under division (B)(4)(d) of this section 1086
+shall replace the dollar figure set forth in division (B)(3) of 1087
+this section or the actual dollar amount determined pursuant to 1088
+division (B)(4)(a) and (b) of this section, whichever is 1089
+applicable, for the period in which the calculated amount 1090
+applies as indicated in the report of the department of taxation 1091
+under division (B)(4)(e) of this section. 1092
+Section 2. That existing sections 2305.01, 2307.80, 1093
+2315.18, 2315.21, 2323.43, 2744.05, and 3345.40 of the Revised 1094
+Code are hereby repealed. 1095
+
+[DELETED: nS       .  1:1 1 1 1 1 1 1 1 1 2 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3.4 4 4 4 4.4 4 4 4 4 5 5]
+[DELETED: 2  5 5 5 5 5 5.5 5 6 6 6 6 6 6 6 6 6 6 7.7 7 7 7 7 7 7:7 7;8 8]
+[DELETED: 2 ;8 8;8 8;8 8 8;8 9;9 9 9 9 9 9.9 9 9 1 1 1 1:1 1 1 1 1 1 1]
+[DELETED: 2 .1 1 1 1 1 1 1.1 1 1 1 1 1 1 1.1:1 1 1.1 1 1.1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1:1 1.1 1]
+[DELETED: 2 :1 1 1;1 1 1 1;1 1 1 1.1 1 1.1 1 1 1 1 1 1.1 1.1 1.1 1 1]
+[DELETED: 2  1 1 1 2 2 2 2.2 2.2 2:2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2.2 2]
+[DELETED: 2  2 2 2:2 2;2 2 2.2 2)2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2.2 2 2]
+[DELETED: 2 .2 2 2 2 2.2 2 2 2 2.2 2 2.2 2 2 2 2 2 2 2 2 2.2 2 2:2 2;2]
+[DELETED: 2  2;2 2 2.2 2 2 2 2 2:2 2;2 2;2 2.3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 2  3 3 3.3 3 3 3 3 3 3.3 3 3 3.3 3 3 3 3 3.3 3 3 3)3 3 3 3 3.3]
+[DELETED: 2 :3 3 3 3 3;3 3 3 3 3.3 3.3 3 3 3 3 3 3.3:3 3.3:3 3 3;3 3]
+[DELETED: 2  3;3 3.3 3 3.3 3.3 3.3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3 3:3]
+[DELETED: 2  3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4 4 4]
+[DELETED: 2  4 4 4.4 4 4:4 4 4 4 4.4 4 4 4.4 4 4.4 4 4:4 4 4 4 4.4 4 4]
+[DELETED: 2  4 4 4 4 4)4.4 4 4.4 4)4 4 4 4 4 4 4 4 4 4 4.4 4 4 4 4.4 4 4]
+[DELETED: 2 .4 4 4 4 4.4 4 4 4 4.4 4 5.5 5 5 5 5 5 5 5 5.5 5 5 5.5 5 5]
+[DELETED: 2  5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5:5 5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5 5 5 5 5)5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5]
+[DELETED: 2  5 5.5 5 5 5 5 5 5 5:5 5 5 5 5 5 5.5 5 5.5 5 6 6.6 6.6 6 6]
+[DELETED: 2  6 6.6 6 6 6:6 6 6;6 6;6 6 6 6.6 6 6 6:6 6 6.6 6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6 6.6 6 6 6 6 6 6 6 6:6 6;6 6 6.6 6)6 6 6 6 6 6 6 6 6]
+[DELETED: 2  6 6.6 6 6 6 6.6 6 6.6 6 6 6 6.6 6 6 6 6.6 6 6.6 6 6 6 6 6]
+[DELETED: 2  6 6 6 6.6 7 7 7 7 7 7:7 7;7 7;7 7.7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 2  7 7 7 7 7.7 7 7 7 7 7.7 7 7 7.7 7 7)7 7 7 7.7 7 7 7 7 7 7 7]
+[DELETED: 2 .7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7.7 7 7 7.7:7]
+[DELETED: 2  7 7 7 7 7;7 7 7 7 7 7;7 7.7:7 7:8 8 8 8;8 8 8 8 8;8 8 8 8]
+[DELETED: 2  8.8 8 8.8 8 8 8 8 8 8 8.8 8.8 8 8 8 8 8 8.8 8 8 8 8 8 8 8]
+[DELETED: 2  8.8 8 8 8 8 8 8 8 8.8 8:8 8 8;8 8 8 8.8 8 8 8 8 8 8 8 8 8]
+[DELETED: 2  8 8 8 8 8.8 8)8 8 8 8 8 8 8 8 8 8)8.8 8 8 8 8.8 8 8.8 8 8 9]
+[DELETED: 2  9.9 9 9 9 9.9 9 9.9 9 9 9 9 9 9 9 9.9 9 9:9 9 9 9 9;9 9 9]
+[DELETED: 2  9 9;9 9 9 9 9 9;9 9 9 9;9 9 9 9 9;9 9 9 9 9 9.9 9 9 9 9 9]
+[DELETED: 2  9 9 9.9:9 9.9 9:9 9 9 9 9;9 9 9 9 9;9 9 9 9 9 9;9 9 9 9;9]
+[DELETED: 2  9 9 9 9;9 9 9 9 9 9.9 9:1 1 1;1 1 1 1 1.1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1 1 1:1;1 1 1 1 1 1 1 1 1.1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 2  1 1.1 1)1 1 1 1 1 1 1 1 1 1)1.1 1 1 1 1.1 1 1.1 1 1 1 1.1]
+[DELETED: 2  1 1 1 1.1 1 1.1 1 1 1 1 1 1 1 1.1 1 1.1]

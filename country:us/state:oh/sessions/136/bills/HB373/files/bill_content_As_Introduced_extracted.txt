@@ -1,0 +1,1423 @@
+Title: Cosponsors: Representatives Baker, Brennan, Brent, Brewer, Brownlee, Cockley,
+Official Title: Cosponsors: Representatives Baker, Brennan, Brent, Brewer, Brownlee, Cockley,
+Number of Sections: 31
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 373
+2025-2026
+Representatives Robinson, Lett
+Denson, Glassburn, Grim, Isaacsohn, Jarrells, McNally, Mohamed, Piccolantonio,
+Rader, Russo, Sims, Somani, Sweeney, Synenberg, Thomas, C., Troy, Upchurch,
+White, E.
+To amend sections 2929.28 and 5122.311 and to enact 1
+
+Section 2:
+section 2923.26 of the Revised Code to enact the 2
+Universal Background Checks Act to require a 3
+firearm transfer to be made through a dealer, 4
+through a law enforcement agency, or pursuant to 5
+a specified exception, and to require a 6
+background check when a firearm is transferred. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 2929.28 and 5122.311 be amended 8
+and section 2923.26 of the Revised Code be enacted to read as 9
+follows: 10
+Sec. 2923.26. (A) As used in this section : 11
+(1) "Federally licensed firearms dealer" has the same 12
+meaning as in section 5502.63 of the Revised Code. 13
+(2) "Unlicensed transferee" means a person who is not a 14
+federally licensed firearms dealer and who desires to receive a 15
+firearm from an unlicensed transferor. 16
+H. B. No. 373 Page 2
+As Introduced
+(3) "Unlicensed transferor" means a person who is not a 17
+federally licensed firearms dealer and who desires to transfer a 18
+firearm to an unlicensed transferee. 19
+(4) "Identification document" means a document made or 20
+issued by or under the authority of the United States 21
+government, this state, or any other state, a political 22
+subdivision of this state or any other state, a sponsoring 23
+entity of an event designated as a special event of national 24
+significance, a foreign government, a political subdivision of a 25
+foreign government, an international governmental organization, 26
+or an international quasi-governmental organization that, when 27
+completed with information concerning a particular individual, 28
+is of a type intended or commonly accepted for the purpose of 29
+identification of individuals and that includes a photograph of 30
+the individual. 31
+(B) No federally licensed firearms dealer shall transfer a 32
+firearm to any person unless the federally licensed firearms 33
+dealer complies with the requirements of 18 U.S.C. 922(t). 34
+(C)(1) No unlicensed transferor shall transfer a firearm 35
+to an unlicensed transferee, unless both of the following apply 36
+with respect to the transfer of the firearm: 37
+(a) The firearm is transferred through a federally 38
+licensed firearms dealer under division (E) of this section, 39
+through a law enforcement agency under division (F) of this 40
+
+Section 4:
+section, or in accordance with an exception described in 41
+division (G) of this section. 42
+(b) Except as provided in division (G) of this section, 43
+the federally licensed firearms dealer through which the 44
+transfer is made under division (E) of this section gives a 45
+H. B. No. 373 Page 3
+As Introduced
+notice described in division (E)(3)(a) of this section, or the 46
+law enforcement agency through which the transfer is made under 47
+division (F) of this section gives a notice described in 48
+division (F)(5)(a) of this section, with respect to the firearm. 49
+(2) No unlicensed firearms dealer shall transfer a firearm 50
+to an unlicensed transferee if the federally licensed firearms 51
+dealer through which the transfer is to be made under division 52
+(E) of this section gives a notice described in division (E)(3) 53
+(b) of this section, or the law enforcement agency through which 54
+the transfer is to be made under division (F) of this section 55
+gives a notice described in division (F)(5)(b) of this section, 56
+with respect to the firearm. 57
+(D)(1) No unlicensed transferee shall receive a firearm 58
+from an unlicensed transferor, unless both of the following 59
+apply with respect to the transfer of the firearm: 60
+(a) The firearm is transferred through a federally 61
+licensed firearms dealer under division (E) of this section, 62
+through a law enforcement agency under division (F) of this 63
+
+Section 5:
+section, or in accordance with an exception described in 64
+division (G) of this section. 65
+(b) Except as provided in division (G) of this section, 66
+the federally licensed firearms dealer through which the 67
+transfer is made under division (E) of this section gives a 68
+notice described in division (E)(3)(a) of this section, or the 69
+law enforcement agency through which the transfer is made under 70
+division (F) of this section gives a notice described in 71
+division (F)(5)(a) of this section, with respect to the firearm. 72
+(2) No unlicensed firearms transferee shall receive a 73
+firearm from an unlicensed transferor if the federally licensed 74
+H. B. No. 373 Page 4
+As Introduced
+firearms dealer through which the transfer is to be made under 75
+division (E) of this section gives a notice described in 76
+division (E)(3)(b) of this section, or the law enforcement 77
+agency through which the transfer is to be made under division 78
+(F) of this section gives a notice described in division (F)(5) 79
+(b) of this section, with respect to the firearm. 80
+(E) A federally licensed firearms dealer who agrees to 81
+assist in the transfer of a firearm between an unlicensed 82
+transferor and an unlicensed transferee under division (C) or 83
+(D) of this section shall do all of the following: 84
+(1) Comply with 18 U.S.C. 922(t) as if transferring the 85
+firearm from the inventory of the federally licensed firearms 86
+dealer to the unlicensed transferee, except that a federally 87
+licensed firearms dealer assisting in the transfer of a firearm 88
+under this division shall not be required to comply again with 89
+the requirements of that provision in delivering the firearm to 90
+the unlicensed transferee; 91
+(2) Conduct an incompetency records check of the 92
+unlicensed transferee by contacting the attorney general and 93
+requesting a check of the records maintained under section 94
+
+Section 6:
+5122.311 of the Revised Code, to determine if the transfer of 95
+the firearm to the unlicensed transferee or the unlicensed 96
+transferee's acquisition or possession of the firearm would 97
+violate the law of this state; 98
+(3) Notify the unlicensed transferor and unlicensed 99
+transferee of whichever of the following is applicable: 100
+(a) That the dealer has complied with 18 U.S.C. 922(t) as 101
+provided in division (E)(1) of this section and the transfer of 102
+the firearm is not prohibited under that provision and that the 103
+H. B. No. 373 Page 5
+As Introduced
+dealer has conducted the incompetency records check of the 104
+unlicensed transferee as provided in division (E)(2) of this 105
+
+Section 7:
+section and has not determined in that check that the unlicensed 106
+transferee's acquisition or possession of the firearm would 107
+violate the law of this state; 108
+(b) That the dealer has complied with 18 U.S.C. 922(t) as 109
+provided in division (E)(1) of this section and has received a 110
+notice from the national instant criminal background check 111
+system that the transfer would violate 18 U.S.C. 922 or the law 112
+of this state or that the dealer has conducted the incompetency 113
+records check of the unlicensed transferee as provided in 114
+division (E)(2) of this section and has determined in that check 115
+that the unlicensed transferee's acquisition or possession of 116
+the firearm would violate the law of this state. 117
+(F) A law enforcement agency of this state or of a 118
+political subdivision of this state that agrees to assist an 119
+unlicensed transferor in carrying out the responsibilities of 120
+the unlicensed transferor under division (C) or (D) of this 121
+
+Section 8:
+section with respect to the transfer of a firearm shall do all 122
+of the following: 123
+(1) Contact the national instant criminal background check 124
+system under 18 U.S.C. 922(t) and either receive an 125
+identification number as described in 18 U.S.C. 922(t)(1)(B)(i) 126
+or wait the period described in 18 U.S.C. 922(t)(1)(B)(ii); 127
+(2) Conduct an incompetency records check of the 128
+unlicensed transferee by contacting the attorney general and 129
+requesting a check of the records maintained under section 130
+
+Section 9:
+5122.311 of the Revised Code, to determine if the transfer of 131
+the firearm to the unlicensed transferee or the unlicensed 132
+transferee's acquisition or possession of the firearm would 133
+H. B. No. 373 Page 6
+As Introduced
+violate the law of this state; 134
+(3) Conduct any other checks that the agency considers 135
+appropriate to determine whether the receipt or possession of 136
+the firearm by the unlicensed transferee would violate 18 U.S.C. 137
+922 or the law of this state; 138
+(4) Verify the identity of the unlicensed transferee by 139
+either examining a valid identification document of the 140
+unlicensed transferee containing a photograph of the unlicensed 141
+transferee or confirming that the unlicensed transferor has 142
+examined such a valid identification document; 143
+(5) Notify the unlicensed transferor and transferee of 144
+whichever of the following is applicable: 145
+(a) That the law enforcement agency has complied with the 146
+requirements under divisions (F)(1), (2), (3), and (4) of this 147
+
+Section 10:
+section and that the transfer of the firearm is not prohibited 148
+under 18 U.S.C 922(t) and the agency has not determined in the 149
+incompetency records check conducted under division (F)(2) of 150
+this section or a records check conducted under division (F)(3) 151
+of this section that the unlicensed transferee's acquisition or 152
+possession of the firearm would violate the law of this state; 153
+(b) That the law enforcement agency has complied with the 154
+requirements under divisions (F)(1), (2), (3), and (4) of this 155
+
+Section 11:
+section and either has received a notification from the national 156
+instant criminal background check system that the transfer would 157
+violate 18 U.S.C. section 922 or the law of this state or has 158
+determined under the incompetency records check conducted under 159
+division (F)(2) of this section or a records check conducted 160
+under division (F)(3) of this section that the unlicensed 161
+transferee's acquisition or possession of the firearm would 162
+H. B. No. 373 Page 7
+As Introduced
+violate the law of this state. 163
+(G) Unless prohibited by any other provision of law, 164
+divisions (C) and (D) of this section shall not apply to any 165
+transfer of a firearm between an unlicensed transferor and 166
+unlicensed transferee if any of the following apply with respect 167
+to the transfer: 168
+(1) The transfer is temporary and occurs while in the home 169
+of the unlicensed transferee, the unlicensed transferee is not 170
+otherwise prohibited from possessing firearms, and the 171
+unlicensed transferee believes that possession of the firearm is 172
+necessary to prevent imminent death or great bodily harm to the 173
+unlicensed transferee. 174
+(2) The transfer is a temporary transfer of possession 175
+without transfer of title that takes place in any of the 176
+following circumstances: 177
+(a) At a shooting range located in or on premises owned or 178
+occupied by a duly incorporated organization organized for 179
+conservation purposes or to foster proficiency in firearms; 180
+(b) At a target firearm shooting competition under the 181
+auspices of or approved by an agency of this state or a 182
+nonprofit organization; 183
+(c) While hunting, fishing, or trapping, if the activity 184
+is legal in all places where the unlicensed transferee possesses 185
+the firearm, and the unlicensed transferee holds any required 186
+license or permit. 187
+(3) The transfer is to an authorized representative of a 188
+law enforcement agency of any municipal corporation, any county, 189
+this state, or the federal government for exclusive use by that 190
+governmental entity and, prior to the transfer, written 191
+H. B. No. 373 Page 8
+As Introduced
+authorization from the head of the agency authorizing the 192
+transaction is presented to the person from whom the transfer is 193
+being made. The proper written authorization shall be verifiable 194
+written certification from the head of the agency by which the 195
+transferee is employed, identifying the employee as an 196
+individual authorized to conduct the transaction, and 197
+authorizing the transaction for the exclusive use of the agency 198
+by which that person is employed. 199
+(4) The transfer is a loan of the firearm by an authorized 200
+law enforcement representative of a municipal corporation, a 201
+county, this state, or the federal government, the loan is made 202
+to a peace officer who is employed by that governmental entity 203
+and authorized to carry a firearm, and the loan is made for the 204
+carrying and use of that firearm by that peace officer in the 205
+course and scope of the officer's duties. 206
+(5) The transfer is by a law enforcement agency to a peace 207
+officer. 208
+(6) The transfer is to an authorized representative of a 209
+municipal corporation, a county, this state, or the federal 210
+government and is for the governmental entity, and the entity is 211
+acquiring the firearm as part of an authorized, voluntary 212
+program in which the entity is buying or receiving weapons from 213
+private individuals. 214
+(7) The transfer is by an authorized law enforcement 215
+representative of a municipal corporation, a county, this state, 216
+or the federal government to any public or private nonprofit 217
+historical society, museum, or institutional collection, if all 218
+of the following conditions are met: 219
+(a) The entity receiving the firearm is open to the 220
+H. B. No. 373 Page 9
+As Introduced
+public. 221
+(b) The firearm prior to delivery is deactivated or 222
+rendered inoperable. 223
+(c) The firearm is not of a type prohibited by provision 224
+of law from being transferred to the public at large. 225
+(d) Prior to delivery, the entity receiving the firearm 226
+submits a written statement to the law enforcement 227
+representative stating that the firearm will not be restored to 228
+operating condition and will either remain with that entity, or 229
+if subsequently disposed of, will be transferred in accordance 230
+with the applicable provisions of law. 231
+(8) The transfer is by any person other than a 232
+representative of an authorized law enforcement agency to any 233
+public or private nonprofit historical society, museum, or 234
+institutional collection, if all of the conditions set forth in 235
+divisions (G)(7)(a) to (d) of this section are met. 236
+(9) The transfer is delivery of a firearm to a gunsmith 237
+for service or repair, is the return of the firearm to its owner 238
+by the gunsmith, or is the delivery of a firearm by a gunsmith 239
+to a federally licensed firearms dealer for service or repair or 240
+the return of the firearm to the gunsmith. 241
+(10) The transfer is made by a person who resides in this 242
+state, is made to a person who resides outside this state and is 243
+a federally licensed firearms dealer, and is in accordance with 244
+federal firearms law. 245
+(11) The transfer is of any unloaded firearm to a 246
+wholesaler as merchandise in the wholesaler's business by a 247
+manufacturer or importer licensed to engage in that business 248
+pursuant to federal firearms law or by another wholesaler and is 249
+H. B. No. 373 Page 10
+As Introduced
+made in accordance with federal firearms law. 250
+(H) A federally licensed firearms dealer or law 251
+enforcement agency that processes the transfer of a firearm 252
+under this section may assess and collect a fee, in an amount 253
+not to exceed ten dollars, with respect to each firearm transfer 254
+processed. 255
+(I) Nothing in this section shall be construed to 256
+authorize the attorney general of the United States to inspect 257
+records described in this section or to require that the records 258
+be transferred to a facility owned, managed, or controlled by 259
+this state or the United States. 260
+(J)(1) No person shall recklessly violate division (B), 261
+(C), or (D) of this section. 262
+(2) Whoever violates division (J)(1) of this section is 263
+guilty of illegal transfer of a firearm, and shall be punished 264
+as provided in divisions (J)(2)(a) to (c) of this section. 265
+(a) Except as otherwise provided in division (J)(2)(b) or 266
+(c) of this section, illegal transfer of a firearm is a 267
+misdemeanor of the fourth degree and the offender shall be fined 268
+an amount from the range of possible fines for a misdemeanor of 269
+the fourth degree set forth in section 2929.28 of the Revised 270
+Code. Notwithstanding sections 2929.21 to 2929.28 of the Revised 271
+Code, no other sanction shall be imposed on the offender under 272
+any of those sections. 273
+(b) If the offender previously has been convicted of or 274
+pleaded guilty to one violation of this section, illegal 275
+transfer of a firearm is a misdemeanor of the second degree and 276
+the offender shall be fined an amount from the range of possible 277
+fines for a misdemeanor of the second degree set forth in 278
+H. B. No. 373 Page 11
+As Introduced
+
+Section 12:
+section 2929.28 of the Revised Code. Notwithstanding sections 279
+
+Section 13:
+2929.21 to 2929.28 of the Revised Code, no other sanction shall 280
+be imposed on the offender under any of those sections. 281
+(c) If the offender previously has been convicted of or 282
+pleaded guilty to two or more violations of this section, 283
+illegal transfer of a firearm is a misdemeanor of the first 284
+degree, the offender shall be fined an amount from the range of 285
+possible fines for a misdemeanor of the first degree set forth 286
+in section 2929.28 of the Revised Code, and, in addition to the 287
+mandatory fine, the court may impose any other sanction or 288
+sanctions authorized for a misdemeanor of the first degree other 289
+than a fine specified in section 2929.28 of the Revised Code. 290
+Sec. 2929.28. (A) In addition to imposing court costs 291
+pursuant to section 2947.23 of the Revised Code, the court 292
+imposing a sentence upon an offender for a misdemeanor, 293
+including a minor misdemeanor, may sentence the offender to any 294
+financial sanction or combination of financial sanctions 295
+authorized under this section and, if the offender is being 296
+sentenced for a criminal offense as defined in section 2930.01 297
+of the Revised Code, shall sentence the offender to make 298
+restitution pursuant to this section and section 2929.281 of the 299
+Revised Code. If the court, in its discretion or as required by 300
+this section, imposes one or more financial sanctions, the 301
+financial sanctions that may be imposed pursuant to this section 302
+include, but are not limited to, the following: 303
+(1) Unless the misdemeanor offense could be disposed of by 304
+the traffic violations bureau serving the court under Traffic 305
+Rule 13, restitution by the offender to the victim of the 306
+offender's crime or the victim's estate, in an amount based on 307
+the victim's economic loss. The court may not impose restitution 308
+H. B. No. 373 Page 12
+As Introduced
+as a sanction pursuant to this division if the offense could be 309
+disposed of by the traffic violations bureau serving the court 310
+under Traffic Rule 13. If the court requires restitution, the 311
+court shall order that the restitution be made to the victim in 312
+open court or to the adult probation department that serves the 313
+jurisdiction or the clerk of the court on behalf of the victim. 314
+The court shall determine the amount of restitution to be 315
+paid by the offender. The victim, victim's representative, 316
+victim's attorney, if applicable, the prosecutor or the 317
+prosecutor's designee, and the offender may provide information 318
+relevant to the determination of the amount of restitution. The 319
+amount the court orders as restitution shall not exceed the 320
+amount of the economic loss suffered by the victim as a direct 321
+and proximate result of the commission of the offense. If the 322
+court imposes restitution for the cost of accounting or auditing 323
+done to determine the extent of economic loss, the court may 324
+order restitution for any amount of the victim's costs of 325
+accounting or auditing provided that the amount of restitution 326
+is reasonable and does not exceed the value of property or 327
+services stolen or damaged as a result of the offense. If the 328
+court decides to or is required to impose restitution, the court 329
+shall hold an evidentiary hearing on restitution if the 330
+offender, victim, victim's representative, victim's attorney, if 331
+applicable, or victim's estate disputes the amount of 332
+restitution. The court shall determine the amount of full 333
+restitution by a preponderance of the evidence. 334
+All restitution payments shall be credited against any 335
+recovery of economic loss in a civil action brought by the 336
+victim or the victim's estate against the offender. No person 337
+may introduce evidence of an award of restitution under this 338
+
+Section 14:
+section in a civil action for purposes of imposing liability 339
+H. B. No. 373 Page 13
+As Introduced
+against an insurer under section 3937.18 of the Revised Code. 340
+The court may order that the offender pay a surcharge, of 341
+not more than five per cent of the amount of the restitution 342
+otherwise ordered, to the entity responsible for collecting and 343
+processing restitution payments. 344
+The victim, victim's attorney, if applicable, or the 345
+attorney for the victim's estate may request that the prosecutor 346
+in the case file a motion, or the offender may file a motion, 347
+for modification of the payment terms of any restitution 348
+ordered. If the court grants the motion, it may modify the 349
+payment terms as it determines appropriate but shall not reduce 350
+the amount of restitution ordered, except as provided in 351
+division (A) of section 2929.281 of the Revised Code. 352
+(2) A fine of the type described in divisions (A)(2)(a) 353
+and (b) of this section payable to the appropriate entity as 354
+required by law: 355
+(a) A fine in the following amount: 356
+(i) For a misdemeanor of the first degree, not more than 357
+one thousand dollars; 358
+(ii) For a misdemeanor of the second degree, not more than 359
+seven hundred fifty dollars; 360
+(iii) For a misdemeanor of the third degree, not more than 361
+five hundred dollars; 362
+(iv) For a misdemeanor of the fourth degree, not more than 363
+two hundred fifty dollars; 364
+(v) For a minor misdemeanor, not more than one hundred 365
+fifty dollars. 366
+H. B. No. 373 Page 14
+As Introduced
+(b) A state fine or cost as defined in section 2949.111 of 367
+the Revised Code. 368
+(3)(a) Reimbursement by the offender of any or all of the 369
+costs of sanctions incurred by the government, including, but 370
+not limited to, the following: 371
+(i) All or part of the costs of implementing any community 372
+control sanction, including a supervision fee under section 373
+
+Section 15:
+2951.021 of the Revised Code and the costs of global positioning 374
+system device monitoring; 375
+(ii) All or part of the costs of confinement in a jail or 376
+other residential facility, including, but not limited to, a per 377
+diem fee for room and board, the costs of medical and dental 378
+treatment, and the costs of repairing property damaged by the 379
+offender while confined; 380
+(iii) All or part of the cost of purchasing and using an 381
+immobilizing or disabling device, including a certified ignition 382
+interlock device, or a remote alcohol monitoring device that a 383
+court orders an offender to use under section 4510.13 of the 384
+Revised Code. 385
+(b) The amount of reimbursement ordered under division (A) 386
+(3)(a) of this section shall not exceed the total amount of 387
+reimbursement the offender is able to pay and shall not exceed 388
+the actual cost of the sanctions. The court may collect any 389
+amount of reimbursement the offender is required to pay under 390
+that division. If the court does not order reimbursement under 391
+that division, confinement costs may be assessed pursuant to a 392
+repayment policy adopted under section 2929.37 of the Revised 393
+Code. In addition, the offender may be required to pay the fees 394
+specified in section 2929.38 of the Revised Code in accordance 395
+H. B. No. 373 Page 15
+As Introduced
+with that section. 396
+(4) For a misdemeanor violation of section 2923.26 of the 397
+Revised Code, the court shall impose upon the offender a 398
+mandatory fine in the amount specified in division (J)(2)(a), 399
+(b), or (c) of that section. 400
+(B) If the court determines a hearing is necessary, the 401
+court may hold a hearing to determine whether the offender is 402
+able to pay the financial sanction imposed pursuant to this 403
+
+Section 16:
+section or court costs or is likely in the future to be able to 404
+pay the sanction or costs. 405
+If the court determines that the offender is indigent and 406
+unable to pay the financial sanction or court costs, the court 407
+shall consider imposing and may impose a term of community 408
+service under division (A) of section 2929.27 of the Revised 409
+Code in lieu of imposing a financial sanction or court costs. If 410
+the court does not determine that the offender is indigent, the 411
+court may impose a term of community service under division (A) 412
+of section 2929.27 of the Revised Code in lieu of or in addition 413
+to imposing a financial sanction under this section and in 414
+addition to imposing court costs. The court may order community 415
+service for a minor misdemeanor pursuant to division (D) of 416
+
+Section 17:
+section 2929.27 of the Revised Code in lieu of or in addition to 417
+imposing a financial sanction under this section and in addition 418
+to imposing court costs. If a person fails to pay a financial 419
+sanction or court costs, the court may order community service 420
+in lieu of the financial sanction or court costs. 421
+(C)(1) The offender shall pay reimbursements imposed upon 422
+the offender pursuant to division (A)(3) of this section to pay 423
+the costs incurred by a county pursuant to any sanction imposed 424
+under this section or section 2929.26 or 2929.27 of the Revised 425
+H. B. No. 373 Page 16
+As Introduced
+Code or in operating a facility used to confine offenders 426
+pursuant to a sanction imposed under section 2929.26 of the 427
+Revised Code to the county treasurer. The county treasurer shall 428
+deposit the reimbursements in the county's general fund. The 429
+county shall use the amounts deposited in the fund to pay the 430
+costs incurred by the county pursuant to any sanction imposed 431
+under this section or section 2929.26 or 2929.27 of the Revised 432
+Code or in operating a facility used to confine offenders 433
+pursuant to a sanction imposed under section 2929.26 of the 434
+Revised Code. 435
+(2) The offender shall pay reimbursements imposed upon the 436
+offender pursuant to division (A)(3) of this section to pay the 437
+costs incurred by a municipal corporation pursuant to any 438
+sanction imposed under this section or section 2929.26 or 439
+
+Section 18:
+2929.27 of the Revised Code or in operating a facility used to 440
+confine offenders pursuant to a sanction imposed under section 441
+
+Section 19:
+2929.26 of the Revised Code to the treasurer of the municipal 442
+corporation. The treasurer shall deposit the reimbursements in 443
+the municipal corporation's general fund. The municipal 444
+corporation shall use the amounts deposited in the fund to pay 445
+the costs incurred by the municipal corporation pursuant to any 446
+sanction imposed under this section or section 2929.26 or 447
+
+Section 20:
+2929.27 of the Revised Code or in operating a facility used to 448
+confine offenders pursuant to a sanction imposed under section 449
+
+Section 21:
+2929.26 of the Revised Code. 450
+(3) The offender shall pay reimbursements imposed pursuant 451
+to division (A)(3) of this section for the costs incurred by a 452
+private provider pursuant to a sanction imposed under this 453
+
+Section 22:
+section or section 2929.26 or 2929.27 of the Revised Code to the 454
+provider. 455
+H. B. No. 373 Page 17
+As Introduced
+(D)(1) In addition to any other fine that is or may be 456
+imposed under this section, the court imposing sentence upon an 457
+offender for misdemeanor domestic violence or menacing by 458
+stalking may impose a fine of not less than seventy nor more 459
+than five hundred dollars, which shall, except as provided in 460
+divisions (D)(2) and (3) of this section, be transmitted to the 461
+treasurer of state to be credited to the address confidentiality 462
+program fund created by section 111.48 of the Revised Code. 463
+(2) A court that imposes a fine under division (D)(1) of 464
+this section may retain up to twenty-five per cent of amounts 465
+collected in satisfaction of the fine to cover administrative 466
+costs. 467
+(3) A court that imposes a fine under division (D)(1) of 468
+this section may assign up to twenty-five per cent of amounts 469
+collected in satisfaction of the fine to reimburse the 470
+prosecuting attorney for costs associated with prosecution of 471
+the offense. 472
+(E) Except as otherwise provided in this division, a 473
+financial sanction imposed under division (A) of this section is 474
+a judgment in favor of the state or the political subdivision 475
+that operates the court that imposed the financial sanction, and 476
+the offender subject to the financial sanction is the judgment 477
+debtor. A financial sanction of reimbursement imposed pursuant 478
+to division (A)(3)(a)(i) of this section upon an offender is a 479
+judgment in favor of the entity administering the community 480
+control sanction, and the offender subject to the financial 481
+sanction is the judgment debtor. A financial sanction of 482
+reimbursement imposed pursuant to division (A)(3)(a)(ii) of this 483
+
+Section 23:
+section upon an offender confined in a jail or other residential 484
+facility is a judgment in favor of the entity operating the jail 485
+H. B. No. 373 Page 18
+As Introduced
+or other residential facility, and the offender subject to the 486
+financial sanction is the judgment debtor. A financial sanction 487
+of restitution imposed pursuant to division (A)(1) of this 488
+
+Section 24:
+section is an order in favor of the victim of the offender's 489
+criminal act that can be collected through a certificate of 490
+judgment as described in division (E)(1) of this section, 491
+through execution as described in division (E)(2) of this 492
+
+Section 25:
+section, or through an order as described in division (E)(3) of 493
+this section, and the offender shall be considered for purposes 494
+of the collection as the judgment debtor. 495
+Once the financial sanction is imposed as a judgment or 496
+order under this division, the victim, private provider, state, 497
+or political subdivision may do any of the following: 498
+(1) Obtain from the clerk of the court in which the 499
+judgment was entered, at no charge, a certificate of judgment 500
+that shall be in the same manner and form as a certificate of 501
+judgment issued in a civil action; 502
+(2) Obtain execution of the judgment or order through any 503
+available procedure, including any of the procedures identified 504
+in divisions (D)(1) and (2) of section 2929.18 of the Revised 505
+Code. 506
+(3) Obtain an order for the assignment of wages of the 507
+judgment debtor under section 1321.33 of the Revised Code. 508
+(F) The civil remedies authorized under division (E) of 509
+this section for the collection of the financial sanction 510
+supplement, but do not preclude, enforcement of the criminal 511
+sentence. 512
+(G) Each court imposing a financial sanction upon an 513
+offender under this section may designate the clerk of the court 514
+H. B. No. 373 Page 19
+As Introduced
+or another person to collect the financial sanction. The clerk, 515
+or another person authorized by law or the court to collect the 516
+financial sanction may do the following: 517
+(1) Enter into contracts with one or more public agencies 518
+or private vendors for the collection of amounts due under the 519
+sanction. Before entering into a contract for the collection of 520
+amounts due from an offender pursuant to any financial sanction 521
+imposed pursuant to this section, a court shall comply with 522
+
+Section 26:
+sections 307.86 to 307.92 of the Revised Code. 523
+(2) Permit payment of all or any portion of the sanction 524
+in installments, by financial transaction device if the court is 525
+a county court or a municipal court operated by a county, by 526
+credit or debit card or by another electronic transfer if the 527
+court is a municipal court not operated by a county, or by any 528
+other reasonable method, in any time, and on any terms that 529
+court considers just. If the court is a county court or a 530
+municipal court operated by a county, the acceptance of payments 531
+by any financial transaction device shall be governed by the 532
+policy adopted by the board of county commissioners of the 533
+county pursuant to section 301.28 of the Revised Code. If the 534
+court is a municipal court not operated by a county, the clerk 535
+may pay any fee associated with processing an electronic 536
+transfer out of public money or may charge the fee to the 537
+offender. 538
+(3) To defray administrative costs, charge a reasonable 539
+fee to an offender who elects a payment plan rather than a lump 540
+sum payment of any financial sanction. 541
+(H) No financial sanction imposed under this section shall 542
+preclude a victim from bringing a civil action against the 543
+offender. 544
+H. B. No. 373 Page 20
+As Introduced
+(I) If the court imposes restitution, fines, fees, or 545
+incarceration costs on a business or corporation, it is the duty 546
+of the person authorized to make disbursements from assets of 547
+the business or corporation to pay the restitution, fines, fees, 548
+or incarceration costs from those assets. 549
+Sec. 5122.311. (A) Notwithstanding any provision of the 550
+Revised Code to the contrary, if, on or after April 8, 2004, an 551
+individual is found by a court to be a person with a mental 552
+illness subject to court order or becomes an involuntary patient 553
+other than one who is a patient only for purposes of 554
+observation, the probate judge who made the adjudication or the 555
+chief clinical officer of the hospital, community mental health 556
+services provider, or facility in which the person is an 557
+involuntary patient shall notify the office of the attorney 558
+general, on the form described in division (C) of this section, 559
+of the identity of the individual. The notification shall be 560
+transmitted by the judge or the chief clinical officer not later 561
+than seven days after the adjudication or commitment. 562
+(B) The office of the attorney general shall compile and 563
+maintain the notices it receives under division (A) of this 564
+
+Section 27:
+section and the notices shall be used for the purpose of 565
+conducting incompetency records checks requested by sheriffs, 566
+federally licensed firearms dealers, or law enforcement agencies 567
+pursuant to section 311.41 or 2923.26 of the Revised Code. 568
+Records checks requested by a federally licensed firearms dealer 569
+or law enforcement agency pursuant to section 2923.26 of the 570
+Revised Code shall be conducted, and results of the checks shall 571
+be provided, immediately upon receipt of the request. The 572
+notices referred to in this division and the information they 573
+contain are confidential, except as provided in this division, 574
+and are not public records. 575
+H. B. No. 373 Page 21
+As Introduced
+(C) The attorney general, by rule adopted under Chapter 576
+
+Section 28:
+119. of the Revised Code, shall prescribe and make available to 577
+all probate judges and all chief clinical officers a form to be 578
+used by them for the purpose of making the notifications 579
+required by division (A) of this section. 580
+
+Section 29:
+Section 2. That existing sections 2929.28 and 5122.311 of 581
+the Revised Code are hereby repealed. 582
+
+Section 30:
+Section 3. This act shall be known as the Universal 583
+Background Checks Act. 584
+
+Section 31:
+Section 4. Section 2929.28 of the Revised Code is 585
+presented in this act as a composite of the section as amended 586
+by both H.B. 33 and S.B. 16 of the 135th General Assembly. The 587
+General Assembly, applying the principle stated in division (B) 588
+of section 1.52 of the Revised Code that amendments are to be 589
+harmonized if reasonably capable of simultaneous operation, 590
+finds that the composite is the resulting version of the section 591
+in effect prior to the effective date of the section as 592
+presented in this act. 593
+[DELETED: nH      .  :1:1 1.1 1 1.1]
+[DELETED: 3  1 1.1 2 2 2 2 2 2 2 2 2 2 3.3 3 3.3 3 3:3 3 3 4 4.4 4 4 4]
+[DELETED: 3  4 4 4.4 5 5 5)5 5 5 5 5 5 5:6 6 6 6 6.6 6 6 6 6 7 7.7 7 7]
+[DELETED: 3  7 7 7 7)7.8 8 8 8:8 8 8 8 8 8 9;9 9 9 9 9 9 9;9 9:1 1 1 1]
+[DELETED: 3  1 1 1 1;1 1 1 1 1 1 1 1 1.1 1 1 1 1 1:1 1 1 1;1 1 1 1 1 1 1]
+[DELETED: 3 ;1 1 1 1;1 1 1 1 1;1 1:1 1 1 1 1 1 1 1;1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3 .1 1 1 1 1:1 1 1 1 1 1.1 1 1:1 1 1;1 1 1;1 1 1 1.1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1.1 2 2 2 2 2 2.2 2.2 2 2 2 2 2.2 2 2 2 2:2 2]
+[DELETED: 3 .2 2.2 2.2 2 2 2 2 2.2 2 2 2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2]
+[DELETED: 3 .2 2 2 2 2.2 2 2 2 2.2 2.2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3)3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 3  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 3  5 5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5]
+[DELETED: 3  5 5 5 5.5 5.5 5.5 5 5 5 5 5 5 5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 373
+2025-2026
+Representatives Robinson, Lett
+Cosponsors: Representatives Baker, Brennan, Brent, Brewer, Brownlee, Cockley,
+Denson, Glassburn, Grim, Isaacsohn, Jarrells, McNally, Mohamed, Piccolantonio,
+Rader, Russo, Sims, Somani, Sweeney, Synenberg, Thomas, C., Troy, Upchurch,
+White, E.
+To amend sections 2929.28 and 5122.311 and to enact 1
+section 2923.26 of the Revised Code to enact the 2
+Universal Background Checks Act to require a 3
+firearm transfer to be made through a dealer, 4
+through a law enforcement agency, or pursuant to 5
+a specified exception, and to require a 6
+background check when a firearm is transferred. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2929.28 and 5122.311 be amended 8
+and section 2923.26 of the Revised Code be enacted to read as 9
+follows: 10
+Sec. 2923.26. (A) As used in this section : 11
+(1) "Federally licensed firearms dealer" has the same 12
+meaning as in section 5502.63 of the Revised Code. 13
+(2) "Unlicensed transferee" means a person who is not a 14
+federally licensed firearms dealer and who desires to receive a 15
+firearm from an unlicensed transferor. 16
+
+H. B. No. 373 Page 2
+As Introduced
+(3) "Unlicensed transferor" means a person who is not a 17
+federally licensed firearms dealer and who desires to transfer a 18
+firearm to an unlicensed transferee. 19
+(4) "Identification document" means a document made or 20
+issued by or under the authority of the United States 21
+government, this state, or any other state, a political 22
+subdivision of this state or any other state, a sponsoring 23
+entity of an event designated as a special event of national 24
+significance, a foreign government, a political subdivision of a 25
+foreign government, an international governmental organization, 26
+or an international quasi-governmental organization that, when 27
+completed with information concerning a particular individual, 28
+is of a type intended or commonly accepted for the purpose of 29
+identification of individuals and that includes a photograph of 30
+the individual. 31
+(B) No federally licensed firearms dealer shall transfer a 32
+firearm to any person unless the federally licensed firearms 33
+dealer complies with the requirements of 18 U.S.C. 922(t). 34
+(C)(1) No unlicensed transferor shall transfer a firearm 35
+to an unlicensed transferee, unless both of the following apply 36
+with respect to the transfer of the firearm: 37
+(a) The firearm is transferred through a federally 38
+licensed firearms dealer under division (E) of this section, 39
+through a law enforcement agency under division (F) of this 40
+section, or in accordance with an exception described in 41
+division (G) of this section. 42
+(b) Except as provided in division (G) of this section, 43
+the federally licensed firearms dealer through which the 44
+transfer is made under division (E) of this section gives a 45
+
+H. B. No. 373 Page 3
+As Introduced
+notice described in division (E)(3)(a) of this section, or the 46
+law enforcement agency through which the transfer is made under 47
+division (F) of this section gives a notice described in 48
+division (F)(5)(a) of this section, with respect to the firearm. 49
+(2) No unlicensed firearms dealer shall transfer a firearm 50
+to an unlicensed transferee if the federally licensed firearms 51
+dealer through which the transfer is to be made under division 52
+(E) of this section gives a notice described in division (E)(3) 53
+(b) of this section, or the law enforcement agency through which 54
+the transfer is to be made under division (F) of this section 55
+gives a notice described in division (F)(5)(b) of this section, 56
+with respect to the firearm. 57
+(D)(1) No unlicensed transferee shall receive a firearm 58
+from an unlicensed transferor, unless both of the following 59
+apply with respect to the transfer of the firearm: 60
+(a) The firearm is transferred through a federally 61
+licensed firearms dealer under division (E) of this section, 62
+through a law enforcement agency under division (F) of this 63
+section, or in accordance with an exception described in 64
+division (G) of this section. 65
+(b) Except as provided in division (G) of this section, 66
+the federally licensed firearms dealer through which the 67
+transfer is made under division (E) of this section gives a 68
+notice described in division (E)(3)(a) of this section, or the 69
+law enforcement agency through which the transfer is made under 70
+division (F) of this section gives a notice described in 71
+division (F)(5)(a) of this section, with respect to the firearm. 72
+(2) No unlicensed firearms transferee shall receive a 73
+firearm from an unlicensed transferor if the federally licensed 74
+
+H. B. No. 373 Page 4
+As Introduced
+firearms dealer through which the transfer is to be made under 75
+division (E) of this section gives a notice described in 76
+division (E)(3)(b) of this section, or the law enforcement 77
+agency through which the transfer is to be made under division 78
+(F) of this section gives a notice described in division (F)(5) 79
+(b) of this section, with respect to the firearm. 80
+(E) A federally licensed firearms dealer who agrees to 81
+assist in the transfer of a firearm between an unlicensed 82
+transferor and an unlicensed transferee under division (C) or 83
+(D) of this section shall do all of the following: 84
+(1) Comply with 18 U.S.C. 922(t) as if transferring the 85
+firearm from the inventory of the federally licensed firearms 86
+dealer to the unlicensed transferee, except that a federally 87
+licensed firearms dealer assisting in the transfer of a firearm 88
+under this division shall not be required to comply again with 89
+the requirements of that provision in delivering the firearm to 90
+the unlicensed transferee; 91
+(2) Conduct an incompetency records check of the 92
+unlicensed transferee by contacting the attorney general and 93
+requesting a check of the records maintained under section 94
+5122.311 of the Revised Code, to determine if the transfer of 95
+the firearm to the unlicensed transferee or the unlicensed 96
+transferee's acquisition or possession of the firearm would 97
+violate the law of this state; 98
+(3) Notify the unlicensed transferor and unlicensed 99
+transferee of whichever of the following is applicable: 100
+(a) That the dealer has complied with 18 U.S.C. 922(t) as 101
+provided in division (E)(1) of this section and the transfer of 102
+the firearm is not prohibited under that provision and that the 103
+
+H. B. No. 373 Page 5
+As Introduced
+dealer has conducted the incompetency records check of the 104
+unlicensed transferee as provided in division (E)(2) of this 105
+section and has not determined in that check that the unlicensed 106
+transferee's acquisition or possession of the firearm would 107
+violate the law of this state; 108
+(b) That the dealer has complied with 18 U.S.C. 922(t) as 109
+provided in division (E)(1) of this section and has received a 110
+notice from the national instant criminal background check 111
+system that the transfer would violate 18 U.S.C. 922 or the law 112
+of this state or that the dealer has conducted the incompetency 113
+records check of the unlicensed transferee as provided in 114
+division (E)(2) of this section and has determined in that check 115
+that the unlicensed transferee's acquisition or possession of 116
+the firearm would violate the law of this state. 117
+(F) A law enforcement agency of this state or of a 118
+political subdivision of this state that agrees to assist an 119
+unlicensed transferor in carrying out the responsibilities of 120
+the unlicensed transferor under division (C) or (D) of this 121
+section with respect to the transfer of a firearm shall do all 122
+of the following: 123
+(1) Contact the national instant criminal background check 124
+system under 18 U.S.C. 922(t) and either receive an 125
+identification number as described in 18 U.S.C. 922(t)(1)(B)(i) 126
+or wait the period described in 18 U.S.C. 922(t)(1)(B)(ii); 127
+(2) Conduct an incompetency records check of the 128
+unlicensed transferee by contacting the attorney general and 129
+requesting a check of the records maintained under section 130
+5122.311 of the Revised Code, to determine if the transfer of 131
+the firearm to the unlicensed transferee or the unlicensed 132
+transferee's acquisition or possession of the firearm would 133
+
+H. B. No. 373 Page 6
+As Introduced
+violate the law of this state; 134
+(3) Conduct any other checks that the agency considers 135
+appropriate to determine whether the receipt or possession of 136
+the firearm by the unlicensed transferee would violate 18 U.S.C. 137
+922 or the law of this state; 138
+(4) Verify the identity of the unlicensed transferee by 139
+either examining a valid identification document of the 140
+unlicensed transferee containing a photograph of the unlicensed 141
+transferee or confirming that the unlicensed transferor has 142
+examined such a valid identification document; 143
+(5) Notify the unlicensed transferor and transferee of 144
+whichever of the following is applicable: 145
+(a) That the law enforcement agency has complied with the 146
+requirements under divisions (F)(1), (2), (3), and (4) of this 147
+section and that the transfer of the firearm is not prohibited 148
+under 18 U.S.C 922(t) and the agency has not determined in the 149
+incompetency records check conducted under division (F)(2) of 150
+this section or a records check conducted under division (F)(3) 151
+of this section that the unlicensed transferee's acquisition or 152
+possession of the firearm would violate the law of this state; 153
+(b) That the law enforcement agency has complied with the 154
+requirements under divisions (F)(1), (2), (3), and (4) of this 155
+section and either has received a notification from the national 156
+instant criminal background check system that the transfer would 157
+violate 18 U.S.C. section 922 or the law of this state or has 158
+determined under the incompetency records check conducted under 159
+division (F)(2) of this section or a records check conducted 160
+under division (F)(3) of this section that the unlicensed 161
+transferee's acquisition or possession of the firearm would 162
+
+H. B. No. 373 Page 7
+As Introduced
+violate the law of this state. 163
+(G) Unless prohibited by any other provision of law, 164
+divisions (C) and (D) of this section shall not apply to any 165
+transfer of a firearm between an unlicensed transferor and 166
+unlicensed transferee if any of the following apply with respect 167
+to the transfer: 168
+(1) The transfer is temporary and occurs while in the home 169
+of the unlicensed transferee, the unlicensed transferee is not 170
+otherwise prohibited from possessing firearms, and the 171
+unlicensed transferee believes that possession of the firearm is 172
+necessary to prevent imminent death or great bodily harm to the 173
+unlicensed transferee. 174
+(2) The transfer is a temporary transfer of possession 175
+without transfer of title that takes place in any of the 176
+following circumstances: 177
+(a) At a shooting range located in or on premises owned or 178
+occupied by a duly incorporated organization organized for 179
+conservation purposes or to foster proficiency in firearms; 180
+(b) At a target firearm shooting competition under the 181
+auspices of or approved by an agency of this state or a 182
+nonprofit organization; 183
+(c) While hunting, fishing, or trapping, if the activity 184
+is legal in all places where the unlicensed transferee possesses 185
+the firearm, and the unlicensed transferee holds any required 186
+license or permit. 187
+(3) The transfer is to an authorized representative of a 188
+law enforcement agency of any municipal corporation, any county, 189
+this state, or the federal government for exclusive use by that 190
+governmental entity and, prior to the transfer, written 191
+
+H. B. No. 373 Page 8
+As Introduced
+authorization from the head of the agency authorizing the 192
+transaction is presented to the person from whom the transfer is 193
+being made. The proper written authorization shall be verifiable 194
+written certification from the head of the agency by which the 195
+transferee is employed, identifying the employee as an 196
+individual authorized to conduct the transaction, and 197
+authorizing the transaction for the exclusive use of the agency 198
+by which that person is employed. 199
+(4) The transfer is a loan of the firearm by an authorized 200
+law enforcement representative of a municipal corporation, a 201
+county, this state, or the federal government, the loan is made 202
+to a peace officer who is employed by that governmental entity 203
+and authorized to carry a firearm, and the loan is made for the 204
+carrying and use of that firearm by that peace officer in the 205
+course and scope of the officer's duties. 206
+(5) The transfer is by a law enforcement agency to a peace 207
+officer. 208
+(6) The transfer is to an authorized representative of a 209
+municipal corporation, a county, this state, or the federal 210
+government and is for the governmental entity, and the entity is 211
+acquiring the firearm as part of an authorized, voluntary 212
+program in which the entity is buying or receiving weapons from 213
+private individuals. 214
+(7) The transfer is by an authorized law enforcement 215
+representative of a municipal corporation, a county, this state, 216
+or the federal government to any public or private nonprofit 217
+historical society, museum, or institutional collection, if all 218
+of the following conditions are met: 219
+(a) The entity receiving the firearm is open to the 220
+
+H. B. No. 373 Page 9
+As Introduced
+public. 221
+(b) The firearm prior to delivery is deactivated or 222
+rendered inoperable. 223
+(c) The firearm is not of a type prohibited by provision 224
+of law from being transferred to the public at large. 225
+(d) Prior to delivery, the entity receiving the firearm 226
+submits a written statement to the law enforcement 227
+representative stating that the firearm will not be restored to 228
+operating condition and will either remain with that entity, or 229
+if subsequently disposed of, will be transferred in accordance 230
+with the applicable provisions of law. 231
+(8) The transfer is by any person other than a 232
+representative of an authorized law enforcement agency to any 233
+public or private nonprofit historical society, museum, or 234
+institutional collection, if all of the conditions set forth in 235
+divisions (G)(7)(a) to (d) of this section are met. 236
+(9) The transfer is delivery of a firearm to a gunsmith 237
+for service or repair, is the return of the firearm to its owner 238
+by the gunsmith, or is the delivery of a firearm by a gunsmith 239
+to a federally licensed firearms dealer for service or repair or 240
+the return of the firearm to the gunsmith. 241
+(10) The transfer is made by a person who resides in this 242
+state, is made to a person who resides outside this state and is 243
+a federally licensed firearms dealer, and is in accordance with 244
+federal firearms law. 245
+(11) The transfer is of any unloaded firearm to a 246
+wholesaler as merchandise in the wholesaler's business by a 247
+manufacturer or importer licensed to engage in that business 248
+pursuant to federal firearms law or by another wholesaler and is 249
+
+H. B. No. 373 Page 10
+As Introduced
+made in accordance with federal firearms law. 250
+(H) A federally licensed firearms dealer or law 251
+enforcement agency that processes the transfer of a firearm 252
+under this section may assess and collect a fee, in an amount 253
+not to exceed ten dollars, with respect to each firearm transfer 254
+processed. 255
+(I) Nothing in this section shall be construed to 256
+authorize the attorney general of the United States to inspect 257
+records described in this section or to require that the records 258
+be transferred to a facility owned, managed, or controlled by 259
+this state or the United States. 260
+(J)(1) No person shall recklessly violate division (B), 261
+(C), or (D) of this section. 262
+(2) Whoever violates division (J)(1) of this section is 263
+guilty of illegal transfer of a firearm, and shall be punished 264
+as provided in divisions (J)(2)(a) to (c) of this section. 265
+(a) Except as otherwise provided in division (J)(2)(b) or 266
+(c) of this section, illegal transfer of a firearm is a 267
+misdemeanor of the fourth degree and the offender shall be fined 268
+an amount from the range of possible fines for a misdemeanor of 269
+the fourth degree set forth in section 2929.28 of the Revised 270
+Code. Notwithstanding sections 2929.21 to 2929.28 of the Revised 271
+Code, no other sanction shall be imposed on the offender under 272
+any of those sections. 273
+(b) If the offender previously has been convicted of or 274
+pleaded guilty to one violation of this section, illegal 275
+transfer of a firearm is a misdemeanor of the second degree and 276
+the offender shall be fined an amount from the range of possible 277
+fines for a misdemeanor of the second degree set forth in 278
+
+H. B. No. 373 Page 11
+As Introduced
+section 2929.28 of the Revised Code. Notwithstanding sections 279
+2929.21 to 2929.28 of the Revised Code, no other sanction shall 280
+be imposed on the offender under any of those sections. 281
+(c) If the offender previously has been convicted of or 282
+pleaded guilty to two or more violations of this section, 283
+illegal transfer of a firearm is a misdemeanor of the first 284
+degree, the offender shall be fined an amount from the range of 285
+possible fines for a misdemeanor of the first degree set forth 286
+in section 2929.28 of the Revised Code, and, in addition to the 287
+mandatory fine, the court may impose any other sanction or 288
+sanctions authorized for a misdemeanor of the first degree other 289
+than a fine specified in section 2929.28 of the Revised Code. 290
+Sec. 2929.28. (A) In addition to imposing court costs 291
+pursuant to section 2947.23 of the Revised Code, the court 292
+imposing a sentence upon an offender for a misdemeanor, 293
+including a minor misdemeanor, may sentence the offender to any 294
+financial sanction or combination of financial sanctions 295
+authorized under this section and, if the offender is being 296
+sentenced for a criminal offense as defined in section 2930.01 297
+of the Revised Code, shall sentence the offender to make 298
+restitution pursuant to this section and section 2929.281 of the 299
+Revised Code. If the court, in its discretion or as required by 300
+this section, imposes one or more financial sanctions, the 301
+financial sanctions that may be imposed pursuant to this section 302
+include, but are not limited to, the following: 303
+(1) Unless the misdemeanor offense could be disposed of by 304
+the traffic violations bureau serving the court under Traffic 305
+Rule 13, restitution by the offender to the victim of the 306
+offender's crime or the victim's estate, in an amount based on 307
+the victim's economic loss. The court may not impose restitution 308
+
+H. B. No. 373 Page 12
+As Introduced
+as a sanction pursuant to this division if the offense could be 309
+disposed of by the traffic violations bureau serving the court 310
+under Traffic Rule 13. If the court requires restitution, the 311
+court shall order that the restitution be made to the victim in 312
+open court or to the adult probation department that serves the 313
+jurisdiction or the clerk of the court on behalf of the victim. 314
+The court shall determine the amount of restitution to be 315
+paid by the offender. The victim, victim's representative, 316
+victim's attorney, if applicable, the prosecutor or the 317
+prosecutor's designee, and the offender may provide information 318
+relevant to the determination of the amount of restitution. The 319
+amount the court orders as restitution shall not exceed the 320
+amount of the economic loss suffered by the victim as a direct 321
+and proximate result of the commission of the offense. If the 322
+court imposes restitution for the cost of accounting or auditing 323
+done to determine the extent of economic loss, the court may 324
+order restitution for any amount of the victim's costs of 325
+accounting or auditing provided that the amount of restitution 326
+is reasonable and does not exceed the value of property or 327
+services stolen or damaged as a result of the offense. If the 328
+court decides to or is required to impose restitution, the court 329
+shall hold an evidentiary hearing on restitution if the 330
+offender, victim, victim's representative, victim's attorney, if 331
+applicable, or victim's estate disputes the amount of 332
+restitution. The court shall determine the amount of full 333
+restitution by a preponderance of the evidence. 334
+All restitution payments shall be credited against any 335
+recovery of economic loss in a civil action brought by the 336
+victim or the victim's estate against the offender. No person 337
+may introduce evidence of an award of restitution under this 338
+section in a civil action for purposes of imposing liability 339
+
+H. B. No. 373 Page 13
+As Introduced
+against an insurer under section 3937.18 of the Revised Code. 340
+The court may order that the offender pay a surcharge, of 341
+not more than five per cent of the amount of the restitution 342
+otherwise ordered, to the entity responsible for collecting and 343
+processing restitution payments. 344
+The victim, victim's attorney, if applicable, or the 345
+attorney for the victim's estate may request that the prosecutor 346
+in the case file a motion, or the offender may file a motion, 347
+for modification of the payment terms of any restitution 348
+ordered. If the court grants the motion, it may modify the 349
+payment terms as it determines appropriate but shall not reduce 350
+the amount of restitution ordered, except as provided in 351
+division (A) of section 2929.281 of the Revised Code. 352
+(2) A fine of the type described in divisions (A)(2)(a) 353
+and (b) of this section payable to the appropriate entity as 354
+required by law: 355
+(a) A fine in the following amount: 356
+(i) For a misdemeanor of the first degree, not more than 357
+one thousand dollars; 358
+(ii) For a misdemeanor of the second degree, not more than 359
+seven hundred fifty dollars; 360
+(iii) For a misdemeanor of the third degree, not more than 361
+five hundred dollars; 362
+(iv) For a misdemeanor of the fourth degree, not more than 363
+two hundred fifty dollars; 364
+(v) For a minor misdemeanor, not more than one hundred 365
+fifty dollars. 366
+
+H. B. No. 373 Page 14
+As Introduced
+(b) A state fine or cost as defined in section 2949.111 of 367
+the Revised Code. 368
+(3)(a) Reimbursement by the offender of any or all of the 369
+costs of sanctions incurred by the government, including, but 370
+not limited to, the following: 371
+(i) All or part of the costs of implementing any community 372
+control sanction, including a supervision fee under section 373
+2951.021 of the Revised Code and the costs of global positioning 374
+system device monitoring; 375
+(ii) All or part of the costs of confinement in a jail or 376
+other residential facility, including, but not limited to, a per 377
+diem fee for room and board, the costs of medical and dental 378
+treatment, and the costs of repairing property damaged by the 379
+offender while confined; 380
+(iii) All or part of the cost of purchasing and using an 381
+immobilizing or disabling device, including a certified ignition 382
+interlock device, or a remote alcohol monitoring device that a 383
+court orders an offender to use under section 4510.13 of the 384
+Revised Code. 385
+(b) The amount of reimbursement ordered under division (A) 386
+(3)(a) of this section shall not exceed the total amount of 387
+reimbursement the offender is able to pay and shall not exceed 388
+the actual cost of the sanctions. The court may collect any 389
+amount of reimbursement the offender is required to pay under 390
+that division. If the court does not order reimbursement under 391
+that division, confinement costs may be assessed pursuant to a 392
+repayment policy adopted under section 2929.37 of the Revised 393
+Code. In addition, the offender may be required to pay the fees 394
+specified in section 2929.38 of the Revised Code in accordance 395
+
+H. B. No. 373 Page 15
+As Introduced
+with that section. 396
+(4) For a misdemeanor violation of section 2923.26 of the 397
+Revised Code, the court shall impose upon the offender a 398
+mandatory fine in the amount specified in division (J)(2)(a), 399
+(b), or (c) of that section. 400
+(B) If the court determines a hearing is necessary, the 401
+court may hold a hearing to determine whether the offender is 402
+able to pay the financial sanction imposed pursuant to this 403
+section or court costs or is likely in the future to be able to 404
+pay the sanction or costs. 405
+If the court determines that the offender is indigent and 406
+unable to pay the financial sanction or court costs, the court 407
+shall consider imposing and may impose a term of community 408
+service under division (A) of section 2929.27 of the Revised 409
+Code in lieu of imposing a financial sanction or court costs. If 410
+the court does not determine that the offender is indigent, the 411
+court may impose a term of community service under division (A) 412
+of section 2929.27 of the Revised Code in lieu of or in addition 413
+to imposing a financial sanction under this section and in 414
+addition to imposing court costs. The court may order community 415
+service for a minor misdemeanor pursuant to division (D) of 416
+section 2929.27 of the Revised Code in lieu of or in addition to 417
+imposing a financial sanction under this section and in addition 418
+to imposing court costs. If a person fails to pay a financial 419
+sanction or court costs, the court may order community service 420
+in lieu of the financial sanction or court costs. 421
+(C)(1) The offender shall pay reimbursements imposed upon 422
+the offender pursuant to division (A)(3) of this section to pay 423
+the costs incurred by a county pursuant to any sanction imposed 424
+under this section or section 2929.26 or 2929.27 of the Revised 425
+
+H. B. No. 373 Page 16
+As Introduced
+Code or in operating a facility used to confine offenders 426
+pursuant to a sanction imposed under section 2929.26 of the 427
+Revised Code to the county treasurer. The county treasurer shall 428
+deposit the reimbursements in the county's general fund. The 429
+county shall use the amounts deposited in the fund to pay the 430
+costs incurred by the county pursuant to any sanction imposed 431
+under this section or section 2929.26 or 2929.27 of the Revised 432
+Code or in operating a facility used to confine offenders 433
+pursuant to a sanction imposed under section 2929.26 of the 434
+Revised Code. 435
+(2) The offender shall pay reimbursements imposed upon the 436
+offender pursuant to division (A)(3) of this section to pay the 437
+costs incurred by a municipal corporation pursuant to any 438
+sanction imposed under this section or section 2929.26 or 439
+2929.27 of the Revised Code or in operating a facility used to 440
+confine offenders pursuant to a sanction imposed under section 441
+2929.26 of the Revised Code to the treasurer of the municipal 442
+corporation. The treasurer shall deposit the reimbursements in 443
+the municipal corporation's general fund. The municipal 444
+corporation shall use the amounts deposited in the fund to pay 445
+the costs incurred by the municipal corporation pursuant to any 446
+sanction imposed under this section or section 2929.26 or 447
+2929.27 of the Revised Code or in operating a facility used to 448
+confine offenders pursuant to a sanction imposed under section 449
+2929.26 of the Revised Code. 450
+(3) The offender shall pay reimbursements imposed pursuant 451
+to division (A)(3) of this section for the costs incurred by a 452
+private provider pursuant to a sanction imposed under this 453
+section or section 2929.26 or 2929.27 of the Revised Code to the 454
+provider. 455
+
+H. B. No. 373 Page 17
+As Introduced
+(D)(1) In addition to any other fine that is or may be 456
+imposed under this section, the court imposing sentence upon an 457
+offender for misdemeanor domestic violence or menacing by 458
+stalking may impose a fine of not less than seventy nor more 459
+than five hundred dollars, which shall, except as provided in 460
+divisions (D)(2) and (3) of this section, be transmitted to the 461
+treasurer of state to be credited to the address confidentiality 462
+program fund created by section 111.48 of the Revised Code. 463
+(2) A court that imposes a fine under division (D)(1) of 464
+this section may retain up to twenty-five per cent of amounts 465
+collected in satisfaction of the fine to cover administrative 466
+costs. 467
+(3) A court that imposes a fine under division (D)(1) of 468
+this section may assign up to twenty-five per cent of amounts 469
+collected in satisfaction of the fine to reimburse the 470
+prosecuting attorney for costs associated with prosecution of 471
+the offense. 472
+(E) Except as otherwise provided in this division, a 473
+financial sanction imposed under division (A) of this section is 474
+a judgment in favor of the state or the political subdivision 475
+that operates the court that imposed the financial sanction, and 476
+the offender subject to the financial sanction is the judgment 477
+debtor. A financial sanction of reimbursement imposed pursuant 478
+to division (A)(3)(a)(i) of this section upon an offender is a 479
+judgment in favor of the entity administering the community 480
+control sanction, and the offender subject to the financial 481
+sanction is the judgment debtor. A financial sanction of 482
+reimbursement imposed pursuant to division (A)(3)(a)(ii) of this 483
+section upon an offender confined in a jail or other residential 484
+facility is a judgment in favor of the entity operating the jail 485
+
+H. B. No. 373 Page 18
+As Introduced
+or other residential facility, and the offender subject to the 486
+financial sanction is the judgment debtor. A financial sanction 487
+of restitution imposed pursuant to division (A)(1) of this 488
+section is an order in favor of the victim of the offender's 489
+criminal act that can be collected through a certificate of 490
+judgment as described in division (E)(1) of this section, 491
+through execution as described in division (E)(2) of this 492
+section, or through an order as described in division (E)(3) of 493
+this section, and the offender shall be considered for purposes 494
+of the collection as the judgment debtor. 495
+Once the financial sanction is imposed as a judgment or 496
+order under this division, the victim, private provider, state, 497
+or political subdivision may do any of the following: 498
+(1) Obtain from the clerk of the court in which the 499
+judgment was entered, at no charge, a certificate of judgment 500
+that shall be in the same manner and form as a certificate of 501
+judgment issued in a civil action; 502
+(2) Obtain execution of the judgment or order through any 503
+available procedure, including any of the procedures identified 504
+in divisions (D)(1) and (2) of section 2929.18 of the Revised 505
+Code. 506
+(3) Obtain an order for the assignment of wages of the 507
+judgment debtor under section 1321.33 of the Revised Code. 508
+(F) The civil remedies authorized under division (E) of 509
+this section for the collection of the financial sanction 510
+supplement, but do not preclude, enforcement of the criminal 511
+sentence. 512
+(G) Each court imposing a financial sanction upon an 513
+offender under this section may designate the clerk of the court 514
+
+H. B. No. 373 Page 19
+As Introduced
+or another person to collect the financial sanction. The clerk, 515
+or another person authorized by law or the court to collect the 516
+financial sanction may do the following: 517
+(1) Enter into contracts with one or more public agencies 518
+or private vendors for the collection of amounts due under the 519
+sanction. Before entering into a contract for the collection of 520
+amounts due from an offender pursuant to any financial sanction 521
+imposed pursuant to this section, a court shall comply with 522
+sections 307.86 to 307.92 of the Revised Code. 523
+(2) Permit payment of all or any portion of the sanction 524
+in installments, by financial transaction device if the court is 525
+a county court or a municipal court operated by a county, by 526
+credit or debit card or by another electronic transfer if the 527
+court is a municipal court not operated by a county, or by any 528
+other reasonable method, in any time, and on any terms that 529
+court considers just. If the court is a county court or a 530
+municipal court operated by a county, the acceptance of payments 531
+by any financial transaction device shall be governed by the 532
+policy adopted by the board of county commissioners of the 533
+county pursuant to section 301.28 of the Revised Code. If the 534
+court is a municipal court not operated by a county, the clerk 535
+may pay any fee associated with processing an electronic 536
+transfer out of public money or may charge the fee to the 537
+offender. 538
+(3) To defray administrative costs, charge a reasonable 539
+fee to an offender who elects a payment plan rather than a lump 540
+sum payment of any financial sanction. 541
+(H) No financial sanction imposed under this section shall 542
+preclude a victim from bringing a civil action against the 543
+offender. 544
+
+H. B. No. 373 Page 20
+As Introduced
+(I) If the court imposes restitution, fines, fees, or 545
+incarceration costs on a business or corporation, it is the duty 546
+of the person authorized to make disbursements from assets of 547
+the business or corporation to pay the restitution, fines, fees, 548
+or incarceration costs from those assets. 549
+Sec. 5122.311. (A) Notwithstanding any provision of the 550
+Revised Code to the contrary, if, on or after April 8, 2004, an 551
+individual is found by a court to be a person with a mental 552
+illness subject to court order or becomes an involuntary patient 553
+other than one who is a patient only for purposes of 554
+observation, the probate judge who made the adjudication or the 555
+chief clinical officer of the hospital, community mental health 556
+services provider, or facility in which the person is an 557
+involuntary patient shall notify the office of the attorney 558
+general, on the form described in division (C) of this section, 559
+of the identity of the individual. The notification shall be 560
+transmitted by the judge or the chief clinical officer not later 561
+than seven days after the adjudication or commitment. 562
+(B) The office of the attorney general shall compile and 563
+maintain the notices it receives under division (A) of this 564
+section and the notices shall be used for the purpose of 565
+conducting incompetency records checks requested by sheriffs, 566
+federally licensed firearms dealers, or law enforcement agencies 567
+pursuant to section 311.41 or 2923.26 of the Revised Code. 568
+Records checks requested by a federally licensed firearms dealer 569
+or law enforcement agency pursuant to section 2923.26 of the 570
+Revised Code shall be conducted, and results of the checks shall 571
+be provided, immediately upon receipt of the request. The 572
+notices referred to in this division and the information they 573
+contain are confidential, except as provided in this division, 574
+and are not public records. 575
+
+H. B. No. 373 Page 21
+As Introduced
+(C) The attorney general, by rule adopted under Chapter 576
+119. of the Revised Code, shall prescribe and make available to 577
+all probate judges and all chief clinical officers a form to be 578
+used by them for the purpose of making the notifications 579
+required by division (A) of this section. 580
+Section 2. That existing sections 2929.28 and 5122.311 of 581
+the Revised Code are hereby repealed. 582
+Section 3. This act shall be known as the Universal 583
+Background Checks Act. 584
+Section 4. Section 2929.28 of the Revised Code is 585
+presented in this act as a composite of the section as amended 586
+by both H.B. 33 and S.B. 16 of the 135th General Assembly. The 587
+General Assembly, applying the principle stated in division (B) 588
+of section 1.52 of the Revised Code that amendments are to be 589
+harmonized if reasonably capable of simultaneous operation, 590
+finds that the composite is the resulting version of the section 591
+in effect prior to the effective date of the section as 592
+presented in this act. 593
+
+[DELETED: nH      .  :1:1 1.1 1 1.1]
+[DELETED: 3  1 1.1 2 2 2 2 2 2 2 2 2 2 3.3 3 3.3 3 3:3 3 3 4 4.4 4 4 4]
+[DELETED: 3  4 4 4.4 5 5 5)5 5 5 5 5 5 5:6 6 6 6 6.6 6 6 6 6 7 7.7 7 7]
+[DELETED: 3  7 7 7 7)7.8 8 8 8:8 8 8 8 8 8 9;9 9 9 9 9 9 9;9 9:1 1 1 1]
+[DELETED: 3  1 1 1 1;1 1 1 1 1 1 1 1 1.1 1 1 1 1 1:1 1 1 1;1 1 1 1 1 1 1]
+[DELETED: 3 ;1 1 1 1;1 1 1 1 1;1 1:1 1 1 1 1 1 1 1;1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3 .1 1 1 1 1:1 1 1 1 1 1.1 1 1:1 1 1;1 1 1;1 1 1 1.1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1.1 2 2 2 2 2 2.2 2.2 2 2 2 2 2.2 2 2 2 2:2 2]
+[DELETED: 3 .2 2.2 2.2 2 2 2 2 2.2 2 2 2 2.2 2 2 2 2.2 2 2 2.2 2 2 2 2]
+[DELETED: 3 .2 2 2 2 2.2 2 2 2 2.2 2.2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3)3 3 3 3 3 3 3 3 3 3]
+[DELETED: 3  3 3 3 3.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 3  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 3  5 5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5.5]
+[DELETED: 3  5 5 5 5.5 5.5 5.5 5 5 5 5 5 5 5 5.5]

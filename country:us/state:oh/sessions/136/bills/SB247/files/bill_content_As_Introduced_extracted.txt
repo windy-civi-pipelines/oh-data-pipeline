@@ -1,0 +1,51 @@
+Title: Cosponsors: Senators Timken, Blessing, Blackshear, Smith, Liston, Weinstein,
+Official Title: Cosponsors: Senators Timken, Blessing, Blackshear, Smith, Liston, Weinstein,
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 247
+2025-2026
+Senator DeMora
+Wilkin
+To enact section 5.083 of the Revised Code to 1
+designate the buckeye as the state candy of 2
+Ohio. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.083 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.083. The confection consisting of peanut butter 6
+fudge and chocolate, known as the buckeye, is hereby adopted as 7
+the official candy of the state. 8
+[DELETED: nS  . :  .]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 247
+2025-2026
+Senator DeMora
+Cosponsors: Senators Timken, Blessing, Blackshear, Smith, Liston, Weinstein,
+Wilkin
+To enact section 5.083 of the Revised Code to 1
+designate the buckeye as the state candy of 2
+Ohio. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.083 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.083. The confection consisting of peanut butter 6
+fudge and chocolate, known as the buckeye, is hereby adopted as 7
+the official candy of the state. 8
+
+[DELETED: nS  . :  .]

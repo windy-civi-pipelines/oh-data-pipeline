@@ -1,0 +1,175 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 448
+2025-2026
+Representatives Baker, Barhorst
+To enact section 3902.65 of the Revised Code to 1
+apply prescription drug rebates to cost-sharing 2
+requirements. 3
+
+Section 2:
+Section 1. That section 3902.65 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3902.65. (A) For the purposes of this section : 6
+(1) "Health plan issuer" has the same meaning as in 7
+
+Section 3:
+section 3902.50 of the Revised Code, except it excludes the 8
+public employee benefit plan covering state employees who are 9
+paid directly by warrant of the director of budget and 10
+management, including elected state officials. 11
+(2) "Price protection rebate" means a negotiated price 12
+concession that accrues directly or indirectly to a health plan 13
+issuer, or other party on behalf of the health plan issuer, in 14
+the event of an increase in the wholesale acquisition cost of a 15
+drug above a specified threshold. 16
+(3) "Rebate" includes both of the following: 17
+(a) Negotiated price concessions, including base price 18
+concessions, whether described as a rebate or otherwise, and 19
+H. B. No. 448 Page 2
+As Introduced
+reasonable estimates of any price protection rebates and 20
+performance-based price concessions that may accrue directly or 21
+indirectly to the health plan issuer during the coverage year 22
+from a manufacturer, dispensing pharmacy, or other party in 23
+connection with the dispensing or administration of a 24
+prescription drug; 25
+(b) Reasonable estimates of any negotiated price 26
+concessions, fees, and other administrative costs that are 27
+passed through, or are reasonably anticipated to be passed 28
+through, to the health plan issuer and serve to reduce the 29
+health plan issuer's liability for a prescription drug. 30
+(B) A health plan issuer shall calculate a covered 31
+person's cost sharing for a prescription drug at the point of 32
+sale based on a price that is reduced by one hundred per cent of 33
+all rebates received, or to be received, in connection with the 34
+dispensing or administration of the prescription drug. 35
+(C) Nothing in this section prohibits a health plan issuer 36
+from decreasing a covered person's cost-sharing amount for a 37
+prescription drug by more than the amount required by division 38
+(A) of this section. 39
+(D) In implementing the requirements of this section, the 40
+superintendent of insurance shall only regulate a health plan 41
+issuer to the extent permissible under applicable law. 42
+(E)(1) In complying with the provisions of this section, a 43
+health plan issuer, or its agent, shall not publish or otherwise 44
+reveal information regarding the actual amount of rebates a 45
+health plan issuer receives on a product or therapeutic class of 46
+products, manufacturer, or pharmacy-specific basis. 47
+(2) Documents and other evidence described in division (E) 48
+H. B. No. 448 Page 3
+As Introduced
+(1) of this section are confidential, not public records for the 49
+purposes of section 149.43 of the Revised Code, and shall not be 50
+released directly or indirectly, or in a manner that would allow 51
+for the identification of an individual product, therapeutic 52
+class of products, manufacturer, or pharmacy, or in a manner 53
+that would have the potential to compromise the financial, 54
+competitive, or proprietary nature of the information. 55
+(3) A health plan issuer shall impose the confidentiality 56
+protections and requirements of this section on any agent or 57
+other third party that performs health care or administrative 58
+services on behalf of the health plan issuer that may receive or 59
+have access to rebate information. 60
+(F) Whoever violates this section is engaged in an unfair 61
+and deceptive insurance act or practice under sections 3901.19 62
+to 3901.26 of the Revised Code, and is subject to proceedings 63
+pursuant to those sections. 64
+[DELETED: nH    ::    1.1 1 1 1 1.1:1 1 1]
+[DELETED: 8  2 2 2 2 2;2 2 2 2 2.3 3 3 3 3.3 3 3 3.3 4 4 4 4 4 4 4.4)4]
+[DELETED: 8  4 5 5 5 5 5.5 5 5 5 5.6 6 6 6.6]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 448
+2025-2026
+Representatives Baker, Barhorst
+To enact section 3902.65 of the Revised Code to 1
+apply prescription drug rebates to cost-sharing 2
+requirements. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3902.65 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3902.65. (A) For the purposes of this section : 6
+(1) "Health plan issuer" has the same meaning as in 7
+section 3902.50 of the Revised Code, except it excludes the 8
+public employee benefit plan covering state employees who are 9
+paid directly by warrant of the director of budget and 10
+management, including elected state officials. 11
+(2) "Price protection rebate" means a negotiated price 12
+concession that accrues directly or indirectly to a health plan 13
+issuer, or other party on behalf of the health plan issuer, in 14
+the event of an increase in the wholesale acquisition cost of a 15
+drug above a specified threshold. 16
+(3) "Rebate" includes both of the following: 17
+(a) Negotiated price concessions, including base price 18
+concessions, whether described as a rebate or otherwise, and 19
+
+H. B. No. 448 Page 2
+As Introduced
+reasonable estimates of any price protection rebates and 20
+performance-based price concessions that may accrue directly or 21
+indirectly to the health plan issuer during the coverage year 22
+from a manufacturer, dispensing pharmacy, or other party in 23
+connection with the dispensing or administration of a 24
+prescription drug; 25
+(b) Reasonable estimates of any negotiated price 26
+concessions, fees, and other administrative costs that are 27
+passed through, or are reasonably anticipated to be passed 28
+through, to the health plan issuer and serve to reduce the 29
+health plan issuer's liability for a prescription drug. 30
+(B) A health plan issuer shall calculate a covered 31
+person's cost sharing for a prescription drug at the point of 32
+sale based on a price that is reduced by one hundred per cent of 33
+all rebates received, or to be received, in connection with the 34
+dispensing or administration of the prescription drug. 35
+(C) Nothing in this section prohibits a health plan issuer 36
+from decreasing a covered person's cost-sharing amount for a 37
+prescription drug by more than the amount required by division 38
+(A) of this section. 39
+(D) In implementing the requirements of this section, the 40
+superintendent of insurance shall only regulate a health plan 41
+issuer to the extent permissible under applicable law. 42
+(E)(1) In complying with the provisions of this section, a 43
+health plan issuer, or its agent, shall not publish or otherwise 44
+reveal information regarding the actual amount of rebates a 45
+health plan issuer receives on a product or therapeutic class of 46
+products, manufacturer, or pharmacy-specific basis. 47
+(2) Documents and other evidence described in division (E) 48
+
+H. B. No. 448 Page 3
+As Introduced
+(1) of this section are confidential, not public records for the 49
+purposes of section 149.43 of the Revised Code, and shall not be 50
+released directly or indirectly, or in a manner that would allow 51
+for the identification of an individual product, therapeutic 52
+class of products, manufacturer, or pharmacy, or in a manner 53
+that would have the potential to compromise the financial, 54
+competitive, or proprietary nature of the information. 55
+(3) A health plan issuer shall impose the confidentiality 56
+protections and requirements of this section on any agent or 57
+other third party that performs health care or administrative 58
+services on behalf of the health plan issuer that may receive or 59
+have access to rebate information. 60
+(F) Whoever violates this section is engaged in an unfair 61
+and deceptive insurance act or practice under sections 3901.19 62
+to 3901.26 of the Revised Code, and is subject to proceedings 63
+pursuant to those sections. 64
+
+[DELETED: nH    ::    1.1 1 1 1 1.1:1 1 1]
+[DELETED: 8  2 2 2 2 2;2 2 2 2 2.3 3 3 3 3.3 3 3 3.3 4 4 4 4 4 4 4.4)4]
+[DELETED: 8  4 5 5 5 5 5.5 5 5 5 5.6 6 6 6.6]

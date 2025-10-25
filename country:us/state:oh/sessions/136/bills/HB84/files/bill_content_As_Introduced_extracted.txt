@@ -1,0 +1,1146 @@
+Title: Cosponsors: Representatives Bird, Brennan, Claggett, Click, Dean, Fowler Arthur,
+Official Title: Cosponsors: Representatives Bird, Brennan, Claggett, Click, Dean, Fowler Arthur,
+Number of Sections: 19
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 84
+2025-2026
+Representatives Demetriou, Williams
+Gross, Hiner, Holmes, Hoops, John, Johnson, King, Klopfenstein, McClain, Miller,
+K., Newman, Peterson, Richardson, Robb Blasdel, Salvo, Schmidt, Sigrist,
+Stewart, Thomas, C., Willis, Workman, Young
+A BILL
+To amend sections 2307.66, 2917.211, and 2981.02 1
+and to enact sections 2307.68 and 2907.312 of 2
+the Revised Code to enact the Innocence Act to 3
+prohibit an organization from failing to verify 4
+the age of a person attempting to access 5
+material that is obscene or harmful to 6
+juveniles, to prohibit a person from using 7
+another person's likeness to create sexual 8
+images of the other person, and to create a 9
+private right of action for each prohibited 10
+activity. 11
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 2307.66, 2917.211, and 2981.02 be 12
+amended and sections 2307.68 and 2907.312 of the Revised Code be 13
+enacted to read as follows: 14
+Sec. 2307.66. (A) A victim of a violation of section 15
+
+Section 3:
+2917.211 of the Revised Code has and may commence a civil cause 16
+H. B. No. 84 Page 2
+As Introduced
+of action against the offender for any of the following, in 17
+addition to reasonable attorney's fees and the costs of bringing 18
+the civil action: 19
+(1) An injunction or a temporary restraining order 20
+prohibiting further dissemination of the image that is the 21
+subject of the violation; 22
+(2) Compensatory and punitive damages for harm resulting 23
+from the violation. 24
+(B) The victim shall be presumed to have suffered harm as 25
+a result of the nonconsensual dissemination of private sexual 26
+images or the nonconsensual dissemination of fabricated sexual 27
+images. 28
+(C) A civil action brought under division (A) of this 29
+
+Section 4:
+section shall be brought within four years after the victim 30
+discovers the private sexual image or fabricated sexual image. 31
+(D) The cause of action created by this section is in 32
+addition to any other cause of action available under statutory 33
+or common law. 34
+(D) (E) As used in this section, "victim" has the same 35
+meaning as in section 2930.01 of the Revised Code. 36
+(F) "Fabricated sexual image" means a created, adapted, or 37
+modified image that depicts another person, the other person is 38
+recognizable in the image by the other person's face, likeness, 39
+or other distinguishing characteristic, and the other person 40
+depicted in the image is in a state of nudity or is engaged in a 41
+sexual act. 42
+Sec. 2307.68. (A) A victim of a violation of division (B ) 43
+(1) or (2) or (C)(3) or (4) of section 2907.312 of the Revised 44
+H. B. No. 84 Page 3
+As Introduced
+Code may commence a civil action against the offender for 45
+injunctive relief in addition to reasonable attorney's fees and 46
+the costs of bringing the civil action. The civil action shall 47
+be brought within two years after the cause of action accrues. 48
+The statute of limitations on the claim against the offender 49
+does not run during any time when the victim is less than 50
+eighteen years of age. 51
+(B) For purposes of division (A) of this section, a victim 52
+of a violation of division (B)(1) or (2) of section 2907.312 of 53
+the Revised Code is a person under eighteen years of age or a 54
+parent or guardian of the person under eighteen years of age who 55
+is bringing the action on behalf of the person. 56
+Sec. 2907.312. (A)(1) "Cable service provider" has the 57
+same meaning as in section 1332.01 of the Revised Code. 58
+(2) "Cloud service provider" means a third-party company 59
+offering a cloud-based platform, infrastructure, application, or 60
+storage services. 61
+(3) "Direct-to-home satellite service" has the meaning 62
+defined in 47 U.S.C. 303, as amended. 63
+(4) "Identifying information" means photo identification 64
+or public or private transactional data. 65
+(5) "Interactive computer service" has the meaning defined 66
+in the "Telecommunications Act of 1996," 47 U.S.C. 230, as 67
+amended. 68
+(6) "Internet provider" means a provider of internet 69
+service, including all of the following: 70
+(a) Broadband service, however defined or classified by 71
+the federal communications commission; 72
+H. B. No. 84 Page 4
+As Introduced
+(b) Information service or telecommunications service, 73
+both as defined in the "Telecommunications Act of 1996," 47 74
+U.S.C. 153, as amended; 75
+(c) Internet protocol-enabled services, as defined in 76
+
+Section 5:
+section 4927.01 of the Revised Code. 77
+(7) "Mobile service" and "telecommunications carrier" have 78
+the meanings defined in the "Telecommunications Act of 1996," 47 79
+U.S.C. 153, as amended. 80
+(8) "Organization" means both of the following: 81
+(a) A commercial establishment that, for any form of 82
+consideration, has as a significant or substantial portion of 83
+its stock-in-trade in, derives a significant or substantial 84
+portion of its revenues from, devotes a significant or 85
+substantial portion of its content or advertising to, or 86
+maintains a substantial section of its sales or online content 87
+display space for the sale, rental, or viewing of materials that 88
+are obscene or harmful to juveniles; 89
+(b) A commercial establishment as defined in section 90
+
+Section 6:
+2907.38 of the Revised Code. An establishment may have other 91
+principal business purposes that do not involve selling, 92
+delivering, furnishing, disseminating, providing, exhibiting, or 93
+presenting any material or performance that is obscene or 94
+harmful to juveniles on the internet and still be categorized as 95
+an organization subject to this section. The existence of other 96
+principal business purposes does not exempt an establishment 97
+from being categorized as an organization subject to this 98
+
+Section 7:
+section, so long as one of its principal business purposes 99
+involves selling, delivering, furnishing, disseminating, 100
+providing, exhibiting, or presenting any material or performance 101
+H. B. No. 84 Page 5
+As Introduced
+that is obscene or harmful to juveniles on the internet. 102
+(9) "Photo identification" has the same meaning as in 103
+
+Section 8:
+section 3501.01 of the Revised Code and includes any government- 104
+issued identification issued by another state, district, 105
+country, or sovereignty. 106
+(10) "Reasonable age verification methods" means the 107
+following: 108
+(a) Verifying that the person attempting to access the 109
+material or performance that is obscene or harmful to juveniles 110
+is eighteen years of age or older through the use of a 111
+commercial age verification system that uses photo 112
+identification or public or private transactional data to verify 113
+the person's age; 114
+(b) Using third-party and governmental databases that use 115
+a commercial age verification system that uses photo 116
+identification or public or private transactional data to verify 117
+the person's age. 118
+(11) "Transactional data" means a sequence of information 119
+that documents an exchange, agreement, or transfer between a 120
+person, organization, or third party for the purpose of 121
+satisfying a request or event. "Transactional data" includes 122
+mortgage, educational, and employment records. 123
+(12) "Video service provider" has the same meaning as in 124
+
+Section 9:
+section 1332.21 of the Revised Code. 125
+(B)(1) No organization that sells, delivers, furnishes, 126
+disseminates, provides, exhibits, or presents any material or 127
+performance that is obscene or harmful to juveniles on the 128
+internet shall recklessly fail to verify that any person 129
+attempting to access the material or performance that is obscene 130
+H. B. No. 84 Page 6
+As Introduced
+or harmful to juveniles is eighteen years of age or older 131
+through reasonable age verification methods. 132
+(2) No organization that sells, delivers, furnishes, 133
+disseminates, provides, exhibits, or presents any material or 134
+performance that is obscene or harmful to juveniles on the 135
+internet shall recklessly fail to verify that any person 136
+creating an account or subscription to access any material or 137
+performance that is obscene or harmful to juveniles is eighteen 138
+years of age or older through reasonable age verification 139
+methods. The organization shall reverify the age of the person 140
+every two years thereafter. 141
+(3)(a) The organization that sells, delivers, furnishes, 142
+disseminates, provides, exhibits, or presents any material or 143
+performance that is obscene or harmful to juveniles on the 144
+internet shall utilize a geofence system maintained and 145
+monitored by a licensed location-based technology provider to 146
+dynamically monitor the geolocation of persons attempting to 147
+access or creating an account or subscription to access the 148
+material or performance that is obscene or harmful to juveniles. 149
+(b) The location-based technology provider shall perform a 150
+geolocation check to dynamically monitor the person attempting 151
+to access or creating an account or subscription to access the 152
+material or performance that is obscene or harmful to juveniles 153
+and the person's location. 154
+(c) If the location-based technology provider determines 155
+that a person is located in this state, the organization that 156
+sells, delivers, furnishes, disseminates, provides, exhibits, or 157
+presents any material or performance that is obscene or harmful 158
+to juveniles on the internet shall block that person until the 159
+person's age has been verified using reasonable age verification 160
+H. B. No. 84 Page 7
+As Introduced
+methods. 161
+(d) The organization that sells, delivers, furnishes, 162
+disseminates, provides, exhibits, or presents any material or 163
+performance that is obscene or harmful to juveniles on the 164
+internet shall implement a notification mechanism to alert 165
+persons attempting to access or creating an account or 166
+subscription to access the material or performance that is 167
+obscene or harmful to juveniles, of a geolocation check failure. 168
+(C)(1)(a) Except as otherwise provided in division (C)(1) 169
+(b) of this section, an organization that sells, delivers, 170
+furnishes, disseminates, provides, exhibits, or presents any 171
+material or performance that is obscene or harmful to juveniles 172
+on the internet and verifies the age of the person creating an 173
+account or subscription to access the material or performance 174
+that is obscene or harmful to juveniles on the internet shall do 175
+the following: 176
+(i) Immediately delete all information gathered for the 177
+purpose of age verification after the age verification is 178
+completed, except the information maintained for account and 179
+subscription access and for billing purposes; 180
+(ii) Upon the request of the account holder or subscriber, 181
+immediately delete the data maintained for user access to the 182
+account or subscription and for billing purposes; 183
+(iii) Develop and maintain a data privacy policy compliant 184
+with federal and state law and maintain data in a manner that is 185
+reasonably secure. 186
+(b) On the expiration of two years after the creation of 187
+the account or subscription, the organization shall immediately 188
+delete all information relative to the creation of the user's 189
+H. B. No. 84 Page 8
+As Introduced
+account or subscription and any information maintained for 190
+billing purposes, unless the account holder or subscriber renews 191
+the account or subscription. 192
+(2) An organization that sells, delivers, furnishes, 193
+disseminates, provides, exhibits, or presents any material or 194
+performance that is obscene or harmful to juveniles on the 195
+internet and verifies the age of the person attempting to access 196
+the material or performance that is obscene or harmful to 197
+juveniles on the internet shall do both of the following: 198
+(a) Immediately delete all information gathered for the 199
+purpose of age verification after age verification is completed; 200
+(b) Develop and maintain a data privacy policy compliant 201
+with federal and state law and maintain data in a manner that is 202
+reasonably secure. 203
+(3) No organization described in division (C)(1) or (2) of 204
+this section shall recklessly fail to immediately delete any 205
+identifying information, except the information required for the 206
+purpose of granting a person access to the account or 207
+subscription and for billing the account or subscription, that 208
+is used for age verification of the person attempting to access 209
+or creating an account or subscription to access any material or 210
+performance on the internet that is obscene or harmful to 211
+juveniles after age verification is completed. 212
+(4) No organization described in division (C)(1) or (2) of 213
+this section shall transfer any information collected, except 214
+for the purpose of age verification. Any party who receives 215
+transferred information for age verification purposes shall 216
+immediately delete all information gathered for the purpose of 217
+age verification after age verification is completed. 218
+H. B. No. 84 Page 9
+As Introduced
+(D) This section does not apply to any of the following: 219
+(1) A person who, while employed or contracted by a 220
+newspaper, magazine, press association, news agency, news wire 221
+service, radio or television station, or similar media, is 222
+gathering, processing, transmitting, compiling, editing, or 223
+disseminating information for the general public; 224
+(2) A provider of an interactive computer service; 225
+(3) A mobile service; 226
+(4) An internet provider; 227
+(5) A cable service provider; 228
+(6) A direct-to-home satellite service; 229
+(7) A video service provider; 230
+(8) A cloud service provider. 231
+(E) It is an affirmative defense to a charge under 232
+division (B) or (C) of this section if all of the following 233
+apply: 234
+(1) The person attempting to access or creating an account 235
+or subscription to access any material or performance that is 236
+obscene or harmful to juveniles on the internet provided 237
+identifying information to the organization that sells, 238
+delivers, furnishes, disseminates, provides, exhibits, or 239
+presents any material or performance that is obscene or harmful 240
+to juveniles on the internet. 241
+(2) The organization that sells, delivers, furnishes, 242
+disseminates, provides, exhibits, or presents any material or 243
+performance that is obscene or harmful to juveniles on the 244
+internet made a bona fide effort to ascertain the true age of 245
+H. B. No. 84 Page 10
+As Introduced
+the person by verifying that the person attempting to access or 246
+creating an account or subscription to access the material or 247
+performance that is obscene or harmful to juveniles is eighteen 248
+years of age or older through reasonable age verification 249
+methods. 250
+(3) The organization that sells, delivers, furnishes, 251
+disseminates, provides, exhibits, or presents any material or 252
+performance that is obscene or harmful to juveniles on the 253
+internet had no reason to believe that the person attempting to 254
+access or creating an account or subscription to access any 255
+material or performance that is obscene or harmful to juveniles 256
+was less than eighteen years of age. 257
+(F) For purposes of this section, an organization may be 258
+convicted of an offense pursuant to section 2901.23 of the 259
+Revised Code and fined in accordance with section 2929.31 of the 260
+Revised Code or an officer, agent, or employee of an 261
+organization may be convicted of an offense pursuant to section 262
+
+Section 10:
+2901.24 of the Revised Code and penalized as if the officer, 263
+agent, or employee of the organization acted on the officer's, 264
+agent's, or employee's own behalf. 265
+(G) Whoever violates division (B)(1) or (2) or (C)(3) or 266
+(4) of this section is guilty of failure to verify age of person 267
+accessing materials that are obscene or harmful to juveniles, a 268
+misdemeanor of the first degree. Each day a person violates this 269
+division constitutes a separate offense. 270
+Sec. 2917.211. (A) As used in this section: 271
+(1) "Child-victim oriented offense" and "sexually oriented 272
+offense" have the same meanings as in section 2950.01 of the 273
+Revised Code. 274
+H. B. No. 84 Page 11
+As Introduced
+(2) "Disseminate" means to post, distribute, or publish on 275
+a computer device, computer network, web site, or other 276
+electronic device or medium of communication. 277
+(2) (3) "Image" means a photograph, film, videotape, 278
+digital recording, or other depiction or portrayal of a person. 279
+(3) (4) "Interactive computer service" has the meaning 280
+defined in the "Telecommunications Act of 1996," 47 U.S.C. 230, 281
+as amended. 282
+(4) (5) "Internet provider" means a provider of internet 283
+service, including all of the following: 284
+(a) Broadband service, however defined or classified by 285
+the federal communications commission; 286
+(b) Information service or telecommunications service, 287
+both as defined in the "Telecommunications Act of 1996," 47 288
+U.S.C. 153, as amended; 289
+(c) Internet protocol-enabled services, as defined in 290
+
+Section 11:
+section 4927.01 of the Revised Code. 291
+(5) (6) "Mobile service" and "telecommunications carrier" 292
+have the meanings defined in 47 U.S.C. 153, as amended. 293
+(6) (7) "Cable service provider" has the same meaning as 294
+in section 1332.01 of the Revised Code. 295
+(7) (8) "Direct-to-home satellite service" has the meaning 296
+defined in 47 U.S.C. 303, as amended. 297
+(8) (9) "Video service provider" has the same meaning as 298
+in section 1332.21 of the Revised Code. 299
+(9) (10) "Sexual act" means any of the following: 300
+(a) Sexual activity; 301
+H. B. No. 84 Page 12
+As Introduced
+(b) Masturbation; 302
+(c) An act involving a bodily substance that is performed 303
+for the purpose of sexual arousal or gratification; 304
+(d) Sado-masochistic abuse. 305
+(11) "Fabricated sexual image" has the same meaning as in 306
+
+Section 12:
+section 2307.66 of the Revised Code. 307
+(B) No person shall knowingly disseminate an image of 308
+another person if all of the following apply: 309
+(1) The person in the image is eighteen years of age or 310
+older. 311
+(2) The person in the image can be identified from the 312
+image itself or from information displayed in connection with 313
+the image and the offender supplied the identifying information. 314
+(3) The person in the image is in a state of nudity or is 315
+engaged in a sexual act. 316
+(4) The image is disseminated without consent from the 317
+person in the image. 318
+(5) The image is disseminated with intent to harm the 319
+person in the image. 320
+(C) No person shall knowingly disseminate a fabricated 321
+sexual image of another person without the other person's 322
+consent. 323
+(D) No person shall, without the consent of the depicted 324
+person, in order to harass, extort, threaten, or cause physical, 325
+emotional, reputational, or economic harm to a person falsely 326
+depicted, knowingly do either of the following: 327
+(1) Create a fabricated sexual image with intent to 328
+H. B. No. 84 Page 13
+As Introduced
+distribute; 329
+(2) Solicit the creation of a fabricated sexual image with 330
+intent to distribute. 331
+(E) This section does not prohibit the dissemination of an 332
+image or fabricated sexual image if any of the following apply: 333
+(1) The image or fabricated sexual image is disseminated 334
+for the purpose of a criminal investigation that is otherwise 335
+lawful. 336
+(2) The image or fabricated sexual image is disseminated 337
+for the purpose of, or in connection with, the reporting of 338
+unlawful conduct. 339
+(3) The image or fabricated sexual image is part of a news 340
+report or commentary or an artistic or expressive work, such as 341
+a performance, work of art, literary work, theatrical work, 342
+musical work, motion picture, film, or audiovisual work. 343
+(4) The image or fabricated sexual image is disseminated 344
+by a law enforcement officer, or a corrections officer or guard 345
+in a detention facility, acting within the scope of the person's 346
+official duties. 347
+(5) The image or fabricated sexual image is disseminated 348
+for another lawful public purpose. 349
+(6) The If the person in the image or fabricated sexual 350
+image is eighteen years of age or older, the person in the image 351
+or fabricated sexual image is knowingly and willingly in a state 352
+of nudity or engaged in a sexual act and is knowingly and 353
+willingly in a location in which the person does not have a 354
+reasonable expectation of privacy. 355
+(7) The image or fabricated sexual image is disseminated 356
+H. B. No. 84 Page 14
+As Introduced
+for the purpose of medical treatment or examination. 357
+(D) (F) The following entities are not liable for a 358
+violation of this section solely as a result of an image or 359
+fabricated sexual image or other information provided by another 360
+person: 361
+(1) A provider of interactive computer service; 362
+(2) A mobile service; 363
+(3) A telecommunications carrier; 364
+(4) An internet provider; 365
+(5) A cable service provider; 366
+(6) A direct-to-home satellite service; 367
+(7) A video service provider. 368
+(E) (G) Any conduct that is a violation of this section 369
+and any other section of the Revised Code may be prosecuted 370
+under this section, the other section, or both sections. 371
+(F)(1)(a) (H)(1)(a) Except as otherwise provided in 372
+division (F)(1)(b), (c), or (d) (H)(1)(b) of this section, 373
+whoever violates division (B) of this section is guilty of 374
+nonconsensual dissemination of private sexual images, a 375
+misdemeanor felony of the third fifth degree. 376
+(b) If the offender previously has been convicted of or 377
+pleaded guilty to a violation of division (B) of this section, a 378
+sexually oriented offense, or a child-victim oriented offense, 379
+nonconsensual dissemination of private sexual images is a 380
+misdemeanor felony of the second fourth degree. 381
+(c) If the offender previously has been convicted of or 382
+pleaded guilty to two or more violations of this section, 383
+H. B. No. 84 Page 15
+As Introduced
+nonconsensual dissemination of private sexual images is a 384
+misdemeanor of the first degree. 385
+(d) If the offender is under eighteen years of age and the 386
+person in the image is not more than five years older than the 387
+offender, the offender shall not be prosecuted under this 388
+
+Section 13:
+section. 389
+(2) (2)(a) Except as otherwise provided in division (H)(2) 390
+(b) of this section, whoever violates division (C) of this 391
+
+Section 14:
+section is guilty of nonconsensual dissemination of fabricated 392
+sexual images, a felony of the fourth degree. 393
+(b) If the offender has previously been convicted of or 394
+pleaded guilty to a violation of this section, a sexually 395
+oriented offense, or a child-victim oriented offense, 396
+nonconsensual dissemination of fabricated sexual images is a 397
+felony of the third degree. 398
+(3)(a) Except as otherwise provided in division (H)(3)(b) 399
+of this section, whoever violates division (D) of this section 400
+is guilty of nonconsensual creation of fabricated sexual images, 401
+a felony of the fourth degree. 402
+(b) If the offender has previously been convicted of or 403
+pleaded guilty to a violation of this section, a sexually 404
+oriented offense, or a child-victim oriented offense, 405
+nonconsensual creation of fabricated sexual images is a felony 406
+of the third degree. 407
+(4) In addition to any other penalty or disposition 408
+authorized or required by law, the court may order any person 409
+who is convicted of a violation of this section or who is 410
+adjudicated delinquent by reason of a violation of this section 411
+to criminally forfeit all of the following property to the state 412
+H. B. No. 84 Page 16
+As Introduced
+under Chapter 2981. of the Revised Code: 413
+(a) Any profits or proceeds and any property the person 414
+has acquired or maintained in violation of this section that the 415
+sentencing court determines to have been acquired or maintained 416
+as a result of the violation; 417
+(b) Any interest in, securities of, claim against, or 418
+property or contractual right of any kind affording a source of 419
+influence over any enterprise that the person has established, 420
+operated, controlled, or conducted in violation of this section 421
+that the sentencing court determines to have been acquired or 422
+maintained as a result of the violation. 423
+(G) (I) A victim of a violation of this section may 424
+commence a civil cause of action against the offender, as 425
+described in section 2307.66 of the Revised Code. 426
+Sec. 2981.02. (A)(1) The following property is subject to 427
+forfeiture to the state or a political subdivision under either 428
+the criminal or delinquency process in section 2981.04 of the 429
+Revised Code or the civil process in section 2981.05 of the 430
+Revised Code: 431
+(a) Contraband involved in an offense; 432
+(b) Proceeds derived from or acquired through the 433
+commission of an offense; 434
+(c) An instrumentality that is used in or intended to be 435
+used in the commission or facilitation of any of the following 436
+offenses when the use or intended use, consistent with division 437
+(B) of this section, is sufficient to warrant forfeiture under 438
+this chapter: 439
+(i) A felony; 440
+H. B. No. 84 Page 17
+As Introduced
+(ii) A misdemeanor, when forfeiture is specifically 441
+authorized by a section of the Revised Code or by a municipal 442
+ordinance that creates the offense or sets forth its penalties; 443
+(iii) An attempt to commit, complicity in committing, or a 444
+conspiracy to commit an offense of the type described in 445
+divisions (A)(3)(a) and (b) of this section. 446
+(2) In determining whether an alleged instrumentality was 447
+used in or was intended to be used in the commission or 448
+facilitation of an offense or an attempt, complicity, or 449
+conspiracy to commit an offense in a manner sufficient to 450
+warrant its forfeiture, the trier of fact shall consider the 451
+following factors the trier of fact determines are relevant: 452
+(a) Whether the offense could not have been committed or 453
+attempted but for the presence of the instrumentality; 454
+(b) Whether the primary purpose in using the 455
+instrumentality was to commit or attempt to commit the offense; 456
+(c) The extent to which the instrumentality furthered the 457
+commission of, or attempt to commit, the offense. 458
+(B) The property described in division (F)(2) (H)(4) of 459
+
+Section 15:
+section 2917.211 of the Revised Code is subject to forfeiture 460
+under the criminal or delinquency process in section 2981.04 of 461
+the Revised Code, if the forfeiture is ordered by the court 462
+imposing sentence or an order of disposition. 463
+(C) This chapter does not apply to or limit forfeitures 464
+under Title XLV of the Revised Code, including forfeitures 465
+relating to section 2903.06 or 2903.08 of the Revised Code. 466
+
+Section 16:
+Section 2. That existing sections 2307.66, 2917.211, and 467
+
+Section 17:
+2981.02 of the Revised Code are hereby repealed. 468
+H. B. No. 84 Page 18
+As Introduced
+
+Section 18:
+Section 3. This act shall be known as the Innocence Act. 469
+
+Section 19:
+Section 4. The provisions of law contained in this act, 470
+and their applications, are severable. If any provision of law 471
+contained in this act, or if any application of any provision of 472
+law contained in this act, is held invalid, the invalidity does 473
+not affect other provisions of law contained in this act and 474
+their applications that can be given effect without the invalid 475
+provision or application. 476
+[DELETED: nH BIL          1 1 1 1:1 1 1]
+[DELETED: 4  1 1:1 2 2;2 2.2 2 2 2.2 2 3.3 3 3.3 3.3 3 3 3 4 4.4)4 4]
+[DELETED: 4  4 4 4 4 4 5.5 5 5 5 5.5 5.5 5 6.6 6.6 6.6 6 6.6 6:7 7;7]
+[DELETED: 4  7 7;7 7.7 7 7.8:8 8 8 8 8 8 8 8;8 9 9 9 9 9 9 9 9 9 9 1 1]
+[DELETED: 4 .1 1-1 1.1 1 1 1 1 1 1 1;1 1 1 1.1 1 1 1 1.1 1.1 1 1 1 1 1]
+[DELETED: 4  1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1]
+[DELETED: 4 .1 1 1 1 1 1 1.1)1 1 1 1 1 1 1:1 1 1 1 1 1 1;1 1 1.1 1 1 1]
+[DELETED: 4  1 1.1 1 1 1 1 1:1 1;2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2]
+[DELETED: 4 :2 2 2 2 2;2;2;2;2;2;2;2.2 2 2:2 2 2 2 2 2 2.2 2 2 2 2]
+[DELETED: 4  2 2 2 2.2 2 2 2 2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2.2:2 2 2.2]
+[DELETED: 4  2 2.2 2.2 2 2.2 2:2 2;2 2 2;2 2.2 2.2 2.2 2.2 2.2:3;3]
+[DELETED: 4 ;3 3;3.3 3.3 3:3 3.3 3 3 3 3.3 3.3 3.3 3 3.3 3 3 3 3 3]
+[DELETED: 4 ;3 3.3 3:3 3 3.3 3 3.3 3 3 3.3 3 3 3.3 3.3 3 3 3 3 3.3 3]
+[DELETED: 4 .3 3 3 3:3;3;3;3;3;3;3.3 3 3.3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 4  3.3 3 3 3.3)3 3 3.3 3 3 3 3.3 3 4 4.4 4 4 4 4.4 4 4 4 4 4]
+[DELETED: 4 :4 4 4 4;4 4 4 4 4 4.4 4 4.4 4 4 4 4:4;4 4;4 4 4 4 4:4;4]
+[DELETED: 4  4 4;4 4 4.4 4 4 4 4 4:4 4;4 4;4 4.4 4 4 4 4.4 4 4.4 4.4]
+[DELETED: 4 .4 4 4 4 4 4 4.4]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 84
+2025-2026
+Representatives Demetriou, Williams
+Cosponsors: Representatives Bird, Brennan, Claggett, Click, Dean, Fowler Arthur,
+Gross, Hiner, Holmes, Hoops, John, Johnson, King, Klopfenstein, McClain, Miller,
+K., Newman, Peterson, Richardson, Robb Blasdel, Salvo, Schmidt, Sigrist,
+Stewart, Thomas, C., Willis, Workman, Young
+A BILL
+To amend sections 2307.66, 2917.211, and 2981.02 1
+and to enact sections 2307.68 and 2907.312 of 2
+the Revised Code to enact the Innocence Act to 3
+prohibit an organization from failing to verify 4
+the age of a person attempting to access 5
+material that is obscene or harmful to 6
+juveniles, to prohibit a person from using 7
+another person's likeness to create sexual 8
+images of the other person, and to create a 9
+private right of action for each prohibited 10
+activity. 11
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2307.66, 2917.211, and 2981.02 be 12
+amended and sections 2307.68 and 2907.312 of the Revised Code be 13
+enacted to read as follows: 14
+Sec. 2307.66. (A) A victim of a violation of section 15
+2917.211 of the Revised Code has and may commence a civil cause 16
+
+H. B. No. 84 Page 2
+As Introduced
+of action against the offender for any of the following, in 17
+addition to reasonable attorney's fees and the costs of bringing 18
+the civil action: 19
+(1) An injunction or a temporary restraining order 20
+prohibiting further dissemination of the image that is the 21
+subject of the violation; 22
+(2) Compensatory and punitive damages for harm resulting 23
+from the violation. 24
+(B) The victim shall be presumed to have suffered harm as 25
+a result of the nonconsensual dissemination of private sexual 26
+images or the nonconsensual dissemination of fabricated sexual 27
+images. 28
+(C) A civil action brought under division (A) of this 29
+section shall be brought within four years after the victim 30
+discovers the private sexual image or fabricated sexual image. 31
+(D) The cause of action created by this section is in 32
+addition to any other cause of action available under statutory 33
+or common law. 34
+(D) (E) As used in this section, "victim" has the same 35
+meaning as in section 2930.01 of the Revised Code. 36
+(F) "Fabricated sexual image" means a created, adapted, or 37
+modified image that depicts another person, the other person is 38
+recognizable in the image by the other person's face, likeness, 39
+or other distinguishing characteristic, and the other person 40
+depicted in the image is in a state of nudity or is engaged in a 41
+sexual act. 42
+Sec. 2307.68. (A) A victim of a violation of division (B ) 43
+(1) or (2) or (C)(3) or (4) of section 2907.312 of the Revised 44
+
+H. B. No. 84 Page 3
+As Introduced
+Code may commence a civil action against the offender for 45
+injunctive relief in addition to reasonable attorney's fees and 46
+the costs of bringing the civil action. The civil action shall 47
+be brought within two years after the cause of action accrues. 48
+The statute of limitations on the claim against the offender 49
+does not run during any time when the victim is less than 50
+eighteen years of age. 51
+(B) For purposes of division (A) of this section, a victim 52
+of a violation of division (B)(1) or (2) of section 2907.312 of 53
+the Revised Code is a person under eighteen years of age or a 54
+parent or guardian of the person under eighteen years of age who 55
+is bringing the action on behalf of the person. 56
+Sec. 2907.312. (A)(1) "Cable service provider" has the 57
+same meaning as in section 1332.01 of the Revised Code. 58
+(2) "Cloud service provider" means a third-party company 59
+offering a cloud-based platform, infrastructure, application, or 60
+storage services. 61
+(3) "Direct-to-home satellite service" has the meaning 62
+defined in 47 U.S.C. 303, as amended. 63
+(4) "Identifying information" means photo identification 64
+or public or private transactional data. 65
+(5) "Interactive computer service" has the meaning defined 66
+in the "Telecommunications Act of 1996," 47 U.S.C. 230, as 67
+amended. 68
+(6) "Internet provider" means a provider of internet 69
+service, including all of the following: 70
+(a) Broadband service, however defined or classified by 71
+the federal communications commission; 72
+
+H. B. No. 84 Page 4
+As Introduced
+(b) Information service or telecommunications service, 73
+both as defined in the "Telecommunications Act of 1996," 47 74
+U.S.C. 153, as amended; 75
+(c) Internet protocol-enabled services, as defined in 76
+section 4927.01 of the Revised Code. 77
+(7) "Mobile service" and "telecommunications carrier" have 78
+the meanings defined in the "Telecommunications Act of 1996," 47 79
+U.S.C. 153, as amended. 80
+(8) "Organization" means both of the following: 81
+(a) A commercial establishment that, for any form of 82
+consideration, has as a significant or substantial portion of 83
+its stock-in-trade in, derives a significant or substantial 84
+portion of its revenues from, devotes a significant or 85
+substantial portion of its content or advertising to, or 86
+maintains a substantial section of its sales or online content 87
+display space for the sale, rental, or viewing of materials that 88
+are obscene or harmful to juveniles; 89
+(b) A commercial establishment as defined in section 90
+2907.38 of the Revised Code. An establishment may have other 91
+principal business purposes that do not involve selling, 92
+delivering, furnishing, disseminating, providing, exhibiting, or 93
+presenting any material or performance that is obscene or 94
+harmful to juveniles on the internet and still be categorized as 95
+an organization subject to this section. The existence of other 96
+principal business purposes does not exempt an establishment 97
+from being categorized as an organization subject to this 98
+section, so long as one of its principal business purposes 99
+involves selling, delivering, furnishing, disseminating, 100
+providing, exhibiting, or presenting any material or performance 101
+
+H. B. No. 84 Page 5
+As Introduced
+that is obscene or harmful to juveniles on the internet. 102
+(9) "Photo identification" has the same meaning as in 103
+section 3501.01 of the Revised Code and includes any government- 104
+issued identification issued by another state, district, 105
+country, or sovereignty. 106
+(10) "Reasonable age verification methods" means the 107
+following: 108
+(a) Verifying that the person attempting to access the 109
+material or performance that is obscene or harmful to juveniles 110
+is eighteen years of age or older through the use of a 111
+commercial age verification system that uses photo 112
+identification or public or private transactional data to verify 113
+the person's age; 114
+(b) Using third-party and governmental databases that use 115
+a commercial age verification system that uses photo 116
+identification or public or private transactional data to verify 117
+the person's age. 118
+(11) "Transactional data" means a sequence of information 119
+that documents an exchange, agreement, or transfer between a 120
+person, organization, or third party for the purpose of 121
+satisfying a request or event. "Transactional data" includes 122
+mortgage, educational, and employment records. 123
+(12) "Video service provider" has the same meaning as in 124
+section 1332.21 of the Revised Code. 125
+(B)(1) No organization that sells, delivers, furnishes, 126
+disseminates, provides, exhibits, or presents any material or 127
+performance that is obscene or harmful to juveniles on the 128
+internet shall recklessly fail to verify that any person 129
+attempting to access the material or performance that is obscene 130
+
+H. B. No. 84 Page 6
+As Introduced
+or harmful to juveniles is eighteen years of age or older 131
+through reasonable age verification methods. 132
+(2) No organization that sells, delivers, furnishes, 133
+disseminates, provides, exhibits, or presents any material or 134
+performance that is obscene or harmful to juveniles on the 135
+internet shall recklessly fail to verify that any person 136
+creating an account or subscription to access any material or 137
+performance that is obscene or harmful to juveniles is eighteen 138
+years of age or older through reasonable age verification 139
+methods. The organization shall reverify the age of the person 140
+every two years thereafter. 141
+(3)(a) The organization that sells, delivers, furnishes, 142
+disseminates, provides, exhibits, or presents any material or 143
+performance that is obscene or harmful to juveniles on the 144
+internet shall utilize a geofence system maintained and 145
+monitored by a licensed location-based technology provider to 146
+dynamically monitor the geolocation of persons attempting to 147
+access or creating an account or subscription to access the 148
+material or performance that is obscene or harmful to juveniles. 149
+(b) The location-based technology provider shall perform a 150
+geolocation check to dynamically monitor the person attempting 151
+to access or creating an account or subscription to access the 152
+material or performance that is obscene or harmful to juveniles 153
+and the person's location. 154
+(c) If the location-based technology provider determines 155
+that a person is located in this state, the organization that 156
+sells, delivers, furnishes, disseminates, provides, exhibits, or 157
+presents any material or performance that is obscene or harmful 158
+to juveniles on the internet shall block that person until the 159
+person's age has been verified using reasonable age verification 160
+
+H. B. No. 84 Page 7
+As Introduced
+methods. 161
+(d) The organization that sells, delivers, furnishes, 162
+disseminates, provides, exhibits, or presents any material or 163
+performance that is obscene or harmful to juveniles on the 164
+internet shall implement a notification mechanism to alert 165
+persons attempting to access or creating an account or 166
+subscription to access the material or performance that is 167
+obscene or harmful to juveniles, of a geolocation check failure. 168
+(C)(1)(a) Except as otherwise provided in division (C)(1) 169
+(b) of this section, an organization that sells, delivers, 170
+furnishes, disseminates, provides, exhibits, or presents any 171
+material or performance that is obscene or harmful to juveniles 172
+on the internet and verifies the age of the person creating an 173
+account or subscription to access the material or performance 174
+that is obscene or harmful to juveniles on the internet shall do 175
+the following: 176
+(i) Immediately delete all information gathered for the 177
+purpose of age verification after the age verification is 178
+completed, except the information maintained for account and 179
+subscription access and for billing purposes; 180
+(ii) Upon the request of the account holder or subscriber, 181
+immediately delete the data maintained for user access to the 182
+account or subscription and for billing purposes; 183
+(iii) Develop and maintain a data privacy policy compliant 184
+with federal and state law and maintain data in a manner that is 185
+reasonably secure. 186
+(b) On the expiration of two years after the creation of 187
+the account or subscription, the organization shall immediately 188
+delete all information relative to the creation of the user's 189
+
+H. B. No. 84 Page 8
+As Introduced
+account or subscription and any information maintained for 190
+billing purposes, unless the account holder or subscriber renews 191
+the account or subscription. 192
+(2) An organization that sells, delivers, furnishes, 193
+disseminates, provides, exhibits, or presents any material or 194
+performance that is obscene or harmful to juveniles on the 195
+internet and verifies the age of the person attempting to access 196
+the material or performance that is obscene or harmful to 197
+juveniles on the internet shall do both of the following: 198
+(a) Immediately delete all information gathered for the 199
+purpose of age verification after age verification is completed; 200
+(b) Develop and maintain a data privacy policy compliant 201
+with federal and state law and maintain data in a manner that is 202
+reasonably secure. 203
+(3) No organization described in division (C)(1) or (2) of 204
+this section shall recklessly fail to immediately delete any 205
+identifying information, except the information required for the 206
+purpose of granting a person access to the account or 207
+subscription and for billing the account or subscription, that 208
+is used for age verification of the person attempting to access 209
+or creating an account or subscription to access any material or 210
+performance on the internet that is obscene or harmful to 211
+juveniles after age verification is completed. 212
+(4) No organization described in division (C)(1) or (2) of 213
+this section shall transfer any information collected, except 214
+for the purpose of age verification. Any party who receives 215
+transferred information for age verification purposes shall 216
+immediately delete all information gathered for the purpose of 217
+age verification after age verification is completed. 218
+
+H. B. No. 84 Page 9
+As Introduced
+(D) This section does not apply to any of the following: 219
+(1) A person who, while employed or contracted by a 220
+newspaper, magazine, press association, news agency, news wire 221
+service, radio or television station, or similar media, is 222
+gathering, processing, transmitting, compiling, editing, or 223
+disseminating information for the general public; 224
+(2) A provider of an interactive computer service; 225
+(3) A mobile service; 226
+(4) An internet provider; 227
+(5) A cable service provider; 228
+(6) A direct-to-home satellite service; 229
+(7) A video service provider; 230
+(8) A cloud service provider. 231
+(E) It is an affirmative defense to a charge under 232
+division (B) or (C) of this section if all of the following 233
+apply: 234
+(1) The person attempting to access or creating an account 235
+or subscription to access any material or performance that is 236
+obscene or harmful to juveniles on the internet provided 237
+identifying information to the organization that sells, 238
+delivers, furnishes, disseminates, provides, exhibits, or 239
+presents any material or performance that is obscene or harmful 240
+to juveniles on the internet. 241
+(2) The organization that sells, delivers, furnishes, 242
+disseminates, provides, exhibits, or presents any material or 243
+performance that is obscene or harmful to juveniles on the 244
+internet made a bona fide effort to ascertain the true age of 245
+
+H. B. No. 84 Page 10
+As Introduced
+the person by verifying that the person attempting to access or 246
+creating an account or subscription to access the material or 247
+performance that is obscene or harmful to juveniles is eighteen 248
+years of age or older through reasonable age verification 249
+methods. 250
+(3) The organization that sells, delivers, furnishes, 251
+disseminates, provides, exhibits, or presents any material or 252
+performance that is obscene or harmful to juveniles on the 253
+internet had no reason to believe that the person attempting to 254
+access or creating an account or subscription to access any 255
+material or performance that is obscene or harmful to juveniles 256
+was less than eighteen years of age. 257
+(F) For purposes of this section, an organization may be 258
+convicted of an offense pursuant to section 2901.23 of the 259
+Revised Code and fined in accordance with section 2929.31 of the 260
+Revised Code or an officer, agent, or employee of an 261
+organization may be convicted of an offense pursuant to section 262
+2901.24 of the Revised Code and penalized as if the officer, 263
+agent, or employee of the organization acted on the officer's, 264
+agent's, or employee's own behalf. 265
+(G) Whoever violates division (B)(1) or (2) or (C)(3) or 266
+(4) of this section is guilty of failure to verify age of person 267
+accessing materials that are obscene or harmful to juveniles, a 268
+misdemeanor of the first degree. Each day a person violates this 269
+division constitutes a separate offense. 270
+Sec. 2917.211. (A) As used in this section: 271
+(1) "Child-victim oriented offense" and "sexually oriented 272
+offense" have the same meanings as in section 2950.01 of the 273
+Revised Code. 274
+
+H. B. No. 84 Page 11
+As Introduced
+(2) "Disseminate" means to post, distribute, or publish on 275
+a computer device, computer network, web site, or other 276
+electronic device or medium of communication. 277
+(2) (3) "Image" means a photograph, film, videotape, 278
+digital recording, or other depiction or portrayal of a person. 279
+(3) (4) "Interactive computer service" has the meaning 280
+defined in the "Telecommunications Act of 1996," 47 U.S.C. 230, 281
+as amended. 282
+(4) (5) "Internet provider" means a provider of internet 283
+service, including all of the following: 284
+(a) Broadband service, however defined or classified by 285
+the federal communications commission; 286
+(b) Information service or telecommunications service, 287
+both as defined in the "Telecommunications Act of 1996," 47 288
+U.S.C. 153, as amended; 289
+(c) Internet protocol-enabled services, as defined in 290
+section 4927.01 of the Revised Code. 291
+(5) (6) "Mobile service" and "telecommunications carrier" 292
+have the meanings defined in 47 U.S.C. 153, as amended. 293
+(6) (7) "Cable service provider" has the same meaning as 294
+in section 1332.01 of the Revised Code. 295
+(7) (8) "Direct-to-home satellite service" has the meaning 296
+defined in 47 U.S.C. 303, as amended. 297
+(8) (9) "Video service provider" has the same meaning as 298
+in section 1332.21 of the Revised Code. 299
+(9) (10) "Sexual act" means any of the following: 300
+(a) Sexual activity; 301
+
+H. B. No. 84 Page 12
+As Introduced
+(b) Masturbation; 302
+(c) An act involving a bodily substance that is performed 303
+for the purpose of sexual arousal or gratification; 304
+(d) Sado-masochistic abuse. 305
+(11) "Fabricated sexual image" has the same meaning as in 306
+section 2307.66 of the Revised Code. 307
+(B) No person shall knowingly disseminate an image of 308
+another person if all of the following apply: 309
+(1) The person in the image is eighteen years of age or 310
+older. 311
+(2) The person in the image can be identified from the 312
+image itself or from information displayed in connection with 313
+the image and the offender supplied the identifying information. 314
+(3) The person in the image is in a state of nudity or is 315
+engaged in a sexual act. 316
+(4) The image is disseminated without consent from the 317
+person in the image. 318
+(5) The image is disseminated with intent to harm the 319
+person in the image. 320
+(C) No person shall knowingly disseminate a fabricated 321
+sexual image of another person without the other person's 322
+consent. 323
+(D) No person shall, without the consent of the depicted 324
+person, in order to harass, extort, threaten, or cause physical, 325
+emotional, reputational, or economic harm to a person falsely 326
+depicted, knowingly do either of the following: 327
+(1) Create a fabricated sexual image with intent to 328
+
+H. B. No. 84 Page 13
+As Introduced
+distribute; 329
+(2) Solicit the creation of a fabricated sexual image with 330
+intent to distribute. 331
+(E) This section does not prohibit the dissemination of an 332
+image or fabricated sexual image if any of the following apply: 333
+(1) The image or fabricated sexual image is disseminated 334
+for the purpose of a criminal investigation that is otherwise 335
+lawful. 336
+(2) The image or fabricated sexual image is disseminated 337
+for the purpose of, or in connection with, the reporting of 338
+unlawful conduct. 339
+(3) The image or fabricated sexual image is part of a news 340
+report or commentary or an artistic or expressive work, such as 341
+a performance, work of art, literary work, theatrical work, 342
+musical work, motion picture, film, or audiovisual work. 343
+(4) The image or fabricated sexual image is disseminated 344
+by a law enforcement officer, or a corrections officer or guard 345
+in a detention facility, acting within the scope of the person's 346
+official duties. 347
+(5) The image or fabricated sexual image is disseminated 348
+for another lawful public purpose. 349
+(6) The If the person in the image or fabricated sexual 350
+image is eighteen years of age or older, the person in the image 351
+or fabricated sexual image is knowingly and willingly in a state 352
+of nudity or engaged in a sexual act and is knowingly and 353
+willingly in a location in which the person does not have a 354
+reasonable expectation of privacy. 355
+(7) The image or fabricated sexual image is disseminated 356
+
+H. B. No. 84 Page 14
+As Introduced
+for the purpose of medical treatment or examination. 357
+(D) (F) The following entities are not liable for a 358
+violation of this section solely as a result of an image or 359
+fabricated sexual image or other information provided by another 360
+person: 361
+(1) A provider of interactive computer service; 362
+(2) A mobile service; 363
+(3) A telecommunications carrier; 364
+(4) An internet provider; 365
+(5) A cable service provider; 366
+(6) A direct-to-home satellite service; 367
+(7) A video service provider. 368
+(E) (G) Any conduct that is a violation of this section 369
+and any other section of the Revised Code may be prosecuted 370
+under this section, the other section, or both sections. 371
+(F)(1)(a) (H)(1)(a) Except as otherwise provided in 372
+division (F)(1)(b), (c), or (d) (H)(1)(b) of this section, 373
+whoever violates division (B) of this section is guilty of 374
+nonconsensual dissemination of private sexual images, a 375
+misdemeanor felony of the third fifth degree. 376
+(b) If the offender previously has been convicted of or 377
+pleaded guilty to a violation of division (B) of this section, a 378
+sexually oriented offense, or a child-victim oriented offense, 379
+nonconsensual dissemination of private sexual images is a 380
+misdemeanor felony of the second fourth degree. 381
+(c) If the offender previously has been convicted of or 382
+pleaded guilty to two or more violations of this section, 383
+
+H. B. No. 84 Page 15
+As Introduced
+nonconsensual dissemination of private sexual images is a 384
+misdemeanor of the first degree. 385
+(d) If the offender is under eighteen years of age and the 386
+person in the image is not more than five years older than the 387
+offender, the offender shall not be prosecuted under this 388
+section. 389
+(2) (2)(a) Except as otherwise provided in division (H)(2) 390
+(b) of this section, whoever violates division (C) of this 391
+section is guilty of nonconsensual dissemination of fabricated 392
+sexual images, a felony of the fourth degree. 393
+(b) If the offender has previously been convicted of or 394
+pleaded guilty to a violation of this section, a sexually 395
+oriented offense, or a child-victim oriented offense, 396
+nonconsensual dissemination of fabricated sexual images is a 397
+felony of the third degree. 398
+(3)(a) Except as otherwise provided in division (H)(3)(b) 399
+of this section, whoever violates division (D) of this section 400
+is guilty of nonconsensual creation of fabricated sexual images, 401
+a felony of the fourth degree. 402
+(b) If the offender has previously been convicted of or 403
+pleaded guilty to a violation of this section, a sexually 404
+oriented offense, or a child-victim oriented offense, 405
+nonconsensual creation of fabricated sexual images is a felony 406
+of the third degree. 407
+(4) In addition to any other penalty or disposition 408
+authorized or required by law, the court may order any person 409
+who is convicted of a violation of this section or who is 410
+adjudicated delinquent by reason of a violation of this section 411
+to criminally forfeit all of the following property to the state 412
+
+H. B. No. 84 Page 16
+As Introduced
+under Chapter 2981. of the Revised Code: 413
+(a) Any profits or proceeds and any property the person 414
+has acquired or maintained in violation of this section that the 415
+sentencing court determines to have been acquired or maintained 416
+as a result of the violation; 417
+(b) Any interest in, securities of, claim against, or 418
+property or contractual right of any kind affording a source of 419
+influence over any enterprise that the person has established, 420
+operated, controlled, or conducted in violation of this section 421
+that the sentencing court determines to have been acquired or 422
+maintained as a result of the violation. 423
+(G) (I) A victim of a violation of this section may 424
+commence a civil cause of action against the offender, as 425
+described in section 2307.66 of the Revised Code. 426
+Sec. 2981.02. (A)(1) The following property is subject to 427
+forfeiture to the state or a political subdivision under either 428
+the criminal or delinquency process in section 2981.04 of the 429
+Revised Code or the civil process in section 2981.05 of the 430
+Revised Code: 431
+(a) Contraband involved in an offense; 432
+(b) Proceeds derived from or acquired through the 433
+commission of an offense; 434
+(c) An instrumentality that is used in or intended to be 435
+used in the commission or facilitation of any of the following 436
+offenses when the use or intended use, consistent with division 437
+(B) of this section, is sufficient to warrant forfeiture under 438
+this chapter: 439
+(i) A felony; 440
+
+H. B. No. 84 Page 17
+As Introduced
+(ii) A misdemeanor, when forfeiture is specifically 441
+authorized by a section of the Revised Code or by a municipal 442
+ordinance that creates the offense or sets forth its penalties; 443
+(iii) An attempt to commit, complicity in committing, or a 444
+conspiracy to commit an offense of the type described in 445
+divisions (A)(3)(a) and (b) of this section. 446
+(2) In determining whether an alleged instrumentality was 447
+used in or was intended to be used in the commission or 448
+facilitation of an offense or an attempt, complicity, or 449
+conspiracy to commit an offense in a manner sufficient to 450
+warrant its forfeiture, the trier of fact shall consider the 451
+following factors the trier of fact determines are relevant: 452
+(a) Whether the offense could not have been committed or 453
+attempted but for the presence of the instrumentality; 454
+(b) Whether the primary purpose in using the 455
+instrumentality was to commit or attempt to commit the offense; 456
+(c) The extent to which the instrumentality furthered the 457
+commission of, or attempt to commit, the offense. 458
+(B) The property described in division (F)(2) (H)(4) of 459
+section 2917.211 of the Revised Code is subject to forfeiture 460
+under the criminal or delinquency process in section 2981.04 of 461
+the Revised Code, if the forfeiture is ordered by the court 462
+imposing sentence or an order of disposition. 463
+(C) This chapter does not apply to or limit forfeitures 464
+under Title XLV of the Revised Code, including forfeitures 465
+relating to section 2903.06 or 2903.08 of the Revised Code. 466
+Section 2. That existing sections 2307.66, 2917.211, and 467
+2981.02 of the Revised Code are hereby repealed. 468
+
+H. B. No. 84 Page 18
+As Introduced
+Section 3. This act shall be known as the Innocence Act. 469
+Section 4. The provisions of law contained in this act, 470
+and their applications, are severable. If any provision of law 471
+contained in this act, or if any application of any provision of 472
+law contained in this act, is held invalid, the invalidity does 473
+not affect other provisions of law contained in this act and 474
+their applications that can be given effect without the invalid 475
+provision or application. 476
+
+[DELETED: nH BIL          1 1 1 1:1 1 1]
+[DELETED: 4  1 1:1 2 2;2 2.2 2 2 2.2 2 3.3 3 3.3 3.3 3 3 3 4 4.4)4 4]
+[DELETED: 4  4 4 4 4 4 5.5 5 5 5 5.5 5.5 5 6.6 6.6 6.6 6 6.6 6:7 7;7]
+[DELETED: 4  7 7;7 7.7 7 7.8:8 8 8 8 8 8 8 8;8 9 9 9 9 9 9 9 9 9 9 1 1]
+[DELETED: 4 .1 1-1 1.1 1 1 1 1 1 1 1;1 1 1 1.1 1 1 1 1.1 1.1 1 1 1 1 1]
+[DELETED: 4  1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1]
+[DELETED: 4 .1 1 1 1 1 1 1.1)1 1 1 1 1 1 1:1 1 1 1 1 1 1;1 1 1.1 1 1 1]
+[DELETED: 4  1 1.1 1 1 1 1 1:1 1;2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2]
+[DELETED: 4 :2 2 2 2 2;2;2;2;2;2;2;2.2 2 2:2 2 2 2 2 2 2.2 2 2 2 2]
+[DELETED: 4  2 2 2 2.2 2 2 2 2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2.2:2 2 2.2]
+[DELETED: 4  2 2.2 2.2 2 2.2 2:2 2;2 2 2;2 2.2 2.2 2.2 2.2 2.2:3;3]
+[DELETED: 4 ;3 3;3.3 3.3 3:3 3.3 3 3 3 3.3 3.3 3.3 3 3.3 3 3 3 3 3]
+[DELETED: 4 ;3 3.3 3:3 3 3.3 3 3.3 3 3 3.3 3 3 3.3 3.3 3 3 3 3 3.3 3]
+[DELETED: 4 .3 3 3 3:3;3;3;3;3;3;3.3 3 3.3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 4  3.3 3 3 3.3)3 3 3.3 3 3 3 3.3 3 4 4.4 4 4 4 4.4 4 4 4 4 4]
+[DELETED: 4 :4 4 4 4;4 4 4 4 4 4.4 4 4.4 4 4 4 4:4;4 4;4 4 4 4 4:4;4]
+[DELETED: 4  4 4;4 4 4.4 4 4 4 4 4:4 4;4 4;4 4.4 4 4 4 4.4 4 4.4 4.4]
+[DELETED: 4 .4 4 4 4 4 4 4.4]

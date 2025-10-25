@@ -1,0 +1,222 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 5
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 60
+2025-2026
+Senators Wilkin, Huffman
+To amend section 4741.04 and to enact section 1
+
+Section 2:
+4741.041 of the Revised Code to establish 2
+requirements and procedures for veterinarian 3
+telehealth visits. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That section 4741.04 be amended and section 5
+
+Section 4:
+4741.041 of the Revised Code be enacted to read as follows: 6
+Sec. 4741.04. A veterinary-client-patient relationship 7
+serves as the basis for interaction between veterinarians, their 8
+clients, and their patients. A veterinary-client-patient 9
+relationship exists when all of the following conditions have 10
+been met: 11
+(A) A veterinarian assumes responsibility for making 12
+clinical judgments regarding the health of a patient and the 13
+need for medical treatment, medical services, or both for the 14
+patient, and the client has agreed to follow the veterinarian's 15
+instructions regarding the patient. 16
+(B) The veterinarian has sufficient knowledge of the 17
+patient to initiate at least a general or preliminary diagnosis 18
+of the medical condition of the patient. In order to demonstrate 19
+S. B. No. 60 Page 2
+As Introduced
+that the veterinarian has sufficient knowledge, the veterinarian 20
+shall have seen the patient recently and also shall be 21
+acquainted personally with the keeping and care of the patient 22
+either by examining doing any of the following: 23
+(1) Examining the patient or by making in person; 24
+(2) Examining the patient in real time via telehealth 25
+services in accordance with section 4741.041 of the Revised 26
+Code; 27
+(3) Making medically appropriate and timely visits to the 28
+premises where the patient is kept. 29
+(C) The veterinarian is readily available for a follow-up 30
+evaluation, or has arranged for emergency coverage, in the event 31
+the patient suffers adverse reactions to the treatment regimen 32
+or the treatment regimen fails. 33
+Sec. 4741.041. (A) A licensed veterinarian may conduct 34
+telehealth services if all of the following apply: 35
+(1) The veterinarian obtains the informed consent from the 36
+client, including an acknowledgement that the standards of care 37
+prescribed by this chapter equally apply to in-person and 38
+telehealth visits. The veterinarian shall maintain documentation 39
+of the consent for at least three years after receiving the 40
+informed consent. 41
+(2) The veterinarian provides the client with the 42
+veterinarian's name and contact information and secures an 43
+alternate means of contacting the client if the telehealth visit 44
+is interrupted. Following the telehealth visit, the veterinarian 45
+shall make available to the client an electronic or written 46
+record of the visit. The electronic or written record shall 47
+include the veterinarian's license number. 48
+S. B. No. 60 Page 3
+As Introduced
+(3) Before conducting an evaluation of a patient via a 49
+telehealth visit, the veterinarian advises the client of all of 50
+the following: 51
+(a) The veterinarian may ultimately recommend an in-person 52
+visit with the veterinarian or another licensed veterinarian; 53
+(b) The veterinarian is prohibited under federal law from 54
+prescribing certain drugs or medications based only on a 55
+telehealth visit; 56
+(c) The appointment for a telehealth visit may be 57
+terminated at any time. 58
+(B) A licensed veterinarian may prescribe drugs or 59
+medications after establishing a veterinary-client-patient 60
+relationship via telehealth services, except that all of the 61
+following apply: 62
+(1) The veterinarian may issue an initial prescription for 63
+not more than fourteen days. The veterinarian may issue one 64
+refill for not more than fourteen days if the veterinarian sees 65
+the patient for another telehealth visit. For additional 66
+refills, the patient shall visit the veterinarian in person. 67
+(2) The veterinarian shall notify the client that certain 68
+prescription drugs or medications may be available at a pharmacy 69
+and, if requested, the veterinarian will submit a prescription 70
+to a pharmacy of the client's choosing; 71
+(3) The veterinarian shall not order, prescribe, or make 72
+available a controlled substance, as defined in section 3719.01 73
+of the Revised Code, unless the veterinarian has performed an 74
+in-person physical examination of the patient. 75
+(C) A licensed veterinarian whose client is engaged in any 76
+S. B. No. 60 Page 4
+As Introduced
+aspect of food production may not use telehealth services unless 77
+the veterinarian has established a veterinary-client-patient 78
+relationship in person prior to the use of telehealth services. 79
+
+Section 5:
+Section 2. That existing section 4741.04 of the Revised 80
+Code is hereby repealed. 81
+[DELETED: nS BIL   . :    1:1 1 1 1 1.1 1 1 1]
+[DELETED: 0  2 2 2:2;2 2 2 2 2.2 3 3 3.3 3:3 3 3 3 3 4.4 4 4 4 4 4 4.4]
+[DELETED: 0  4 5:5 5;5 5 5;5 5.5 5 6 6:6 6 6 6 6.6 6 6 7;7 7 7 7.7 7]
+[DELETED: 0  7 7.7 8.8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 60
+2025-2026
+Senators Wilkin, Huffman
+A BILL
+To amend section 4741.04 and to enact section 1
+4741.041 of the Revised Code to establish 2
+requirements and procedures for veterinarian 3
+telehealth visits. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 4741.04 be amended and section 5
+4741.041 of the Revised Code be enacted to read as follows: 6
+Sec. 4741.04. A veterinary-client-patient relationship 7
+serves as the basis for interaction between veterinarians, their 8
+clients, and their patients. A veterinary-client-patient 9
+relationship exists when all of the following conditions have 10
+been met: 11
+(A) A veterinarian assumes responsibility for making 12
+clinical judgments regarding the health of a patient and the 13
+need for medical treatment, medical services, or both for the 14
+patient, and the client has agreed to follow the veterinarian's 15
+instructions regarding the patient. 16
+(B) The veterinarian has sufficient knowledge of the 17
+patient to initiate at least a general or preliminary diagnosis 18
+of the medical condition of the patient. In order to demonstrate 19
+
+S. B. No. 60 Page 2
+As Introduced
+that the veterinarian has sufficient knowledge, the veterinarian 20
+shall have seen the patient recently and also shall be 21
+acquainted personally with the keeping and care of the patient 22
+either by examining doing any of the following: 23
+(1) Examining the patient or by making in person; 24
+(2) Examining the patient in real time via telehealth 25
+services in accordance with section 4741.041 of the Revised 26
+Code; 27
+(3) Making medically appropriate and timely visits to the 28
+premises where the patient is kept. 29
+(C) The veterinarian is readily available for a follow-up 30
+evaluation, or has arranged for emergency coverage, in the event 31
+the patient suffers adverse reactions to the treatment regimen 32
+or the treatment regimen fails. 33
+Sec. 4741.041. (A) A licensed veterinarian may conduct 34
+telehealth services if all of the following apply: 35
+(1) The veterinarian obtains the informed consent from the 36
+client, including an acknowledgement that the standards of care 37
+prescribed by this chapter equally apply to in-person and 38
+telehealth visits. The veterinarian shall maintain documentation 39
+of the consent for at least three years after receiving the 40
+informed consent. 41
+(2) The veterinarian provides the client with the 42
+veterinarian's name and contact information and secures an 43
+alternate means of contacting the client if the telehealth visit 44
+is interrupted. Following the telehealth visit, the veterinarian 45
+shall make available to the client an electronic or written 46
+record of the visit. The electronic or written record shall 47
+include the veterinarian's license number. 48
+
+S. B. No. 60 Page 3
+As Introduced
+(3) Before conducting an evaluation of a patient via a 49
+telehealth visit, the veterinarian advises the client of all of 50
+the following: 51
+(a) The veterinarian may ultimately recommend an in-person 52
+visit with the veterinarian or another licensed veterinarian; 53
+(b) The veterinarian is prohibited under federal law from 54
+prescribing certain drugs or medications based only on a 55
+telehealth visit; 56
+(c) The appointment for a telehealth visit may be 57
+terminated at any time. 58
+(B) A licensed veterinarian may prescribe drugs or 59
+medications after establishing a veterinary-client-patient 60
+relationship via telehealth services, except that all of the 61
+following apply: 62
+(1) The veterinarian may issue an initial prescription for 63
+not more than fourteen days. The veterinarian may issue one 64
+refill for not more than fourteen days if the veterinarian sees 65
+the patient for another telehealth visit. For additional 66
+refills, the patient shall visit the veterinarian in person. 67
+(2) The veterinarian shall notify the client that certain 68
+prescription drugs or medications may be available at a pharmacy 69
+and, if requested, the veterinarian will submit a prescription 70
+to a pharmacy of the client's choosing; 71
+(3) The veterinarian shall not order, prescribe, or make 72
+available a controlled substance, as defined in section 3719.01 73
+of the Revised Code, unless the veterinarian has performed an 74
+in-person physical examination of the patient. 75
+(C) A licensed veterinarian whose client is engaged in any 76
+
+S. B. No. 60 Page 4
+As Introduced
+aspect of food production may not use telehealth services unless 77
+the veterinarian has established a veterinary-client-patient 78
+relationship in person prior to the use of telehealth services. 79
+Section 2. That existing section 4741.04 of the Revised 80
+Code is hereby repealed. 81
+
+[DELETED: nS BIL   . :    1:1 1 1 1 1.1 1 1 1]
+[DELETED: 0  2 2 2:2;2 2 2 2 2.2 3 3 3.3 3:3 3 3 3 3 4.4 4 4 4 4 4 4.4]
+[DELETED: 0  4 5:5 5;5 5 5;5 5.5 5 6 6:6 6 6 6 6.6 6 6 7;7 7 7 7.7 7]
+[DELETED: 0  7 7.7 8.8]

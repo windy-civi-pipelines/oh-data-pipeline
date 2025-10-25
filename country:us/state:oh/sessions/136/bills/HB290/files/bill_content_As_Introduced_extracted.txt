@@ -1,0 +1,161 @@
+Title: Cosponsors: Representatives Barhorst, Gross, Jones, King, Newman, Pizzulli,
+Official Title: Cosponsors: Representatives Barhorst, Gross, Jones, King, Newman, Pizzulli,
+Number of Sections: 4
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 290
+2025-2026
+Representative Young
+Robb Blasdel, Salvo, Williams, Workman
+To enact section 2917.43 of the Revised Code to 1
+prohibit a person from engaging in solar 2
+radiation modification, cloud seeding, or 3
+sunlight reflection methods, and to name the act 4
+the Atmosphere Protection Act. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 2917.43 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 2917.43. (A) As used in this section : 8
+(1) "Cloud seeding" means a form of weather modification 9
+where a pollutant is released into clouds to induce or enhance 10
+precipitation. 11
+(2) "Marine cloud brightening" means enhancing the 12
+reflectivity of low-lying marine clouds to reflect more 13
+sunlight. 14
+(3) "Pollutant" means any aerosol; biologic, 15
+transbiologic, or genetically modified agent; chaff; metal; 16
+radioactive material; acid; alkali; chemical; particulate; 17
+contaminant; smart dust; smoke; soot; fume; vapor; air pollutant 18
+H. B. No. 290 Page 2
+As Introduced
+regulated by this state; mechanical vibration or other physical 19
+agent; waste, including materials that may be recycled, 20
+reconditioned, or reclaimed; solid, liquid, gaseous, or thermal 21
+irritant; or artificially produced electric field, magnetic 22
+field, electromagnetic field, electromagnetic pulse, sound wave, 23
+sound pollution, light pollution, microwave, or ionizing or non- 24
+ionizing radiation. 25
+(4) "Solar radiation modification" means an experiment in 26
+the earth's climatic system involving the release of pollutants 27
+that reduces the amount of sunlight absorbed by the earth, 28
+including through marine cloud brightening, space-based 29
+reflectors, or stratospheric aerosol injection. 30
+(5) "Space-based reflectors" means deploying mirrors or 31
+other reflective objects in space to deflect sunlight. 32
+(6) "Stratospheric aerosol injection" means introducing 33
+reflective particles into the stratosphere to reflect sunlight. 34
+(B) No person or entity shall engage in solar radiation 35
+modification, cloud seeding, or sunlight reflection methods in 36
+this state, including through the use of an aircraft, balloon, 37
+drone, space-based platform, or interoperable ground-based 38
+facility. 39
+(C) The superintendent of the state highway patrol or a 40
+county sheriff shall issue a cease-and-desist order to a person 41
+who the superintendent or sheriff determines is conducting or 42
+attempting to conduct solar radiation modification, cloud 43
+seeding, or sunlight reflection methods. No person shall fail to 44
+comply with a cease and desist order issued under this division. 45
+(D) A violation of this section is a strict liability 46
+offense and section 2901.20 of the Revised Code does not apply. 47
+H. B. No. 290 Page 3
+As Introduced
+(E) Whoever violates this section is guilty of a third 48
+degree felony and the court shall impose a mandatory prison term 49
+of thirty-six months on the offender and, notwithstanding 50
+
+Section 3:
+section 2929.18 of the Revised Code, a fine of not less than 51
+five hundred thousand dollars. 52
+
+Section 4:
+Section 2. This act shall be known as the Atmosphere 53
+Protection Act. 54
+[DELETED: nH    . ::  1.1 1 1.1 1 1 1 1]
+[DELETED: 0  1 2 2 2 2-2.2 2 2 2 2 3 3.3 3.3 3 3 3 3.3 4 4 4 4 4.4 4.4]
+[DELETED: 0  4 4 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 290
+2025-2026
+Representative Young
+Cosponsors: Representatives Barhorst, Gross, Jones, King, Newman, Pizzulli,
+Robb Blasdel, Salvo, Williams, Workman
+To enact section 2917.43 of the Revised Code to 1
+prohibit a person from engaging in solar 2
+radiation modification, cloud seeding, or 3
+sunlight reflection methods, and to name the act 4
+the Atmosphere Protection Act. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 2917.43 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 2917.43. (A) As used in this section : 8
+(1) "Cloud seeding" means a form of weather modification 9
+where a pollutant is released into clouds to induce or enhance 10
+precipitation. 11
+(2) "Marine cloud brightening" means enhancing the 12
+reflectivity of low-lying marine clouds to reflect more 13
+sunlight. 14
+(3) "Pollutant" means any aerosol; biologic, 15
+transbiologic, or genetically modified agent; chaff; metal; 16
+radioactive material; acid; alkali; chemical; particulate; 17
+contaminant; smart dust; smoke; soot; fume; vapor; air pollutant 18
+
+H. B. No. 290 Page 2
+As Introduced
+regulated by this state; mechanical vibration or other physical 19
+agent; waste, including materials that may be recycled, 20
+reconditioned, or reclaimed; solid, liquid, gaseous, or thermal 21
+irritant; or artificially produced electric field, magnetic 22
+field, electromagnetic field, electromagnetic pulse, sound wave, 23
+sound pollution, light pollution, microwave, or ionizing or non- 24
+ionizing radiation. 25
+(4) "Solar radiation modification" means an experiment in 26
+the earth's climatic system involving the release of pollutants 27
+that reduces the amount of sunlight absorbed by the earth, 28
+including through marine cloud brightening, space-based 29
+reflectors, or stratospheric aerosol injection. 30
+(5) "Space-based reflectors" means deploying mirrors or 31
+other reflective objects in space to deflect sunlight. 32
+(6) "Stratospheric aerosol injection" means introducing 33
+reflective particles into the stratosphere to reflect sunlight. 34
+(B) No person or entity shall engage in solar radiation 35
+modification, cloud seeding, or sunlight reflection methods in 36
+this state, including through the use of an aircraft, balloon, 37
+drone, space-based platform, or interoperable ground-based 38
+facility. 39
+(C) The superintendent of the state highway patrol or a 40
+county sheriff shall issue a cease-and-desist order to a person 41
+who the superintendent or sheriff determines is conducting or 42
+attempting to conduct solar radiation modification, cloud 43
+seeding, or sunlight reflection methods. No person shall fail to 44
+comply with a cease and desist order issued under this division. 45
+(D) A violation of this section is a strict liability 46
+offense and section 2901.20 of the Revised Code does not apply. 47
+
+H. B. No. 290 Page 3
+As Introduced
+(E) Whoever violates this section is guilty of a third 48
+degree felony and the court shall impose a mandatory prison term 49
+of thirty-six months on the offender and, notwithstanding 50
+section 2929.18 of the Revised Code, a fine of not less than 51
+five hundred thousand dollars. 52
+Section 2. This act shall be known as the Atmosphere 53
+Protection Act. 54
+
+[DELETED: nH    . ::  1.1 1 1.1 1 1 1 1]
+[DELETED: 0  1 2 2 2 2-2.2 2 2 2 2 3 3.3 3.3 3 3 3 3.3 4 4 4 4 4.4 4.4]
+[DELETED: 0  4 4 5 5.5 5.5]

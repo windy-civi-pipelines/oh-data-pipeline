@@ -1,0 +1,479 @@
+Title: Cosponsors: Representatives Brennan, Brewer, John, Salvo, Workman, Lett,
+Official Title: Cosponsors: Representatives Brennan, Brewer, John, Salvo, Workman, Lett,
+Number of Sections: 17
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 524
+2025-2026
+Representatives Cockley, Mathews, T.
+Russo, Brent, Sims, Somani, Abdullahi, Miller, J., Robinson, Jarrells, White, E.,
+McNally, Hall, D., Synenberg
+To amend section 5119.84 and to enact sections 1
+
+Section 2:
+109.96, 109.961, 109.962, 109.963, 109.964, 2
+
+Section 3:
+109.965, 109.966, 109.967, 109.968, 109.969, 3
+
+Section 4:
+109.9610, 109.9611, 109.9612, 109.9613, 4
+
+Section 5:
+109.9614, 109.9615, and 109.9616 of the Revised 5
+Code to impose penalties on entities whose AI 6
+models suggest harming one's self or another 7
+person. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 6:
+Section 1. That section 5119.84 be amended and sections 9
+
+Section 7:
+109.96, 109.961, 109.962, 109.963, 109.964, 109.965, 109.966, 10
+
+Section 8:
+109.967, 109.968, 109.969, 109.9610, 109.9611, 109.9612, 11
+
+Section 9:
+109.9613, 109.9614, 109.9615, and 109.9616 of the Revised Code 12
+be enacted to read as follows: 13
+Sec. 109.96. As used in this section and sections 109.961 14
+to 109.9616 of the Revised Code: 15
+(A) "Artificial intelligence application" means a software 16
+program or system that uses artificial intelligence models to 17
+perform tasks that typically require human intelligence. 18
+H. B. No. 524 Page 2
+As Introduced
+(B) "Artificial intelligence model" means an engineered or 19
+machine-based system that can, for explicit or implicit 20
+objectives, infer from the input it receives how to generate 21
+outputs that can influence physical or virtual environments. 22
+(C) "Deploy" means either of the following: 23
+(1) Integration of an artificial intelligence model or 24
+application into software or a business workflow; 25
+(2) Making an artificial intelligence model or application 26
+available for use by consumers in this state. 27
+(D) "Developer" means a person or entity who develops an 28
+artificial intelligence model or artificial intelligence 29
+application that is deployed in this state. 30
+(E) "Self-harm" means any attempt to physically injure 31
+self. "Self-harm" includes suicide. 32
+Sec. 109.961. No person shall develop or deploy in this 33
+state an artificial intelligence model or application that 34
+encourages any user of the model or application to engage in any 35
+form of self-harm or in harming another person. 36
+Sec. 109.962. (A) If the attorney general, as a result of 37
+complaints or the attorney general's own inquiries, has reason 38
+to believe that a person has engaged, is engaging, or is 39
+preparing to engage in a violation of section 109.961 of the 40
+Revised Code, the attorney general may investigate the alleged 41
+violation. 42
+(B) For purposes of such an investigation, the attorney 43
+general may administer oaths, subpoena witnesses, adduce 44
+evidence, and require the production of any relevant matter. 45
+Sec. 109.963. Any person subpoenaed under section 109.962 46
+H. B. No. 524 Page 3
+As Introduced
+of the Revised Code shall make the matter available to the 47
+attorney general at a convenient location within the state or 48
+pay the reasonable and necessary expenses for the attorney 49
+general or the attorney general's representative to examine the 50
+matter at the place where it is located, provided that those 51
+expenses shall not be charged to a party that subsequently is 52
+not found to have engaged in a violation of section 109.961 of 53
+the Revised Code. 54
+Sec. 109.964. A person subpoenaed under section 109.962 o f 55
+the Revised Code may file a motion to extend the day on which 56
+the subpoena is to be returned or to modify or quash the 57
+subpoena, for good cause shown, in the court of common pleas of 58
+Franklin county or of the county in this state in which the 59
+person resides or in which the person's principal place of 60
+business is located. Such a motion shall be filed not later than 61
+twenty days after the service of the subpoena. 62
+Sec. 109.965. A person subpoenaed under section 109.962 o f 63
+the Revised Code shall comply with the terms of the subpoena 64
+unless the parties agree to modify the terms of the subpoena or 65
+unless the court has modified or quashed the subpoena, extended 66
+the day on which the subpoena is to be returned, or issued any 67
+other order with respect to the subpoena prior to the day on 68
+which the subpoena is to be returned. If a person fails without 69
+lawful excuse to testify or produce relevant matter pursuant to 70
+a subpoena, the attorney general may apply to the court of 71
+common pleas of the county in which the person subpoenaed 72
+resides or in which the person's principal place of business is 73
+located for an order that compels compliance with the subpoena. 74
+Sec. 109.966. If an individual subpoenaed under section 75
+
+Section 10:
+109.962 of the Revised Code refuses to testify or to produce 76
+H. B. No. 524 Page 4
+As Introduced
+relevant matter pursuant to the subpoena on the ground that the 77
+testimony or matter may incriminate the individual, the attorney 78
+general may request the court to order the individual to provide 79
+the testimony or matter. 80
+With the exception of a prosecution for perjury or a civil 81
+action for damages under section 109.9613 of the Revised Code, 82
+an individual who complies with a court order to provide 83
+testimony or matter, after asserting a privilege against self- 84
+incrimination to which the individual is entitled by law, shall 85
+not be subjected to a criminal proceeding or a civil penalty or 86
+forfeiture on the basis of the testimony or matter required to 87
+be disclosed or testimony or matter discovered through that 88
+testimony or matter required to be disclosed. 89
+Sec. 109.967. If the matter to be produced under an 90
+investigation under section 109.962 of the Revised Code is 91
+located outside this state, the attorney general may designate 92
+any representative, including any official of the state in which 93
+the matter is located, to inspect the matter on behalf of the 94
+attorney general. 95
+Sec. 109.968. In conducting an investigation under sectio n 96
+
+Section 11:
+109.962 of the Revised Code, the attorney general shall not 97
+publicly disclose the identity of persons or developers 98
+investigated or the facts developed in the investigation unless 99
+this information has become a matter of public record in 100
+enforcement proceedings or if those being investigated have 101
+consented in writing to public disclosure. 102
+Sec. 109.969. In conducting an investigation under sectio n 103
+
+Section 12:
+109.962 of the Revised Code, the attorney general shall 104
+cooperate with state and local officials of other states and 105
+officials of the federal government in the administration of 106
+H. B. No. 524 Page 5
+As Introduced
+comparable laws and regulations. 107
+Sec. 109.9610. (A) During an investigation under section 108
+
+Section 13:
+109.962 of the Revised Code, the attorney general may afford the 109
+person who is the subject of the investigation, in a manner 110
+considered appropriate to that person, an opportunity to cease 111
+and desist from any suspected violation of section 109.961 of 112
+the Revised Code. 113
+(B) The attorney general may suspend the investigation 114
+during the period that the attorney general permits the person 115
+to cease and desist from the suspected violation. 116
+(C) The suspension of the investigation or the affording 117
+of an opportunity to cease and desist shall not prejudice or 118
+prohibit any further investigation by the attorney general under 119
+
+Section 14:
+section 109.962 of the Revised Code. 120
+Sec. 109.9611. (A) The attorney general may terminate an 121
+investigation under section 109.962 of the Revised Code upon 122
+acceptance of a written assurance of voluntary compliance from a 123
+person who is suspected of a violation of section 109.961 of the 124
+Revised Code. 125
+(B) The acceptance of such an assurance may be conditioned 126
+upon an undertaking to reimburse or to take other appropriate 127
+corrective action with respect to consumers who are damaged by 128
+an alleged violation of section 109.961 of the Revised Code. 129
+(C) Such an assurance of compliance is not evidence of a 130
+violation of section 109.961 of the Revised Code. 131
+(D) The attorney general, at any time, may reopen an 132
+investigation terminated by the acceptance of an assurance of 133
+voluntary compliance, if the attorney general believes that 134
+further proceedings are in the public interest. 135
+H. B. No. 524 Page 6
+As Introduced
+(E) Evidence of a violation of an assurance of voluntary 136
+compliance is prima facie evidence of an act or practice in 137
+violation of section 109.961 of the Revised Code if the evidence 138
+is presented in a civil action brought under section 109.9613 of 139
+the Revised Code. 140
+(F) An assurance of voluntary compliance may be filed with 141
+the court and, if approved by the court, entered as a consent 142
+judgment in the action. 143
+Sec. 109.9612. The procedures that are available to the 144
+attorney general under sections 109.962 to 109.9611 of the 145
+Revised Code are cumulative and concurrent, and the exercise of 146
+one procedure by the attorney general does not preclude or 147
+require the exercise of any other procedure. 148
+Sec. 109.9613. If, by the attorney general's own inquirie s 149
+or as a result of complaints or an investigation conducted under 150
+
+Section 15:
+section 109.962 of the Revised Code, the attorney general has 151
+reasonable cause to believe that a person has engaged or is 152
+engaging in a violation of section 109.961 of the Revised Code, 153
+the attorney general, subject to section 109.9615 of the Revised 154
+Code, may bring in the appropriate court of common pleas of this 155
+state a civil action against the alleged violator for injunctive 156
+relief, damages, and civil penalties on behalf of the residents 157
+of this state who have been subjected to acts or practices in 158
+violation of section 109.961 of the Revised Code. 159
+Sec. 109.9614. On the motion of the attorney general or o n 160
+its own motion, a court may impose a civil penalty of up to 161
+fifty thousand dollars for each violation of section 109.961 of 162
+the Revised Code. 163
+Sec. 109.9615. No action may be brought by the attorney 164
+H. B. No. 524 Page 7
+As Introduced
+general under section 109.9613 of the Revised Code for damages 165
+or a civil penalty more than six years after the occurrence of 166
+the violation. 167
+Sec. 109.9616. The attorney general shall deposit any 168
+civil penalties that are imposed under section 109.9614 of the 169
+Revised Code to the credit of the 9-8-8 fund created under 170
+
+Section 16:
+section 5119.84 of the Revised Code. 171
+Sec. 5119.84. (A) There is hereby created in the state 172
+treasury the 9-8-8 fund. The fund shall consist of all money 173
+from the following sources: 174
+(1) Appropriations made by the general assembly; 175
+(2) Money awarded to the state by donation, gift, or 176
+bequest, and other money received for purposes of this section; 177
+(3) Penalties imposed under section 109.9614 of the 178
+Revised Code; 179
+(4) Interest or other earnings on the fund. 180
+(B) Money in the fund shall be used to oversee and 181
+administer the 9-8-8 suicide prevention and mental health crisis 182
+hotline system. 183
+
+Section 17:
+Section 2. That existing section 5119.84 of the Revised 184
+Code is hereby repealed. 185
+[DELETED: nH          1 1 1:1 1:1 1 1.1]
+[DELETED: 4  1 2 2.2:2 2 2 2.2 2 2.3 3 3 3 3 3 3 3 3 3 4 4 4 4 4.4 4]
+[DELETED: 4  4 4 4 5 5 5 5.5 5 5 5 5 5 6 6.6 6 6 6 6 6 6 6 7 7 7 7.7 7 7]
+[DELETED: 4  7 7 7 8 8 8 8-8 8 8 8 8.8 9 9 9 9 9.9 9 9 9 9 1 1.1 1 1 1 1]
+[DELETED: 4 .1 1 1 1 1 1.1 1 1.1 1 1 1.1 1 1 1 1.1 1 1 1.1 1.1 1 1 1.1]
+[DELETED: 4  1 1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1]
+[DELETED: 4  1 1.1 1 1 1.1 1 1:1;1 1;1 1;1.1 1 1.1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 524
+2025-2026
+Representatives Cockley, Mathews, T.
+Cosponsors: Representatives Brennan, Brewer, John, Salvo, Workman, Lett,
+Russo, Brent, Sims, Somani, Abdullahi, Miller, J., Robinson, Jarrells, White, E.,
+McNally, Hall, D., Synenberg
+To amend section 5119.84 and to enact sections 1
+109.96, 109.961, 109.962, 109.963, 109.964, 2
+109.965, 109.966, 109.967, 109.968, 109.969, 3
+109.9610, 109.9611, 109.9612, 109.9613, 4
+109.9614, 109.9615, and 109.9616 of the Revised 5
+Code to impose penalties on entities whose AI 6
+models suggest harming one's self or another 7
+person. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5119.84 be amended and sections 9
+109.96, 109.961, 109.962, 109.963, 109.964, 109.965, 109.966, 10
+109.967, 109.968, 109.969, 109.9610, 109.9611, 109.9612, 11
+109.9613, 109.9614, 109.9615, and 109.9616 of the Revised Code 12
+be enacted to read as follows: 13
+Sec. 109.96. As used in this section and sections 109.961 14
+to 109.9616 of the Revised Code: 15
+(A) "Artificial intelligence application" means a software 16
+program or system that uses artificial intelligence models to 17
+perform tasks that typically require human intelligence. 18
+
+H. B. No. 524 Page 2
+As Introduced
+(B) "Artificial intelligence model" means an engineered or 19
+machine-based system that can, for explicit or implicit 20
+objectives, infer from the input it receives how to generate 21
+outputs that can influence physical or virtual environments. 22
+(C) "Deploy" means either of the following: 23
+(1) Integration of an artificial intelligence model or 24
+application into software or a business workflow; 25
+(2) Making an artificial intelligence model or application 26
+available for use by consumers in this state. 27
+(D) "Developer" means a person or entity who develops an 28
+artificial intelligence model or artificial intelligence 29
+application that is deployed in this state. 30
+(E) "Self-harm" means any attempt to physically injure 31
+self. "Self-harm" includes suicide. 32
+Sec. 109.961. No person shall develop or deploy in this 33
+state an artificial intelligence model or application that 34
+encourages any user of the model or application to engage in any 35
+form of self-harm or in harming another person. 36
+Sec. 109.962. (A) If the attorney general, as a result of 37
+complaints or the attorney general's own inquiries, has reason 38
+to believe that a person has engaged, is engaging, or is 39
+preparing to engage in a violation of section 109.961 of the 40
+Revised Code, the attorney general may investigate the alleged 41
+violation. 42
+(B) For purposes of such an investigation, the attorney 43
+general may administer oaths, subpoena witnesses, adduce 44
+evidence, and require the production of any relevant matter. 45
+Sec. 109.963. Any person subpoenaed under section 109.962 46
+
+H. B. No. 524 Page 3
+As Introduced
+of the Revised Code shall make the matter available to the 47
+attorney general at a convenient location within the state or 48
+pay the reasonable and necessary expenses for the attorney 49
+general or the attorney general's representative to examine the 50
+matter at the place where it is located, provided that those 51
+expenses shall not be charged to a party that subsequently is 52
+not found to have engaged in a violation of section 109.961 of 53
+the Revised Code. 54
+Sec. 109.964. A person subpoenaed under section 109.962 o f 55
+the Revised Code may file a motion to extend the day on which 56
+the subpoena is to be returned or to modify or quash the 57
+subpoena, for good cause shown, in the court of common pleas of 58
+Franklin county or of the county in this state in which the 59
+person resides or in which the person's principal place of 60
+business is located. Such a motion shall be filed not later than 61
+twenty days after the service of the subpoena. 62
+Sec. 109.965. A person subpoenaed under section 109.962 o f 63
+the Revised Code shall comply with the terms of the subpoena 64
+unless the parties agree to modify the terms of the subpoena or 65
+unless the court has modified or quashed the subpoena, extended 66
+the day on which the subpoena is to be returned, or issued any 67
+other order with respect to the subpoena prior to the day on 68
+which the subpoena is to be returned. If a person fails without 69
+lawful excuse to testify or produce relevant matter pursuant to 70
+a subpoena, the attorney general may apply to the court of 71
+common pleas of the county in which the person subpoenaed 72
+resides or in which the person's principal place of business is 73
+located for an order that compels compliance with the subpoena. 74
+Sec. 109.966. If an individual subpoenaed under section 75
+109.962 of the Revised Code refuses to testify or to produce 76
+
+H. B. No. 524 Page 4
+As Introduced
+relevant matter pursuant to the subpoena on the ground that the 77
+testimony or matter may incriminate the individual, the attorney 78
+general may request the court to order the individual to provide 79
+the testimony or matter. 80
+With the exception of a prosecution for perjury or a civil 81
+action for damages under section 109.9613 of the Revised Code, 82
+an individual who complies with a court order to provide 83
+testimony or matter, after asserting a privilege against self- 84
+incrimination to which the individual is entitled by law, shall 85
+not be subjected to a criminal proceeding or a civil penalty or 86
+forfeiture on the basis of the testimony or matter required to 87
+be disclosed or testimony or matter discovered through that 88
+testimony or matter required to be disclosed. 89
+Sec. 109.967. If the matter to be produced under an 90
+investigation under section 109.962 of the Revised Code is 91
+located outside this state, the attorney general may designate 92
+any representative, including any official of the state in which 93
+the matter is located, to inspect the matter on behalf of the 94
+attorney general. 95
+Sec. 109.968. In conducting an investigation under sectio n 96
+109.962 of the Revised Code, the attorney general shall not 97
+publicly disclose the identity of persons or developers 98
+investigated or the facts developed in the investigation unless 99
+this information has become a matter of public record in 100
+enforcement proceedings or if those being investigated have 101
+consented in writing to public disclosure. 102
+Sec. 109.969. In conducting an investigation under sectio n 103
+109.962 of the Revised Code, the attorney general shall 104
+cooperate with state and local officials of other states and 105
+officials of the federal government in the administration of 106
+
+H. B. No. 524 Page 5
+As Introduced
+comparable laws and regulations. 107
+Sec. 109.9610. (A) During an investigation under section 108
+109.962 of the Revised Code, the attorney general may afford the 109
+person who is the subject of the investigation, in a manner 110
+considered appropriate to that person, an opportunity to cease 111
+and desist from any suspected violation of section 109.961 of 112
+the Revised Code. 113
+(B) The attorney general may suspend the investigation 114
+during the period that the attorney general permits the person 115
+to cease and desist from the suspected violation. 116
+(C) The suspension of the investigation or the affording 117
+of an opportunity to cease and desist shall not prejudice or 118
+prohibit any further investigation by the attorney general under 119
+section 109.962 of the Revised Code. 120
+Sec. 109.9611. (A) The attorney general may terminate an 121
+investigation under section 109.962 of the Revised Code upon 122
+acceptance of a written assurance of voluntary compliance from a 123
+person who is suspected of a violation of section 109.961 of the 124
+Revised Code. 125
+(B) The acceptance of such an assurance may be conditioned 126
+upon an undertaking to reimburse or to take other appropriate 127
+corrective action with respect to consumers who are damaged by 128
+an alleged violation of section 109.961 of the Revised Code. 129
+(C) Such an assurance of compliance is not evidence of a 130
+violation of section 109.961 of the Revised Code. 131
+(D) The attorney general, at any time, may reopen an 132
+investigation terminated by the acceptance of an assurance of 133
+voluntary compliance, if the attorney general believes that 134
+further proceedings are in the public interest. 135
+
+H. B. No. 524 Page 6
+As Introduced
+(E) Evidence of a violation of an assurance of voluntary 136
+compliance is prima facie evidence of an act or practice in 137
+violation of section 109.961 of the Revised Code if the evidence 138
+is presented in a civil action brought under section 109.9613 of 139
+the Revised Code. 140
+(F) An assurance of voluntary compliance may be filed with 141
+the court and, if approved by the court, entered as a consent 142
+judgment in the action. 143
+Sec. 109.9612. The procedures that are available to the 144
+attorney general under sections 109.962 to 109.9611 of the 145
+Revised Code are cumulative and concurrent, and the exercise of 146
+one procedure by the attorney general does not preclude or 147
+require the exercise of any other procedure. 148
+Sec. 109.9613. If, by the attorney general's own inquirie s 149
+or as a result of complaints or an investigation conducted under 150
+section 109.962 of the Revised Code, the attorney general has 151
+reasonable cause to believe that a person has engaged or is 152
+engaging in a violation of section 109.961 of the Revised Code, 153
+the attorney general, subject to section 109.9615 of the Revised 154
+Code, may bring in the appropriate court of common pleas of this 155
+state a civil action against the alleged violator for injunctive 156
+relief, damages, and civil penalties on behalf of the residents 157
+of this state who have been subjected to acts or practices in 158
+violation of section 109.961 of the Revised Code. 159
+Sec. 109.9614. On the motion of the attorney general or o n 160
+its own motion, a court may impose a civil penalty of up to 161
+fifty thousand dollars for each violation of section 109.961 of 162
+the Revised Code. 163
+Sec. 109.9615. No action may be brought by the attorney 164
+
+H. B. No. 524 Page 7
+As Introduced
+general under section 109.9613 of the Revised Code for damages 165
+or a civil penalty more than six years after the occurrence of 166
+the violation. 167
+Sec. 109.9616. The attorney general shall deposit any 168
+civil penalties that are imposed under section 109.9614 of the 169
+Revised Code to the credit of the 9-8-8 fund created under 170
+section 5119.84 of the Revised Code. 171
+Sec. 5119.84. (A) There is hereby created in the state 172
+treasury the 9-8-8 fund. The fund shall consist of all money 173
+from the following sources: 174
+(1) Appropriations made by the general assembly; 175
+(2) Money awarded to the state by donation, gift, or 176
+bequest, and other money received for purposes of this section; 177
+(3) Penalties imposed under section 109.9614 of the 178
+Revised Code; 179
+(4) Interest or other earnings on the fund. 180
+(B) Money in the fund shall be used to oversee and 181
+administer the 9-8-8 suicide prevention and mental health crisis 182
+hotline system. 183
+Section 2. That existing section 5119.84 of the Revised 184
+Code is hereby repealed. 185
+
+[DELETED: nH          1 1 1:1 1:1 1 1.1]
+[DELETED: 4  1 2 2.2:2 2 2 2.2 2 2.3 3 3 3 3 3 3 3 3 3 4 4 4 4 4.4 4]
+[DELETED: 4  4 4 4 5 5 5 5.5 5 5 5 5 5 6 6.6 6 6 6 6 6 6 6 7 7 7 7.7 7 7]
+[DELETED: 4  7 7 7 8 8 8 8-8 8 8 8 8.8 9 9 9 9 9.9 9 9 9 9 1 1.1 1 1 1 1]
+[DELETED: 4 .1 1 1 1 1 1.1 1 1.1 1 1 1.1 1 1 1 1.1 1 1 1.1 1.1 1 1 1.1]
+[DELETED: 4  1 1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1]
+[DELETED: 4  1 1.1 1 1 1.1 1 1:1;1 1;1 1;1.1 1 1.1 1.1]

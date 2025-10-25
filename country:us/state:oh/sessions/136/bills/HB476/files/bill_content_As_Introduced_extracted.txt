@@ -1,0 +1,2080 @@
+Title: Cosponsors: Representatives Ray, Glassburn, Brennan, Hall, T., Gross, Hiner,
+Official Title: Cosponsors: Representatives Ray, Glassburn, Brennan, Hall, T., Gross, Hiner,
+Number of Sections: 21
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 476
+2025-2026
+Representatives Craig, Thomas, D.
+Ferguson, Kishman, Robb Blasdel
+To amend sections 2915.01, 2915.092, and 2915.14 of 1
+the Revised Code to authorize online raffles 2
+under the Charitable Gaming Law and to declare 3
+an emergency. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 2915.01, 2915.092, and 2915.14 of 5
+the Revised Code be amended to read as follows: 6
+Sec. 2915.01. As used in this chapter: 7
+(A) "Bookmaking" means the business of receiving or paying 8
+off bets. 9
+(B) "Bet" means the hazarding of anything of value upon 10
+the result of an event, undertaking, or contingency, but does 11
+not include a bona fide business risk. 12
+(C) "Scheme of chance" means a slot machine unless 13
+authorized under Chapter 3772. of the Revised Code, lottery 14
+unless authorized under Chapter 3770. of the Revised Code, 15
+numbers game, pool conducted for profit, or other scheme in 16
+which a participant gives a valuable consideration for a chance 17
+to win a prize, but does not include bingo, a skill-based 18
+H. B. No. 476 Page 2
+As Introduced
+amusement machine, or a pool not conducted for profit. "Scheme 19
+of chance" includes the use of an electronic device to reveal 20
+the results of a game entry if valuable consideration is paid, 21
+directly or indirectly, for a chance to win a prize. Valuable 22
+consideration is deemed to be paid for a chance to win a prize 23
+in the following instances: 24
+(1) Less than fifty per cent of the goods or services sold 25
+by a scheme of chance operator in exchange for game entries are 26
+used or redeemed by participants at any one location; 27
+(2) Less than fifty per cent of participants who purchase 28
+goods or services at any one location do not accept, use, or 29
+redeem the goods or services sold or purportedly sold; 30
+(3) More than fifty per cent of prizes at any one location 31
+are revealed to participants through an electronic device 32
+simulating a game of chance or a "casino game" as defined in 33
+
+Section 3:
+section 3772.01 of the Revised Code; 34
+(4) The good or service sold by a scheme of chance 35
+operator in exchange for a game entry cannot be used or redeemed 36
+in the manner advertised; 37
+(5) A participant pays more than fair market value for 38
+goods or services offered by a scheme of chance operator in 39
+order to receive one or more game entries; 40
+(6) A participant may use the electronic device to 41
+purchase additional game entries; 42
+(7) A participant may purchase additional game entries by 43
+using points or credits won as prizes while using the electronic 44
+device; 45
+(8) A scheme of chance operator pays out in prize money 46
+H. B. No. 476 Page 3
+As Introduced
+more than twenty per cent of the gross revenue received at one 47
+location; or 48
+(9) A participant makes a purchase or exchange in order to 49
+obtain any good or service that may be used to facilitate play 50
+on the electronic device. 51
+As used in this division, "electronic device" means a 52
+mechanical, video, digital, or electronic machine or device that 53
+is capable of displaying information on a screen or other 54
+mechanism and that is owned, leased, or otherwise possessed by 55
+any person conducting a scheme of chance, or by that person's 56
+partners, affiliates, subsidiaries, or contractors. "Electronic 57
+device" does not include an electronic instant bingo system or 58
+an online raffle platform. 59
+(D) "Game of chance" means poker, craps, roulette, or 60
+other game in which a player gives anything of value in the hope 61
+of gain, the outcome of which is determined largely by chance, 62
+but does not include bingo. 63
+(E) "Game of chance conducted for profit" means any game 64
+of chance designed to produce income for the person who conducts 65
+or operates the game of chance, but does not include bingo. 66
+(F) "Gambling device" means any of the following: 67
+(1) A book, totalizer, or other equipment for recording 68
+bets; 69
+(2) A ticket, token, or other device representing a 70
+chance, share, or interest in a scheme of chance or evidencing a 71
+bet; 72
+(3) A deck of cards, dice, gaming table, roulette wheel, 73
+slot machine, or other apparatus designed for use in connection 74
+H. B. No. 476 Page 4
+As Introduced
+with a game of chance; 75
+(4) Any equipment, device, apparatus, or paraphernalia 76
+specially designed for gambling purposes; 77
+(5) Bingo supplies sold or otherwise provided, or used, in 78
+violation of this chapter. 79
+(G) "Gambling offense" means any of the following: 80
+(1) A violation of this chapter; 81
+(2) A violation of an existing or former municipal 82
+ordinance or law of this or any other state or the United States 83
+substantially equivalent to any provision of this chapter or a 84
+violation of section 2915.06 of the Revised Code as it existed 85
+prior to July 1, 1996; 86
+(3) An offense under an existing or former municipal 87
+ordinance or law of this or any other state or the United 88
+States, of which gambling is an element; 89
+(4) A conspiracy or attempt to commit, or complicity in 90
+committing, any offense under division (G)(1), (2), or (3) of 91
+this section. 92
+(H) Except as otherwise provided in this chapter, 93
+"charitable organization" means either of the following: 94
+(1) An organization that is exempt from federal income 95
+taxation under subsection 501(a) and described in subsection 96
+501(c)(3) of the Internal Revenue Code; 97
+(2) A volunteer rescue service organization, volunteer 98
+firefighter's organization, veteran's organization, fraternal 99
+organization, or sporting organization that is exempt from 100
+federal income taxation under subsection 501(c)(4), (c)(7), (c) 101
+H. B. No. 476 Page 5
+As Introduced
+(8), (c)(10), or (c)(19) of the Internal Revenue Code. 102
+To qualify as a "charitable organization," an organization 103
+shall have been in continuous existence as such in this state 104
+for a period of two years immediately preceding either the 105
+making of an application for a bingo license under section 106
+
+Section 4:
+2915.08 of the Revised Code or the conducting of any game of 107
+chance as provided in division (D) of section 2915.02 of the 108
+Revised Code. 109
+(I) "Religious organization" means any church, body of 110
+communicants, or group that is not organized or operated for 111
+profit and that gathers in common membership for regular worship 112
+and religious observances. 113
+(J) "Veteran's organization" means any individual post or 114
+state headquarters of a national veteran's association or an 115
+auxiliary unit of any individual post of a national veteran's 116
+association, which post, state headquarters, or auxiliary unit 117
+is incorporated as a nonprofit corporation and either has 118
+received a letter from the state headquarters of the national 119
+veteran's association indicating that the individual post or 120
+auxiliary unit is in good standing with the national veteran's 121
+association or has received a letter from the national veteran's 122
+association indicating that the state headquarters is in good 123
+standing with the national veteran's association. As used in 124
+this division, "national veteran's association" means any 125
+veteran's association that has been in continuous existence as 126
+such for a period of at least five years and either is 127
+incorporated by an act of the United States congress or has a 128
+national dues-paying membership of at least five thousand 129
+persons. 130
+(K) "Volunteer firefighter's organization" means any 131
+H. B. No. 476 Page 6
+As Introduced
+organization of volunteer firefighters, as defined in section 132
+
+Section 5:
+146.01 of the Revised Code, that is organized and operated 133
+exclusively to provide financial support for a volunteer fire 134
+department or a volunteer fire company and that is recognized or 135
+ratified by a county, municipal corporation, or township, or 136
+district. 137
+(L) "Fraternal organization" means any society, order, 138
+state headquarters, or association within this state, except a 139
+college or high school fraternity, that is not organized for 140
+profit, that is a branch, lodge, or chapter of a national or 141
+state organization, that exists exclusively for the common 142
+business or sodality of its members. 143
+(M) "Volunteer rescue service organization" means any 144
+organization of volunteers organized to function as an emergency 145
+medical service organization, as defined in section 4765.01 of 146
+the Revised Code. 147
+(N) "Charitable bingo game" means any bingo game described 148
+in division (O)(1) or (2) of this section that is conducted by a 149
+charitable organization that has obtained a license pursuant to 150
+
+Section 6:
+section 2915.08 of the Revised Code and the proceeds of which 151
+are used for a charitable purpose. 152
+(O) "Bingo" means either of the following: 153
+(1) A game with all of the following characteristics: 154
+(a) The participants use bingo cards or sheets, including 155
+paper formats and electronic representation or image formats, 156
+that are divided into twenty-five spaces arranged in five 157
+horizontal and five vertical rows of spaces, with each space, 158
+except the central space, being designated by a combination of a 159
+letter and a number and with the central space being designated 160
+H. B. No. 476 Page 7
+As Introduced
+as a free space. 161
+(b) The participants cover the spaces on the bingo cards 162
+or sheets that correspond to combinations of letters and numbers 163
+that are announced by a bingo game operator. 164
+(c) A bingo game operator announces combinations of 165
+letters and numbers that appear on objects that a bingo game 166
+operator selects by chance, either manually or mechanically, 167
+from a receptacle that contains seventy-five objects at the 168
+beginning of each game, each object marked by a different 169
+combination of a letter and a number that corresponds to one of 170
+the seventy-five possible combinations of a letter and a number 171
+that can appear on the bingo cards or sheets. 172
+(d) The winner of the bingo game includes any participant 173
+who properly announces during the interval between the 174
+announcements of letters and numbers as described in division 175
+(O)(1)(c) of this section, that a predetermined and preannounced 176
+pattern of spaces has been covered on a bingo card or sheet 177
+being used by the participant. 178
+(2) Instant bingo, electronic instant bingo, and raffles. 179
+(P) "Conduct" means to back, promote, organize, manage, 180
+carry on, sponsor, or prepare for the operation of bingo or a 181
+game of chance, a scheme of chance, or a sweepstakes. 182
+(Q) "Bingo game operator" means any person, except 183
+security personnel, who performs work or labor at the site of 184
+bingo, including, but not limited to, collecting money from 185
+participants, handing out bingo cards or sheets or objects to 186
+cover spaces on bingo cards or sheets, selecting from a 187
+receptacle the objects that contain the combination of letters 188
+and numbers that appear on bingo cards or sheets, calling out 189
+H. B. No. 476 Page 8
+As Introduced
+the combinations of letters and numbers, distributing prizes, 190
+selling or redeeming instant bingo tickets or cards, selling or 191
+redeeming electronic instant bingo tickets, credits, or 192
+vouchers, accessing an electronic instant bingo system other 193
+than as a participant, supervising the operation of a punch 194
+board, selling raffle tickets, selecting raffle tickets from a 195
+receptacle and announcing the winning numbers in a raffle, and 196
+preparing, selling, and serving food or beverages. "Bingo game 197
+operator" does not include a person who is installing, 198
+maintaining, updating, or repairing an electronic instant bingo 199
+system or a person who operates an online raffle platform. 200
+(R) "Participant" means any person who plays bingo. 201
+(S) "Bingo session" means a period that includes both of 202
+the following: 203
+(1) Not to exceed five continuous hours for the conduct of 204
+one or more games described in division (O)(1) of this section, 205
+instant bingo, and electronic instant bingo; 206
+(2) A period for the conduct of instant bingo and 207
+electronic instant bingo for not more than two hours before and 208
+not more than two hours after the period described in division 209
+(S)(1) of this section. 210
+(T) "Gross receipts" means all money or assets, including 211
+admission fees, that a person receives from bingo without the 212
+deduction of any amounts for prizes paid out or for the expenses 213
+of conducting bingo. "Gross receipts" does not include any money 214
+directly taken in from the sale of food or beverages by a 215
+charitable organization conducting bingo, or by a bona fide 216
+auxiliary unit or society of a charitable organization 217
+conducting bingo, provided all of the following apply: 218
+H. B. No. 476 Page 9
+As Introduced
+(1) The auxiliary unit or society has been in existence as 219
+a bona fide auxiliary unit or society of the charitable 220
+organization for at least two years prior to conducting bingo. 221
+(2) The person who purchases the food or beverage receives 222
+nothing of value except the food or beverage and items 223
+customarily received with the purchase of that food or beverage. 224
+(3) The food and beverages are sold at customary and 225
+reasonable prices. 226
+(U) "Security personnel" includes any person who either is 227
+a sheriff, deputy sheriff, marshal, deputy marshal, township 228
+constable, or member of an organized police department of a 229
+municipal corporation or has successfully completed a peace 230
+officer's training course pursuant to sections 109.71 to 109.79 231
+of the Revised Code and who is hired to provide security for the 232
+premises on which bingo is conducted. 233
+(V) "Charitable purpose" means that the net profit of 234
+bingo, other than instant bingo or electronic instant bingo, is 235
+used by, or is given, donated, or otherwise transferred to, any 236
+of the following: 237
+(1) Any organization that is described in subsection 238
+509(a)(1), 509(a)(2), or 509(a)(3) of the Internal Revenue Code 239
+and is either a governmental unit or an organization that is tax 240
+exempt under subsection 501(a) and described in subsection 241
+501(c)(3) of the Internal Revenue Code; 242
+(2) A veteran's organization that is a post, chapter, or 243
+organization of veterans, or an auxiliary unit or society of, or 244
+a trust or foundation for, any such post, chapter, or 245
+organization organized in the United States or any of its 246
+possessions, at least seventy-five per cent of the members of 247
+H. B. No. 476 Page 10
+As Introduced
+which are veterans and substantially all of the other members of 248
+which are individuals who are spouses, widows, or widowers of 249
+veterans, or such individuals, provided that no part of the net 250
+earnings of such post, chapter, or organization inures to the 251
+benefit of any private shareholder or individual, and further 252
+provided that the net profit is used by the post, chapter, or 253
+organization for the charitable purposes set forth in division 254
+(B)(12) of section 5739.02 of the Revised Code, is used for 255
+awarding scholarships to or for attendance at an institution 256
+mentioned in division (B)(12) of section 5739.02 of the Revised 257
+Code, is donated to a governmental agency, or is used for 258
+nonprofit youth activities, the purchase of United States or 259
+Ohio flags that are donated to schools, youth groups, or other 260
+bona fide nonprofit organizations, promotion of patriotism, or 261
+disaster relief; 262
+(3) A fraternal organization that has been in continuous 263
+existence in this state for fifteen years and that uses the net 264
+profit exclusively for religious, charitable, scientific, 265
+literary, or educational purposes, or for the prevention of 266
+cruelty to children or animals, if contributions for such use 267
+would qualify as a deductible charitable contribution under 268
+subsection 170 of the Internal Revenue Code; 269
+(4) A volunteer firefighter's organization that uses the 270
+net profit for the purposes set forth in division (K) of this 271
+
+Section 7:
+section. 272
+(W) "Internal Revenue Code" means the "Internal Revenue 273
+Code of 1986," 100 Stat. 2085, 26 U.S.C. 1, as now or hereafter 274
+amended. 275
+(X) "Youth athletic organization" means any organization, 276
+not organized for profit, that is organized and operated 277
+H. B. No. 476 Page 11
+As Introduced
+exclusively to provide financial support to, or to operate, 278
+athletic activities for persons who are twenty-one years of age 279
+or younger by means of sponsoring, organizing, operating, or 280
+contributing to the support of an athletic team, club, league, 281
+or association. 282
+(Y) "Youth athletic park organization" means any 283
+organization, not organized for profit, that satisfies both of 284
+the following: 285
+(1) It owns, operates, and maintains playing fields that 286
+satisfy both of the following: 287
+(a) The playing fields are used for athletic activities by 288
+one or more organizations, not organized for profit, each of 289
+which is organized and operated exclusively to provide financial 290
+support to, or to operate, athletic activities for persons who 291
+are eighteen years of age or younger by means of sponsoring, 292
+organizing, operating, or contributing to the support of an 293
+athletic team, club, league, or association. 294
+(b) The playing fields are not used for any profit-making 295
+activity at any time during the year. 296
+(2) It uses the proceeds of bingo it conducts exclusively 297
+for the operation, maintenance, and improvement of its playing 298
+fields of the type described in division (Y)(1) of this section. 299
+(Z) "Bingo supplies" means bingo cards or sheets; instant 300
+bingo tickets or cards; electronic bingo aids; raffle tickets; 301
+punch boards; seal cards; instant bingo ticket dispensers; 302
+electronic instant bingo systems; online raffle platforms; and 303
+devices for selecting or displaying the combination of bingo 304
+letters and numbers or raffle tickets. Items that are "bingo 305
+supplies" are not gambling devices if sold or otherwise 306
+H. B. No. 476 Page 12
+As Introduced
+provided, and used, in accordance with this chapter. For 307
+purposes of this chapter, "bingo supplies" are not to be 308
+considered equipment used to conduct a bingo game. 309
+(AA) "Instant bingo" means a form of bingo that shall use 310
+folded or banded tickets or paper cards with perforated break- 311
+open tabs, a face of which is covered or otherwise hidden from 312
+view to conceal a number, letter, or symbol, or set of numbers, 313
+letters, or symbols, some of which have been designated in 314
+advance as prize winners, and may also include games in which 315
+some winners are determined by the random selection of one or 316
+more bingo numbers by the use of a seal card or bingo blower. 317
+"Instant bingo" also includes a punch board game. In all 318
+"instant bingo" the prize amount and structure shall be 319
+predetermined. "Instant bingo" does not include electronic 320
+instant bingo or any device that is activated by the insertion 321
+of a coin, currency, token, or an equivalent, and that contains 322
+as one of its components a video display monitor that is capable 323
+of displaying numbers, letters, symbols, or characters in 324
+winning or losing combinations. 325
+(BB) "Seal card" means a form of instant bingo that uses 326
+instant bingo tickets in conjunction with a board or placard 327
+that contains one or more seals that, when removed or opened, 328
+reveal predesignated winning numbers, letters, or symbols. 329
+(CC) (CC)(1) "Raffle" means a form of bingo in which the 330
+one or more prizes are won by one or more persons who have 331
+purchased a raffle ticket. The A raffle is conducted by one of 332
+the following methods: 333
+(a) As a "traditional raffle," which means a raffle 334
+conducted by selling physical tickets to participants, then 335
+determining one or more winners of the raffle are determined by 336
+H. B. No. 476 Page 13
+As Introduced
+drawing a ticket stub or other detachable section from a 337
+receptacle containing ticket stubs or detachable sections 338
+corresponding to all tickets sold for the raffle. "Raffle" The 339
+person conducting a traditional raffle may accept electronic 340
+payment from a participant for a ticket and may sell a ticket to 341
+a participant by mail, over the internet, or by other remote 342
+means, so long as the person conducting the raffle delivers the 343
+physical ticket to the participant before the drawing is held. A 344
+participant is not required to be physically present at the 345
+drawing to win a prize. 346
+(b) As an "online raffle," which means a raffle conducted 347
+by selling electronic representations of tickets to participants 348
+by means of an online raffle platform, with each ticket 349
+containing a unique identifier assigned by the platform, then 350
+determining one or more winners of the raffle by randomly 351
+selecting, or having the platform randomly select, a unique 352
+ticket identifier from all tickets sold for the raffle. A 353
+participant is not required to be physically present at the 354
+drawing to win a raffle prize. An online raffle may be conducted 355
+by selling both physical tickets and electronic representations 356
+of tickets for the same drawing. 357
+(2) "Online raffle platform" means both of the following: 358
+(a) An internet web site, application, or electronic 359
+service used to conduct an online raffle; 360
+(b) Any associated equipment or software used to operate, 361
+manage, monitor, or document any aspect of an online raffle. 362
+(3) "Raffle" does not include the drawing selection of a 363
+ticket stub or other detachable section of a ticket purchased to 364
+attend a professional sporting event if both of the following 365
+H. B. No. 476 Page 14
+As Introduced
+apply: 366
+(1) (a) The ticket or ticket identifier stub or other 367
+detachable section is used to select the winner of a free prize 368
+given away at the professional sporting event; and 369
+(2) (b) The cost of the ticket is the same as the cost of 370
+a ticket to the professional sporting event on days when no free 371
+prize is given away. 372
+(DD) "Punch board" means a form of instant bingo that uses 373
+a board containing a number of holes or receptacles of uniform 374
+size in which are placed, mechanically and randomly, serially 375
+numbered slips of paper that may be punched or drawn from the 376
+hole or receptacle. A player may punch or draw the numbered 377
+slips of paper from the holes or receptacles and obtain the 378
+prize established for the game if the number drawn corresponds 379
+to a winning number or, if the punch board includes the use of a 380
+seal card, a potential winning number. 381
+(EE) "Gross profit" means gross receipts minus the amount 382
+actually expended for the payment of prize awards. 383
+(FF) "Net profit" means gross profit minus expenses. 384
+(GG) "Expenses" means the reasonable amount of gross 385
+profit actually expended for all of the following: 386
+(1) The purchase or lease of bingo supplies; 387
+(2) The annual license fee required under section 2915.08 388
+of the Revised Code; 389
+(3) Bank fees and service charges for a bingo session or 390
+game account described in section 2915.10 of the Revised Code; 391
+(4) Audits and accounting services; 392
+H. B. No. 476 Page 15
+As Introduced
+(5) Safes; 393
+(6) Cash registers; 394
+(7) Hiring security personnel; 395
+(8) Advertising bingo; 396
+(9) Renting premises in which to conduct a bingo session; 397
+(10) Tables and chairs; 398
+(11) Expenses for maintaining and operating a charitable 399
+organization's facilities, including, but not limited to, a post 400
+home, club house, lounge, tavern, or canteen and any grounds 401
+attached to the post home, club house, lounge, tavern, or 402
+canteen; 403
+(12) Payment of real property taxes and assessments that 404
+are levied on a premises on which bingo is conducted; 405
+(13) Any other product or service directly related to the 406
+conduct of bingo that is authorized in rules adopted by the 407
+attorney general under division (F)(1) of section 2915.08 of the 408
+Revised Code. 409
+(HH) "Person" has the same meaning as in section 1.59 of 410
+the Revised Code and includes any firm or any other legal 411
+entity, however organized. 412
+(II) "Revoke" means to void permanently all rights and 413
+privileges of the holder of a license issued under section 414
+
+Section 8:
+2915.08, 2915.081, or 2915.082 of the Revised Code or a 415
+charitable gaming license issued by another jurisdiction. 416
+(JJ) "Suspend" means to interrupt temporarily all rights 417
+and privileges of the holder of a license issued under section 418
+
+Section 9:
+2915.08, 2915.081, or 2915.082 of the Revised Code or a 419
+H. B. No. 476 Page 16
+As Introduced
+charitable gaming license issued by another jurisdiction. 420
+(KK) "Distributor" means any person who purchases or 421
+obtains bingo supplies and who does either of the following: 422
+(1) Sells, offers for sale, or otherwise provides or 423
+offers to provide the bingo supplies to another person for use 424
+in this state; 425
+(2) Modifies, converts, adds to, or removes parts from the 426
+bingo supplies to further their promotion or sale for use in 427
+this state. 428
+(LL) "Manufacturer" means any person who assembles 429
+completed bingo supplies from raw materials, other items, or 430
+subparts or who modifies, converts, adds to, or removes parts 431
+from bingo supplies to further their promotion or sale. 432
+(MM) "Gross annual revenues" means the annual gross 433
+receipts derived from the conduct of bingo described in division 434
+(O)(1) of this section plus the annual net profit derived from 435
+the conduct of bingo described in division (O)(2) of this 436
+
+Section 10:
+section. 437
+(NN) "Instant bingo ticket dispenser" means a mechanical 438
+device that dispenses an instant bingo ticket or card as the 439
+sole item of value dispensed and that has the following 440
+characteristics: 441
+(1) It is activated upon the insertion of United States 442
+currency. 443
+(2) It performs no gaming functions. 444
+(3) It does not contain a video display monitor or 445
+generate noise. 446
+H. B. No. 476 Page 17
+As Introduced
+(4) It is not capable of displaying any numbers, letters, 447
+symbols, or characters in winning or losing combinations. 448
+(5) It does not simulate or display rolling or spinning 449
+reels. 450
+(6) It is incapable of determining whether a dispensed 451
+bingo ticket or card is a winning or nonwinning ticket or card 452
+and requires a winning ticket or card to be paid by a bingo game 453
+operator. 454
+(7) It may provide accounting and security features to aid 455
+in accounting for the instant bingo tickets or cards it 456
+dispenses. 457
+(8) It is not part of an electronic network and is not 458
+interactive. 459
+(OO)(1) "Electronic bingo aid" means an electronic device 460
+used by a participant to monitor bingo cards or sheets purchased 461
+at the time and place of a bingo session and that does all of 462
+the following: 463
+(a) It provides a means for a participant to input numbers 464
+and letters announced by a bingo caller. 465
+(b) It compares the numbers and letters entered by the 466
+participant to the bingo faces previously stored in the memory 467
+of the device. 468
+(c) It identifies a winning bingo pattern. 469
+(2) "Electronic bingo aid" does not include any device 470
+into which a coin, currency, token, or an equivalent is inserted 471
+to activate play. 472
+(PP) "Deal" means a single game of instant bingo tickets, 473
+H. B. No. 476 Page 18
+As Introduced
+or a single game of electronic instant bingo tickets, all with 474
+the same serial number. 475
+(QQ)(1) "Slot machine" means either of the following: 476
+(a) Any mechanical, electronic, video, or digital device 477
+that is capable of accepting anything of value, directly or 478
+indirectly, from or on behalf of a player who gives the thing of 479
+value in the hope of gain; 480
+(b) Any mechanical, electronic, video, or digital device 481
+that is capable of accepting anything of value, directly or 482
+indirectly, from or on behalf of a player to conduct bingo or a 483
+scheme or game of chance. 484
+(2) "Slot machine" does not include a skill-based 485
+amusement machine, an instant bingo ticket dispenser, or an 486
+electronic instant bingo system, or an online raffle platform. 487
+(RR) "Net profit from the proceeds of the sale of instant 488
+bingo or electronic instant bingo" means gross profit minus the 489
+ordinary, necessary, and reasonable expense expended for the 490
+purchase of bingo supplies for the purpose of conducting instant 491
+bingo or electronic instant bingo, and, in the case of instant 492
+bingo or electronic instant bingo conducted by a veteran's, 493
+fraternal, or sporting organization, minus the payment by that 494
+organization of real property taxes and assessments levied on a 495
+premises on which instant bingo or electronic instant bingo is 496
+conducted. 497
+(SS) "Charitable instant bingo organization" means an 498
+organization that is exempt from federal income taxation under 499
+subsection 501(a) and described in subsection 501(c)(3) of the 500
+Internal Revenue Code and is a charitable organization as 501
+defined in this section. A "charitable instant bingo 502
+H. B. No. 476 Page 19
+As Introduced
+organization" does not include a charitable organization that is 503
+exempt from federal income taxation under subsection 501(a) and 504
+described in subsection 501(c)(3) of the Internal Revenue Code 505
+and that is created by a veteran's organization, a fraternal 506
+organization, or a sporting organization in regards to bingo 507
+conducted or assisted by a veteran's organization, a fraternal 508
+organization, or a sporting organization pursuant to section 509
+
+Section 11:
+2915.13 of the Revised Code. 510
+(TT) "Game flare" means the board or placard, or 511
+electronic representation of a board or placard, that 512
+accompanies each deal of instant bingo or electronic instant 513
+bingo tickets and that includes the following information for 514
+the game: 515
+(1) The name of the game; 516
+(2) The manufacturer's name or distinctive logo; 517
+(3) The form number; 518
+(4) The ticket count; 519
+(5) The prize structure, including the number of winning 520
+tickets by denomination and the respective winning symbol or 521
+number combinations for the winning tickets; 522
+(6) The cost per play; 523
+(7) The serial number of the game. 524
+(UU)(1) "Skill-based amusement machine" means a 525
+mechanical, video, digital, or electronic device that rewards 526
+the player or players, if at all, only with merchandise prizes 527
+or with redeemable vouchers redeemable only for merchandise 528
+prizes, provided that with respect to rewards for playing the 529
+game all of the following apply: 530
+H. B. No. 476 Page 20
+As Introduced
+(a) The wholesale value of a merchandise prize awarded as 531
+a result of the single play of a machine does not exceed ten 532
+dollars; 533
+(b) Redeemable vouchers awarded for any single play of a 534
+machine are not redeemable for a merchandise prize with a 535
+wholesale value of more than ten dollars; 536
+(c) Redeemable vouchers are not redeemable for a 537
+merchandise prize that has a wholesale value of more than ten 538
+dollars times the fewest number of single plays necessary to 539
+accrue the redeemable vouchers required to obtain that prize; 540
+and 541
+(d) Any redeemable vouchers or merchandise prizes are 542
+distributed at the site of the skill-based amusement machine at 543
+the time of play. 544
+A card for the purchase of gasoline is a redeemable 545
+voucher for purposes of division (UU)(1) of this section even if 546
+the skill-based amusement machine for the play of which the card 547
+is awarded is located at a place where gasoline may not be 548
+legally distributed to the public or the card is not redeemable 549
+at the location of, or at the time of playing, the skill-based 550
+amusement machine. 551
+(2) A device shall not be considered a skill-based 552
+amusement machine and shall be considered a slot machine if it 553
+pays cash or one or more of the following apply: 554
+(a) The ability of a player to succeed at the game is 555
+impacted by the number or ratio of prior wins to prior losses of 556
+players playing the game. 557
+(b) Any reward of redeemable vouchers is not based solely 558
+on the player achieving the object of the game or the player's 559
+H. B. No. 476 Page 21
+As Introduced
+score; 560
+(c) The outcome of the game, or the value of the 561
+redeemable voucher or merchandise prize awarded for winning the 562
+game, can be controlled by a source other than any player 563
+playing the game. 564
+(d) The success of any player is or may be determined by a 565
+chance event that cannot be altered by player actions. 566
+(e) The ability of any player to succeed at the game is 567
+determined by game features not visible or known to the player. 568
+(f) The ability of the player to succeed at the game is 569
+impacted by the exercise of a skill that no reasonable player 570
+could exercise. 571
+(3) All of the following apply to any machine that is 572
+operated as described in division (UU)(1) of this section: 573
+(a) As used in division (UU) of this section, "game" and 574
+"play" mean one event from the initial activation of the machine 575
+until the results of play are determined without payment of 576
+additional consideration. An individual utilizing a machine that 577
+involves a single game, play, contest, competition, or 578
+tournament may be awarded redeemable vouchers or merchandise 579
+prizes based on the results of play. 580
+(b) Advance play for a single game, play, contest, 581
+competition, or tournament participation may be purchased. The 582
+cost of the contest, competition, or tournament participation 583
+may be greater than a single noncontest, competition, or 584
+tournament play. 585
+(c) To the extent that the machine is used in a contest, 586
+competition, or tournament, that contest, competition, or 587
+H. B. No. 476 Page 22
+As Introduced
+tournament has a defined starting and ending date and is open to 588
+participants in competition for scoring and ranking results 589
+toward the awarding of redeemable vouchers or merchandise prizes 590
+that are stated prior to the start of the contest, competition, 591
+or tournament. 592
+(4) For purposes of division (UU)(1) of this section, the 593
+mere presence of a device, such as a pin-setting, ball- 594
+releasing, or scoring mechanism, that does not contribute to or 595
+affect the outcome of the play of the game does not make the 596
+device a skill-based amusement machine. 597
+(VV) "Merchandise prize" means any item of value, but 598
+shall not include any of the following: 599
+(1) Cash, gift cards, or any equivalent thereof; 600
+(2) Plays on games of chance, state lottery tickets, or 601
+bingo; 602
+(3) Firearms, tobacco, or alcoholic beverages; or 603
+(4) A redeemable voucher that is redeemable for any of the 604
+items listed in division (VV)(1), (2), or (3) of this section. 605
+(WW) "Redeemable voucher" means any ticket, token, coupon, 606
+receipt, or other noncash representation of value. 607
+(XX) "Pool not conducted for profit" means a scheme in 608
+which a participant gives a valuable consideration for a chance 609
+to win a prize and the total amount of consideration wagered is 610
+distributed to a participant or participants. 611
+(YY) "Sporting organization" means a hunting, fishing, or 612
+trapping organization, other than a college or high school 613
+fraternity or sorority, that is not organized for profit, that 614
+is affiliated with a state or national sporting organization, 615
+H. B. No. 476 Page 23
+As Introduced
+including but not limited to, the league of Ohio sportsmen, and 616
+that has been in continuous existence in this state for a period 617
+of three years. 618
+(ZZ) "Community action agency" has the same meaning as in 619
+
+Section 12:
+section 5101.311 of the Revised Code. 620
+(AAA)(1) "Sweepstakes terminal device" means a mechanical, 621
+video, digital, or electronic machine or device that is owned, 622
+leased, or otherwise possessed by any person conducting a 623
+sweepstakes, or by that person's partners, affiliates, 624
+subsidiaries, or contractors, that is intended to be used by a 625
+sweepstakes participant, and that is capable of displaying 626
+information on a screen or other mechanism. A device is a 627
+sweepstakes terminal device if any of the following apply: 628
+(a) The device uses a simulated game terminal as a 629
+representation of the prizes associated with the results of the 630
+sweepstakes entries. 631
+(b) The device utilizes software such that the simulated 632
+game influences or determines the winning of or value of the 633
+prize. 634
+(c) The device selects prizes from a predetermined finite 635
+pool of entries. 636
+(d) The device utilizes a mechanism that reveals the 637
+content of a predetermined sweepstakes entry. 638
+(e) The device predetermines the prize results and stores 639
+those results for delivery at the time the sweepstakes entry 640
+results are revealed. 641
+(f) The device utilizes software to create a game result. 642
+(g) The device reveals the prize incrementally, even 643
+H. B. No. 476 Page 24
+As Introduced
+though the device does not influence the awarding of the prize 644
+or the value of any prize awarded. 645
+(h) The device determines and associates the prize with an 646
+entry or entries at the time the sweepstakes is entered. 647
+(2) As used in this division and in section 2915.02 of the 648
+Revised Code: 649
+(a) "Enter" means the act by which a person becomes 650
+eligible to receive any prize offered in a sweepstakes. 651
+(b) "Entry" means one event from the initial activation of 652
+the sweepstakes terminal device until all the sweepstakes prize 653
+results from that activation are revealed. 654
+(c) "Prize" means any gift, award, gratuity, good, 655
+service, credit, reward, or any other thing of value that may be 656
+transferred to a person, whether possession of the prize is 657
+actually transferred, or placed on an account or other record as 658
+evidence of the intent to transfer the prize. 659
+(d) "Sweepstakes terminal device facility" means any 660
+location in this state where a sweepstakes terminal device is 661
+provided to a sweepstakes participant, except as provided in 662
+division (G) of section 2915.02 of the Revised Code. 663
+(BBB) "Sweepstakes" means any game, contest, advertising 664
+scheme or plan, or other promotion where consideration is not 665
+required for a person to enter to win or become eligible to 666
+receive any prize, the determination of which is based upon 667
+chance. "Sweepstakes" does not include bingo as authorized under 668
+this chapter, pari-mutuel wagering as authorized by Chapter 669
+
+Section 13:
+3769. of the Revised Code, lotteries conducted by the state 670
+lottery commission as authorized by Chapter 3770. of the Revised 671
+Code, and casino gaming as authorized by Chapter 3772. of the 672
+H. B. No. 476 Page 25
+As Introduced
+Revised Code. 673
+(CCC)(1) "Electronic instant bingo" means a form of bingo 674
+that consists of an electronic or digital representation of 675
+instant bingo in which a participant wins a prize if the 676
+participant's electronic instant bingo ticket contains a 677
+combination of numbers or symbols that was designated in advance 678
+as a winning combination, and to which all of the following 679
+apply: 680
+(a) Each deal has a predetermined, finite number of 681
+winning and losing tickets and a predetermined prize amount and 682
+deal structure, provided that there may be multiple winning 683
+combinations in each deal and multiple winning tickets. 684
+(b) Each electronic instant bingo ticket within a deal has 685
+a unique serial number that is not regenerated. 686
+(c) Each electronic instant bingo ticket within a deal is 687
+sold for the same price. 688
+(d) After a participant purchases an electronic instant 689
+bingo ticket, the combination of numbers or symbols on the 690
+ticket is revealed to the participant. 691
+(e) The reveal of numbers or symbols on the ticket may 692
+incorporate an entertainment or bonus theme, provided that the 693
+reveal does not include spinning reels that resemble a slot 694
+machine. 695
+(f) The reveal theme, if any, does not require additional 696
+consideration or award any prize other than any predetermined 697
+prize associated with the electronic instant bingo ticket. 698
+(2) "Electronic instant bingo" shall not include any of 699
+the following: 700
+H. B. No. 476 Page 26
+As Introduced
+(a) Any game, entertainment, or bonus theme that 701
+replicates or simulates any of the following: 702
+(i) The gambling games of keno, blackjack, roulette, 703
+poker, craps, other casino-style table games; 704
+(ii) Horse racing; 705
+(iii) Gambling games offered in this state on slot 706
+machines or video lottery terminals. As used in this division, 707
+"video lottery terminal" has the same meaning as in section 708
+
+Section 14:
+3770.21 of the Revised Code. 709
+(b) Any device operated by dropping one or more coins or 710
+tokens into a slot and pulling a handle or pushing a button or 711
+touchpoint on a touchscreen to activate one to three or more 712
+rotating reels marked into horizontal segments by varying 713
+symbols, where the predetermined prize amount depends on how and 714
+how many of the symbols line up when the rotating reels come to 715
+a rest; 716
+(c) Any device that includes a coin or token slot, tray, 717
+or hopper and the ability to dispense coins, cash, tokens, or 718
+anything of value other than a credit ticket voucher. 719
+(DDD) "Electronic instant bingo system" means both of the 720
+following: 721
+(1) A mechanical, electronic, digital, or video device and 722
+associated software to which all of the following apply: 723
+(a) It is used by not more than one player at a time to 724
+play electronic instant bingo on a single screen that is 725
+physically connected to the device; 726
+(b) It is located on the premises of the principal place 727
+of business of a veteran's or fraternal organization that holds 728
+H. B. No. 476 Page 27
+As Introduced
+a type II or type III bingo license to conduct electronic 729
+instant bingo at that location issued under section 2915.08 of 730
+the Revised Code. 731
+(2) Any associated equipment or software used to manage, 732
+monitor, or document any aspect of electronic instant bingo. 733
+Sec. 2915.092. (A)(1) Subject to division (A)(2) of this 734
+
+Section 15:
+section, a person or entity may conduct a raffle to raise money 735
+for the person or entity and does not need a license to conduct 736
+bingo in order to conduct a raffle drawing that is not for 737
+profit if the person or entity is any of the following: 738
+(a) Exempt from federal income taxation under subsection 739
+501(a) and described in subsection 501(c)(3) of the Internal 740
+Revenue Code; 741
+(b) A school district, community school established under 742
+Chapter 3314. of the Revised Code, STEM school established under 743
+Chapter 3326. of the Revised Code, college-preparatory boarding 744
+school established under Chapter 3328. of the Revised Code, or 745
+chartered nonpublic school; 746
+(c) Exempt from federal income taxation under subsection 747
+501(a) and described in subsection 501(c)(4), 501(c)(6), 501(c) 748
+(7), 501(c)(8), 501(c)(10), or 501(c)(19) of the Internal 749
+Revenue Code. 750
+(2) If a person or entity that is described in division 751
+(A)(1)(c) of this section conducts a raffle, the person or 752
+entity shall distribute at least fifty per cent of the net 753
+profit from the raffle to a charitable purpose described in 754
+division (V) of section 2915.01 of the Revised Code or to a 755
+department or agency of the federal government, the state, or 756
+any political subdivision. 757
+H. B. No. 476 Page 28
+As Introduced
+(B) Except as provided in division (A) of this section, no 758
+person shall conduct a raffle drawing that is for profit or a 759
+raffle drawing that is not for profit. 760
+(C) Whoever violates division (B) of this section is 761
+guilty of illegal conduct of a raffle. Except as otherwise 762
+provided in this division, illegal conduct of a raffle is a 763
+misdemeanor of the first degree. If the offender previously has 764
+been convicted of a violation of division (B) of this section, 765
+illegal conduct of a raffle is a felony of the fifth degree. 766
+Sec. 2915.14. (A) No charitable organization shall conduct 767
+electronic instant bingo unless all of the following are true: 768
+(1) The organization is a veteran's organization described 769
+in division (J) of section 2915.01 of the Revised Code, or is a 770
+fraternal organization described in division (L) of section 771
+
+Section 16:
+2915.01 of the Revised Code, and the organization qualified as a 772
+veteran's organization or fraternal organization, as applicable, 773
+on or before June 30, 2021. 774
+(2) The organization is a veteran's organization described 775
+in subsection 501(c)(4) of the Internal Revenue Code or is, and 776
+has received from the internal revenue service a determination 777
+letter that is currently in effect stating that the organization 778
+is, exempt from federal income taxation under subsection 501(a), 779
+and is described in subsection 501(c)(7), 501(c)(8), 501(c)(10), 780
+or 501(c)(19) of the Internal Revenue Code. 781
+(3) The organization has not conducted a raffle in 782
+violation of division (B) of section 2915.092 of the Revised 783
+Code, as that section existed at the time of the violation, 784
+using an electronic raffle machine, as described in Ohio 785
+Veterans and Fraternal Charitable Coalition v. DeWine, Case No. 786
+H. B. No. 476 Page 29
+As Introduced
+13-CV-13610 (C.P. Franklin Co. February 23, 2018), at any time 787
+on or after January 1, 2022. 788
+(B) No charitable organization that conducts electronic 789
+instant bingo shall do any of the following: 790
+(1) Possess an electronic instant bingo system that was 791
+not obtained in accordance with this chapter or with any rule 792
+adopted under this chapter; 793
+(2) Conduct electronic instant bingo on any day, at any 794
+time, or on any premises not specified on the organization's 795
+type II or type III license issued under section 2915.08 of the 796
+Revised Code; 797
+(3) Hold more than one valid license to conduct electronic 798
+instant bingo at any one time; 799
+(4) Conduct electronic instant bingo on more than one 800
+premises or on any premises other than the charitable 801
+organization's principal place of business; 802
+(5) Operate more than ten electronic bingo systems at the 803
+premises on which the charitable organization conducts 804
+electronic instant bingo under its license; 805
+(6) Fail to display both of the following conspicuously at 806
+the premises on which the charitable organization conducts 807
+electronic instant bingo: 808
+(a) The charitable organization's bingo license; 809
+(b) The serial number of each deal of electronic instant 810
+bingo tickets being sold. 811
+(7) Permit any person the charitable organization knows, 812
+or should have known, to be under eighteen years of age to play 813
+H. B. No. 476 Page 30
+As Introduced
+electronic instant bingo; 814
+(8) Sell or provide to any person an electronic instant 815
+bingo ticket for a price different from the price displayed on 816
+the game flare for that deal, except that the charitable 817
+organization may give a participant who wins an electronic 818
+instant bingo game an electronic instant bingo ticket as a prize 819
+in place of a cash prize; 820
+(9) Fail, once an electronic instant bingo deal is begun, 821
+to continue to sell tickets in that deal until all prizes have 822
+been awarded; 823
+(10) Permit any person whom the organization knows, or 824
+should have known, has been convicted of a felony or gambling 825
+offense in any jurisdiction to be a bingo game operator in the 826
+conduct of electronic instant bingo; 827
+(11) Permit a bingo game operator to play electronic 828
+instant bingo; 829
+(12)(a) Except as otherwise provided in division (B)(12) 830
+(b) of this section, pay compensation to a bingo game operator 831
+for conducting electronic instant bingo. 832
+(b) Division (B)(12)(a) of this section does not prohibit 833
+an employee of a veteran's organization or fraternal 834
+organization from redeeming electronic instant bingo tickets or 835
+vouchers for the organization's members or invited guests, so 836
+long as no portion of the employee's compensation is paid from 837
+any bingo receipts. 838
+(13) Pay consulting fees to any person in relation to 839
+electronic instant bingo. 840
+(C) No person shall sell, offer to sell, or otherwise 841
+H. B. No. 476 Page 31
+As Introduced
+provide or offer to provide an electronic instant bingo system 842
+to any person for use in this state unless the electronic 843
+instant bingo system has been approved under section 2915.15 of 844
+the Revised Code. 845
+(D) The attorney general shall adopt rules under Chapter 846
+
+Section 17:
+119. of the Revised Code to ensure the integrity of electronic 847
+instant bingo, including, but not limited to, rules governing 848
+all of the following: 849
+(1) The requirements to receive a license or endorsement 850
+to conduct electronic instant bingo; 851
+(2) The location and number of electronic instant bingo 852
+systems in use, which shall not exceed ten at the single 853
+licensed location per organization; 854
+(3) The times when electronic instant bingo may be 855
+offered; 856
+(4) Signage requirements in facilities where electronic 857
+instant bingo is offered; 858
+(5) Electronic instant bingo device and system 859
+specifications, including reveal features and game themes; 860
+(6) Procedures and standards for the review, approval, 861
+inspection, and monitoring of electronic instant bingo systems, 862
+as described in section 2915.15 of the Revised Code; 863
+(7) Procedures and standards for the review and approval 864
+of any changes to technology, systems, or games licensed or 865
+permitted under this chapter; 866
+(8) The fees to be charged under section 2915.15 of the 867
+Revised Code for review, approval, inspection, and monitoring of 868
+electronic instant bingo systems; 869
+H. B. No. 476 Page 32
+As Introduced
+(9) Procedures allowing the attorney general to seek a 870
+summary suspension of a license to conduct electronic instant 871
+bingo or a license to manufacture or distribute electronic 872
+instant bingo systems if the attorney general has good cause to 873
+believe that the person or organization licensed to conduct 874
+electronic instant bingo, or the person or organization licensed 875
+to manufacture or distribute electronic instant bingo systems, 876
+or any of the organization's employees, officers, directors, 877
+agents, representatives, or partners, has violated this chapter 878
+or a rule adopted under this chapter. 879
+(E) Whoever knowingly violates division (A), (B), or (C) 880
+of this section or a rule adopted under division (D) of this 881
+
+Section 18:
+section is guilty of illegal electronic instant bingo conduct. 882
+Illegal electronic instant bingo conduct is a misdemeanor of the 883
+first degree, except that if the offender previously has been 884
+convicted of a violation of division (A) or (B) of this section 885
+or of a rule adopted under division (D) of this section, illegal 886
+instant bingo conduct is a felony of the fifth degree. 887
+
+Section 19:
+Section 2. That existing sections 2915.01, 2915.092, and 888
+
+Section 20:
+2915.14 of the Revised Code are hereby repealed. 889
+
+Section 21:
+Section 3. This act is hereby declared to be an emergency 890
+measure necessary for the immediate preservation of the public 891
+peace, health, and safety. The reason for such necessity is to 892
+ensure that charitable organizations are able to continue 893
+raising necessary funds for their operations. Therefore, this 894
+act shall go into immediate effect. 895
+[DELETED: nH   . :    1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1)1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3]
+[DELETED: 6  3 3 3 3-3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3:3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3 3.3 3 3;3 3.3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5-5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7:7 7 7;7 7 7 7 7;7 7)7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8)8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8 8 8 8.8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 476
+2025-2026
+Representatives Craig, Thomas, D.
+Cosponsors: Representatives Ray, Glassburn, Brennan, Hall, T., Gross, Hiner,
+Ferguson, Kishman, Robb Blasdel
+To amend sections 2915.01, 2915.092, and 2915.14 of 1
+the Revised Code to authorize online raffles 2
+under the Charitable Gaming Law and to declare 3
+an emergency. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2915.01, 2915.092, and 2915.14 of 5
+the Revised Code be amended to read as follows: 6
+Sec. 2915.01. As used in this chapter: 7
+(A) "Bookmaking" means the business of receiving or paying 8
+off bets. 9
+(B) "Bet" means the hazarding of anything of value upon 10
+the result of an event, undertaking, or contingency, but does 11
+not include a bona fide business risk. 12
+(C) "Scheme of chance" means a slot machine unless 13
+authorized under Chapter 3772. of the Revised Code, lottery 14
+unless authorized under Chapter 3770. of the Revised Code, 15
+numbers game, pool conducted for profit, or other scheme in 16
+which a participant gives a valuable consideration for a chance 17
+to win a prize, but does not include bingo, a skill-based 18
+
+H. B. No. 476 Page 2
+As Introduced
+amusement machine, or a pool not conducted for profit. "Scheme 19
+of chance" includes the use of an electronic device to reveal 20
+the results of a game entry if valuable consideration is paid, 21
+directly or indirectly, for a chance to win a prize. Valuable 22
+consideration is deemed to be paid for a chance to win a prize 23
+in the following instances: 24
+(1) Less than fifty per cent of the goods or services sold 25
+by a scheme of chance operator in exchange for game entries are 26
+used or redeemed by participants at any one location; 27
+(2) Less than fifty per cent of participants who purchase 28
+goods or services at any one location do not accept, use, or 29
+redeem the goods or services sold or purportedly sold; 30
+(3) More than fifty per cent of prizes at any one location 31
+are revealed to participants through an electronic device 32
+simulating a game of chance or a "casino game" as defined in 33
+section 3772.01 of the Revised Code; 34
+(4) The good or service sold by a scheme of chance 35
+operator in exchange for a game entry cannot be used or redeemed 36
+in the manner advertised; 37
+(5) A participant pays more than fair market value for 38
+goods or services offered by a scheme of chance operator in 39
+order to receive one or more game entries; 40
+(6) A participant may use the electronic device to 41
+purchase additional game entries; 42
+(7) A participant may purchase additional game entries by 43
+using points or credits won as prizes while using the electronic 44
+device; 45
+(8) A scheme of chance operator pays out in prize money 46
+
+H. B. No. 476 Page 3
+As Introduced
+more than twenty per cent of the gross revenue received at one 47
+location; or 48
+(9) A participant makes a purchase or exchange in order to 49
+obtain any good or service that may be used to facilitate play 50
+on the electronic device. 51
+As used in this division, "electronic device" means a 52
+mechanical, video, digital, or electronic machine or device that 53
+is capable of displaying information on a screen or other 54
+mechanism and that is owned, leased, or otherwise possessed by 55
+any person conducting a scheme of chance, or by that person's 56
+partners, affiliates, subsidiaries, or contractors. "Electronic 57
+device" does not include an electronic instant bingo system or 58
+an online raffle platform. 59
+(D) "Game of chance" means poker, craps, roulette, or 60
+other game in which a player gives anything of value in the hope 61
+of gain, the outcome of which is determined largely by chance, 62
+but does not include bingo. 63
+(E) "Game of chance conducted for profit" means any game 64
+of chance designed to produce income for the person who conducts 65
+or operates the game of chance, but does not include bingo. 66
+(F) "Gambling device" means any of the following: 67
+(1) A book, totalizer, or other equipment for recording 68
+bets; 69
+(2) A ticket, token, or other device representing a 70
+chance, share, or interest in a scheme of chance or evidencing a 71
+bet; 72
+(3) A deck of cards, dice, gaming table, roulette wheel, 73
+slot machine, or other apparatus designed for use in connection 74
+
+H. B. No. 476 Page 4
+As Introduced
+with a game of chance; 75
+(4) Any equipment, device, apparatus, or paraphernalia 76
+specially designed for gambling purposes; 77
+(5) Bingo supplies sold or otherwise provided, or used, in 78
+violation of this chapter. 79
+(G) "Gambling offense" means any of the following: 80
+(1) A violation of this chapter; 81
+(2) A violation of an existing or former municipal 82
+ordinance or law of this or any other state or the United States 83
+substantially equivalent to any provision of this chapter or a 84
+violation of section 2915.06 of the Revised Code as it existed 85
+prior to July 1, 1996; 86
+(3) An offense under an existing or former municipal 87
+ordinance or law of this or any other state or the United 88
+States, of which gambling is an element; 89
+(4) A conspiracy or attempt to commit, or complicity in 90
+committing, any offense under division (G)(1), (2), or (3) of 91
+this section. 92
+(H) Except as otherwise provided in this chapter, 93
+"charitable organization" means either of the following: 94
+(1) An organization that is exempt from federal income 95
+taxation under subsection 501(a) and described in subsection 96
+501(c)(3) of the Internal Revenue Code; 97
+(2) A volunteer rescue service organization, volunteer 98
+firefighter's organization, veteran's organization, fraternal 99
+organization, or sporting organization that is exempt from 100
+federal income taxation under subsection 501(c)(4), (c)(7), (c) 101
+
+H. B. No. 476 Page 5
+As Introduced
+(8), (c)(10), or (c)(19) of the Internal Revenue Code. 102
+To qualify as a "charitable organization," an organization 103
+shall have been in continuous existence as such in this state 104
+for a period of two years immediately preceding either the 105
+making of an application for a bingo license under section 106
+2915.08 of the Revised Code or the conducting of any game of 107
+chance as provided in division (D) of section 2915.02 of the 108
+Revised Code. 109
+(I) "Religious organization" means any church, body of 110
+communicants, or group that is not organized or operated for 111
+profit and that gathers in common membership for regular worship 112
+and religious observances. 113
+(J) "Veteran's organization" means any individual post or 114
+state headquarters of a national veteran's association or an 115
+auxiliary unit of any individual post of a national veteran's 116
+association, which post, state headquarters, or auxiliary unit 117
+is incorporated as a nonprofit corporation and either has 118
+received a letter from the state headquarters of the national 119
+veteran's association indicating that the individual post or 120
+auxiliary unit is in good standing with the national veteran's 121
+association or has received a letter from the national veteran's 122
+association indicating that the state headquarters is in good 123
+standing with the national veteran's association. As used in 124
+this division, "national veteran's association" means any 125
+veteran's association that has been in continuous existence as 126
+such for a period of at least five years and either is 127
+incorporated by an act of the United States congress or has a 128
+national dues-paying membership of at least five thousand 129
+persons. 130
+(K) "Volunteer firefighter's organization" means any 131
+
+H. B. No. 476 Page 6
+As Introduced
+organization of volunteer firefighters, as defined in section 132
+146.01 of the Revised Code, that is organized and operated 133
+exclusively to provide financial support for a volunteer fire 134
+department or a volunteer fire company and that is recognized or 135
+ratified by a county, municipal corporation, or township, or 136
+district. 137
+(L) "Fraternal organization" means any society, order, 138
+state headquarters, or association within this state, except a 139
+college or high school fraternity, that is not organized for 140
+profit, that is a branch, lodge, or chapter of a national or 141
+state organization, that exists exclusively for the common 142
+business or sodality of its members. 143
+(M) "Volunteer rescue service organization" means any 144
+organization of volunteers organized to function as an emergency 145
+medical service organization, as defined in section 4765.01 of 146
+the Revised Code. 147
+(N) "Charitable bingo game" means any bingo game described 148
+in division (O)(1) or (2) of this section that is conducted by a 149
+charitable organization that has obtained a license pursuant to 150
+section 2915.08 of the Revised Code and the proceeds of which 151
+are used for a charitable purpose. 152
+(O) "Bingo" means either of the following: 153
+(1) A game with all of the following characteristics: 154
+(a) The participants use bingo cards or sheets, including 155
+paper formats and electronic representation or image formats, 156
+that are divided into twenty-five spaces arranged in five 157
+horizontal and five vertical rows of spaces, with each space, 158
+except the central space, being designated by a combination of a 159
+letter and a number and with the central space being designated 160
+
+H. B. No. 476 Page 7
+As Introduced
+as a free space. 161
+(b) The participants cover the spaces on the bingo cards 162
+or sheets that correspond to combinations of letters and numbers 163
+that are announced by a bingo game operator. 164
+(c) A bingo game operator announces combinations of 165
+letters and numbers that appear on objects that a bingo game 166
+operator selects by chance, either manually or mechanically, 167
+from a receptacle that contains seventy-five objects at the 168
+beginning of each game, each object marked by a different 169
+combination of a letter and a number that corresponds to one of 170
+the seventy-five possible combinations of a letter and a number 171
+that can appear on the bingo cards or sheets. 172
+(d) The winner of the bingo game includes any participant 173
+who properly announces during the interval between the 174
+announcements of letters and numbers as described in division 175
+(O)(1)(c) of this section, that a predetermined and preannounced 176
+pattern of spaces has been covered on a bingo card or sheet 177
+being used by the participant. 178
+(2) Instant bingo, electronic instant bingo, and raffles. 179
+(P) "Conduct" means to back, promote, organize, manage, 180
+carry on, sponsor, or prepare for the operation of bingo or a 181
+game of chance, a scheme of chance, or a sweepstakes. 182
+(Q) "Bingo game operator" means any person, except 183
+security personnel, who performs work or labor at the site of 184
+bingo, including, but not limited to, collecting money from 185
+participants, handing out bingo cards or sheets or objects to 186
+cover spaces on bingo cards or sheets, selecting from a 187
+receptacle the objects that contain the combination of letters 188
+and numbers that appear on bingo cards or sheets, calling out 189
+
+H. B. No. 476 Page 8
+As Introduced
+the combinations of letters and numbers, distributing prizes, 190
+selling or redeeming instant bingo tickets or cards, selling or 191
+redeeming electronic instant bingo tickets, credits, or 192
+vouchers, accessing an electronic instant bingo system other 193
+than as a participant, supervising the operation of a punch 194
+board, selling raffle tickets, selecting raffle tickets from a 195
+receptacle and announcing the winning numbers in a raffle, and 196
+preparing, selling, and serving food or beverages. "Bingo game 197
+operator" does not include a person who is installing, 198
+maintaining, updating, or repairing an electronic instant bingo 199
+system or a person who operates an online raffle platform. 200
+(R) "Participant" means any person who plays bingo. 201
+(S) "Bingo session" means a period that includes both of 202
+the following: 203
+(1) Not to exceed five continuous hours for the conduct of 204
+one or more games described in division (O)(1) of this section, 205
+instant bingo, and electronic instant bingo; 206
+(2) A period for the conduct of instant bingo and 207
+electronic instant bingo for not more than two hours before and 208
+not more than two hours after the period described in division 209
+(S)(1) of this section. 210
+(T) "Gross receipts" means all money or assets, including 211
+admission fees, that a person receives from bingo without the 212
+deduction of any amounts for prizes paid out or for the expenses 213
+of conducting bingo. "Gross receipts" does not include any money 214
+directly taken in from the sale of food or beverages by a 215
+charitable organization conducting bingo, or by a bona fide 216
+auxiliary unit or society of a charitable organization 217
+conducting bingo, provided all of the following apply: 218
+
+H. B. No. 476 Page 9
+As Introduced
+(1) The auxiliary unit or society has been in existence as 219
+a bona fide auxiliary unit or society of the charitable 220
+organization for at least two years prior to conducting bingo. 221
+(2) The person who purchases the food or beverage receives 222
+nothing of value except the food or beverage and items 223
+customarily received with the purchase of that food or beverage. 224
+(3) The food and beverages are sold at customary and 225
+reasonable prices. 226
+(U) "Security personnel" includes any person who either is 227
+a sheriff, deputy sheriff, marshal, deputy marshal, township 228
+constable, or member of an organized police department of a 229
+municipal corporation or has successfully completed a peace 230
+officer's training course pursuant to sections 109.71 to 109.79 231
+of the Revised Code and who is hired to provide security for the 232
+premises on which bingo is conducted. 233
+(V) "Charitable purpose" means that the net profit of 234
+bingo, other than instant bingo or electronic instant bingo, is 235
+used by, or is given, donated, or otherwise transferred to, any 236
+of the following: 237
+(1) Any organization that is described in subsection 238
+509(a)(1), 509(a)(2), or 509(a)(3) of the Internal Revenue Code 239
+and is either a governmental unit or an organization that is tax 240
+exempt under subsection 501(a) and described in subsection 241
+501(c)(3) of the Internal Revenue Code; 242
+(2) A veteran's organization that is a post, chapter, or 243
+organization of veterans, or an auxiliary unit or society of, or 244
+a trust or foundation for, any such post, chapter, or 245
+organization organized in the United States or any of its 246
+possessions, at least seventy-five per cent of the members of 247
+
+H. B. No. 476 Page 10
+As Introduced
+which are veterans and substantially all of the other members of 248
+which are individuals who are spouses, widows, or widowers of 249
+veterans, or such individuals, provided that no part of the net 250
+earnings of such post, chapter, or organization inures to the 251
+benefit of any private shareholder or individual, and further 252
+provided that the net profit is used by the post, chapter, or 253
+organization for the charitable purposes set forth in division 254
+(B)(12) of section 5739.02 of the Revised Code, is used for 255
+awarding scholarships to or for attendance at an institution 256
+mentioned in division (B)(12) of section 5739.02 of the Revised 257
+Code, is donated to a governmental agency, or is used for 258
+nonprofit youth activities, the purchase of United States or 259
+Ohio flags that are donated to schools, youth groups, or other 260
+bona fide nonprofit organizations, promotion of patriotism, or 261
+disaster relief; 262
+(3) A fraternal organization that has been in continuous 263
+existence in this state for fifteen years and that uses the net 264
+profit exclusively for religious, charitable, scientific, 265
+literary, or educational purposes, or for the prevention of 266
+cruelty to children or animals, if contributions for such use 267
+would qualify as a deductible charitable contribution under 268
+subsection 170 of the Internal Revenue Code; 269
+(4) A volunteer firefighter's organization that uses the 270
+net profit for the purposes set forth in division (K) of this 271
+section. 272
+(W) "Internal Revenue Code" means the "Internal Revenue 273
+Code of 1986," 100 Stat. 2085, 26 U.S.C. 1, as now or hereafter 274
+amended. 275
+(X) "Youth athletic organization" means any organization, 276
+not organized for profit, that is organized and operated 277
+
+H. B. No. 476 Page 11
+As Introduced
+exclusively to provide financial support to, or to operate, 278
+athletic activities for persons who are twenty-one years of age 279
+or younger by means of sponsoring, organizing, operating, or 280
+contributing to the support of an athletic team, club, league, 281
+or association. 282
+(Y) "Youth athletic park organization" means any 283
+organization, not organized for profit, that satisfies both of 284
+the following: 285
+(1) It owns, operates, and maintains playing fields that 286
+satisfy both of the following: 287
+(a) The playing fields are used for athletic activities by 288
+one or more organizations, not organized for profit, each of 289
+which is organized and operated exclusively to provide financial 290
+support to, or to operate, athletic activities for persons who 291
+are eighteen years of age or younger by means of sponsoring, 292
+organizing, operating, or contributing to the support of an 293
+athletic team, club, league, or association. 294
+(b) The playing fields are not used for any profit-making 295
+activity at any time during the year. 296
+(2) It uses the proceeds of bingo it conducts exclusively 297
+for the operation, maintenance, and improvement of its playing 298
+fields of the type described in division (Y)(1) of this section. 299
+(Z) "Bingo supplies" means bingo cards or sheets; instant 300
+bingo tickets or cards; electronic bingo aids; raffle tickets; 301
+punch boards; seal cards; instant bingo ticket dispensers; 302
+electronic instant bingo systems; online raffle platforms; and 303
+devices for selecting or displaying the combination of bingo 304
+letters and numbers or raffle tickets. Items that are "bingo 305
+supplies" are not gambling devices if sold or otherwise 306
+
+H. B. No. 476 Page 12
+As Introduced
+provided, and used, in accordance with this chapter. For 307
+purposes of this chapter, "bingo supplies" are not to be 308
+considered equipment used to conduct a bingo game. 309
+(AA) "Instant bingo" means a form of bingo that shall use 310
+folded or banded tickets or paper cards with perforated break- 311
+open tabs, a face of which is covered or otherwise hidden from 312
+view to conceal a number, letter, or symbol, or set of numbers, 313
+letters, or symbols, some of which have been designated in 314
+advance as prize winners, and may also include games in which 315
+some winners are determined by the random selection of one or 316
+more bingo numbers by the use of a seal card or bingo blower. 317
+"Instant bingo" also includes a punch board game. In all 318
+"instant bingo" the prize amount and structure shall be 319
+predetermined. "Instant bingo" does not include electronic 320
+instant bingo or any device that is activated by the insertion 321
+of a coin, currency, token, or an equivalent, and that contains 322
+as one of its components a video display monitor that is capable 323
+of displaying numbers, letters, symbols, or characters in 324
+winning or losing combinations. 325
+(BB) "Seal card" means a form of instant bingo that uses 326
+instant bingo tickets in conjunction with a board or placard 327
+that contains one or more seals that, when removed or opened, 328
+reveal predesignated winning numbers, letters, or symbols. 329
+(CC) (CC)(1) "Raffle" means a form of bingo in which the 330
+one or more prizes are won by one or more persons who have 331
+purchased a raffle ticket. The A raffle is conducted by one of 332
+the following methods: 333
+(a) As a "traditional raffle," which means a raffle 334
+conducted by selling physical tickets to participants, then 335
+determining one or more winners of the raffle are determined by 336
+
+H. B. No. 476 Page 13
+As Introduced
+drawing a ticket stub or other detachable section from a 337
+receptacle containing ticket stubs or detachable sections 338
+corresponding to all tickets sold for the raffle. "Raffle" The 339
+person conducting a traditional raffle may accept electronic 340
+payment from a participant for a ticket and may sell a ticket to 341
+a participant by mail, over the internet, or by other remote 342
+means, so long as the person conducting the raffle delivers the 343
+physical ticket to the participant before the drawing is held. A 344
+participant is not required to be physically present at the 345
+drawing to win a prize. 346
+(b) As an "online raffle," which means a raffle conducted 347
+by selling electronic representations of tickets to participants 348
+by means of an online raffle platform, with each ticket 349
+containing a unique identifier assigned by the platform, then 350
+determining one or more winners of the raffle by randomly 351
+selecting, or having the platform randomly select, a unique 352
+ticket identifier from all tickets sold for the raffle. A 353
+participant is not required to be physically present at the 354
+drawing to win a raffle prize. An online raffle may be conducted 355
+by selling both physical tickets and electronic representations 356
+of tickets for the same drawing. 357
+(2) "Online raffle platform" means both of the following: 358
+(a) An internet web site, application, or electronic 359
+service used to conduct an online raffle; 360
+(b) Any associated equipment or software used to operate, 361
+manage, monitor, or document any aspect of an online raffle. 362
+(3) "Raffle" does not include the drawing selection of a 363
+ticket stub or other detachable section of a ticket purchased to 364
+attend a professional sporting event if both of the following 365
+
+H. B. No. 476 Page 14
+As Introduced
+apply: 366
+(1) (a) The ticket or ticket identifier stub or other 367
+detachable section is used to select the winner of a free prize 368
+given away at the professional sporting event; and 369
+(2) (b) The cost of the ticket is the same as the cost of 370
+a ticket to the professional sporting event on days when no free 371
+prize is given away. 372
+(DD) "Punch board" means a form of instant bingo that uses 373
+a board containing a number of holes or receptacles of uniform 374
+size in which are placed, mechanically and randomly, serially 375
+numbered slips of paper that may be punched or drawn from the 376
+hole or receptacle. A player may punch or draw the numbered 377
+slips of paper from the holes or receptacles and obtain the 378
+prize established for the game if the number drawn corresponds 379
+to a winning number or, if the punch board includes the use of a 380
+seal card, a potential winning number. 381
+(EE) "Gross profit" means gross receipts minus the amount 382
+actually expended for the payment of prize awards. 383
+(FF) "Net profit" means gross profit minus expenses. 384
+(GG) "Expenses" means the reasonable amount of gross 385
+profit actually expended for all of the following: 386
+(1) The purchase or lease of bingo supplies; 387
+(2) The annual license fee required under section 2915.08 388
+of the Revised Code; 389
+(3) Bank fees and service charges for a bingo session or 390
+game account described in section 2915.10 of the Revised Code; 391
+(4) Audits and accounting services; 392
+
+H. B. No. 476 Page 15
+As Introduced
+(5) Safes; 393
+(6) Cash registers; 394
+(7) Hiring security personnel; 395
+(8) Advertising bingo; 396
+(9) Renting premises in which to conduct a bingo session; 397
+(10) Tables and chairs; 398
+(11) Expenses for maintaining and operating a charitable 399
+organization's facilities, including, but not limited to, a post 400
+home, club house, lounge, tavern, or canteen and any grounds 401
+attached to the post home, club house, lounge, tavern, or 402
+canteen; 403
+(12) Payment of real property taxes and assessments that 404
+are levied on a premises on which bingo is conducted; 405
+(13) Any other product or service directly related to the 406
+conduct of bingo that is authorized in rules adopted by the 407
+attorney general under division (F)(1) of section 2915.08 of the 408
+Revised Code. 409
+(HH) "Person" has the same meaning as in section 1.59 of 410
+the Revised Code and includes any firm or any other legal 411
+entity, however organized. 412
+(II) "Revoke" means to void permanently all rights and 413
+privileges of the holder of a license issued under section 414
+2915.08, 2915.081, or 2915.082 of the Revised Code or a 415
+charitable gaming license issued by another jurisdiction. 416
+(JJ) "Suspend" means to interrupt temporarily all rights 417
+and privileges of the holder of a license issued under section 418
+2915.08, 2915.081, or 2915.082 of the Revised Code or a 419
+
+H. B. No. 476 Page 16
+As Introduced
+charitable gaming license issued by another jurisdiction. 420
+(KK) "Distributor" means any person who purchases or 421
+obtains bingo supplies and who does either of the following: 422
+(1) Sells, offers for sale, or otherwise provides or 423
+offers to provide the bingo supplies to another person for use 424
+in this state; 425
+(2) Modifies, converts, adds to, or removes parts from the 426
+bingo supplies to further their promotion or sale for use in 427
+this state. 428
+(LL) "Manufacturer" means any person who assembles 429
+completed bingo supplies from raw materials, other items, or 430
+subparts or who modifies, converts, adds to, or removes parts 431
+from bingo supplies to further their promotion or sale. 432
+(MM) "Gross annual revenues" means the annual gross 433
+receipts derived from the conduct of bingo described in division 434
+(O)(1) of this section plus the annual net profit derived from 435
+the conduct of bingo described in division (O)(2) of this 436
+section. 437
+(NN) "Instant bingo ticket dispenser" means a mechanical 438
+device that dispenses an instant bingo ticket or card as the 439
+sole item of value dispensed and that has the following 440
+characteristics: 441
+(1) It is activated upon the insertion of United States 442
+currency. 443
+(2) It performs no gaming functions. 444
+(3) It does not contain a video display monitor or 445
+generate noise. 446
+
+H. B. No. 476 Page 17
+As Introduced
+(4) It is not capable of displaying any numbers, letters, 447
+symbols, or characters in winning or losing combinations. 448
+(5) It does not simulate or display rolling or spinning 449
+reels. 450
+(6) It is incapable of determining whether a dispensed 451
+bingo ticket or card is a winning or nonwinning ticket or card 452
+and requires a winning ticket or card to be paid by a bingo game 453
+operator. 454
+(7) It may provide accounting and security features to aid 455
+in accounting for the instant bingo tickets or cards it 456
+dispenses. 457
+(8) It is not part of an electronic network and is not 458
+interactive. 459
+(OO)(1) "Electronic bingo aid" means an electronic device 460
+used by a participant to monitor bingo cards or sheets purchased 461
+at the time and place of a bingo session and that does all of 462
+the following: 463
+(a) It provides a means for a participant to input numbers 464
+and letters announced by a bingo caller. 465
+(b) It compares the numbers and letters entered by the 466
+participant to the bingo faces previously stored in the memory 467
+of the device. 468
+(c) It identifies a winning bingo pattern. 469
+(2) "Electronic bingo aid" does not include any device 470
+into which a coin, currency, token, or an equivalent is inserted 471
+to activate play. 472
+(PP) "Deal" means a single game of instant bingo tickets, 473
+
+H. B. No. 476 Page 18
+As Introduced
+or a single game of electronic instant bingo tickets, all with 474
+the same serial number. 475
+(QQ)(1) "Slot machine" means either of the following: 476
+(a) Any mechanical, electronic, video, or digital device 477
+that is capable of accepting anything of value, directly or 478
+indirectly, from or on behalf of a player who gives the thing of 479
+value in the hope of gain; 480
+(b) Any mechanical, electronic, video, or digital device 481
+that is capable of accepting anything of value, directly or 482
+indirectly, from or on behalf of a player to conduct bingo or a 483
+scheme or game of chance. 484
+(2) "Slot machine" does not include a skill-based 485
+amusement machine, an instant bingo ticket dispenser, or an 486
+electronic instant bingo system, or an online raffle platform. 487
+(RR) "Net profit from the proceeds of the sale of instant 488
+bingo or electronic instant bingo" means gross profit minus the 489
+ordinary, necessary, and reasonable expense expended for the 490
+purchase of bingo supplies for the purpose of conducting instant 491
+bingo or electronic instant bingo, and, in the case of instant 492
+bingo or electronic instant bingo conducted by a veteran's, 493
+fraternal, or sporting organization, minus the payment by that 494
+organization of real property taxes and assessments levied on a 495
+premises on which instant bingo or electronic instant bingo is 496
+conducted. 497
+(SS) "Charitable instant bingo organization" means an 498
+organization that is exempt from federal income taxation under 499
+subsection 501(a) and described in subsection 501(c)(3) of the 500
+Internal Revenue Code and is a charitable organization as 501
+defined in this section. A "charitable instant bingo 502
+
+H. B. No. 476 Page 19
+As Introduced
+organization" does not include a charitable organization that is 503
+exempt from federal income taxation under subsection 501(a) and 504
+described in subsection 501(c)(3) of the Internal Revenue Code 505
+and that is created by a veteran's organization, a fraternal 506
+organization, or a sporting organization in regards to bingo 507
+conducted or assisted by a veteran's organization, a fraternal 508
+organization, or a sporting organization pursuant to section 509
+2915.13 of the Revised Code. 510
+(TT) "Game flare" means the board or placard, or 511
+electronic representation of a board or placard, that 512
+accompanies each deal of instant bingo or electronic instant 513
+bingo tickets and that includes the following information for 514
+the game: 515
+(1) The name of the game; 516
+(2) The manufacturer's name or distinctive logo; 517
+(3) The form number; 518
+(4) The ticket count; 519
+(5) The prize structure, including the number of winning 520
+tickets by denomination and the respective winning symbol or 521
+number combinations for the winning tickets; 522
+(6) The cost per play; 523
+(7) The serial number of the game. 524
+(UU)(1) "Skill-based amusement machine" means a 525
+mechanical, video, digital, or electronic device that rewards 526
+the player or players, if at all, only with merchandise prizes 527
+or with redeemable vouchers redeemable only for merchandise 528
+prizes, provided that with respect to rewards for playing the 529
+game all of the following apply: 530
+
+H. B. No. 476 Page 20
+As Introduced
+(a) The wholesale value of a merchandise prize awarded as 531
+a result of the single play of a machine does not exceed ten 532
+dollars; 533
+(b) Redeemable vouchers awarded for any single play of a 534
+machine are not redeemable for a merchandise prize with a 535
+wholesale value of more than ten dollars; 536
+(c) Redeemable vouchers are not redeemable for a 537
+merchandise prize that has a wholesale value of more than ten 538
+dollars times the fewest number of single plays necessary to 539
+accrue the redeemable vouchers required to obtain that prize; 540
+and 541
+(d) Any redeemable vouchers or merchandise prizes are 542
+distributed at the site of the skill-based amusement machine at 543
+the time of play. 544
+A card for the purchase of gasoline is a redeemable 545
+voucher for purposes of division (UU)(1) of this section even if 546
+the skill-based amusement machine for the play of which the card 547
+is awarded is located at a place where gasoline may not be 548
+legally distributed to the public or the card is not redeemable 549
+at the location of, or at the time of playing, the skill-based 550
+amusement machine. 551
+(2) A device shall not be considered a skill-based 552
+amusement machine and shall be considered a slot machine if it 553
+pays cash or one or more of the following apply: 554
+(a) The ability of a player to succeed at the game is 555
+impacted by the number or ratio of prior wins to prior losses of 556
+players playing the game. 557
+(b) Any reward of redeemable vouchers is not based solely 558
+on the player achieving the object of the game or the player's 559
+
+H. B. No. 476 Page 21
+As Introduced
+score; 560
+(c) The outcome of the game, or the value of the 561
+redeemable voucher or merchandise prize awarded for winning the 562
+game, can be controlled by a source other than any player 563
+playing the game. 564
+(d) The success of any player is or may be determined by a 565
+chance event that cannot be altered by player actions. 566
+(e) The ability of any player to succeed at the game is 567
+determined by game features not visible or known to the player. 568
+(f) The ability of the player to succeed at the game is 569
+impacted by the exercise of a skill that no reasonable player 570
+could exercise. 571
+(3) All of the following apply to any machine that is 572
+operated as described in division (UU)(1) of this section: 573
+(a) As used in division (UU) of this section, "game" and 574
+"play" mean one event from the initial activation of the machine 575
+until the results of play are determined without payment of 576
+additional consideration. An individual utilizing a machine that 577
+involves a single game, play, contest, competition, or 578
+tournament may be awarded redeemable vouchers or merchandise 579
+prizes based on the results of play. 580
+(b) Advance play for a single game, play, contest, 581
+competition, or tournament participation may be purchased. The 582
+cost of the contest, competition, or tournament participation 583
+may be greater than a single noncontest, competition, or 584
+tournament play. 585
+(c) To the extent that the machine is used in a contest, 586
+competition, or tournament, that contest, competition, or 587
+
+H. B. No. 476 Page 22
+As Introduced
+tournament has a defined starting and ending date and is open to 588
+participants in competition for scoring and ranking results 589
+toward the awarding of redeemable vouchers or merchandise prizes 590
+that are stated prior to the start of the contest, competition, 591
+or tournament. 592
+(4) For purposes of division (UU)(1) of this section, the 593
+mere presence of a device, such as a pin-setting, ball- 594
+releasing, or scoring mechanism, that does not contribute to or 595
+affect the outcome of the play of the game does not make the 596
+device a skill-based amusement machine. 597
+(VV) "Merchandise prize" means any item of value, but 598
+shall not include any of the following: 599
+(1) Cash, gift cards, or any equivalent thereof; 600
+(2) Plays on games of chance, state lottery tickets, or 601
+bingo; 602
+(3) Firearms, tobacco, or alcoholic beverages; or 603
+(4) A redeemable voucher that is redeemable for any of the 604
+items listed in division (VV)(1), (2), or (3) of this section. 605
+(WW) "Redeemable voucher" means any ticket, token, coupon, 606
+receipt, or other noncash representation of value. 607
+(XX) "Pool not conducted for profit" means a scheme in 608
+which a participant gives a valuable consideration for a chance 609
+to win a prize and the total amount of consideration wagered is 610
+distributed to a participant or participants. 611
+(YY) "Sporting organization" means a hunting, fishing, or 612
+trapping organization, other than a college or high school 613
+fraternity or sorority, that is not organized for profit, that 614
+is affiliated with a state or national sporting organization, 615
+
+H. B. No. 476 Page 23
+As Introduced
+including but not limited to, the league of Ohio sportsmen, and 616
+that has been in continuous existence in this state for a period 617
+of three years. 618
+(ZZ) "Community action agency" has the same meaning as in 619
+section 5101.311 of the Revised Code. 620
+(AAA)(1) "Sweepstakes terminal device" means a mechanical, 621
+video, digital, or electronic machine or device that is owned, 622
+leased, or otherwise possessed by any person conducting a 623
+sweepstakes, or by that person's partners, affiliates, 624
+subsidiaries, or contractors, that is intended to be used by a 625
+sweepstakes participant, and that is capable of displaying 626
+information on a screen or other mechanism. A device is a 627
+sweepstakes terminal device if any of the following apply: 628
+(a) The device uses a simulated game terminal as a 629
+representation of the prizes associated with the results of the 630
+sweepstakes entries. 631
+(b) The device utilizes software such that the simulated 632
+game influences or determines the winning of or value of the 633
+prize. 634
+(c) The device selects prizes from a predetermined finite 635
+pool of entries. 636
+(d) The device utilizes a mechanism that reveals the 637
+content of a predetermined sweepstakes entry. 638
+(e) The device predetermines the prize results and stores 639
+those results for delivery at the time the sweepstakes entry 640
+results are revealed. 641
+(f) The device utilizes software to create a game result. 642
+(g) The device reveals the prize incrementally, even 643
+
+H. B. No. 476 Page 24
+As Introduced
+though the device does not influence the awarding of the prize 644
+or the value of any prize awarded. 645
+(h) The device determines and associates the prize with an 646
+entry or entries at the time the sweepstakes is entered. 647
+(2) As used in this division and in section 2915.02 of the 648
+Revised Code: 649
+(a) "Enter" means the act by which a person becomes 650
+eligible to receive any prize offered in a sweepstakes. 651
+(b) "Entry" means one event from the initial activation of 652
+the sweepstakes terminal device until all the sweepstakes prize 653
+results from that activation are revealed. 654
+(c) "Prize" means any gift, award, gratuity, good, 655
+service, credit, reward, or any other thing of value that may be 656
+transferred to a person, whether possession of the prize is 657
+actually transferred, or placed on an account or other record as 658
+evidence of the intent to transfer the prize. 659
+(d) "Sweepstakes terminal device facility" means any 660
+location in this state where a sweepstakes terminal device is 661
+provided to a sweepstakes participant, except as provided in 662
+division (G) of section 2915.02 of the Revised Code. 663
+(BBB) "Sweepstakes" means any game, contest, advertising 664
+scheme or plan, or other promotion where consideration is not 665
+required for a person to enter to win or become eligible to 666
+receive any prize, the determination of which is based upon 667
+chance. "Sweepstakes" does not include bingo as authorized under 668
+this chapter, pari-mutuel wagering as authorized by Chapter 669
+3769. of the Revised Code, lotteries conducted by the state 670
+lottery commission as authorized by Chapter 3770. of the Revised 671
+Code, and casino gaming as authorized by Chapter 3772. of the 672
+
+H. B. No. 476 Page 25
+As Introduced
+Revised Code. 673
+(CCC)(1) "Electronic instant bingo" means a form of bingo 674
+that consists of an electronic or digital representation of 675
+instant bingo in which a participant wins a prize if the 676
+participant's electronic instant bingo ticket contains a 677
+combination of numbers or symbols that was designated in advance 678
+as a winning combination, and to which all of the following 679
+apply: 680
+(a) Each deal has a predetermined, finite number of 681
+winning and losing tickets and a predetermined prize amount and 682
+deal structure, provided that there may be multiple winning 683
+combinations in each deal and multiple winning tickets. 684
+(b) Each electronic instant bingo ticket within a deal has 685
+a unique serial number that is not regenerated. 686
+(c) Each electronic instant bingo ticket within a deal is 687
+sold for the same price. 688
+(d) After a participant purchases an electronic instant 689
+bingo ticket, the combination of numbers or symbols on the 690
+ticket is revealed to the participant. 691
+(e) The reveal of numbers or symbols on the ticket may 692
+incorporate an entertainment or bonus theme, provided that the 693
+reveal does not include spinning reels that resemble a slot 694
+machine. 695
+(f) The reveal theme, if any, does not require additional 696
+consideration or award any prize other than any predetermined 697
+prize associated with the electronic instant bingo ticket. 698
+(2) "Electronic instant bingo" shall not include any of 699
+the following: 700
+
+H. B. No. 476 Page 26
+As Introduced
+(a) Any game, entertainment, or bonus theme that 701
+replicates or simulates any of the following: 702
+(i) The gambling games of keno, blackjack, roulette, 703
+poker, craps, other casino-style table games; 704
+(ii) Horse racing; 705
+(iii) Gambling games offered in this state on slot 706
+machines or video lottery terminals. As used in this division, 707
+"video lottery terminal" has the same meaning as in section 708
+3770.21 of the Revised Code. 709
+(b) Any device operated by dropping one or more coins or 710
+tokens into a slot and pulling a handle or pushing a button or 711
+touchpoint on a touchscreen to activate one to three or more 712
+rotating reels marked into horizontal segments by varying 713
+symbols, where the predetermined prize amount depends on how and 714
+how many of the symbols line up when the rotating reels come to 715
+a rest; 716
+(c) Any device that includes a coin or token slot, tray, 717
+or hopper and the ability to dispense coins, cash, tokens, or 718
+anything of value other than a credit ticket voucher. 719
+(DDD) "Electronic instant bingo system" means both of the 720
+following: 721
+(1) A mechanical, electronic, digital, or video device and 722
+associated software to which all of the following apply: 723
+(a) It is used by not more than one player at a time to 724
+play electronic instant bingo on a single screen that is 725
+physically connected to the device; 726
+(b) It is located on the premises of the principal place 727
+of business of a veteran's or fraternal organization that holds 728
+
+H. B. No. 476 Page 27
+As Introduced
+a type II or type III bingo license to conduct electronic 729
+instant bingo at that location issued under section 2915.08 of 730
+the Revised Code. 731
+(2) Any associated equipment or software used to manage, 732
+monitor, or document any aspect of electronic instant bingo. 733
+Sec. 2915.092. (A)(1) Subject to division (A)(2) of this 734
+section, a person or entity may conduct a raffle to raise money 735
+for the person or entity and does not need a license to conduct 736
+bingo in order to conduct a raffle drawing that is not for 737
+profit if the person or entity is any of the following: 738
+(a) Exempt from federal income taxation under subsection 739
+501(a) and described in subsection 501(c)(3) of the Internal 740
+Revenue Code; 741
+(b) A school district, community school established under 742
+Chapter 3314. of the Revised Code, STEM school established under 743
+Chapter 3326. of the Revised Code, college-preparatory boarding 744
+school established under Chapter 3328. of the Revised Code, or 745
+chartered nonpublic school; 746
+(c) Exempt from federal income taxation under subsection 747
+501(a) and described in subsection 501(c)(4), 501(c)(6), 501(c) 748
+(7), 501(c)(8), 501(c)(10), or 501(c)(19) of the Internal 749
+Revenue Code. 750
+(2) If a person or entity that is described in division 751
+(A)(1)(c) of this section conducts a raffle, the person or 752
+entity shall distribute at least fifty per cent of the net 753
+profit from the raffle to a charitable purpose described in 754
+division (V) of section 2915.01 of the Revised Code or to a 755
+department or agency of the federal government, the state, or 756
+any political subdivision. 757
+
+H. B. No. 476 Page 28
+As Introduced
+(B) Except as provided in division (A) of this section, no 758
+person shall conduct a raffle drawing that is for profit or a 759
+raffle drawing that is not for profit. 760
+(C) Whoever violates division (B) of this section is 761
+guilty of illegal conduct of a raffle. Except as otherwise 762
+provided in this division, illegal conduct of a raffle is a 763
+misdemeanor of the first degree. If the offender previously has 764
+been convicted of a violation of division (B) of this section, 765
+illegal conduct of a raffle is a felony of the fifth degree. 766
+Sec. 2915.14. (A) No charitable organization shall conduct 767
+electronic instant bingo unless all of the following are true: 768
+(1) The organization is a veteran's organization described 769
+in division (J) of section 2915.01 of the Revised Code, or is a 770
+fraternal organization described in division (L) of section 771
+2915.01 of the Revised Code, and the organization qualified as a 772
+veteran's organization or fraternal organization, as applicable, 773
+on or before June 30, 2021. 774
+(2) The organization is a veteran's organization described 775
+in subsection 501(c)(4) of the Internal Revenue Code or is, and 776
+has received from the internal revenue service a determination 777
+letter that is currently in effect stating that the organization 778
+is, exempt from federal income taxation under subsection 501(a), 779
+and is described in subsection 501(c)(7), 501(c)(8), 501(c)(10), 780
+or 501(c)(19) of the Internal Revenue Code. 781
+(3) The organization has not conducted a raffle in 782
+violation of division (B) of section 2915.092 of the Revised 783
+Code, as that section existed at the time of the violation, 784
+using an electronic raffle machine, as described in Ohio 785
+Veterans and Fraternal Charitable Coalition v. DeWine, Case No. 786
+
+H. B. No. 476 Page 29
+As Introduced
+13-CV-13610 (C.P. Franklin Co. February 23, 2018), at any time 787
+on or after January 1, 2022. 788
+(B) No charitable organization that conducts electronic 789
+instant bingo shall do any of the following: 790
+(1) Possess an electronic instant bingo system that was 791
+not obtained in accordance with this chapter or with any rule 792
+adopted under this chapter; 793
+(2) Conduct electronic instant bingo on any day, at any 794
+time, or on any premises not specified on the organization's 795
+type II or type III license issued under section 2915.08 of the 796
+Revised Code; 797
+(3) Hold more than one valid license to conduct electronic 798
+instant bingo at any one time; 799
+(4) Conduct electronic instant bingo on more than one 800
+premises or on any premises other than the charitable 801
+organization's principal place of business; 802
+(5) Operate more than ten electronic bingo systems at the 803
+premises on which the charitable organization conducts 804
+electronic instant bingo under its license; 805
+(6) Fail to display both of the following conspicuously at 806
+the premises on which the charitable organization conducts 807
+electronic instant bingo: 808
+(a) The charitable organization's bingo license; 809
+(b) The serial number of each deal of electronic instant 810
+bingo tickets being sold. 811
+(7) Permit any person the charitable organization knows, 812
+or should have known, to be under eighteen years of age to play 813
+
+H. B. No. 476 Page 30
+As Introduced
+electronic instant bingo; 814
+(8) Sell or provide to any person an electronic instant 815
+bingo ticket for a price different from the price displayed on 816
+the game flare for that deal, except that the charitable 817
+organization may give a participant who wins an electronic 818
+instant bingo game an electronic instant bingo ticket as a prize 819
+in place of a cash prize; 820
+(9) Fail, once an electronic instant bingo deal is begun, 821
+to continue to sell tickets in that deal until all prizes have 822
+been awarded; 823
+(10) Permit any person whom the organization knows, or 824
+should have known, has been convicted of a felony or gambling 825
+offense in any jurisdiction to be a bingo game operator in the 826
+conduct of electronic instant bingo; 827
+(11) Permit a bingo game operator to play electronic 828
+instant bingo; 829
+(12)(a) Except as otherwise provided in division (B)(12) 830
+(b) of this section, pay compensation to a bingo game operator 831
+for conducting electronic instant bingo. 832
+(b) Division (B)(12)(a) of this section does not prohibit 833
+an employee of a veteran's organization or fraternal 834
+organization from redeeming electronic instant bingo tickets or 835
+vouchers for the organization's members or invited guests, so 836
+long as no portion of the employee's compensation is paid from 837
+any bingo receipts. 838
+(13) Pay consulting fees to any person in relation to 839
+electronic instant bingo. 840
+(C) No person shall sell, offer to sell, or otherwise 841
+
+H. B. No. 476 Page 31
+As Introduced
+provide or offer to provide an electronic instant bingo system 842
+to any person for use in this state unless the electronic 843
+instant bingo system has been approved under section 2915.15 of 844
+the Revised Code. 845
+(D) The attorney general shall adopt rules under Chapter 846
+119. of the Revised Code to ensure the integrity of electronic 847
+instant bingo, including, but not limited to, rules governing 848
+all of the following: 849
+(1) The requirements to receive a license or endorsement 850
+to conduct electronic instant bingo; 851
+(2) The location and number of electronic instant bingo 852
+systems in use, which shall not exceed ten at the single 853
+licensed location per organization; 854
+(3) The times when electronic instant bingo may be 855
+offered; 856
+(4) Signage requirements in facilities where electronic 857
+instant bingo is offered; 858
+(5) Electronic instant bingo device and system 859
+specifications, including reveal features and game themes; 860
+(6) Procedures and standards for the review, approval, 861
+inspection, and monitoring of electronic instant bingo systems, 862
+as described in section 2915.15 of the Revised Code; 863
+(7) Procedures and standards for the review and approval 864
+of any changes to technology, systems, or games licensed or 865
+permitted under this chapter; 866
+(8) The fees to be charged under section 2915.15 of the 867
+Revised Code for review, approval, inspection, and monitoring of 868
+electronic instant bingo systems; 869
+
+H. B. No. 476 Page 32
+As Introduced
+(9) Procedures allowing the attorney general to seek a 870
+summary suspension of a license to conduct electronic instant 871
+bingo or a license to manufacture or distribute electronic 872
+instant bingo systems if the attorney general has good cause to 873
+believe that the person or organization licensed to conduct 874
+electronic instant bingo, or the person or organization licensed 875
+to manufacture or distribute electronic instant bingo systems, 876
+or any of the organization's employees, officers, directors, 877
+agents, representatives, or partners, has violated this chapter 878
+or a rule adopted under this chapter. 879
+(E) Whoever knowingly violates division (A), (B), or (C) 880
+of this section or a rule adopted under division (D) of this 881
+section is guilty of illegal electronic instant bingo conduct. 882
+Illegal electronic instant bingo conduct is a misdemeanor of the 883
+first degree, except that if the offender previously has been 884
+convicted of a violation of division (A) or (B) of this section 885
+or of a rule adopted under division (D) of this section, illegal 886
+instant bingo conduct is a felony of the fifth degree. 887
+Section 2. That existing sections 2915.01, 2915.092, and 888
+2915.14 of the Revised Code are hereby repealed. 889
+Section 3. This act is hereby declared to be an emergency 890
+measure necessary for the immediate preservation of the public 891
+peace, health, and safety. The reason for such necessity is to 892
+ensure that charitable organizations are able to continue 893
+raising necessary funds for their operations. Therefore, this 894
+act shall go into immediate effect. 895
+
+[DELETED: nH   . :    1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1)1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 6  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3]
+[DELETED: 6  3 3 3 3-3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3:3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3 3 3 3.3 3 3;3 3.3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 6  3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 6  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 6  5 5 5 5 5 5-5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6]
+[DELETED: 6  6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7:7 7 7;7 7 7 7 7;7 7)7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 6  7 7 7 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8)8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]
+[DELETED: 6  8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8.8 8 8 8 8 8.8]

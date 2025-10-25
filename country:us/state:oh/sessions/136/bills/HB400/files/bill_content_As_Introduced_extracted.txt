@@ -1,0 +1,1254 @@
+Title: Cosponsors: Representatives Brennan, Glassburn, Somani, McNally, Brownlee,
+Official Title: Cosponsors: Representatives Brennan, Glassburn, Somani, McNally, Brownlee,
+Number of Sections: 22
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 400
+2025-2026
+Representatives Rader, Grim
+Russo, Troy, Miller, J., Baker, Brewer, Rogers, Cockley
+To amend sections 3501.11, 3503.14, 3503.20, 1
+
+Section 2:
+3503.28, and 3509.03 and to enact section 2
+
+Section 3:
+3509.11 of the Revised Code to create a 3
+permanent absent voter list. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 4:
+Section 1. That sections 3501.11, 3503.14, 3503.20, 5
+
+Section 5:
+3503.28, and 3509.03 be amended and section 3509.11 of the 6
+Revised Code be enacted to read as follows: 7
+Sec. 3501.11. Each board of elections shall exercise by a 8
+majority vote all powers granted to the board by Title XXXV of 9
+the Revised Code, shall perform all the duties imposed by law, 10
+and shall do all of the following: 11
+(A) Establish, define, provide, rearrange, and combine 12
+election precincts; 13
+(B) Fix and provide the places for registration and for 14
+holding primaries and elections; 15
+(C) Provide for the purchase, preservation, and 16
+maintenance of booths, ballot boxes, books, maps, flags, blanks, 17
+cards of instructions, and other forms, papers, and equipment 18
+H. B. No. 400 Page 2
+As Introduced
+used in registration, nominations, and elections; 19
+(D) Appoint and remove its director, deputy director, and 20
+employees and all registrars, precinct election officials, and 21
+other officers of elections, fill vacancies, and designate the 22
+ward or district and precinct in which each shall serve; 23
+(E) Make and issue rules and instructions, not 24
+inconsistent with law or the rules, directives, or advisories 25
+issued by the secretary of state, as it considers necessary for 26
+the guidance of election officers and voters; 27
+(F) Advertise and contract for the printing of all ballots 28
+and other supplies used in registrations and elections; 29
+(G) Provide for the issuance of all notices, 30
+advertisements, and publications concerning elections, except as 31
+otherwise provided in division (G) of section 3501.17 and 32
+divisions (F) and (G) of section 3505.062 of the Revised Code; 33
+(H) Provide for the delivery of ballots, pollbooks, and 34
+other required papers and material to the polling places; 35
+(I) Cause the polling places to be suitably provided with 36
+voting machines, marking devices, automatic tabulating 37
+equipment, stalls, and other required supplies. In fulfilling 38
+this duty, each board of a county that uses voting machines, 39
+marking devices, or automatic tabulating equipment shall conduct 40
+a full vote of the board during a public session of the board on 41
+the allocation and distribution of voting machines, marking 42
+devices, and automatic tabulating equipment for each precinct in 43
+the county. 44
+(J) Investigate irregularities, nonperformance of duties, 45
+or violations of Title XXXV of the Revised Code by election 46
+officers and other persons; administer oaths, issue subpoenas, 47
+H. B. No. 400 Page 3
+As Introduced
+summon witnesses, and compel the production of books, papers, 48
+records, and other evidence in connection with any such 49
+investigation; and report the facts to the prosecuting attorney 50
+or the secretary of state; 51
+(K)(1) Review, examine, and certify the sufficiency and 52
+validity of petitions and nomination papers, and, after 53
+certification, return to the secretary of state all petitions 54
+and nomination papers that the secretary of state forwarded to 55
+the board; 56
+(2) Examine each initiative petition, or a petition filed 57
+under section 307.94 or 307.95 of the Revised Code, received by 58
+the board to determine whether the petition falls within the 59
+scope of authority to enact via initiative and whether the 60
+petition satisfies the statutory prerequisites to place the 61
+issue on the ballot, as described in division (M) of section 62
+
+Section 6:
+3501.38 of the Revised Code. The petition shall be invalid if 63
+any portion of the petition is not within the initiative power. 64
+(L) Receive the returns of elections, canvass the returns, 65
+make abstracts of them, and transmit those abstracts to the 66
+proper authorities; 67
+(M) Issue certificates of election on forms to be 68
+prescribed by the secretary of state; 69
+(N) Make an annual report to the secretary of state, on 70
+the form prescribed by the secretary of state, containing a 71
+statement of the number of voters registered, elections held, 72
+votes cast, appropriations received, expenditures made, and 73
+other data required by the secretary of state; 74
+(O) Prepare and submit to the proper appropriating officer 75
+a budget estimating the cost of elections for the ensuing fiscal 76
+H. B. No. 400 Page 4
+As Introduced
+year; 77
+(P) Perform other duties as prescribed by law or the 78
+rules, directives, or advisories of the secretary of state; 79
+(Q) Investigate and determine the residence qualifications 80
+of electors; 81
+(R) Administer oaths in matters pertaining to the 82
+administration of the election laws; 83
+(S) Prepare and submit to the secretary of state, whenever 84
+the secretary of state requires, a report containing the names 85
+and residence addresses of all incumbent county, municipal, 86
+township, and board of education officials serving in their 87
+respective counties; 88
+(T) Establish and maintain a voter registration database 89
+of all qualified electors in the county who offer to register; 90
+(U) Maintain voter registration records, make reports 91
+concerning voter registration as required by the secretary of 92
+state, and remove ineligible electors from voter registration 93
+lists in accordance with law and directives of the secretary of 94
+state; 95
+(V) Give approval to ballot language for any local 96
+question or issue and transmit the language to the secretary of 97
+state for the secretary of state's final approval; 98
+(W) Prepare and cause the following notice to be displayed 99
+in a prominent location in every polling place: 100
+"NOTICE 101
+Ohio law prohibits any person from voting or attempting to 102
+vote more than once at the same election. 103
+H. B. No. 400 Page 5
+As Introduced
+Violators are guilty of a felony of the fourth degree and 104
+shall be imprisoned and additionally may be fined in accordance 105
+with law." 106
+(X) In all cases of a tie vote or a disagreement in the 107
+board, if no decision can be arrived at, the director or 108
+chairperson shall submit the matter in controversy, not later 109
+than fourteen days after the tie vote or the disagreement, to 110
+the secretary of state, who shall summarily decide the question, 111
+and the secretary of state's decision shall be final. 112
+(Y) Assist each designated agency, deputy registrar of 113
+motor vehicles, public high school and vocational school, public 114
+library, and office of a county treasurer in the implementation 115
+of a program for registering voters at all voter registration 116
+locations as prescribed by the secretary of state. Under this 117
+program, each board of elections shall direct to the appropriate 118
+board of elections any voter registration applications for 119
+persons residing outside the county where the board is located 120
+within five days after receiving the applications. 121
+(Z) On any day on which an elector may vote in person at 122
+the office of the board or at another site designated by the 123
+board, consider the board or other designated site a polling 124
+place for that day. All requirements or prohibitions of law that 125
+apply to a polling place shall apply to the office of the board 126
+or other designated site on that day. 127
+(AA) Perform any duties with respect to voter registration 128
+and voting by uniformed services and overseas voters that are 129
+delegated to the board by law or by the rules, directives, or 130
+advisories of the secretary of state. 131
+(BB) Prepare an election administration plan and submit it 132
+H. B. No. 400 Page 6
+As Introduced
+to the secretary of state not later than seventy-five days 133
+before each presidential primary election and not later than one 134
+hundred twenty days before each general election held in an 135
+even-numbered year. The election administration plan shall be on 136
+a template prescribed by the secretary of state and shall 137
+include all of the following: 138
+(1) Precinct election official recruitment, training, and 139
+accountability; 140
+(2) Resource allocation; 141
+(3) Communication before and on the day of the election; 142
+(4) Materials; 143
+(5) Contingencies and continuity planning; 144
+(6) Security; 145
+(7) Voter registration; 146
+(8) Absent voting; 147
+(9) Polling places and accessibility; 148
+(10) Ballot preparation; 149
+(11) Pre-election testing; 150
+(12) Reconciliation and audits; 151
+(13) A master calendar; 152
+(14) Any other topic prescribed by the secretary of state. 153
+(CC) Establish and maintain a permanent absent voter list 154
+of all registered electors in the county who have opted to be 155
+placed on the permanent absent voter list, including written 156
+applications to be removed from the permanent absent voter list. 157
+H. B. No. 400 Page 7
+As Introduced
+Sec. 3503.14. (A) The secretary of state shall prescribe 158
+the form and content of the registration, change of residence, 159
+and change of name forms used in this state. The forms shall 160
+meet the requirements of the National Voter Registration Act of 161
+1993 and shall include spaces for all of the following: 162
+(1) The voter's name; 163
+(2) The voter's address; 164
+(3) The current date; 165
+(4) The voter's date of birth; 166
+(5) The voter to provide at least one of the following 167
+forms of identification: 168
+(a) The voter's Ohio driver's license or state 169
+identification card number; 170
+(b) The last four digits of the voter's social security 171
+number. 172
+(6) A box that the voter can mark in the affirmative to 173
+request to be placed on the permanent absent voter list under 174
+
+Section 7:
+section 3509.11 of the Revised Code; 175
+(7) The voter's signature. 176
+The registration form shall include a space on which the 177
+person registering an applicant shall sign the person's name and 178
+provide the person's address and a space on which the person 179
+registering an applicant shall name the employer who is 180
+employing that person to register the applicant. 181
+The forms shall include a box for the person filling out 182
+the form to check to indicate, if applicable, that the person 183
+has filled out all or part of the form on behalf of the 184
+H. B. No. 400 Page 8
+As Introduced
+applicant because the applicant declares that the applicant 185
+requires such assistance by reason of blindness, disability, or 186
+illiteracy. 187
+Except for forms prescribed by the secretary of state 188
+under section 3503.11 of the Revised Code, the secretary of 189
+state shall permit boards of elections to produce forms that 190
+have subdivided spaces for each individual alphanumeric 191
+character of the information provided by the voter so as to 192
+accommodate the electronic reading and conversion of the voter's 193
+information to data and the subsequent electronic transfer of 194
+that data to the statewide voter registration database 195
+established under section 3503.15 of the Revised Code. 196
+(B) None of the following persons who are registering an 197
+applicant in the course of that official's or employee's normal 198
+duties shall sign the person's name, provide the person's 199
+address, or name the employer who is employing the person to 200
+register an applicant on a form prepared under this section: 201
+(1) An election official; 202
+(2) A county treasurer; 203
+(3) A deputy registrar of motor vehicles; 204
+(4) An employee of a designated agency; 205
+(5) An employee of a public high school; 206
+(6) An employee of a public vocational school; 207
+(7) An employee of a public library; 208
+(8) An employee of the office of a county treasurer; 209
+(9) An employee of the bureau of motor vehicles; 210
+(10) An employee of a deputy registrar of motor vehicles; 211
+H. B. No. 400 Page 9
+As Introduced
+(11) An employee of an election official. 212
+(C) Except as provided in section 3501.382 of the Revised 213
+Code, any applicant who is unable to sign the applicant's own 214
+name shall make an "X," if possible, which shall be certified by 215
+the signing of the name of the applicant by the person filling 216
+out the form, who shall add the person's own signature. If an 217
+applicant is unable to make an "X," the applicant shall indicate 218
+in some manner that the applicant desires to register to vote or 219
+to change the applicant's name or residence. The person 220
+registering the applicant shall sign the form and attest that 221
+the applicant indicated that the applicant desired to register 222
+to vote or to change the applicant's name or residence. 223
+(D) No registration, change of residence, or change of 224
+name form shall be rejected solely on the basis that a person 225
+registering an applicant failed to sign the person's name or 226
+failed to name the employer who is employing that person to 227
+register the applicant as required under division (A) of this 228
+
+Section 8:
+section. 229
+(E) A voter registration application submitted 230
+electronically through the registrar of motor vehicles or a 231
+deputy registrar pursuant to section 3503.11 or submitted online 232
+through the internet pursuant to section 3503.20 of the Revised 233
+Code is not required to contain a signature to be considered 234
+valid. The signature obtained under division (A)(3) of section 235
+
+Section 9:
+3503.11 or under division (B) of section 3503.20 of the Revised 236
+Code, as applicable, shall be considered the applicant's 237
+signature for all election and signature-matching purposes. 238
+(F)(1) Except as otherwise provided in division (C) of 239
+this section and in sections 3501.382 and 3505.24 of the Revised 240
+Code, no person shall preprint or fill out any portion of a 241
+H. B. No. 400 Page 10
+As Introduced
+voter registration, change of residence, or change of name form 242
+on behalf of an applicant. 243
+(2) A completed voter registration, change of residence, 244
+or change of name form is not valid if any portion of it has 245
+been completed by any person other than the applicant in 246
+violation of division (F)(1) of this section. 247
+(G) As used in this section, "registering an applicant" 248
+includes any effort, for compensation, to provide voter 249
+registration forms or to assist persons in completing or 250
+returning those forms. 251
+Sec. 3503.20. (A) The secretary of state shall establish a 252
+secure online voter registration system. The system shall 253
+provide for all of the following: 254
+(1) An applicant to submit a voter registration 255
+application to the secretary of state online through the 256
+internet; 257
+(2) The online applicant to be registered to vote, if all 258
+of the following apply: 259
+(a) The application contains all of the following 260
+information: 261
+(i) The applicant's name; 262
+(ii) The applicant's address; 263
+(iii) The applicant's date of birth; 264
+(iv) The last four digits of the applicant's social 265
+security number; 266
+(v) The applicant's Ohio driver's license number or the 267
+number of the applicant's state identification card issued under 268
+H. B. No. 400 Page 11
+As Introduced
+
+Section 10:
+section 4507.50 of the Revised Code. 269
+(b) The applicant's name, address, and date of birth, the 270
+last four digits of the applicant's social security number, and 271
+the applicant's Ohio driver's license number or the number of 272
+the applicant's state identification card as they are provided 273
+in the application are not inconsistent with the information on 274
+file with the bureau of motor vehicles; 275
+(c) The applicant is a United States citizen, will have 276
+lived in this state for thirty days immediately preceding the 277
+next election, will be at least eighteen years of age on or 278
+before the day of the next general election, and is otherwise 279
+eligible to register to vote; 280
+(d) The applicant attests to the truth and accuracy of the 281
+information submitted in the online application under penalty of 282
+election falsification. 283
+(B) If an individual registers to vote or a registered 284
+elector updates the elector's name, address, or both under this 285
+
+Section 11:
+section, the secretary of state shall obtain an electronic copy 286
+of the applicant's or elector's signature that is on file with 287
+the bureau of motor vehicles. That electronic signature shall be 288
+used as the applicant's or elector's signature on voter 289
+registration records, for all election and signature-matching 290
+purposes. 291
+(C) The secretary of state shall employ whatever security 292
+measures the secretary of state considers necessary to ensure 293
+the integrity and accuracy of voter registration information 294
+submitted electronically pursuant to this section. Errors in 295
+processing voter registration applications in the online system 296
+shall not prevent an applicant from becoming registered or from 297
+H. B. No. 400 Page 12
+As Introduced
+voting. 298
+(D) The online voter registration application under 299
+division (A) of this section shall include the following 300
+language: 301
+"By clicking the box below, I request to be placed on the 302
+permanent absent voter list under section 3509.11 of the Revised 303
+Code." 304
+In order to be placed on the permanent absent voter list 305
+under this section, an applicant or elector shall be required to 306
+mark the box in the online voter registration application that 307
+appears in conjunction with the previous statement. 308
+(E) The online voter registration application established 309
+under division (A) of this section shall include the following 310
+language: 311
+"By clicking the box below, I affirm all of the following 312
+under penalty of election falsification, which is a felony of 313
+the fifth degree: 314
+(1) I am the person whose name and identifying information 315
+is provided on this form, and I desire to register to vote, or 316
+update my voter registration, in the State of Ohio. 317
+(2) All of the information I have provided on this form is 318
+true and correct as of the date I am submitting this form. 319
+(3) I am a United States citizen. 320
+(4) I will have lived in Ohio for thirty days immediately 321
+preceding the next election. 322
+(5) I will be at least eighteen years of age on or before 323
+the day of the next general election. 324
+H. B. No. 400 Page 13
+As Introduced
+(6) I authorize the Bureau of Motor Vehicles to transmit 325
+to the Ohio Secretary of State my signature that is on file with 326
+the Bureau of Motor Vehicles, and I understand and agree that 327
+the signature transmitted by the Bureau of Motor Vehicles will 328
+be used by the Secretary of State to validate this electronic 329
+voter registration application as if I had signed this form 330
+personally." 331
+In order to register to vote or update a voter 332
+registration under division (A) of this section, an applicant or 333
+elector shall be required to mark the box in the online voter 334
+registration application that appears in conjunction with the 335
+previous statement. 336
+(E) (F) The online voter registration process established 337
+under division (A) of this section shall be in operation and 338
+available for use by individuals who wish to register to vote or 339
+update their voter registration information online not earlier 340
+than January 1, 2017. During the period beginning on the first 341
+day after the close of voter registration before an election and 342
+ending on the day of the election, the online voter registration 343
+system shall display a notice indicating that the applicant will 344
+not be registered to vote for the purposes of that election. 345
+(F) (G) Notwithstanding section 1.50 of the Revised Code, 346
+if any provision of this section or of division (E) of section 347
+
+Section 12:
+3503.14 of the Revised Code is held invalid, or if the 348
+application of any provision of this section or of that division 349
+to any person or circumstance is held invalid, then this section 350
+and that division cease to operate. 351
+Sec. 3503.28. (A) The secretary of state shall develop an 352
+information brochure regarding voter registration. The brochure 353
+shall include, but is not limited to, all of the following 354
+H. B. No. 400 Page 14
+As Introduced
+information: 355
+(1) The applicable deadlines for registering to vote or 356
+for returning an applicant's completed registration form; 357
+(2) The applicable deadline for returning an applicant's 358
+completed registration form if the person returning the form is 359
+being compensated for registering voters; 360
+(3) The locations to which a person may return an 361
+applicant's completed registration form; 362
+(4) The location to which a person who is compensated for 363
+registering voters may return an applicant's completed 364
+registration form; 365
+(5) The registration and affirmation requirements 366
+applicable to persons who are compensated for registering voters 367
+under section 3503.29 of the Revised Code; 368
+(6) A notice, which shall be written in bold type, stating 369
+as follows: 370
+"Voters must bring photo identification to the polls in 371
+order to verify identity. Voters who do not provide photo 372
+identification will still be able to vote by casting a 373
+provisional ballot." 374
+(7) The process to request to be placed on the permanent 375
+absent voter list when completing a voter registration form. 376
+(B) Except as otherwise provided in division (D) of this 377
+
+Section 13:
+section, a board of elections, designated agency, public high 378
+school, public vocational school, public library, office of a 379
+county treasurer, or deputy registrar of motor vehicles shall 380
+distribute a copy of the brochure developed under division (A) 381
+of this section to any person who requests more than two voter 382
+H. B. No. 400 Page 15
+As Introduced
+registration forms at one time. 383
+(C)(1) The secretary of state shall provide the 384
+information required to be included in the brochure developed 385
+under division (A) of this section to any person who prints a 386
+voter registration form that is made available on a web site of 387
+the office of the secretary of state. 388
+(2) If a board of elections operates and maintains a web 389
+site, the board shall provide the information required to be 390
+included in the brochure developed under division (A) of this 391
+
+Section 14:
+section to any person who prints a voter registration form that 392
+is made available on that web site. 393
+(D) A board of elections shall not be required to 394
+distribute a copy of a brochure under division (B) of this 395
+
+Section 15:
+section to any of the following officials or employees who are 396
+requesting more than two voter registration forms at one time in 397
+the course of the official's or employee's normal duties: 398
+(1) An election official; 399
+(2) A county treasurer; 400
+(3) A deputy registrar of motor vehicles; 401
+(4) An employee of a designated agency; 402
+(5) An employee of a public high school; 403
+(6) An employee of a public vocational school; 404
+(7) An employee of a public library; 405
+(8) An employee of the office of a county treasurer; 406
+(9) An employee of the bureau of motor vehicles; 407
+(10) An employee of a deputy registrar of motor vehicles; 408
+H. B. No. 400 Page 16
+As Introduced
+(11) An employee of an election official. 409
+(E) As used in this section, "registering voters" includes 410
+any effort, for compensation, to provide voter registration 411
+forms or to assist persons in completing or returning those 412
+forms. 413
+Sec. 3509.03. (A) Except as otherwise provided in sections 414
+
+Section 16:
+3509.051, 3511.02, and 3511.021 of the Revised Code, any 415
+qualified elector desiring to vote absent voter's ballots at an 416
+election shall deliver a written application for those ballots, 417
+either in person or by mail, to the board of elections of the 418
+county in which the elector's voting residence is located. 419
+(B) Except as otherwise permitted under section 3511.02 of 420
+the Revised Code and under division (C) of this section, the 421
+application shall be on a form prescribed by the secretary of 422
+state and shall contain all of the following: 423
+(1) The elector's name; 424
+(2) The elector's signature; 425
+(3) The address at which the elector is registered to 426
+vote; 427
+(4) The elector's date of birth; 428
+(5) One of the following: 429
+(a) The elector's Ohio driver's license or state 430
+identification card number; 431
+(b) The last four digits of the elector's social security 432
+number; 433
+(c) A copy of the elector's photo identification. 434
+(6) A statement identifying the election for which absent 435
+H. B. No. 400 Page 17
+As Introduced
+voter's ballots are requested; 436
+(7) A statement that the person requesting the ballots is 437
+a qualified elector; 438
+(8) A box that the voter can mark in the affirmative to 439
+request to be placed on the permanent absent voter list under 440
+
+Section 17:
+section 3509.11 of the Revised Code; 441
+(9) If the request is for primary election ballots, the 442
+elector's party affiliation; 443
+(9)(10) If the elector desires ballots to be mailed to the 444
+elector, the address to which those ballots shall be mailed. 445
+(C) If the elector has a confidential voter registration 446
+record, as described in section 111.44 of the Revised Code, the 447
+elector may provide the elector's program participant 448
+identification number instead of the address at which the 449
+elector is registered to vote. 450
+(D) Except as otherwise provided in division (A) of 451
+
+Section 18:
+section 3509.051 and in division (B) of section 3509.08 of the 452
+Revised Code, an application to receive absent voter's ballots 453
+shall be delivered to the office of the board not earlier than 454
+the first day of January of the year of the elections for which 455
+the absent voter's ballots are requested or not earlier than 456
+ninety days before the day of the election at which the ballots 457
+are to be voted, whichever is earlier, and not later than the 458
+close of business on the seventh day before the day of the 459
+election at which the ballots are to be voted. 460
+(E) Except as permitted under section 111.31 of the 461
+Revised Code, no public office, and no public official or 462
+employee who is acting in an official capacity, shall do either 463
+of the following: 464
+H. B. No. 400 Page 18
+As Introduced
+(1) Prepay the return postage for an application for 465
+absent voter's ballots; 466
+(2) Mail or otherwise deliver an unsolicited application 467
+for absent voter's ballots to any person. 468
+(F)(1) Except as otherwise provided in division (F)(2) of 469
+this section and in sections 3505.24 and 3509.08 of the Revised 470
+Code, no person shall preprint or fill out any portion of an 471
+application for absent voter's ballots on behalf of an 472
+applicant. 473
+(2) The secretary of state or a board of elections may 474
+preprint only an applicant's name and address on an application 475
+for absent voter's ballots before mailing that application to 476
+the applicant, except that if the applicant has a confidential 477
+voter registration record, the secretary of state or a board of 478
+elections shall not preprint the applicant's address on the 479
+application. 480
+(3) A completed application for absent voter's ballots is 481
+not valid if any portion of it has been completed by any person 482
+other than the applicant in violation of division (F) of this 483
+
+Section 19:
+section. 484
+Sec. 3509.11. (A) An elector may request to be placed on 485
+the permanent absent voter list maintained by boards of 486
+elections in accordance with this section. 487
+(B) A voter registration applicant or elector may request 488
+to be placed on the permanent absent voter list by doing any of 489
+the following: 490
+(1) Completing a written application, prescribed by the 491
+secretary of state, to be placed on the permanent absent voter 492
+list and returning the completed application to the board of 493
+H. B. No. 400 Page 19
+As Introduced
+elections of the county in which the elector is registered to 494
+vote; 495
+(2) Marking the box in the affirmative provided on a voter 496
+registration form or change of name or change of address form 497
+that indicates the applicant or elector wishes to be placed on 498
+the permanent absent voter list; 499
+(3) Checking the box provided when registering to vote or 500
+updating the elector's voter registration on the online voter 501
+registration system that indicates the applicant or elector 502
+wishes to be placed on the permanent absent voter list; 503
+(4) Marking the box provided on an application for an 504
+absent voter's ballot that indicates the voter wishes to be 505
+placed on the permanent absent voter list. 506
+(C) An elector may be removed from the permanent absent 507
+voter list if either of the following occur: 508
+(1) The elector submits in writing, on a form prescribed 509
+by the secretary of state, to the appropriate board of elections 510
+a request to be removed from the permanent absent voter list. 511
+(2) The elector's voter registration is canceled under 512
+
+Section 20:
+section 3503.21 of the Revised Code. 513
+(D) Each board of elections shall mail an absent voter 514
+ballot application for an election to each elector listed on the 515
+board's permanent absent voter list not later than forty-five 516
+days before the close of voter registration for that election. 517
+An absent voter ballot application mailed under this section is 518
+not considered an unsolicited application for absent voter's 519
+ballots. 520
+
+Section 21:
+Section 2. That existing sections 3501.11, 3503.14, 521
+H. B. No. 400 Page 20
+As Introduced
+
+Section 22:
+3503.20, 3503.28, and 3509.03 of the Revised Code are hereby 522
+repealed. 523
+[DELETED: nH   .  :   1 1 1;1 1;1 1 1 1]
+[DELETED: 0 ;1 2 2 2;2 2 2 2;2 2;2 3 3 3;3 3;3 3 3 3 3 4 4 4 4.4 4 4 4]
+[DELETED: 0  4 4 5;5 5 5 5 5;5 5 5 5 6 6 6 6.6 6 6;6 6;6 7 7 7 7;7 7 7]
+[DELETED: 0 ;7 7;7 8;8 8;8 8 8 8 8;8 8;9 9 9 9 9;9 9 9;9 9:1E1 1.1]
+[DELETED: 0  1 1"1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1.1 1]
+[DELETED: 0  1 1 1 1 1:1 1;1;1;1;1;1;1;1;1;1;1;1;1;1.1 1 1 1.1]
+[DELETED: 0  1 1 1 1:1;1;1;1;1 1:1 1;1 1.1 1 1;1.1 1 1 1 1.1 1 1 1]
+[DELETED: 0  1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 2:2;2;2;2;2;2;2;2;2;2;2]
+[DELETED: 0 .2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2]
+[DELETED: 0  2.2 2 2 2.2 2 2 2.2 2 2:2 2 2;2 2:2 2:2;2;2;2 2;2 2 2]
+[DELETED: 0 .2 2 2 2 2 2;2 2 2 2 2;2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2 2 2]
+[DELETED: 0 .2 2 3:3 3 3"3 3 3 3.3 3 3:3 3 3:3 3 3.3 3.3.3 3.3 3.3]
+[DELETED: 0  3 3 3 3 3 3"3 3 3 3 3.3 3 3 3 3 3 3 3 3.3 3 3 3 3 3.3 3 3 3]
+[DELETED: 0  3 3;3 3 3;3 3;3 3 3;3 3 3;3 3:3 3 3 3"3 3.3 3 3 3 3 3 3]
+[DELETED: 0 .3 3 3 3 3.3 3 3 3 3.3 3 3 3 3:3;3;4;4;4;4;4;4;4;4;4]
+[DELETED: 0 .4 4 4 4.4 4 4 4 4 4.4 4 4 4:4;4;4 4;4;4:4 4;4 4;4.4 4]
+[DELETED: 0 ;4 4;4 4 4;4 4;4 4.4 4 4 4 4.4 4 4 4 4 4 4 4 4 4.4 4 4 4:4]
+[DELETED: 0  4;4 4.4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4.4 4 4.4 4 4:4 4 4 4]
+[DELETED: 0  4;4 4 4 4;4 5 5 5;5 5 5.5 5:5 5 5.5 5.5 5 5 5 5 5 5.5 5]
+[DELETED: 0  5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 400
+2025-2026
+Representatives Rader, Grim
+Cosponsors: Representatives Brennan, Glassburn, Somani, McNally, Brownlee,
+Russo, Troy, Miller, J., Baker, Brewer, Rogers, Cockley
+To amend sections 3501.11, 3503.14, 3503.20, 1
+3503.28, and 3509.03 and to enact section 2
+3509.11 of the Revised Code to create a 3
+permanent absent voter list. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3501.11, 3503.14, 3503.20, 5
+3503.28, and 3509.03 be amended and section 3509.11 of the 6
+Revised Code be enacted to read as follows: 7
+Sec. 3501.11. Each board of elections shall exercise by a 8
+majority vote all powers granted to the board by Title XXXV of 9
+the Revised Code, shall perform all the duties imposed by law, 10
+and shall do all of the following: 11
+(A) Establish, define, provide, rearrange, and combine 12
+election precincts; 13
+(B) Fix and provide the places for registration and for 14
+holding primaries and elections; 15
+(C) Provide for the purchase, preservation, and 16
+maintenance of booths, ballot boxes, books, maps, flags, blanks, 17
+cards of instructions, and other forms, papers, and equipment 18
+
+H. B. No. 400 Page 2
+As Introduced
+used in registration, nominations, and elections; 19
+(D) Appoint and remove its director, deputy director, and 20
+employees and all registrars, precinct election officials, and 21
+other officers of elections, fill vacancies, and designate the 22
+ward or district and precinct in which each shall serve; 23
+(E) Make and issue rules and instructions, not 24
+inconsistent with law or the rules, directives, or advisories 25
+issued by the secretary of state, as it considers necessary for 26
+the guidance of election officers and voters; 27
+(F) Advertise and contract for the printing of all ballots 28
+and other supplies used in registrations and elections; 29
+(G) Provide for the issuance of all notices, 30
+advertisements, and publications concerning elections, except as 31
+otherwise provided in division (G) of section 3501.17 and 32
+divisions (F) and (G) of section 3505.062 of the Revised Code; 33
+(H) Provide for the delivery of ballots, pollbooks, and 34
+other required papers and material to the polling places; 35
+(I) Cause the polling places to be suitably provided with 36
+voting machines, marking devices, automatic tabulating 37
+equipment, stalls, and other required supplies. In fulfilling 38
+this duty, each board of a county that uses voting machines, 39
+marking devices, or automatic tabulating equipment shall conduct 40
+a full vote of the board during a public session of the board on 41
+the allocation and distribution of voting machines, marking 42
+devices, and automatic tabulating equipment for each precinct in 43
+the county. 44
+(J) Investigate irregularities, nonperformance of duties, 45
+or violations of Title XXXV of the Revised Code by election 46
+officers and other persons; administer oaths, issue subpoenas, 47
+
+H. B. No. 400 Page 3
+As Introduced
+summon witnesses, and compel the production of books, papers, 48
+records, and other evidence in connection with any such 49
+investigation; and report the facts to the prosecuting attorney 50
+or the secretary of state; 51
+(K)(1) Review, examine, and certify the sufficiency and 52
+validity of petitions and nomination papers, and, after 53
+certification, return to the secretary of state all petitions 54
+and nomination papers that the secretary of state forwarded to 55
+the board; 56
+(2) Examine each initiative petition, or a petition filed 57
+under section 307.94 or 307.95 of the Revised Code, received by 58
+the board to determine whether the petition falls within the 59
+scope of authority to enact via initiative and whether the 60
+petition satisfies the statutory prerequisites to place the 61
+issue on the ballot, as described in division (M) of section 62
+3501.38 of the Revised Code. The petition shall be invalid if 63
+any portion of the petition is not within the initiative power. 64
+(L) Receive the returns of elections, canvass the returns, 65
+make abstracts of them, and transmit those abstracts to the 66
+proper authorities; 67
+(M) Issue certificates of election on forms to be 68
+prescribed by the secretary of state; 69
+(N) Make an annual report to the secretary of state, on 70
+the form prescribed by the secretary of state, containing a 71
+statement of the number of voters registered, elections held, 72
+votes cast, appropriations received, expenditures made, and 73
+other data required by the secretary of state; 74
+(O) Prepare and submit to the proper appropriating officer 75
+a budget estimating the cost of elections for the ensuing fiscal 76
+
+H. B. No. 400 Page 4
+As Introduced
+year; 77
+(P) Perform other duties as prescribed by law or the 78
+rules, directives, or advisories of the secretary of state; 79
+(Q) Investigate and determine the residence qualifications 80
+of electors; 81
+(R) Administer oaths in matters pertaining to the 82
+administration of the election laws; 83
+(S) Prepare and submit to the secretary of state, whenever 84
+the secretary of state requires, a report containing the names 85
+and residence addresses of all incumbent county, municipal, 86
+township, and board of education officials serving in their 87
+respective counties; 88
+(T) Establish and maintain a voter registration database 89
+of all qualified electors in the county who offer to register; 90
+(U) Maintain voter registration records, make reports 91
+concerning voter registration as required by the secretary of 92
+state, and remove ineligible electors from voter registration 93
+lists in accordance with law and directives of the secretary of 94
+state; 95
+(V) Give approval to ballot language for any local 96
+question or issue and transmit the language to the secretary of 97
+state for the secretary of state's final approval; 98
+(W) Prepare and cause the following notice to be displayed 99
+in a prominent location in every polling place: 100
+"NOTICE 101
+Ohio law prohibits any person from voting or attempting to 102
+vote more than once at the same election. 103
+
+H. B. No. 400 Page 5
+As Introduced
+Violators are guilty of a felony of the fourth degree and 104
+shall be imprisoned and additionally may be fined in accordance 105
+with law." 106
+(X) In all cases of a tie vote or a disagreement in the 107
+board, if no decision can be arrived at, the director or 108
+chairperson shall submit the matter in controversy, not later 109
+than fourteen days after the tie vote or the disagreement, to 110
+the secretary of state, who shall summarily decide the question, 111
+and the secretary of state's decision shall be final. 112
+(Y) Assist each designated agency, deputy registrar of 113
+motor vehicles, public high school and vocational school, public 114
+library, and office of a county treasurer in the implementation 115
+of a program for registering voters at all voter registration 116
+locations as prescribed by the secretary of state. Under this 117
+program, each board of elections shall direct to the appropriate 118
+board of elections any voter registration applications for 119
+persons residing outside the county where the board is located 120
+within five days after receiving the applications. 121
+(Z) On any day on which an elector may vote in person at 122
+the office of the board or at another site designated by the 123
+board, consider the board or other designated site a polling 124
+place for that day. All requirements or prohibitions of law that 125
+apply to a polling place shall apply to the office of the board 126
+or other designated site on that day. 127
+(AA) Perform any duties with respect to voter registration 128
+and voting by uniformed services and overseas voters that are 129
+delegated to the board by law or by the rules, directives, or 130
+advisories of the secretary of state. 131
+(BB) Prepare an election administration plan and submit it 132
+
+H. B. No. 400 Page 6
+As Introduced
+to the secretary of state not later than seventy-five days 133
+before each presidential primary election and not later than one 134
+hundred twenty days before each general election held in an 135
+even-numbered year. The election administration plan shall be on 136
+a template prescribed by the secretary of state and shall 137
+include all of the following: 138
+(1) Precinct election official recruitment, training, and 139
+accountability; 140
+(2) Resource allocation; 141
+(3) Communication before and on the day of the election; 142
+(4) Materials; 143
+(5) Contingencies and continuity planning; 144
+(6) Security; 145
+(7) Voter registration; 146
+(8) Absent voting; 147
+(9) Polling places and accessibility; 148
+(10) Ballot preparation; 149
+(11) Pre-election testing; 150
+(12) Reconciliation and audits; 151
+(13) A master calendar; 152
+(14) Any other topic prescribed by the secretary of state. 153
+(CC) Establish and maintain a permanent absent voter list 154
+of all registered electors in the county who have opted to be 155
+placed on the permanent absent voter list, including written 156
+applications to be removed from the permanent absent voter list. 157
+
+H. B. No. 400 Page 7
+As Introduced
+Sec. 3503.14. (A) The secretary of state shall prescribe 158
+the form and content of the registration, change of residence, 159
+and change of name forms used in this state. The forms shall 160
+meet the requirements of the National Voter Registration Act of 161
+1993 and shall include spaces for all of the following: 162
+(1) The voter's name; 163
+(2) The voter's address; 164
+(3) The current date; 165
+(4) The voter's date of birth; 166
+(5) The voter to provide at least one of the following 167
+forms of identification: 168
+(a) The voter's Ohio driver's license or state 169
+identification card number; 170
+(b) The last four digits of the voter's social security 171
+number. 172
+(6) A box that the voter can mark in the affirmative to 173
+request to be placed on the permanent absent voter list under 174
+section 3509.11 of the Revised Code; 175
+(7) The voter's signature. 176
+The registration form shall include a space on which the 177
+person registering an applicant shall sign the person's name and 178
+provide the person's address and a space on which the person 179
+registering an applicant shall name the employer who is 180
+employing that person to register the applicant. 181
+The forms shall include a box for the person filling out 182
+the form to check to indicate, if applicable, that the person 183
+has filled out all or part of the form on behalf of the 184
+
+H. B. No. 400 Page 8
+As Introduced
+applicant because the applicant declares that the applicant 185
+requires such assistance by reason of blindness, disability, or 186
+illiteracy. 187
+Except for forms prescribed by the secretary of state 188
+under section 3503.11 of the Revised Code, the secretary of 189
+state shall permit boards of elections to produce forms that 190
+have subdivided spaces for each individual alphanumeric 191
+character of the information provided by the voter so as to 192
+accommodate the electronic reading and conversion of the voter's 193
+information to data and the subsequent electronic transfer of 194
+that data to the statewide voter registration database 195
+established under section 3503.15 of the Revised Code. 196
+(B) None of the following persons who are registering an 197
+applicant in the course of that official's or employee's normal 198
+duties shall sign the person's name, provide the person's 199
+address, or name the employer who is employing the person to 200
+register an applicant on a form prepared under this section: 201
+(1) An election official; 202
+(2) A county treasurer; 203
+(3) A deputy registrar of motor vehicles; 204
+(4) An employee of a designated agency; 205
+(5) An employee of a public high school; 206
+(6) An employee of a public vocational school; 207
+(7) An employee of a public library; 208
+(8) An employee of the office of a county treasurer; 209
+(9) An employee of the bureau of motor vehicles; 210
+(10) An employee of a deputy registrar of motor vehicles; 211
+
+H. B. No. 400 Page 9
+As Introduced
+(11) An employee of an election official. 212
+(C) Except as provided in section 3501.382 of the Revised 213
+Code, any applicant who is unable to sign the applicant's own 214
+name shall make an "X," if possible, which shall be certified by 215
+the signing of the name of the applicant by the person filling 216
+out the form, who shall add the person's own signature. If an 217
+applicant is unable to make an "X," the applicant shall indicate 218
+in some manner that the applicant desires to register to vote or 219
+to change the applicant's name or residence. The person 220
+registering the applicant shall sign the form and attest that 221
+the applicant indicated that the applicant desired to register 222
+to vote or to change the applicant's name or residence. 223
+(D) No registration, change of residence, or change of 224
+name form shall be rejected solely on the basis that a person 225
+registering an applicant failed to sign the person's name or 226
+failed to name the employer who is employing that person to 227
+register the applicant as required under division (A) of this 228
+section. 229
+(E) A voter registration application submitted 230
+electronically through the registrar of motor vehicles or a 231
+deputy registrar pursuant to section 3503.11 or submitted online 232
+through the internet pursuant to section 3503.20 of the Revised 233
+Code is not required to contain a signature to be considered 234
+valid. The signature obtained under division (A)(3) of section 235
+3503.11 or under division (B) of section 3503.20 of the Revised 236
+Code, as applicable, shall be considered the applicant's 237
+signature for all election and signature-matching purposes. 238
+(F)(1) Except as otherwise provided in division (C) of 239
+this section and in sections 3501.382 and 3505.24 of the Revised 240
+Code, no person shall preprint or fill out any portion of a 241
+
+H. B. No. 400 Page 10
+As Introduced
+voter registration, change of residence, or change of name form 242
+on behalf of an applicant. 243
+(2) A completed voter registration, change of residence, 244
+or change of name form is not valid if any portion of it has 245
+been completed by any person other than the applicant in 246
+violation of division (F)(1) of this section. 247
+(G) As used in this section, "registering an applicant" 248
+includes any effort, for compensation, to provide voter 249
+registration forms or to assist persons in completing or 250
+returning those forms. 251
+Sec. 3503.20. (A) The secretary of state shall establish a 252
+secure online voter registration system. The system shall 253
+provide for all of the following: 254
+(1) An applicant to submit a voter registration 255
+application to the secretary of state online through the 256
+internet; 257
+(2) The online applicant to be registered to vote, if all 258
+of the following apply: 259
+(a) The application contains all of the following 260
+information: 261
+(i) The applicant's name; 262
+(ii) The applicant's address; 263
+(iii) The applicant's date of birth; 264
+(iv) The last four digits of the applicant's social 265
+security number; 266
+(v) The applicant's Ohio driver's license number or the 267
+number of the applicant's state identification card issued under 268
+
+H. B. No. 400 Page 11
+As Introduced
+section 4507.50 of the Revised Code. 269
+(b) The applicant's name, address, and date of birth, the 270
+last four digits of the applicant's social security number, and 271
+the applicant's Ohio driver's license number or the number of 272
+the applicant's state identification card as they are provided 273
+in the application are not inconsistent with the information on 274
+file with the bureau of motor vehicles; 275
+(c) The applicant is a United States citizen, will have 276
+lived in this state for thirty days immediately preceding the 277
+next election, will be at least eighteen years of age on or 278
+before the day of the next general election, and is otherwise 279
+eligible to register to vote; 280
+(d) The applicant attests to the truth and accuracy of the 281
+information submitted in the online application under penalty of 282
+election falsification. 283
+(B) If an individual registers to vote or a registered 284
+elector updates the elector's name, address, or both under this 285
+section, the secretary of state shall obtain an electronic copy 286
+of the applicant's or elector's signature that is on file with 287
+the bureau of motor vehicles. That electronic signature shall be 288
+used as the applicant's or elector's signature on voter 289
+registration records, for all election and signature-matching 290
+purposes. 291
+(C) The secretary of state shall employ whatever security 292
+measures the secretary of state considers necessary to ensure 293
+the integrity and accuracy of voter registration information 294
+submitted electronically pursuant to this section. Errors in 295
+processing voter registration applications in the online system 296
+shall not prevent an applicant from becoming registered or from 297
+
+H. B. No. 400 Page 12
+As Introduced
+voting. 298
+(D) The online voter registration application under 299
+division (A) of this section shall include the following 300
+language: 301
+"By clicking the box below, I request to be placed on the 302
+permanent absent voter list under section 3509.11 of the Revised 303
+Code." 304
+In order to be placed on the permanent absent voter list 305
+under this section, an applicant or elector shall be required to 306
+mark the box in the online voter registration application that 307
+appears in conjunction with the previous statement. 308
+(E) The online voter registration application established 309
+under division (A) of this section shall include the following 310
+language: 311
+"By clicking the box below, I affirm all of the following 312
+under penalty of election falsification, which is a felony of 313
+the fifth degree: 314
+(1) I am the person whose name and identifying information 315
+is provided on this form, and I desire to register to vote, or 316
+update my voter registration, in the State of Ohio. 317
+(2) All of the information I have provided on this form is 318
+true and correct as of the date I am submitting this form. 319
+(3) I am a United States citizen. 320
+(4) I will have lived in Ohio for thirty days immediately 321
+preceding the next election. 322
+(5) I will be at least eighteen years of age on or before 323
+the day of the next general election. 324
+
+H. B. No. 400 Page 13
+As Introduced
+(6) I authorize the Bureau of Motor Vehicles to transmit 325
+to the Ohio Secretary of State my signature that is on file with 326
+the Bureau of Motor Vehicles, and I understand and agree that 327
+the signature transmitted by the Bureau of Motor Vehicles will 328
+be used by the Secretary of State to validate this electronic 329
+voter registration application as if I had signed this form 330
+personally." 331
+In order to register to vote or update a voter 332
+registration under division (A) of this section, an applicant or 333
+elector shall be required to mark the box in the online voter 334
+registration application that appears in conjunction with the 335
+previous statement. 336
+(E) (F) The online voter registration process established 337
+under division (A) of this section shall be in operation and 338
+available for use by individuals who wish to register to vote or 339
+update their voter registration information online not earlier 340
+than January 1, 2017. During the period beginning on the first 341
+day after the close of voter registration before an election and 342
+ending on the day of the election, the online voter registration 343
+system shall display a notice indicating that the applicant will 344
+not be registered to vote for the purposes of that election. 345
+(F) (G) Notwithstanding section 1.50 of the Revised Code, 346
+if any provision of this section or of division (E) of section 347
+3503.14 of the Revised Code is held invalid, or if the 348
+application of any provision of this section or of that division 349
+to any person or circumstance is held invalid, then this section 350
+and that division cease to operate. 351
+Sec. 3503.28. (A) The secretary of state shall develop an 352
+information brochure regarding voter registration. The brochure 353
+shall include, but is not limited to, all of the following 354
+
+H. B. No. 400 Page 14
+As Introduced
+information: 355
+(1) The applicable deadlines for registering to vote or 356
+for returning an applicant's completed registration form; 357
+(2) The applicable deadline for returning an applicant's 358
+completed registration form if the person returning the form is 359
+being compensated for registering voters; 360
+(3) The locations to which a person may return an 361
+applicant's completed registration form; 362
+(4) The location to which a person who is compensated for 363
+registering voters may return an applicant's completed 364
+registration form; 365
+(5) The registration and affirmation requirements 366
+applicable to persons who are compensated for registering voters 367
+under section 3503.29 of the Revised Code; 368
+(6) A notice, which shall be written in bold type, stating 369
+as follows: 370
+"Voters must bring photo identification to the polls in 371
+order to verify identity. Voters who do not provide photo 372
+identification will still be able to vote by casting a 373
+provisional ballot." 374
+(7) The process to request to be placed on the permanent 375
+absent voter list when completing a voter registration form. 376
+(B) Except as otherwise provided in division (D) of this 377
+section, a board of elections, designated agency, public high 378
+school, public vocational school, public library, office of a 379
+county treasurer, or deputy registrar of motor vehicles shall 380
+distribute a copy of the brochure developed under division (A) 381
+of this section to any person who requests more than two voter 382
+
+H. B. No. 400 Page 15
+As Introduced
+registration forms at one time. 383
+(C)(1) The secretary of state shall provide the 384
+information required to be included in the brochure developed 385
+under division (A) of this section to any person who prints a 386
+voter registration form that is made available on a web site of 387
+the office of the secretary of state. 388
+(2) If a board of elections operates and maintains a web 389
+site, the board shall provide the information required to be 390
+included in the brochure developed under division (A) of this 391
+section to any person who prints a voter registration form that 392
+is made available on that web site. 393
+(D) A board of elections shall not be required to 394
+distribute a copy of a brochure under division (B) of this 395
+section to any of the following officials or employees who are 396
+requesting more than two voter registration forms at one time in 397
+the course of the official's or employee's normal duties: 398
+(1) An election official; 399
+(2) A county treasurer; 400
+(3) A deputy registrar of motor vehicles; 401
+(4) An employee of a designated agency; 402
+(5) An employee of a public high school; 403
+(6) An employee of a public vocational school; 404
+(7) An employee of a public library; 405
+(8) An employee of the office of a county treasurer; 406
+(9) An employee of the bureau of motor vehicles; 407
+(10) An employee of a deputy registrar of motor vehicles; 408
+
+H. B. No. 400 Page 16
+As Introduced
+(11) An employee of an election official. 409
+(E) As used in this section, "registering voters" includes 410
+any effort, for compensation, to provide voter registration 411
+forms or to assist persons in completing or returning those 412
+forms. 413
+Sec. 3509.03. (A) Except as otherwise provided in sections 414
+3509.051, 3511.02, and 3511.021 of the Revised Code, any 415
+qualified elector desiring to vote absent voter's ballots at an 416
+election shall deliver a written application for those ballots, 417
+either in person or by mail, to the board of elections of the 418
+county in which the elector's voting residence is located. 419
+(B) Except as otherwise permitted under section 3511.02 of 420
+the Revised Code and under division (C) of this section, the 421
+application shall be on a form prescribed by the secretary of 422
+state and shall contain all of the following: 423
+(1) The elector's name; 424
+(2) The elector's signature; 425
+(3) The address at which the elector is registered to 426
+vote; 427
+(4) The elector's date of birth; 428
+(5) One of the following: 429
+(a) The elector's Ohio driver's license or state 430
+identification card number; 431
+(b) The last four digits of the elector's social security 432
+number; 433
+(c) A copy of the elector's photo identification. 434
+(6) A statement identifying the election for which absent 435
+
+H. B. No. 400 Page 17
+As Introduced
+voter's ballots are requested; 436
+(7) A statement that the person requesting the ballots is 437
+a qualified elector; 438
+(8) A box that the voter can mark in the affirmative to 439
+request to be placed on the permanent absent voter list under 440
+section 3509.11 of the Revised Code; 441
+(9) If the request is for primary election ballots, the 442
+elector's party affiliation; 443
+(9)(10) If the elector desires ballots to be mailed to the 444
+elector, the address to which those ballots shall be mailed. 445
+(C) If the elector has a confidential voter registration 446
+record, as described in section 111.44 of the Revised Code, the 447
+elector may provide the elector's program participant 448
+identification number instead of the address at which the 449
+elector is registered to vote. 450
+(D) Except as otherwise provided in division (A) of 451
+section 3509.051 and in division (B) of section 3509.08 of the 452
+Revised Code, an application to receive absent voter's ballots 453
+shall be delivered to the office of the board not earlier than 454
+the first day of January of the year of the elections for which 455
+the absent voter's ballots are requested or not earlier than 456
+ninety days before the day of the election at which the ballots 457
+are to be voted, whichever is earlier, and not later than the 458
+close of business on the seventh day before the day of the 459
+election at which the ballots are to be voted. 460
+(E) Except as permitted under section 111.31 of the 461
+Revised Code, no public office, and no public official or 462
+employee who is acting in an official capacity, shall do either 463
+of the following: 464
+
+H. B. No. 400 Page 18
+As Introduced
+(1) Prepay the return postage for an application for 465
+absent voter's ballots; 466
+(2) Mail or otherwise deliver an unsolicited application 467
+for absent voter's ballots to any person. 468
+(F)(1) Except as otherwise provided in division (F)(2) of 469
+this section and in sections 3505.24 and 3509.08 of the Revised 470
+Code, no person shall preprint or fill out any portion of an 471
+application for absent voter's ballots on behalf of an 472
+applicant. 473
+(2) The secretary of state or a board of elections may 474
+preprint only an applicant's name and address on an application 475
+for absent voter's ballots before mailing that application to 476
+the applicant, except that if the applicant has a confidential 477
+voter registration record, the secretary of state or a board of 478
+elections shall not preprint the applicant's address on the 479
+application. 480
+(3) A completed application for absent voter's ballots is 481
+not valid if any portion of it has been completed by any person 482
+other than the applicant in violation of division (F) of this 483
+section. 484
+Sec. 3509.11. (A) An elector may request to be placed on 485
+the permanent absent voter list maintained by boards of 486
+elections in accordance with this section. 487
+(B) A voter registration applicant or elector may request 488
+to be placed on the permanent absent voter list by doing any of 489
+the following: 490
+(1) Completing a written application, prescribed by the 491
+secretary of state, to be placed on the permanent absent voter 492
+list and returning the completed application to the board of 493
+
+H. B. No. 400 Page 19
+As Introduced
+elections of the county in which the elector is registered to 494
+vote; 495
+(2) Marking the box in the affirmative provided on a voter 496
+registration form or change of name or change of address form 497
+that indicates the applicant or elector wishes to be placed on 498
+the permanent absent voter list; 499
+(3) Checking the box provided when registering to vote or 500
+updating the elector's voter registration on the online voter 501
+registration system that indicates the applicant or elector 502
+wishes to be placed on the permanent absent voter list; 503
+(4) Marking the box provided on an application for an 504
+absent voter's ballot that indicates the voter wishes to be 505
+placed on the permanent absent voter list. 506
+(C) An elector may be removed from the permanent absent 507
+voter list if either of the following occur: 508
+(1) The elector submits in writing, on a form prescribed 509
+by the secretary of state, to the appropriate board of elections 510
+a request to be removed from the permanent absent voter list. 511
+(2) The elector's voter registration is canceled under 512
+section 3503.21 of the Revised Code. 513
+(D) Each board of elections shall mail an absent voter 514
+ballot application for an election to each elector listed on the 515
+board's permanent absent voter list not later than forty-five 516
+days before the close of voter registration for that election. 517
+An absent voter ballot application mailed under this section is 518
+not considered an unsolicited application for absent voter's 519
+ballots. 520
+Section 2. That existing sections 3501.11, 3503.14, 521
+
+H. B. No. 400 Page 20
+As Introduced
+3503.20, 3503.28, and 3509.03 of the Revised Code are hereby 522
+repealed. 523
+
+[DELETED: nH   .  :   1 1 1;1 1;1 1 1 1]
+[DELETED: 0 ;1 2 2 2;2 2 2 2;2 2;2 3 3 3;3 3;3 3 3 3 3 4 4 4 4.4 4 4 4]
+[DELETED: 0  4 4 5;5 5 5 5 5;5 5 5 5 6 6 6 6.6 6 6;6 6;6 7 7 7 7;7 7 7]
+[DELETED: 0 ;7 7;7 8;8 8;8 8 8 8 8;8 8;9 9 9 9 9;9 9 9;9 9:1E1 1.1]
+[DELETED: 0  1 1"1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 1 1.1 1 1 1.1 1]
+[DELETED: 0  1 1 1 1 1:1 1;1;1;1;1;1;1;1;1;1;1;1;1;1.1 1 1 1.1]
+[DELETED: 0  1 1 1 1:1;1;1;1;1 1:1 1;1 1.1 1 1;1.1 1 1 1 1.1 1 1 1]
+[DELETED: 0  1 1.1 1 1 1 1 1 1 1 1.1 1 1 1 2:2;2;2;2;2;2;2;2;2;2;2]
+[DELETED: 0 .2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2 2 2.2 2 2 2]
+[DELETED: 0  2.2 2 2 2.2 2 2 2.2 2 2:2 2 2;2 2:2 2:2;2;2;2 2;2 2 2]
+[DELETED: 0 .2 2 2 2 2 2;2 2 2 2 2;2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2 2 2]
+[DELETED: 0 .2 2 3:3 3 3"3 3 3 3.3 3 3:3 3 3:3 3 3.3 3.3.3 3.3 3.3]
+[DELETED: 0  3 3 3 3 3 3"3 3 3 3 3.3 3 3 3 3 3 3 3 3.3 3 3 3 3 3.3 3 3 3]
+[DELETED: 0  3 3;3 3 3;3 3;3 3 3;3 3 3;3 3:3 3 3 3"3 3.3 3 3 3 3 3 3]
+[DELETED: 0 .3 3 3 3 3.3 3 3 3 3.3 3 3 3 3:3;3;4;4;4;4;4;4;4;4;4]
+[DELETED: 0 .4 4 4 4.4 4 4 4 4 4.4 4 4 4:4;4;4 4;4;4:4 4;4 4;4.4 4]
+[DELETED: 0 ;4 4;4 4 4;4 4;4 4.4 4 4 4 4.4 4 4 4 4 4 4 4 4 4.4 4 4 4:4]
+[DELETED: 0  4;4 4.4 4 4 4 4.4 4 4 4 4 4 4.4 4 4 4.4 4 4.4 4 4:4 4 4 4]
+[DELETED: 0  4;4 4 4 4;4 5 5 5;5 5 5.5 5:5 5 5.5 5.5 5 5 5 5 5 5.5 5]
+[DELETED: 0  5.5]

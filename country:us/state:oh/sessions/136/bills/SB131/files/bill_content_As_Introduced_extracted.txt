@@ -1,0 +1,449 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 11
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 131
+2025-2026
+Senator Cutrona
+To amend section 2315.18 of the Revised Code to 1
+clarify compensatory damages for damaged 2
+vehicles. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 2315.18 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 2315.18. (A) As used in this section and in section 6
+
+Section 3:
+2315.19 of the Revised Code: 7
+(1) "Asbestos claim" has the same meaning as in section 8
+
+Section 4:
+2307.91 of the Revised Code. 9
+(2) "Economic loss" means any of the following types of 10
+pecuniary harm: 11
+(a) All wages, salaries, or other compensation lost as a 12
+result of an injury or loss to person or property that is a 13
+subject of a tort action; 14
+(b) All expenditures for medical care or treatment, 15
+rehabilitation services, or other care, treatment, services, 16
+products, or accommodations as a result of an injury or loss to 17
+person or property that is a subject of a tort action; 18
+S. B. No. 131 Page 2
+As Introduced
+(c) Any other expenditures incurred as a result of an 19
+injury or loss to person or property that is a subject of a tort 20
+action, other than attorney's fees incurred in connection with 21
+that action. 22
+(3) "Medical claim," "dental claim," "optometric claim," 23
+and "chiropractic claim" have the same meanings as in section 24
+
+Section 5:
+2305.113 of the Revised Code. 25
+(4) "Noneconomic loss" means nonpecuniary harm that 26
+results from an injury or loss to person or property that is a 27
+subject of a tort action, including, but not limited to, pain 28
+and suffering, loss of society, consortium, companionship, care, 29
+assistance, attention, protection, advice, guidance, counsel, 30
+instruction, training, or education, disfigurement, mental 31
+anguish, and any other intangible loss. 32
+(5) "Occurrence" means all claims resulting from or 33
+arising out of any one person's bodily injury. 34
+(6) "Product liability claim" has the same meaning as in 35
+
+Section 6:
+section 2307.71 of the Revised Code. 36
+(7) "Tort action" means a civil action for damages for 37
+injury or loss to person or property. "Tort action" includes a 38
+civil action upon a product liability claim or an asbestos 39
+claim, a civil action based on an unlawful discriminatory 40
+practice relating to employment brought under section 4112.052 41
+of the Revised Code, and a civil action brought under section 42
+
+Section 7:
+4112.14 of the Revised Code. "Tort action" does not include a 43
+civil action upon a medical claim, dental claim, optometric 44
+claim, or chiropractic claim or a civil action for damages for a 45
+breach of contract or another agreement between persons. 46
+(8) "Trier of fact" means the jury or, in a nonjury 47
+S. B. No. 131 Page 3
+As Introduced
+action, the court. 48
+(B) In a tort action to recover damages for injury or loss 49
+to person or property, all of the following apply: 50
+(1)(1)(a) There shall not be any limitation on the amount 51
+of compensatory damages that represents the economic loss of the 52
+person who is awarded the damages in the tort action. 53
+(b) When determining the amount of compensatory damages 54
+relating to a damaged vehicle, a court shall award an amount 55
+based on the following criteria: 56
+(i) The difference between the vehicle's fair market value 57
+immediately before and immediately after the damage; 58
+(ii) The cost of repair of the vehicle, if the vehicle is 59
+repairable, so long as the cost of repair does not exceed the 60
+difference in market value of the vehicle before and after the 61
+damage; 62
+(iii) If the vehicle is repairable within a reasonable 63
+amount of time, the loss of use of the vehicle for the 64
+reasonable time necessary to make the repairs; 65
+(iv) If the vehicle is repairable but the post-repair fair 66
+market value is less after repairs than the fair market value 67
+before the damage occurred due to accident history or other 68
+factors, the difference in the fair market value before the 69
+damage and after the repairs; 70
+(v) Where a vehicle cannot be repaired, the difference 71
+between the fair market value of the vehicle immediately before 72
+the damage and the salvage value of the wreckage. 73
+(c) In subrogation related to an award of damages for a 74
+damaged vehicle determined under this section, an insurer shall 75
+S. B. No. 131 Page 4
+As Introduced
+only recover for amounts actually distributed to an insured. If 76
+an insurer is awarded more than the amount paid out to the 77
+insured, then the insurer shall pass on that amount to the 78
+insured. 79
+(2) Except as otherwise provided in division (B)(3) of 80
+this section, the amount of compensatory damages that represents 81
+damages for noneconomic loss that is recoverable in a tort 82
+action under this section to recover damages for injury or loss 83
+to person or property shall not exceed the greater of two 84
+hundred fifty thousand dollars or an amount that is equal to 85
+three times the economic loss, as determined by the trier of 86
+fact, of the plaintiff in that tort action to a maximum of three 87
+hundred fifty thousand dollars for each plaintiff in that tort 88
+action or a maximum of five hundred thousand dollars for each 89
+occurrence that is the basis of that tort action. 90
+(3) There shall not be any limitation on the amount of 91
+compensatory damages that represents damages for noneconomic 92
+loss that is recoverable in a tort action to recover damages for 93
+injury or loss to person or property if the noneconomic losses 94
+of the plaintiff are for either of the following: 95
+(a) Permanent and substantial physical deformity, loss of 96
+use of a limb, or loss of a bodily organ system; 97
+(b) Permanent physical functional injury that permanently 98
+prevents the injured person from being able to independently 99
+care for self and perform life-sustaining activities. 100
+(C) In determining an award of compensatory damages for 101
+noneconomic loss in a tort action, the trier of fact shall not 102
+consider any of the following: 103
+(1) Evidence of a defendant's alleged wrongdoing, 104
+S. B. No. 131 Page 5
+As Introduced
+misconduct, or guilt; 105
+(2) Evidence of the defendant's wealth or financial 106
+resources; 107
+(3) All other evidence that is offered for the purpose of 108
+punishing the defendant, rather than offered for a compensatory 109
+purpose. 110
+(D) If a trial is conducted in a tort action to recover 111
+damages for injury or loss to person or property and a plaintiff 112
+prevails in that action, the court in a nonjury trial shall make 113
+findings of fact, and the jury in a jury trial shall return a 114
+general verdict accompanied by answers to interrogatories, that 115
+shall specify all of the following: 116
+(1) The total compensatory damages recoverable by the 117
+plaintiff; 118
+(2) The portion of the total compensatory damages that 119
+represents damages for economic loss; 120
+(3) The portion of the total compensatory damages that 121
+represents damages for noneconomic loss. 122
+(E)(1) After the trier of fact in a tort action to recover 123
+damages for injury or loss to person or property complies with 124
+division (D) of this section, the court shall enter a judgment 125
+in favor of the plaintiff for compensatory damages for economic 126
+loss in the amount determined pursuant to division (D)(2) of 127
+this section, and, subject to division (F)(1) of this section, 128
+the court shall enter a judgment in favor of the plaintiff for 129
+compensatory damages for noneconomic loss. Except as provided in 130
+division (B)(3) of this section, in no event shall a judgment 131
+for compensatory damages for noneconomic loss exceed the maximum 132
+recoverable amount that represents damages for noneconomic loss 133
+S. B. No. 131 Page 6
+As Introduced
+as provided in division (B)(2) of this section. Division (B) of 134
+this section shall be applied in a jury trial only after the 135
+jury has made its factual findings and determination as to the 136
+damages. 137
+(2) Prior to the trial in the tort action described in 138
+division (D) of this section, any party may seek summary 139
+judgment with respect to the nature of the alleged injury or 140
+loss to person or property, seeking a determination of the 141
+damages as described in division (B)(2) of this section. 142
+(F)(1) A court of common pleas has no jurisdiction to 143
+enter judgment on an award of compensatory damages for 144
+noneconomic loss in excess of the limits set forth in this 145
+
+Section 8:
+section. 146
+(2) If the trier of fact is a jury, the court shall not 147
+instruct the jury with respect to the limit on compensatory 148
+damages for noneconomic loss described in division (B)(2) of 149
+this section, and neither counsel for any party nor a witness 150
+shall inform the jury or potential jurors of that limit. 151
+(G) With respect to a tort action to which division (B)(2) 152
+of this section applies, any excess amount of compensatory 153
+damages for noneconomic loss that is greater than the applicable 154
+amount specified in division (B)(2) of this section shall not be 155
+reallocated to any other tortfeasor beyond the amount of 156
+compensatory damages that the tortfeasor would otherwise be 157
+responsible for under the laws of this state. 158
+(H) This section does not apply to any of the following: 159
+(1) Tort actions that are brought against the state in the 160
+court of claims, including, but not limited to, those actions in 161
+which a state university or college is a defendant and to which 162
+S. B. No. 131 Page 7
+As Introduced
+division (B)(3) of section 3345.40 of the Revised Code applies; 163
+(2) Tort actions that are brought against political 164
+subdivisions of this state and that are commenced under or are 165
+subject to Chapter 2744. of the Revised Code. Division (C) of 166
+
+Section 9:
+section 2744.05 of the Revised Code applies to recoverable 167
+damages in those actions. 168
+(3) Wrongful death actions brought pursuant to Chapter 169
+
+Section 10:
+2125. of the Revised Code. 170
+(I) If the provisions regarding the limits on compensatory 171
+damages for noneconomic loss set forth in division (B)(2) of 172
+this section have been determined to be unconstitutional, then 173
+division (C) of this section and section 2315.19 of the Revised 174
+Code shall govern the determination of an award of compensatory 175
+damages for noneconomic loss in a tort action. 176
+
+Section 11:
+Section 2. That existing section 2315.18 of the Revised 177
+Code is hereby repealed. 178
+[DELETED: nS BIL  . : : . 1:1 1 1;1 1 1 1;1]
+[DELETED: 1  1 2 2.2 2 2.2 2 2 2 2 3 3.3 3.3 3.3 3 3 3 4 4 4 4 4 4.4 4]
+[DELETED: 1 .4 4:5 5 5.5 5 5:5 5;5 5 6 6;6 6 6;6 6 6 6 6;7 7 7.7 7 7]
+[DELETED: 1  7 7 7.7 8 8 8 8 8 8 8 8 8 8.9 9 9 9 9:9 9;9 9 9.1 1 1:1 1]
+[DELETED: 1 ;1 1;1 1 1.1 1 1 1 1 1:1 1;1 1;1 1.1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 1  1 1 1.1 1 1 1 1.1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1.1:1 1 1 1]
+[DELETED: 1 ;1 1 1 1 1.1 1.1 1 1 1 1 1.1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 131
+2025-2026
+Senator Cutrona
+A BILL
+To amend section 2315.18 of the Revised Code to 1
+clarify compensatory damages for damaged 2
+vehicles. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 2315.18 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 2315.18. (A) As used in this section and in section 6
+2315.19 of the Revised Code: 7
+(1) "Asbestos claim" has the same meaning as in section 8
+2307.91 of the Revised Code. 9
+(2) "Economic loss" means any of the following types of 10
+pecuniary harm: 11
+(a) All wages, salaries, or other compensation lost as a 12
+result of an injury or loss to person or property that is a 13
+subject of a tort action; 14
+(b) All expenditures for medical care or treatment, 15
+rehabilitation services, or other care, treatment, services, 16
+products, or accommodations as a result of an injury or loss to 17
+person or property that is a subject of a tort action; 18
+
+S. B. No. 131 Page 2
+As Introduced
+(c) Any other expenditures incurred as a result of an 19
+injury or loss to person or property that is a subject of a tort 20
+action, other than attorney's fees incurred in connection with 21
+that action. 22
+(3) "Medical claim," "dental claim," "optometric claim," 23
+and "chiropractic claim" have the same meanings as in section 24
+2305.113 of the Revised Code. 25
+(4) "Noneconomic loss" means nonpecuniary harm that 26
+results from an injury or loss to person or property that is a 27
+subject of a tort action, including, but not limited to, pain 28
+and suffering, loss of society, consortium, companionship, care, 29
+assistance, attention, protection, advice, guidance, counsel, 30
+instruction, training, or education, disfigurement, mental 31
+anguish, and any other intangible loss. 32
+(5) "Occurrence" means all claims resulting from or 33
+arising out of any one person's bodily injury. 34
+(6) "Product liability claim" has the same meaning as in 35
+section 2307.71 of the Revised Code. 36
+(7) "Tort action" means a civil action for damages for 37
+injury or loss to person or property. "Tort action" includes a 38
+civil action upon a product liability claim or an asbestos 39
+claim, a civil action based on an unlawful discriminatory 40
+practice relating to employment brought under section 4112.052 41
+of the Revised Code, and a civil action brought under section 42
+4112.14 of the Revised Code. "Tort action" does not include a 43
+civil action upon a medical claim, dental claim, optometric 44
+claim, or chiropractic claim or a civil action for damages for a 45
+breach of contract or another agreement between persons. 46
+(8) "Trier of fact" means the jury or, in a nonjury 47
+
+S. B. No. 131 Page 3
+As Introduced
+action, the court. 48
+(B) In a tort action to recover damages for injury or loss 49
+to person or property, all of the following apply: 50
+(1)(1)(a) There shall not be any limitation on the amount 51
+of compensatory damages that represents the economic loss of the 52
+person who is awarded the damages in the tort action. 53
+(b) When determining the amount of compensatory damages 54
+relating to a damaged vehicle, a court shall award an amount 55
+based on the following criteria: 56
+(i) The difference between the vehicle's fair market value 57
+immediately before and immediately after the damage; 58
+(ii) The cost of repair of the vehicle, if the vehicle is 59
+repairable, so long as the cost of repair does not exceed the 60
+difference in market value of the vehicle before and after the 61
+damage; 62
+(iii) If the vehicle is repairable within a reasonable 63
+amount of time, the loss of use of the vehicle for the 64
+reasonable time necessary to make the repairs; 65
+(iv) If the vehicle is repairable but the post-repair fair 66
+market value is less after repairs than the fair market value 67
+before the damage occurred due to accident history or other 68
+factors, the difference in the fair market value before the 69
+damage and after the repairs; 70
+(v) Where a vehicle cannot be repaired, the difference 71
+between the fair market value of the vehicle immediately before 72
+the damage and the salvage value of the wreckage. 73
+(c) In subrogation related to an award of damages for a 74
+damaged vehicle determined under this section, an insurer shall 75
+
+S. B. No. 131 Page 4
+As Introduced
+only recover for amounts actually distributed to an insured. If 76
+an insurer is awarded more than the amount paid out to the 77
+insured, then the insurer shall pass on that amount to the 78
+insured. 79
+(2) Except as otherwise provided in division (B)(3) of 80
+this section, the amount of compensatory damages that represents 81
+damages for noneconomic loss that is recoverable in a tort 82
+action under this section to recover damages for injury or loss 83
+to person or property shall not exceed the greater of two 84
+hundred fifty thousand dollars or an amount that is equal to 85
+three times the economic loss, as determined by the trier of 86
+fact, of the plaintiff in that tort action to a maximum of three 87
+hundred fifty thousand dollars for each plaintiff in that tort 88
+action or a maximum of five hundred thousand dollars for each 89
+occurrence that is the basis of that tort action. 90
+(3) There shall not be any limitation on the amount of 91
+compensatory damages that represents damages for noneconomic 92
+loss that is recoverable in a tort action to recover damages for 93
+injury or loss to person or property if the noneconomic losses 94
+of the plaintiff are for either of the following: 95
+(a) Permanent and substantial physical deformity, loss of 96
+use of a limb, or loss of a bodily organ system; 97
+(b) Permanent physical functional injury that permanently 98
+prevents the injured person from being able to independently 99
+care for self and perform life-sustaining activities. 100
+(C) In determining an award of compensatory damages for 101
+noneconomic loss in a tort action, the trier of fact shall not 102
+consider any of the following: 103
+(1) Evidence of a defendant's alleged wrongdoing, 104
+
+S. B. No. 131 Page 5
+As Introduced
+misconduct, or guilt; 105
+(2) Evidence of the defendant's wealth or financial 106
+resources; 107
+(3) All other evidence that is offered for the purpose of 108
+punishing the defendant, rather than offered for a compensatory 109
+purpose. 110
+(D) If a trial is conducted in a tort action to recover 111
+damages for injury or loss to person or property and a plaintiff 112
+prevails in that action, the court in a nonjury trial shall make 113
+findings of fact, and the jury in a jury trial shall return a 114
+general verdict accompanied by answers to interrogatories, that 115
+shall specify all of the following: 116
+(1) The total compensatory damages recoverable by the 117
+plaintiff; 118
+(2) The portion of the total compensatory damages that 119
+represents damages for economic loss; 120
+(3) The portion of the total compensatory damages that 121
+represents damages for noneconomic loss. 122
+(E)(1) After the trier of fact in a tort action to recover 123
+damages for injury or loss to person or property complies with 124
+division (D) of this section, the court shall enter a judgment 125
+in favor of the plaintiff for compensatory damages for economic 126
+loss in the amount determined pursuant to division (D)(2) of 127
+this section, and, subject to division (F)(1) of this section, 128
+the court shall enter a judgment in favor of the plaintiff for 129
+compensatory damages for noneconomic loss. Except as provided in 130
+division (B)(3) of this section, in no event shall a judgment 131
+for compensatory damages for noneconomic loss exceed the maximum 132
+recoverable amount that represents damages for noneconomic loss 133
+
+S. B. No. 131 Page 6
+As Introduced
+as provided in division (B)(2) of this section. Division (B) of 134
+this section shall be applied in a jury trial only after the 135
+jury has made its factual findings and determination as to the 136
+damages. 137
+(2) Prior to the trial in the tort action described in 138
+division (D) of this section, any party may seek summary 139
+judgment with respect to the nature of the alleged injury or 140
+loss to person or property, seeking a determination of the 141
+damages as described in division (B)(2) of this section. 142
+(F)(1) A court of common pleas has no jurisdiction to 143
+enter judgment on an award of compensatory damages for 144
+noneconomic loss in excess of the limits set forth in this 145
+section. 146
+(2) If the trier of fact is a jury, the court shall not 147
+instruct the jury with respect to the limit on compensatory 148
+damages for noneconomic loss described in division (B)(2) of 149
+this section, and neither counsel for any party nor a witness 150
+shall inform the jury or potential jurors of that limit. 151
+(G) With respect to a tort action to which division (B)(2) 152
+of this section applies, any excess amount of compensatory 153
+damages for noneconomic loss that is greater than the applicable 154
+amount specified in division (B)(2) of this section shall not be 155
+reallocated to any other tortfeasor beyond the amount of 156
+compensatory damages that the tortfeasor would otherwise be 157
+responsible for under the laws of this state. 158
+(H) This section does not apply to any of the following: 159
+(1) Tort actions that are brought against the state in the 160
+court of claims, including, but not limited to, those actions in 161
+which a state university or college is a defendant and to which 162
+
+S. B. No. 131 Page 7
+As Introduced
+division (B)(3) of section 3345.40 of the Revised Code applies; 163
+(2) Tort actions that are brought against political 164
+subdivisions of this state and that are commenced under or are 165
+subject to Chapter 2744. of the Revised Code. Division (C) of 166
+section 2744.05 of the Revised Code applies to recoverable 167
+damages in those actions. 168
+(3) Wrongful death actions brought pursuant to Chapter 169
+2125. of the Revised Code. 170
+(I) If the provisions regarding the limits on compensatory 171
+damages for noneconomic loss set forth in division (B)(2) of 172
+this section have been determined to be unconstitutional, then 173
+division (C) of this section and section 2315.19 of the Revised 174
+Code shall govern the determination of an award of compensatory 175
+damages for noneconomic loss in a tort action. 176
+Section 2. That existing section 2315.18 of the Revised 177
+Code is hereby repealed. 178
+
+[DELETED: nS BIL  . : : . 1:1 1 1;1 1 1 1;1]
+[DELETED: 1  1 2 2.2 2 2.2 2 2 2 2 3 3.3 3.3 3.3 3 3 3 4 4 4 4 4 4.4 4]
+[DELETED: 1 .4 4:5 5 5.5 5 5:5 5;5 5 6 6;6 6 6;6 6 6 6 6;7 7 7.7 7 7]
+[DELETED: 1  7 7 7.7 8 8 8 8 8 8 8 8 8 8.9 9 9 9 9:9 9;9 9 9.1 1 1:1 1]
+[DELETED: 1 ;1 1;1 1 1.1 1 1 1 1 1:1 1;1 1;1 1.1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 1  1 1 1.1 1 1 1 1.1 1 1 1.1 1 1 1 1.1 1 1 1 1 1 1.1:1 1 1 1]
+[DELETED: 1 ;1 1 1 1 1.1 1.1 1 1 1 1 1.1 1.1]

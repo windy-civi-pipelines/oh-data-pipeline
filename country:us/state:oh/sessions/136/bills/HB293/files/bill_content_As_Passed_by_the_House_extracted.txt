@@ -1,0 +1,73 @@
+Title: Cosponsors: Representatives Piccolantonio, Brennan, Newman, Williams,
+Official Title: Cosponsors: Representatives Piccolantonio, Brennan, Newman, Williams,
+Number of Sections: 2
+Source: versions - As Passed by the House
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Passed by the House
+136th General Assembly
+Regular Session H. B. No. 293
+2025-2026
+Representatives Rader, Mathews, T.
+Rogers, Russo, Sweeney, Jarrells, Lett, Grim, Somani, McNally, Brewer, Abdullahi,
+Synenberg, Miller, J., Cockley, Brownlee, Hall, D., White, E., Odioso, Richardson,
+Lawson-Rowe, Dovilla, Ghanbari, Lampton, Abrams, Barhorst, Brent, Claggett,
+Click, Daniels, Deeter, Demetriou, Fischer, Fowler Arthur, Glassburn, Hall, T.,
+Hiner, Holmes, Hoops, Isaacsohn, John, Johnson, King, Kishman, Klopfenstein,
+LaRe, Lear, Lorenz, Manning, Mathews, A., Miller, M., Mohamed, Oelslager,
+Peterson, Plummer, Ray, Ritter, Robb Blasdel, Salvo, Santucci, Schmidt, Sigrist,
+Sims, Troy, Upchurch, White, A., Willis, Workman, Young
+A BILL
+To enact section 5.282 of the Revised Code to 1
+designate the fourth Thursday of January as 2
+"NASA Day of Remembrance." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.282 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.282. The fourth Thursday of January is designated 6
+as "NASA Day of Remembrance" to pay tribute to and honor members 7
+of the national aeronautics and space administration family who 8
+have lost their lives while furthering the cause of space 9
+exploration and discovery for the benefit of all, including the 10
+crews of Apollo 1 and space shuttles Challenger and Columbia. 11
+[DELETED: nH BIL  " :     1.1]
+
+
+================================================================================
+
+Raw Text:
+As Passed by the House
+136th General Assembly
+Regular Session H. B. No. 293
+2025-2026
+Representatives Rader, Mathews, T.
+Cosponsors: Representatives Piccolantonio, Brennan, Newman, Williams,
+Rogers, Russo, Sweeney, Jarrells, Lett, Grim, Somani, McNally, Brewer, Abdullahi,
+Synenberg, Miller, J., Cockley, Brownlee, Hall, D., White, E., Odioso, Richardson,
+Lawson-Rowe, Dovilla, Ghanbari, Lampton, Abrams, Barhorst, Brent, Claggett,
+Click, Daniels, Deeter, Demetriou, Fischer, Fowler Arthur, Glassburn, Hall, T.,
+Hiner, Holmes, Hoops, Isaacsohn, John, Johnson, King, Kishman, Klopfenstein,
+LaRe, Lear, Lorenz, Manning, Mathews, A., Miller, M., Mohamed, Oelslager,
+Peterson, Plummer, Ray, Ritter, Robb Blasdel, Salvo, Santucci, Schmidt, Sigrist,
+Sims, Troy, Upchurch, White, A., Willis, Workman, Young
+A BILL
+To enact section 5.282 of the Revised Code to 1
+designate the fourth Thursday of January as 2
+"NASA Day of Remembrance." 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.282 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.282. The fourth Thursday of January is designated 6
+as "NASA Day of Remembrance" to pay tribute to and honor members 7
+of the national aeronautics and space administration family who 8
+have lost their lives while furthering the cause of space 9
+exploration and discovery for the benefit of all, including the 10
+crews of Apollo 1 and space shuttles Challenger and Columbia. 11
+
+[DELETED: nH BIL  " :     1.1]

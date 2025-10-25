@@ -1,0 +1,492 @@
+Title: Cosponsors: Representatives King, Salvo, Robb Blasdel, Ritter
+Official Title: Cosponsors: Representatives King, Salvo, Robb Blasdel, Ritter
+Number of Sections: 5
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 226
+2025-2026
+Representative Miller, M.
+To enact section 1349.07 of the Revised Code to 1
+require application stores to offer parental 2
+control options and to obtain parental consent 3
+before permitting individuals under 16 years of 4
+age to download certain applications. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 1349.07 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 1349.07. (A) As used in this section : 8
+(1) "Application store" means a publicly available web 9
+site, software application, or online service that distributes a 10
+third-party platform's software applications to a computer, 11
+mobile device, or any other general purpose computing device. 12
+(2)(a) "Broadband internet access service" means a mass- 13
+market retail service by wire or radio that provides the 14
+capability to transmit data to and receive data from all or 15
+substantially all internet endpoints, including any capabilities 16
+that are incidental to and enable the operation of the 17
+communications service, but excluding dial-up internet access 18
+service. 19
+H. B. No. 226 Page 2
+As Introduced
+(b) "Broadband internet access service" includes any 20
+service that the federal communications commission finds to be 21
+providing a functional equivalent of the service described in 22
+division (A)(2)(a) of this section or that is used to evade the 23
+protections set forth in this section. 24
+(3) "Child" means an individual consumer known to be under 25
+eighteen years of age. 26
+(4)(a) "Covered application" means a software application, 27
+web site, or other online service that is likely to be accessed 28
+by children and that is intended to be run or directed by a user 29
+on a computer, mobile device, or other general purpose computing 30
+device. 31
+(b) "Covered application" does not include any of the 32
+following: 33
+(i) A broadband internet access service; 34
+(ii) A telecommunications service, as defined in 47 U.S.C. 35
+153; 36
+(iii) The delivery or use of a physical product 37
+unconnected to the internet. 38
+(5) "Covered entity" means a covered manufacturer or 39
+developer of a covered application. 40
+(6) "Covered manufacturer" means a manufacturer of a 41
+device, an operating system for a device, or an application 42
+store. 43
+(7) "Developer" means any person, entity, or organization 44
+that creates, owns, or controls an application and is 45
+responsible for the design, development, maintenance, and 46
+distribution of the application to users through an application 47
+H. B. No. 226 Page 3
+As Introduced
+store. 48
+(8)(a) "Device" means a device or portion of a device that 49
+is designed for and capable of communicating across a computer 50
+network with other computers or devices for the purpose of 51
+transmitting, receiving, or storing data, including a desktop 52
+computer, laptop, cellular telephone, tablet, or other device 53
+designed for and capable of communicating with or across a 54
+computer network and that is used for such purpose. 55
+(b) "Device" does not include any of the following: 56
+(i) Cable, fiber, or wireless modems; 57
+(ii) Home routers, whether standalone or combined with 58
+cable, fiber, or a wireless modem; 59
+(iii) Managed set-top boxes; 60
+(iv) Any physical object that only supports communications 61
+within a closed user group or private network available to a 62
+limited set of users. 63
+(9) "Likely to be accessed by children" means, in the 64
+context of an application, that either or both of the following 65
+apply: 66
+(a) Competent and reliable evidence regarding audience 67
+composition demonstrates that the application is routinely 68
+accessed by children; 69
+(b) Internal research findings determine that the 70
+application is routinely accessed by children. 71
+(10) "Parent" includes a legal guardian. 72
+(11) "User" means an individual consumer. 73
+(B) Beginning January 1, 2026, no developer shall 74
+H. B. No. 226 Page 4
+As Introduced
+distribute an application to users in this state or design, 75
+develop, or maintain an application distributed to users in this 76
+state without first determining whether the application is 77
+likely to be accessed by children and, if so, providing notice 78
+of that determination to each application store that distributes 79
+the application to users in this state. 80
+(C)(1) The covered manufacturer of a device sold in this 81
+state on or after January 1, 2026, shall, upon the initial 82
+activation of the device, take commercially reasonable and 83
+technically feasible steps to determine or estimate the age of 84
+the primary user of the device. 85
+(2) The covered manufacturer of an operating system for a 86
+device sold in this state before January 1, 2026, shall take 87
+commercially reasonable and technically feasible steps to 88
+determine or estimate the age of the primary user of the device 89
+following the first update to the operating system that occurs 90
+after January 1, 2027. 91
+(D) On and after January 1, 2026, the covered manufacturer 92
+of an application store with users in this state shall take 93
+commercially reasonable and technically feasible steps to do all 94
+of the following: 95
+(1) Provide a mechanism for developers to provide notice 96
+that an application is likely to be accessed by children; 97
+(2) Obtain parental consent before permitting a user in 98
+this state who the covered manufacturer knows or should know is 99
+under sixteen years of age to download a covered application 100
+from the application store; 101
+(3) Provide developers of covered applications in the 102
+application store with a signal regarding whether a parent has 103
+H. B. No. 226 Page 5
+As Introduced
+provided consent when required under division (D)(2) of this 104
+
+Section 3:
+section; 105
+(4) Provide a parent who consents to a child downloading 106
+an application under division (D)(2) of this section with the 107
+option to connect with the developer of the application for the 108
+purpose of facilitating parental supervision tools. 109
+(E) On and after January 1, 2026, a covered manufacturer 110
+shall take commercially reasonable and technically feasible 111
+steps to provide developers of covered applications with a 112
+digital signal via a real-time application programming interface 113
+regarding whether the covered manufacturer knows or estimates a 114
+user to be: 115
+(1) Under thirteen years of age; 116
+(2) At least thirteen years of age, and under sixteen 117
+years of age; 118
+(3) At least sixteen years of age, and under eighteen 119
+years of age; 120
+(4) At least eighteen years of age. 121
+(F) On and after January 1, 2026, a developer of a covered 122
+application shall, to the extent applicable and technically 123
+feasible, provide readily available features for parents to 124
+support a child's use of the covered application. Such features 125
+shall, at minimum, do all of the following: 126
+(1) Manage which accounts are affirmatively linked to the 127
+child; 128
+(2) Manage the delivery of age appropriate content; 129
+(3) Limit the amount of time that the child spends daily 130
+H. B. No. 226 Page 6
+As Introduced
+on the covered application. 131
+(G)(1) This section shall not be construed to require a 132
+covered entity to access, collect, retain, re-identify, or link 133
+information that the covered entity would not otherwise access, 134
+collect, retain, re-identify, or link in the ordinary course of 135
+business, except as absolutely necessary to comply with 136
+divisions (C), (D), and (E) of this section. 137
+(2) A covered entity is not required to implement new 138
+account controls or safety settings if the covered entity's 139
+existing account controls and safety settings are sufficient to 140
+comply with this section. 141
+(H)(1) Nothing in this section shall be construed to 142
+modify, impair, or supersede the operation of any antitrust law, 143
+including Chapter 1331. of the Revised Code and 15 U.S.C. 1, et 144
+seq. 145
+(2) An application store shall comply with this section in 146
+a nondiscriminatory manner, including by: 147
+(a) Imposing at least the same restrictions and 148
+obligations on the application store's own applications and 149
+application distribution as the application store does on third- 150
+party applications or application distributors; 151
+(b) Not using data collected from third parties, or 152
+consent mechanisms deployed for third parties, in the course of 153
+compliance with this section, for any of the following: 154
+(i) To compete against those third parties; 155
+(ii) To give the application store's services preference 156
+relative to those of third parties; 157
+(iii) To act in a manner adverse to competition. 158
+H. B. No. 226 Page 7
+As Introduced
+(I)(1) The attorney general may bring a civil action 159
+against a covered entity that the attorney general believes to 160
+have violated this section. Before initiating such an 161
+enforcement action, the attorney general shall provide written 162
+notice to the covered entity identifying and explaining the 163
+basis for each alleged violation. 164
+(2) Except as otherwise provided in division (I)(4) of 165
+this section, the attorney general shall not commence an 166
+enforcement action if the covered entity, within forty-five days 167
+after notice of the alleged violations is sent, does both of the 168
+following: 169
+(a) Cures all violations described in the notice; 170
+(b) Provides the attorney general with a written statement 171
+indicating that the violations are cured and agreeing to refrain 172
+from further violations of this section. 173
+(3) If the covered entity does not timely respond or 174
+continues to violate this section after receiving the notice, 175
+the attorney general may initiate the enforcement action and 176
+seek damages of up to two thousand five hundred dollars for each 177
+violation. Except as otherwise provided in division (I)(4) of 178
+this section, damages begin to accrue on the forty-sixth day 179
+following the date the attorney general sends notice of the 180
+violation. 181
+(4) Division (I)(2) of this section does not apply if the 182
+covered entity fails to timely cure all of the violations 183
+described in the notice or commits a subsequent violation of the 184
+same type after curing the initial violation under that 185
+division. Notwithstanding division (I)(3) of this section, if a 186
+covered entity commits a subsequent violation of the same type 187
+H. B. No. 226 Page 8
+As Introduced
+after reporting that the initial violation is cured, the 188
+attorney general may bring a civil action at any time after 189
+sending notice of the violation under division (I)(1) of this 190
+
+Section 4:
+section. Damages for the subsequent violation begin to accrue on 191
+the date the violation occurs. 192
+(5) It is an affirmative defense to a violation of 193
+division (F) of this section if the covered entity acted in 194
+reasonable reliance on a covered manufacturer's signals 195
+regarding a user's age or parental consent. 196
+(6) It is an affirmative defense to a violation of this 197
+
+Section 5:
+section if the covered entity took commercially reasonable and 198
+technically feasible steps to comply. 199
+(7) Nothing in this section shall be construed to provide 200
+a private right of action. The attorney general has the 201
+exclusive authority to enforce this section. 202
+[DELETED: nH    . ::  1 1.1-1 1 1 1 1 1.1]
+[DELETED: 6  2 2 2 2.2 2.2 2 2 2 3.3 3:3;3 3;3 3.3 3.4 4 4.4 4 4 4 4]
+[DELETED: 6 .4 4 5 5 5 5 5.5:5;5 5;5;6 6 6.6 6 6:6 6 6;6 7.7.7.7 7]
+[DELETED: 6  7 7 7 7 7.8 8 8 8 8.8 8 8 8 8 9.9 9 9 9:9 9;9 9 9 1;1 1 1]
+[DELETED: 6  1;1 1 1 1.1 1 1 1 1 1:1;1 1;1 1;1.1 1 1 1 1:1 1;1;1 1]
+[DELETED: 6 .1 1 1 1 1 1.1 1 1 1.1 1 1 1.1 1:1 1 1-1;1 1 1:1;1 1;1.1]
+[DELETED: 6  1 1 1 1 1.1 1 1 1 1:1;1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1.1 1 1 1.1 1 1.1 2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 226
+2025-2026
+Representative Miller, M.
+Cosponsors: Representatives King, Salvo, Robb Blasdel, Ritter
+To enact section 1349.07 of the Revised Code to 1
+require application stores to offer parental 2
+control options and to obtain parental consent 3
+before permitting individuals under 16 years of 4
+age to download certain applications. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 1349.07 of the Revised Code be 6
+enacted to read as follows: 7
+Sec. 1349.07. (A) As used in this section : 8
+(1) "Application store" means a publicly available web 9
+site, software application, or online service that distributes a 10
+third-party platform's software applications to a computer, 11
+mobile device, or any other general purpose computing device. 12
+(2)(a) "Broadband internet access service" means a mass- 13
+market retail service by wire or radio that provides the 14
+capability to transmit data to and receive data from all or 15
+substantially all internet endpoints, including any capabilities 16
+that are incidental to and enable the operation of the 17
+communications service, but excluding dial-up internet access 18
+service. 19
+
+H. B. No. 226 Page 2
+As Introduced
+(b) "Broadband internet access service" includes any 20
+service that the federal communications commission finds to be 21
+providing a functional equivalent of the service described in 22
+division (A)(2)(a) of this section or that is used to evade the 23
+protections set forth in this section. 24
+(3) "Child" means an individual consumer known to be under 25
+eighteen years of age. 26
+(4)(a) "Covered application" means a software application, 27
+web site, or other online service that is likely to be accessed 28
+by children and that is intended to be run or directed by a user 29
+on a computer, mobile device, or other general purpose computing 30
+device. 31
+(b) "Covered application" does not include any of the 32
+following: 33
+(i) A broadband internet access service; 34
+(ii) A telecommunications service, as defined in 47 U.S.C. 35
+153; 36
+(iii) The delivery or use of a physical product 37
+unconnected to the internet. 38
+(5) "Covered entity" means a covered manufacturer or 39
+developer of a covered application. 40
+(6) "Covered manufacturer" means a manufacturer of a 41
+device, an operating system for a device, or an application 42
+store. 43
+(7) "Developer" means any person, entity, or organization 44
+that creates, owns, or controls an application and is 45
+responsible for the design, development, maintenance, and 46
+distribution of the application to users through an application 47
+
+H. B. No. 226 Page 3
+As Introduced
+store. 48
+(8)(a) "Device" means a device or portion of a device that 49
+is designed for and capable of communicating across a computer 50
+network with other computers or devices for the purpose of 51
+transmitting, receiving, or storing data, including a desktop 52
+computer, laptop, cellular telephone, tablet, or other device 53
+designed for and capable of communicating with or across a 54
+computer network and that is used for such purpose. 55
+(b) "Device" does not include any of the following: 56
+(i) Cable, fiber, or wireless modems; 57
+(ii) Home routers, whether standalone or combined with 58
+cable, fiber, or a wireless modem; 59
+(iii) Managed set-top boxes; 60
+(iv) Any physical object that only supports communications 61
+within a closed user group or private network available to a 62
+limited set of users. 63
+(9) "Likely to be accessed by children" means, in the 64
+context of an application, that either or both of the following 65
+apply: 66
+(a) Competent and reliable evidence regarding audience 67
+composition demonstrates that the application is routinely 68
+accessed by children; 69
+(b) Internal research findings determine that the 70
+application is routinely accessed by children. 71
+(10) "Parent" includes a legal guardian. 72
+(11) "User" means an individual consumer. 73
+(B) Beginning January 1, 2026, no developer shall 74
+
+H. B. No. 226 Page 4
+As Introduced
+distribute an application to users in this state or design, 75
+develop, or maintain an application distributed to users in this 76
+state without first determining whether the application is 77
+likely to be accessed by children and, if so, providing notice 78
+of that determination to each application store that distributes 79
+the application to users in this state. 80
+(C)(1) The covered manufacturer of a device sold in this 81
+state on or after January 1, 2026, shall, upon the initial 82
+activation of the device, take commercially reasonable and 83
+technically feasible steps to determine or estimate the age of 84
+the primary user of the device. 85
+(2) The covered manufacturer of an operating system for a 86
+device sold in this state before January 1, 2026, shall take 87
+commercially reasonable and technically feasible steps to 88
+determine or estimate the age of the primary user of the device 89
+following the first update to the operating system that occurs 90
+after January 1, 2027. 91
+(D) On and after January 1, 2026, the covered manufacturer 92
+of an application store with users in this state shall take 93
+commercially reasonable and technically feasible steps to do all 94
+of the following: 95
+(1) Provide a mechanism for developers to provide notice 96
+that an application is likely to be accessed by children; 97
+(2) Obtain parental consent before permitting a user in 98
+this state who the covered manufacturer knows or should know is 99
+under sixteen years of age to download a covered application 100
+from the application store; 101
+(3) Provide developers of covered applications in the 102
+application store with a signal regarding whether a parent has 103
+
+H. B. No. 226 Page 5
+As Introduced
+provided consent when required under division (D)(2) of this 104
+section; 105
+(4) Provide a parent who consents to a child downloading 106
+an application under division (D)(2) of this section with the 107
+option to connect with the developer of the application for the 108
+purpose of facilitating parental supervision tools. 109
+(E) On and after January 1, 2026, a covered manufacturer 110
+shall take commercially reasonable and technically feasible 111
+steps to provide developers of covered applications with a 112
+digital signal via a real-time application programming interface 113
+regarding whether the covered manufacturer knows or estimates a 114
+user to be: 115
+(1) Under thirteen years of age; 116
+(2) At least thirteen years of age, and under sixteen 117
+years of age; 118
+(3) At least sixteen years of age, and under eighteen 119
+years of age; 120
+(4) At least eighteen years of age. 121
+(F) On and after January 1, 2026, a developer of a covered 122
+application shall, to the extent applicable and technically 123
+feasible, provide readily available features for parents to 124
+support a child's use of the covered application. Such features 125
+shall, at minimum, do all of the following: 126
+(1) Manage which accounts are affirmatively linked to the 127
+child; 128
+(2) Manage the delivery of age appropriate content; 129
+(3) Limit the amount of time that the child spends daily 130
+
+H. B. No. 226 Page 6
+As Introduced
+on the covered application. 131
+(G)(1) This section shall not be construed to require a 132
+covered entity to access, collect, retain, re-identify, or link 133
+information that the covered entity would not otherwise access, 134
+collect, retain, re-identify, or link in the ordinary course of 135
+business, except as absolutely necessary to comply with 136
+divisions (C), (D), and (E) of this section. 137
+(2) A covered entity is not required to implement new 138
+account controls or safety settings if the covered entity's 139
+existing account controls and safety settings are sufficient to 140
+comply with this section. 141
+(H)(1) Nothing in this section shall be construed to 142
+modify, impair, or supersede the operation of any antitrust law, 143
+including Chapter 1331. of the Revised Code and 15 U.S.C. 1, et 144
+seq. 145
+(2) An application store shall comply with this section in 146
+a nondiscriminatory manner, including by: 147
+(a) Imposing at least the same restrictions and 148
+obligations on the application store's own applications and 149
+application distribution as the application store does on third- 150
+party applications or application distributors; 151
+(b) Not using data collected from third parties, or 152
+consent mechanisms deployed for third parties, in the course of 153
+compliance with this section, for any of the following: 154
+(i) To compete against those third parties; 155
+(ii) To give the application store's services preference 156
+relative to those of third parties; 157
+(iii) To act in a manner adverse to competition. 158
+
+H. B. No. 226 Page 7
+As Introduced
+(I)(1) The attorney general may bring a civil action 159
+against a covered entity that the attorney general believes to 160
+have violated this section. Before initiating such an 161
+enforcement action, the attorney general shall provide written 162
+notice to the covered entity identifying and explaining the 163
+basis for each alleged violation. 164
+(2) Except as otherwise provided in division (I)(4) of 165
+this section, the attorney general shall not commence an 166
+enforcement action if the covered entity, within forty-five days 167
+after notice of the alleged violations is sent, does both of the 168
+following: 169
+(a) Cures all violations described in the notice; 170
+(b) Provides the attorney general with a written statement 171
+indicating that the violations are cured and agreeing to refrain 172
+from further violations of this section. 173
+(3) If the covered entity does not timely respond or 174
+continues to violate this section after receiving the notice, 175
+the attorney general may initiate the enforcement action and 176
+seek damages of up to two thousand five hundred dollars for each 177
+violation. Except as otherwise provided in division (I)(4) of 178
+this section, damages begin to accrue on the forty-sixth day 179
+following the date the attorney general sends notice of the 180
+violation. 181
+(4) Division (I)(2) of this section does not apply if the 182
+covered entity fails to timely cure all of the violations 183
+described in the notice or commits a subsequent violation of the 184
+same type after curing the initial violation under that 185
+division. Notwithstanding division (I)(3) of this section, if a 186
+covered entity commits a subsequent violation of the same type 187
+
+H. B. No. 226 Page 8
+As Introduced
+after reporting that the initial violation is cured, the 188
+attorney general may bring a civil action at any time after 189
+sending notice of the violation under division (I)(1) of this 190
+section. Damages for the subsequent violation begin to accrue on 191
+the date the violation occurs. 192
+(5) It is an affirmative defense to a violation of 193
+division (F) of this section if the covered entity acted in 194
+reasonable reliance on a covered manufacturer's signals 195
+regarding a user's age or parental consent. 196
+(6) It is an affirmative defense to a violation of this 197
+section if the covered entity took commercially reasonable and 198
+technically feasible steps to comply. 199
+(7) Nothing in this section shall be construed to provide 200
+a private right of action. The attorney general has the 201
+exclusive authority to enforce this section. 202
+
+[DELETED: nH    . ::  1 1.1-1 1 1 1 1 1.1]
+[DELETED: 6  2 2 2 2.2 2.2 2 2 2 3.3 3:3;3 3;3 3.3 3.4 4 4.4 4 4 4 4]
+[DELETED: 6 .4 4 5 5 5 5 5.5:5;5 5;5;6 6 6.6 6 6:6 6 6;6 7.7.7.7 7]
+[DELETED: 6  7 7 7 7 7.8 8 8 8 8.8 8 8 8 8 9.9 9 9 9:9 9;9 9 9 1;1 1 1]
+[DELETED: 6  1;1 1 1 1.1 1 1 1 1 1:1;1 1;1 1;1.1 1 1 1 1:1 1;1;1 1]
+[DELETED: 6 .1 1 1 1 1 1.1 1 1 1.1 1 1 1.1 1:1 1 1-1;1 1 1:1;1 1;1.1]
+[DELETED: 6  1 1 1 1 1.1 1 1 1 1:1;1 1 1.1 1 1 1 1 1 1 1.1 1 1 1 1 1 1]
+[DELETED: 6  1 1 1 1.1 1 1 1.1 1 1.1 2 2.2]
