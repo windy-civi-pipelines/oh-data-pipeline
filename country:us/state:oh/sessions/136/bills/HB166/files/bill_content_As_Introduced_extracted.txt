@@ -1,0 +1,49 @@
+Title: Cosponsors: Representatives Brennan, Brent, Piccolantonio, Brownlee, Click,
+Official Title: Cosponsors: Representatives Brennan, Brent, Piccolantonio, Brownlee, Click,
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 166
+2025-2026
+Representatives Lawson-Rowe, Williams
+Fowler Arthur, Jarrells, King, Lett, Miller, K., Rader, Sigrist, Sims, Sweeney,
+Synenberg, Thomas, D., Upchurch
+To enact section 5.2324 of the Revised Code to 1
+designate March 10 as "Harriet Tubman Day." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2324 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.2324. The tenth day of March is designated as 5
+"Harriet Tubman Day." 6
+[DELETED: nH " : "]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 166
+2025-2026
+Representatives Lawson-Rowe, Williams
+Cosponsors: Representatives Brennan, Brent, Piccolantonio, Brownlee, Click,
+Fowler Arthur, Jarrells, King, Lett, Miller, K., Rader, Sigrist, Sims, Sweeney,
+Synenberg, Thomas, D., Upchurch
+To enact section 5.2324 of the Revised Code to 1
+designate March 10 as "Harriet Tubman Day." 2
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2324 of the Revised Code be 3
+enacted to read as follows: 4
+Sec. 5.2324. The tenth day of March is designated as 5
+"Harriet Tubman Day." 6
+
+[DELETED: nH " : "]

@@ -1,0 +1,244 @@
+Title: Cosponsors: Representatives Fischer, John, Klopfenstein, Claggett, Mullins,
+Official Title: Cosponsors: Representatives Fischer, John, Klopfenstein, Claggett, Mullins,
+Number of Sections: 6
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 98
+2025-2026
+Representatives Santucci, Williams
+Thomas, D., Workman, Daniels
+A BILL
+To enact section 3301.25 of the Revised Code to 1
+establish the Community Connectors Workforce 2
+Program and to make an appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 3301.25 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3301.25. (A) The department of education and 6
+workforce shall establish the community connectors workforce 7
+program to support connecting students to jobs, internships, and 8
+career professionals in their communities. 9
+(B)(1) The department shall oversee the program, and each 10
+educational service center shall administer the program for the 11
+school districts it serves. Each educational service center 12
+shall, to the extent that funds are appropriated by the general 13
+assembly to do so, employ at least one, but not more than three, 14
+individuals to work as directors in high schools in the 15
+districts to which it provides services. Each educational 16
+service center shall determine the number of directors it 17
+H. B. No. 98 Page 2
+As Introduced
+employs under this section. 18
+(2) Educational service centers shall determine any 19
+eligibility or application requirements for the directors, 20
+however the director shall have experience in job placement, 21
+school counseling, or primary and secondary education. 22
+(C) Directors employed under division (B) of this section 23
+shall do all of the following: 24
+(1) Collaborate with OhioMeansJobs and other community 25
+partners, as identified by the director, to identify available 26
+jobs, apprenticeships, and internships in the community, and 27
+engage students in career mentoring with community members; 28
+(2) Determine the number of students that may participate 29
+in the program at the district or school; 30
+(3) Create an application and procedures to apply for the 31
+program and, as a part of the application procedures, interview 32
+students and administer an aptitude test, as selected by the 33
+director, to assess their professional skills to determine a 34
+student's eligibility and preparedness to participate in the 35
+program; 36
+(4) Offer dedicated and regular classroom instruction to 37
+the maximum number of students possible in soft skills and 38
+professional skills training, including problem-solving, time 39
+management, creative and critical thinking, communication and 40
+civility, and ethics. If a district or school currently offers 41
+similar instruction the director shall collaborate with those 42
+instructors, other appropriate school officials that have 43
+commensurate experience, and professionals who support the 44
+development of career and life pathways in the school. Students 45
+may use instruction under division (B)(4) of this section to 46
+H. B. No. 98 Page 3
+As Introduced
+qualify for the OhioMeansJobs-readiness seal established under 47
+
+Section 3:
+section 3313.6112 of the Revised Code. 48
+(5) Report to the educational service center that employs 49
+the director and to the department of education all of the 50
+following: 51
+(a) The number of students participating in the program; 52
+(b) The number of students who are placed in jobs, 53
+apprenticeships, or internships through the program; 54
+(c) The number of students who receive soft skills and 55
+professional skills training offered by the director. 56
+(D) Any business or organization that employs a student 57
+through the program shall comply with the applicable minor labor 58
+laws prescribed under section 4109.02 of the Revised Code. 59
+
+Section 4:
+Section 2. All items in this act are hereby appropriated 60
+as designated out of any moneys in the state treasury to the 61
+credit of the designated fund. For all operating appropriations 62
+made in this act, those in the first column are for fiscal year 63
+2026 and those in the second column are for fiscal year 2027. 64
+The operating appropriations made in this act are in addition to 65
+any other operating appropriations made for these fiscal years. 66
+
+Section 5:
+Section 3. 67
+68
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B State Lottery Fund Group
+C 7017 200629 Community Connectors $8,000,000 $8,000,000
+H. B. No. 98 Page 4
+As Introduced
+Workforce Program
+D TOTAL SLF State Lottery Fund Group $8,000,000 $8,000,000
+E TOTAL ALL BUDGET FUND GROUPS $8,000,000 $8,000,000
+COMMUNITY CONNECTORS 69
+The foregoing appropriation item 200629, Community 70
+Connectors Workforce Program, shall be used for the Community 71
+Connectors Workforce Program created in section 3301.25 of the 72
+Revised Code. 73
+
+Section 6:
+Section 4. Within the limits set forth in this act, the 74
+Director of Budget and Management shall establish accounts 75
+indicating the source and amount of funds for each appropriation 76
+made in this act, and shall determine the manner in which 77
+appropriation accounts shall be maintained. Expenditures from 78
+operating appropriations contained in this act shall be 79
+accounted for as though made in, and are subject to all 80
+applicable provisions of, the main operating appropriations act 81
+of the 136th General Assembly. 82
+[DELETED: nH BIL  . :   . 1 1 1 1 1 1 1 1]
+[DELETED: 8 .1 1 2 2.2 2 2 2 2 2 2 2 3 3 3 3 3 3;3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 8  4 4 4 5:5 5 5 5 5.5 5 5.5 6 6 6 6 6 6.6 6234ES7729C $0$]
+[DELETED: 8 Tp$0$TS$0$S6 7 7 7.7 7 7 7 7 7 7 8 8 8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 98
+2025-2026
+Representatives Santucci, Williams
+Cosponsors: Representatives Fischer, John, Klopfenstein, Claggett, Mullins,
+Thomas, D., Workman, Daniels
+A BILL
+To enact section 3301.25 of the Revised Code to 1
+establish the Community Connectors Workforce 2
+Program and to make an appropriation. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3301.25 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 3301.25. (A) The department of education and 6
+workforce shall establish the community connectors workforce 7
+program to support connecting students to jobs, internships, and 8
+career professionals in their communities. 9
+(B)(1) The department shall oversee the program, and each 10
+educational service center shall administer the program for the 11
+school districts it serves. Each educational service center 12
+shall, to the extent that funds are appropriated by the general 13
+assembly to do so, employ at least one, but not more than three, 14
+individuals to work as directors in high schools in the 15
+districts to which it provides services. Each educational 16
+service center shall determine the number of directors it 17
+
+H. B. No. 98 Page 2
+As Introduced
+employs under this section. 18
+(2) Educational service centers shall determine any 19
+eligibility or application requirements for the directors, 20
+however the director shall have experience in job placement, 21
+school counseling, or primary and secondary education. 22
+(C) Directors employed under division (B) of this section 23
+shall do all of the following: 24
+(1) Collaborate with OhioMeansJobs and other community 25
+partners, as identified by the director, to identify available 26
+jobs, apprenticeships, and internships in the community, and 27
+engage students in career mentoring with community members; 28
+(2) Determine the number of students that may participate 29
+in the program at the district or school; 30
+(3) Create an application and procedures to apply for the 31
+program and, as a part of the application procedures, interview 32
+students and administer an aptitude test, as selected by the 33
+director, to assess their professional skills to determine a 34
+student's eligibility and preparedness to participate in the 35
+program; 36
+(4) Offer dedicated and regular classroom instruction to 37
+the maximum number of students possible in soft skills and 38
+professional skills training, including problem-solving, time 39
+management, creative and critical thinking, communication and 40
+civility, and ethics. If a district or school currently offers 41
+similar instruction the director shall collaborate with those 42
+instructors, other appropriate school officials that have 43
+commensurate experience, and professionals who support the 44
+development of career and life pathways in the school. Students 45
+may use instruction under division (B)(4) of this section to 46
+
+H. B. No. 98 Page 3
+As Introduced
+qualify for the OhioMeansJobs-readiness seal established under 47
+section 3313.6112 of the Revised Code. 48
+(5) Report to the educational service center that employs 49
+the director and to the department of education all of the 50
+following: 51
+(a) The number of students participating in the program; 52
+(b) The number of students who are placed in jobs, 53
+apprenticeships, or internships through the program; 54
+(c) The number of students who receive soft skills and 55
+professional skills training offered by the director. 56
+(D) Any business or organization that employs a student 57
+through the program shall comply with the applicable minor labor 58
+laws prescribed under section 4109.02 of the Revised Code. 59
+Section 2. All items in this act are hereby appropriated 60
+as designated out of any moneys in the state treasury to the 61
+credit of the designated fund. For all operating appropriations 62
+made in this act, those in the first column are for fiscal year 63
+2026 and those in the second column are for fiscal year 2027. 64
+The operating appropriations made in this act are in addition to 65
+any other operating appropriations made for these fiscal years. 66
+Section 3. 67
+68
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B State Lottery Fund Group
+C 7017 200629 Community Connectors $8,000,000 $8,000,000
+
+H. B. No. 98 Page 4
+As Introduced
+Workforce Program
+D TOTAL SLF State Lottery Fund Group $8,000,000 $8,000,000
+E TOTAL ALL BUDGET FUND GROUPS $8,000,000 $8,000,000
+COMMUNITY CONNECTORS 69
+The foregoing appropriation item 200629, Community 70
+Connectors Workforce Program, shall be used for the Community 71
+Connectors Workforce Program created in section 3301.25 of the 72
+Revised Code. 73
+Section 4. Within the limits set forth in this act, the 74
+Director of Budget and Management shall establish accounts 75
+indicating the source and amount of funds for each appropriation 76
+made in this act, and shall determine the manner in which 77
+appropriation accounts shall be maintained. Expenditures from 78
+operating appropriations contained in this act shall be 79
+accounted for as though made in, and are subject to all 80
+applicable provisions of, the main operating appropriations act 81
+of the 136th General Assembly. 82
+
+[DELETED: nH BIL  . :   . 1 1 1 1 1 1 1 1]
+[DELETED: 8 .1 1 2 2.2 2 2 2 2 2 2 2 3 3 3 3 3 3;3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 8  4 4 4 5:5 5 5 5 5.5 5 5.5 6 6 6 6 6 6.6 6234ES7729C $0$]
+[DELETED: 8 Tp$0$TS$0$S6 7 7 7.7 7 7 7 7 7 7 8 8 8]

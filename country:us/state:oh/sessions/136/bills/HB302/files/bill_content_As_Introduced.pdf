@@ -1,0 +1,257 @@
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 302
+2025-2026
+Representatives Workman, Plummer
+To enact sections 1349.07, 1349.071, 1349.072, 1
+1349.073, 1349.074, 1349.075, and 1349.076 of 2
+the Revised Code to establish age verification 3
+and parental consent requirements for certain 4
+developers and application stores. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 1349.07, 1349.071, 1349.072, 6
+1349.073, 1349.074, 1349.075, and 1349.076 of the Revised Code 7
+be enacted to read as follows: 8
+Sec. 1349.07. As used in sections 1349.07 to 1349.076 of 9
+the Revised Code: 10
+(A) "Adult" means an account holder who is or is estimated 11
+to be eighteen years of age or older. 12
+(B) "Age category" means one of the following categories 13
+based on age: 14
+(1) Minor; 15
+(2) Adult. 16
+(C) "Age signal" means a signal that indicates an account 17
+holder's age category and the methods by which that information 18
+has been assured, which the account holder or the account 19
+
+H. B. No. 302 Page 2
+As Introduced
+holder's parent has agreed to share. 20
+(D) "Application" means a software program distributed 21
+through an application distribution provider and that is 22
+designed to be run on a connected device and to perform, or to 23
+help the user perform, a specific task on the connected device. 24
+"Application" does not include web sites, internet browser 25
+extensions, or software with a primary purpose of extending the 26
+functionality of an internet browser. 27
+(E) "Application distributor" means a software application 28
+that distributes applications from developers to users of a 29
+connected device. "Application distributor" does not include 30
+internet browsers. 31
+(F) "Application distribution provider" means a person 32
+that owns, operates, or controls an application distributor. 33
+(G) "Connected device" means a smartphone, tablet, gaming 34
+console, or virtual reality device that enables users to connect 35
+to the internet and download software applications. 36
+(H) "Covered application" means an application that is not 37
+an application distributor and that provides a different 38
+experience for adults than for minors, such as different account 39
+types, content, features, or advertising or data practices 40
+depending on the user's age. "Covered application" does not 41
+include internet browsers or search engines. 42
+(I) "Developer" means any person that creates, owns, or 43
+controls an application. 44
+(J) "Filter" means a generally accepted and commercially 45
+reasonable technology used on a connected device that is capable 46
+of preventing the connected device from accessing or displaying 47
+obscene material, through internet browsers or search engines, 48
+
+H. B. No. 302 Page 3
+As Introduced
+in accordance with prevailing industry standards, including 49
+blocking known web sites primarily intended for the distribution 50
+of obscene material via mobile data networks, wired internet 51
+networks, and wireless internet networks. 52
+(K) "Internet browser" means a software program that 53
+allows users to access and display web sites on the internet. 54
+(L) "Minor" means an account holder who is or is estimated 55
+to be under the age of eighteen. 56
+(M) "Obscene" and "material" have the same meanings as in 57
+section 2907.01 of the Revised Code. 58
+(N) "Operating system" means software that manages 59
+applications on a connected device, including those 60
+applications' access to the network, hardware, and other device 61
+resources. 62
+(O) "Operating system provider" means the company that 63
+owns, operates, or controls the operating system on a connected 64
+device. 65
+(P) "Parent" includes a legal guardian. 66
+(Q) "Search engine" means software that allows users to 67
+input queries in order to perform searches of content on web 68
+sites on the basis of a query in the form of a keyword, voice 69
+request, phrase, or other input, and returns results in any 70
+format in which information related to the query can be found. 71
+(R) "Verifiable parental consent" means obtaining the 72
+consent of a minor's parent in such a manner that is reasonably 73
+calculated, in light of available technology, to ensure that the 74
+person providing consent is the minor's parent. "Verifiable 75
+parental consent" includes complying with the verifiable 76
+
+H. B. No. 302 Page 4
+As Introduced
+parental consent requirements of the "Children's Online Privacy 77
+Protection Act of 1998," 15 U.S.C. 6501, et seq. 78
+Sec. 1349.071. (A) An application distribution provider 79
+shall do all of the following: 80
+(1) Request that a prospective account holder declares the 81
+prospective account holder's age when creating an account with 82
+the application distribution provider; 83
+(2) Provide an account holder who is not estimated to be 84
+an adult with the opportunity to verify that the account holder 85
+is an adult; 86
+(3) Provide the developer of a covered application with 87
+the technical ability to request an age signal in which the 88
+account holder or the account holder's parent has agreed to 89
+share that information; 90
+(4) Provide the developer of a covered application with 91
+the ability to prevent account holders who are not adults from 92
+acquiring the developer's covered application from the 93
+application distributor, at the developer's request; 94
+(5) Provide the capability to developers to view relevant 95
+parental controls for covered applications through a centralized 96
+parental controls interface and offer the developer of a covered 97
+application the technical ability to integrate parental controls 98
+for the developer's covered application into that centralized 99
+interface; 100
+(6) Impose the same, substantially the same, or greater 101
+restrictions and obligations on covered applications for which 102
+the application distribution provider is also the developer as 103
+it does on third-party covered applications or application 104
+distribution providers in complying with sections 1349.07 to 105
+
+H. B. No. 302 Page 5
+As Introduced
+1349.076 of the Revised Code; 106
+(7) Not use data collected from third parties in the 107
+course of compliance with sections 1349.07 to 1349.076 of the 108
+Revised Code to give the application distribution provider 109
+preference relative to those of third parties, or to otherwise 110
+use the data in an anti-competitive manner. 111
+(B) An application distribution provider may use 112
+commercially reasonable efforts to estimate the age category of 113
+an account holder with a reasonable level of certainty 114
+proportionate to the risks that arise from access to and use of 115
+the relevant service or portion thereof. 116
+Sec. 1349.072. (A) A developer of a covered application 117
+shall do all of the following: 118
+(1) Report to the application distribution provider 119
+whether the developer's applications provide a different 120
+experience for account holders that are adults than for account 121
+holders that are minors; 122
+(2) Provide tools to help parents support minors using the 123
+developer's covered applications; 124
+(3) Use commercially reasonable efforts to estimate the 125
+age category of an account holder with a reasonable level of 126
+certainty proportionate to the risks that arise from access to 127
+and use of the covered application or portion thereof; 128
+(4) Make a reasonable effort, proportionate to the risks, 129
+to ensure that account holders who are minors cannot engage in 130
+any activity that is restricted for adults only; 131
+(5) Obtain verifiable parental consent prior to permitting 132
+minor account holders to access content or features that the 133
+
+H. B. No. 302 Page 6
+As Introduced
+developer has designated as unsuitable for minors without 134
+parental guidance or supervision; 135
+(6) Not deliver personalized advertising to minors. 136
+(B) If the developer requests an age signal facilitated by 137
+an application distributor, the developer shall do all of the 138
+following: 139
+(1) Request the minimum amount of information needed for 140
+the purposes of complying with sections 1349.07 to 1349.076 of 141
+the Revised Code; 142
+(2) Not share the information obtained from the age signal 143
+with third parties, unless necessary to implement safety 144
+measures or privacy protections for minors, or unless otherwise 145
+required to do so by law; 146
+(3) Not use the age signal for any purpose beyond that 147
+required by sections 1349.07 to 1349.076 of the Revised Code. 148
+Sec. 1349.073. (A) An operating system provider shall do 149
+all of the following: 150
+(1) Request a prospective account holder to declare the 151
+prospective account holder's age when creating an account with 152
+the operating system provider; 153
+(2) Provide an account holder who is estimated not to be 154
+an adult with the opportunity to verify that the account holder 155
+is an adult; 156
+(3) Enable parents of a minor account holder to activate 157
+and control a filter setting for the minor account holder; 158
+(4) Provide internet browsers and search engines with the 159
+technical ability to read a setting that indicates the state of 160
+
+H. B. No. 302 Page 7
+As Introduced
+the filter. 161
+(B) An operating system provider may use commercially 162
+reasonable efforts to estimate the age category of an account 163
+holder with a reasonable level of certainty proportionate to the 164
+risks that arise from access to and use of the relevant service 165
+or portion thereof. 166
+Sec. 1349.074. An internet browser or search engine shall 167
+do all of the following: 168
+(A) Provide a filter that may be enabled by an account 169
+holder or the account holder's parent; 170
+(B) Where available, read the filter setting required by 171
+division (A)(4) of section 1349.073 of the Revised Code; 172
+(C) Activate the filter when enabled by an account holder 173
+or the account holder's parent via the filter settings on a 174
+connected device; 175
+(D) Notify the account holder when the filter blocks 176
+access to obscene material through the internet browser or 177
+search engine. 178
+Sec. 1349.075. (A) An application distribution provider o r 179
+operating system provider that makes a good faith effort to 180
+comply with sections 1349.07 to 1349.076 of the Revised Code, 181
+taking into consideration available technology, is not liable 182
+for attempts to comply with those sections, including any of the 183
+following with regard to the provision of an age signal: 184
+(1) Any erroneous age signal; 185
+(2) Any conduct by a developer of a covered application 186
+that receives any age signal; 187
+
+H. B. No. 302 Page 8
+As Introduced
+(3) Failing to provide an age signal due to any reasonable 188
+technical limitations or outages that prevent the provision of 189
+the age signal upon request; 190
+(4) Not providing the age signal to developers that do not 191
+adhere to reasonable safety standards and application 192
+distributor policies. 193
+(B)(1) The developer is solely liable for correctly 194
+identifying whether an application is a covered application. No 195
+application distributor is required to proactively identify 196
+covered applications, and an application distributor is not 197
+liable under sections 1349.07 to 1349.076 of the Revised Code in 198
+cases in which a developer provides inaccurate information about 199
+an application. 200
+(2) The developer is not liable for an erroneous age 201
+signal provided by an application distribution provider if the 202
+developer makes a reasonable effort, taking into consideration 203
+available technology, to properly use the age signal and carry 204
+out other age assurance, if needed, as proportionate to the 205
+risks presented to users by use of the developer's application. 206
+Sec. 1349.076. (A) The attorney general may initiate an 207
+action and seek a civil penalty of up to one thousand dollars 208
+for each violation of sections 1349.07 to 1349.076 of the 209
+Revised Code. 210
+(B) The attorney general has exclusive authority to 211
+enforce sections 1349.07 to 1349.076 of the Revised Code. 212
+(C) Sections 1349.07 to 1349.076 of the Revised Code shall 213
+not be construed to provide a private right of action with 214
+respect to any act or practice described under those sections. 215
+Section 2. Section 1 of this act takes effect one year 216
+
+H. B. No. 302 Page 9
+As Introduced
+after the effective date of this section. 217
+
+[DELETED: nH    .  : :1 1.1 1:1;1.1 1 1 1]
+[DELETED: 2 .2 2 2 2 2 2 2.2 2 2 3.3 3.3 3 3.3 3 3 3 4 4.4 4.4 4 4 4 4]
+[DELETED: 2  4 5 5.5 5.5 5.5 5.5 5 6 6.6 6 6.6.6 6 6 6 7.7 7 7 7 7 7]
+[DELETED: 2  7.7 7:8 8 8;8 8 8;8 8 8 8;9 9 9 9;9 9 9 9 9 9;1 1 1 1 1 1]
+[DELETED: 2 ;1 1 1 1 1.1 1 1 1 1.1 1:1 1 1 1;1 1;1 1 1 1;1 1 1;1 1 1]
+[DELETED: 2  1;1.1 1 1:1 1 1;1 1 1 1;1 1.1 1:1 1 1;1 1 1;1 1;1 1 1]
+[DELETED: 2 .1 1 1 1 1.1 1:1 1;1 1;1 1 1;1 1 1.1 1 1 1 1 1:1;1 1;1]
+[DELETED: 2  1 1;1 1 1.1 1 1 1 1 1 1.2 2 2 2 2 2.2 2 2 2.2 2.2 2 2.2 2]
+[DELETED: 2 .2]

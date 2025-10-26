@@ -1,0 +1,112 @@
+Title: limitations for bringing an action upon a 3
+Official Title: limitations for bringing an action upon a 3
+Number of Sections: 6
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 157
+2025-2026
+Senator Lang
+To amend sections 2305.06 and 2305.07 of the 1
+Revised Code to reduce the statute of 2
+written or oral contract. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 2305.06 and 2305.07 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 2305.06. Except as provided in sections 126.301, 7
+
+Section 3:
+1302.98, 1303.16, 1345.10, and 2305.04 of the Revised Code, an 8
+action upon a specialty or an agreement, contract, or promise in 9
+writing shall be brought within six three years after the cause 10
+of action accrued. 11
+Sec. 2305.07. (A) Except as provided in sections 126.301 12
+and 1302.98 of the Revised Code, an action upon a contract not 13
+in writing, express or implied, shall be brought within four two 14
+years after the cause of action accrued. 15
+(B) An action upon a liability created by statute other 16
+than a forfeiture or penalty shall be brought within six years 17
+after the cause of action accrued. 18
+(C) Except as provided in sections 1303.16, 1345.10, and 19
+
+Section 4:
+2305.04 of the Revised Code, and notwithstanding divisions (A) 20
+S. B. No. 157 Page 2
+As Introduced
+and (B) of this section, section 1302.98, and division (B) of 21
+
+Section 5:
+section 2305.03 of the Revised Code, an action arising out of a 22
+consumer transaction incurred primarily for personal, family, or 23
+household purposes, based upon any contract, agreement, 24
+obligation, liability, or promise, express or implied, including 25
+an account stated, whether or not reduced to writing or signed 26
+by the party to be charged by that transaction, shall be 27
+commenced within six years after the cause of action accrued. 28
+For purposes of this division, a cause of action accrues thirty 29
+calendar days after the date of the last charge or payment by, 30
+or on behalf of, the consumer, whichever is later. 31
+
+Section 6:
+Section 2. That existing sections 2305.06 and 2305.07 of 32
+the Revised Code are hereby repealed. 33
+[DELETED: nS   . :    1.1 1 1 1.1 1 1.1 1 2]
+[DELETED: 7  2 2 2 2 2 2 2 2 2 3.3 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 157
+2025-2026
+Senator Lang
+To amend sections 2305.06 and 2305.07 of the 1
+Revised Code to reduce the statute of 2
+limitations for bringing an action upon a 3
+written or oral contract. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 2305.06 and 2305.07 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 2305.06. Except as provided in sections 126.301, 7
+1302.98, 1303.16, 1345.10, and 2305.04 of the Revised Code, an 8
+action upon a specialty or an agreement, contract, or promise in 9
+writing shall be brought within six three years after the cause 10
+of action accrued. 11
+Sec. 2305.07. (A) Except as provided in sections 126.301 12
+and 1302.98 of the Revised Code, an action upon a contract not 13
+in writing, express or implied, shall be brought within four two 14
+years after the cause of action accrued. 15
+(B) An action upon a liability created by statute other 16
+than a forfeiture or penalty shall be brought within six years 17
+after the cause of action accrued. 18
+(C) Except as provided in sections 1303.16, 1345.10, and 19
+2305.04 of the Revised Code, and notwithstanding divisions (A) 20
+
+S. B. No. 157 Page 2
+As Introduced
+and (B) of this section, section 1302.98, and division (B) of 21
+section 2305.03 of the Revised Code, an action arising out of a 22
+consumer transaction incurred primarily for personal, family, or 23
+household purposes, based upon any contract, agreement, 24
+obligation, liability, or promise, express or implied, including 25
+an account stated, whether or not reduced to writing or signed 26
+by the party to be charged by that transaction, shall be 27
+commenced within six years after the cause of action accrued. 28
+For purposes of this division, a cause of action accrues thirty 29
+calendar days after the date of the last charge or payment by, 30
+or on behalf of, the consumer, whichever is later. 31
+Section 2. That existing sections 2305.06 and 2305.07 of 32
+the Revised Code are hereby repealed. 33
+
+[DELETED: nS   . :    1.1 1 1 1.1 1 1.1 1 2]
+[DELETED: 7  2 2 2 2 2 2 2 2 2 3.3 3.3]

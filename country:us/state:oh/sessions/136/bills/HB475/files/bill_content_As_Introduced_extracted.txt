@@ -1,0 +1,703 @@
+Title: Cosponsors: Representatives Brennan, Brownlee, Jarrells, Lett, McNally, Russo,
+Official Title: Cosponsors: Representatives Brennan, Brownlee, Jarrells, Lett, McNally, Russo,
+Number of Sections: 8
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 475
+2025-2026
+Representatives Mohamed, White, E.
+Upchurch, Workman
+To amend sections 125.18 and 5922.08 and to enact 1
+
+Section 2:
+sections 5502.282, 5502.283, and 5922.09 of the 2
+Revised Code to require the assessment of 3
+municipal corporation cybersecurity 4
+infrastructure, to allow the cybersecurity 5
+strategic advisor to certify and contract with 6
+private cybersecurity firms, and to establish a 7
+toll-free secure line to the Ohio Cyber Reserve. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 125.18 and 5922.08 be amended and 9
+
+Section 4:
+sections 5502.282, 5502.283, and 5922.09 of the Revised Code be 10
+enacted to read as follows: 11
+Sec. 125.18. (A) There is hereby established the office of 12
+information technology within the department of administrative 13
+services. The office shall be under the supervision of a state 14
+chief information officer to be appointed by the director of 15
+administrative services and subject to removal at the pleasure 16
+of the director. The chief information officer is an assistant 17
+director of administrative services. 18
+(B) Under the direction of the director of administrative 19
+H. B. No. 475 Page 2
+As Introduced
+services, the state chief information officer shall lead, 20
+oversee, and direct state agency activities related to 21
+information technology development and use. In that regard, the 22
+state chief information officer shall do all of the following: 23
+(1) Coordinate and superintend statewide efforts to 24
+promote common use and development of technology by state 25
+agencies. The office of information technology shall establish 26
+policies and standards that govern and direct state agency 27
+participation in statewide programs and initiatives. 28
+(2) Coordinate with the office of procurement services to 29
+establish policies and standards for state agency acquisition of 30
+information technology supplies and services; 31
+(3) Establish policies and standards for the use of common 32
+information technology by state agencies, including, but not 33
+limited to, hardware, software, technology services, and 34
+security, and the extension of the service life of information 35
+technology systems, with which state agencies shall comply; 36
+(4) Establish criteria and review processes to identify 37
+state agency information technology projects or purchases that 38
+require alignment or oversight. As appropriate, the department 39
+of administrative services shall provide the governor and the 40
+director of budget and management with notice and advice 41
+regarding the appropriate allocation of resources for those 42
+projects. The state chief information officer may require state 43
+agencies to provide, and may prescribe the form and manner by 44
+which they must provide, information to fulfill the state chief 45
+information officer's alignment and oversight role; 46
+(5) Establish policies and procedures for the security of 47
+personal information that is maintained and destroyed by state 48
+H. B. No. 475 Page 3
+As Introduced
+agencies; 49
+(6) Employ a chief information security officer who is 50
+responsible for the implementation of the policies and 51
+procedures described in division (B)(5) of this section and for 52
+coordinating the implementation of those policies and procedures 53
+in all of the state agencies; 54
+(7) Employ a chief privacy officer who is responsible for 55
+advising state agencies when establishing policies and 56
+procedures for the security of personal information and 57
+developing education and training programs regarding the state's 58
+security procedures; 59
+(8) Establish policies on the purchasing, use, and 60
+reimbursement for use of handheld computing and 61
+telecommunications devices by state agency employees; 62
+(9) Establish policies for the reduction of printing and 63
+for the increased use of electronic records by state agencies; 64
+(10) Establish policies for the reduction of energy 65
+consumption by state agencies; 66
+(11) Compute the amount of revenue attributable to the 67
+amortization of all equipment purchases and capitalized systems 68
+from information technology service delivery and major 69
+information technology purchases, MARCS administration, and 70
+enterprise applications operating appropriation items and major 71
+computer purchases capital appropriation items that is recovered 72
+as part of the information technology services rates the 73
+department of administrative services charges and deposits into 74
+the information technology fund created in section 125.15 of the 75
+Revised Code, and the user fees the department of administrative 76
+services charges and deposits in the MARCS administration fund 77
+H. B. No. 475 Page 4
+As Introduced
+created in section 4501.29 of the Revised Code, the rates the 78
+department of administrative services charges to benefiting 79
+agencies for the operation and management of information 80
+technology applications and deposits in the enterprise 81
+applications fund. The enterprise applications fund is hereby 82
+created in the state treasury. 83
+(12) Regularly review and make recommendations regarding 84
+improving the infrastructure of the state's cybersecurity 85
+operations with existing resources and through partnerships 86
+between government, business, and institutions of higher 87
+education; 88
+(13) Assist, as needed, with general state efforts to grow 89
+the cybersecurity industry in this state. 90
+(C)(1) The chief information security officer shall assist 91
+each state agency with the development of an information 92
+technology security strategic plan and review that plan, and 93
+each state agency shall submit that plan to the state chief 94
+information officer. The chief information security officer may 95
+require that each state agency update its information technology 96
+security strategic plan annually as determined by the state 97
+chief information officer. 98
+(2) The chief information security officer shall assist 99
+the state cybersecurity strategic advisor with the assessment 100
+and report required under section 5502.282 of the Revised Code. 101
+(3) Prior to the implementation of any information 102
+technology data system, a state agency shall prepare or have 103
+prepared a privacy impact statement for that system. 104
+(D) When a state agency requests a purchase of information 105
+technology supplies or services under Chapter 125. of the 106
+H. B. No. 475 Page 5
+As Introduced
+Revised Code, the state chief information officer may review and 107
+reject the requested purchase for noncompliance with information 108
+technology direction, plans, policies, standards, or project- 109
+alignment criteria. 110
+(E) The office of information technology may operate 111
+technology services for state agencies in accordance with this 112
+chapter. 113
+Notwithstanding any provision of the Revised Code to the 114
+contrary, the office of information technology may assess a 115
+transaction fee on each license or registration issued as part 116
+of an electronic licensing system operated by the office in an 117
+amount determined by the office not to exceed three dollars and 118
+fifty cents. The transaction fee shall apply to all 119
+transactions, regardless of form, that immediately precede the 120
+issuance, renewal, reinstatement, reactivation of, or other 121
+activity that results in, a license or registration to operate 122
+as a regulated professional or entity. Each license or 123
+registration is a separate transaction to which a fee under this 124
+division applies. Notwithstanding any provision of the Revised 125
+Code to the contrary, if a fee is assessed under this section, 126
+no agency, board, or commission shall issue a license or 127
+registration unless a fee required by this division has been 128
+received. The director of administrative services may collect 129
+the fee or require a state agency, board, or commission for 130
+which the system is being operated to collect the fee. Amounts 131
+received under this division shall be deposited in or 132
+transferred to the occupational licensing and regulatory fund 133
+created in section 4743.05 or the Revised Code. 134
+(F) With the approval of the director of administrative 135
+services, the office of information technology may establish 136
+H. B. No. 475 Page 6
+As Introduced
+cooperative agreements with federal and local government 137
+agencies and state agencies that are not under the authority of 138
+the governor for the provision of technology services and the 139
+development of technology projects. 140
+(G) The office of information technology may operate a 141
+program to make information technology purchases. The director 142
+of administrative services may recover the cost of operating the 143
+program from all participating government entities by issuing 144
+intrastate transfer voucher billings for the procured technology 145
+or through any pass-through billing method agreed to by the 146
+director of administrative services, the director of budget and 147
+management, and the participating government entities that will 148
+receive the procured technology. 149
+If the director of administrative services chooses to 150
+recover the program costs through intrastate transfer voucher 151
+billings, the participating government entities shall process 152
+the intrastate transfer vouchers to pay for the cost. Amounts 153
+received under this section for the information technology 154
+purchase program shall be deposited to the credit of the 155
+information technology governance fund created in section 125.15 156
+of the Revised Code. 157
+(H) Upon request from the director of administrative 158
+services, the director of budget and management may transfer 159
+cash from the information technology fund created in section 160
+
+Section 5:
+125.15 of the Revised Code, the MARCS administration fund 161
+created in section 4501.29 of the Revised Code, or the 162
+enterprise applications fund created in division (B)(11) of this 163
+
+Section 6:
+section to the major information technology purchases fund in an 164
+amount not to exceed the amount computed under division (B)(11) 165
+of this section. The major information technology purchases fund 166
+H. B. No. 475 Page 7
+As Introduced
+is hereby created in the state treasury. 167
+(I) As used in this section: 168
+(1) "Personal information" has the same meaning as in 169
+
+Section 7:
+section 149.45 of the Revised Code. 170
+(2) "State agency" means every organized body, office, or 171
+agency established by the laws of the state for the exercise of 172
+any function of state government, other than any state-supported 173
+institution of higher education, the office of the auditor of 174
+state, treasurer of state, secretary of state, or attorney 175
+general, the adjutant general's department, the bureau of 176
+workers' compensation, the industrial commission, the public 177
+employees retirement system, the Ohio police and fire pension 178
+fund, the state teachers retirement system, the school employees 179
+retirement system, the state highway patrol retirement system, 180
+the general assembly or any legislative agency, the capitol 181
+square review advisory board, or the courts or any judicial 182
+agency. 183
+Sec. 5502.282. (A) The state cybersecurity strategic 184
+advisor, appointed under Executive Order 2022-07D, issued on 185
+April 25, 2022, with the assistance of the executive director of 186
+the emergency management agency, and the chief information 187
+security officer, shall annually assess the cybersecurity 188
+infrastructure of municipal corporations in the state and shall 189
+prepare and submit a report of the assessment to the governor, 190
+the adjutant general, and to the general assembly in accordance 191
+with division (B) of section 101.68 of the Revised Code. 192
+(B) The state cybersecurity strategic advisor may certify 193
+Ohio-based private cybersecurity firms and may contract with 194
+certified firms to do the following: 195
+H. B. No. 475 Page 8
+As Introduced
+(1) Assist the state cybersecurity strategic advisor in 196
+the assessment of municipal corporation cybersecurity 197
+infrastructure under the supervision of the advisor and in 198
+accordance with established assessment standards; 199
+(2) Respond, in coordination with the Ohio cyber reserve 200
+under section 5922.08 of the Revised Code, to a cybersecurity 201
+incident. 202
+(C) Under the contract or certification, the private 203
+cybersecurity firm shall do all of the following: 204
+(1) Register in Ohio and be in good standing with the 205
+secretary of state; 206
+(2) Provide proof of insurance coverage including 207
+cybersecurity liability coverage; 208
+(3) Employ staff with relevant certifications. At least 209
+one staff member of the private cybersecurity firm shall possess 210
+certification from at least one of the following: the certified 211
+information systems security professional (CISSP), certified 212
+information security manager (CISM), certified information 213
+systems auditor (CISA), global information assurance 214
+certification (GIAC), offensive security certified professional 215
+(OSCP), service organization control (SOC) 2, or an equivalent. 216
+(4) Demonstrate proficiency in cybersecurity frameworks 217
+such as any of the following: the national institute of 218
+standards and technology cybersecurity framework (NIST CSF), 219
+national institute of standards and technology (NIST) 800-53, 220
+center for internet security (CIS) controls, or international 221
+organization for standardization (ISO) 27001; 222
+(5) Provide a documented history of providing 223
+cybersecurity risk assessments, incident response, or municipal 224
+H. B. No. 475 Page 9
+As Introduced
+information technology support and have the ability to respond 225
+within forty-eight hours to a municipal corporation incident or 226
+request; 227
+(6) Subject key personnel to background checks or 228
+attestations of trustworthiness; 229
+(7) Complete a state-offered orientation or partnership 230
+workshop to ensure alignment with government protocols and 231
+expectations; 232
+(8) Adhere to a standardized code of ethics, including 233
+transparency; 234
+(9) Agree to provisions prohibiting the retention of data; 235
+(10) Agree to provisions prohibiting the disclosure of 236
+client data; 237
+(11) Agree to provisions specifying the requirements of 238
+reports that shall be provided to the state cybersecurity 239
+strategic advisor by the private cybersecurity firm. 240
+Sec. 5502.283. A countywide emergency management agency 241
+under section 5502.26 of the Revised Code, a regional authority 242
+for emergency management under section 5502.27 of the Revised 243
+Code, or a program for emergency management within a political 244
+subdivision under section 5502.271 of the Revised Code, shall 245
+incorporate utilization of the secure toll-free cyber attack 246
+telephone line, established under section 5922.09 of the Revised 247
+Code, into the entity's emergency plan. 248
+Sec. 5922.08. (A) The governor, as commander-in-chief of 249
+the Ohio organized militia, may order individuals or units of 250
+the Ohio cyber reserve to state active duty to protect state, 251
+county, and local government entities and critical 252
+H. B. No. 475 Page 10
+As Introduced
+infrastructure, including election systems, or for training as 253
+the governor determines necessary. The governor, upon the 254
+request of a business or citizen, also may order individuals or 255
+units of the Ohio cyber reserve to state active duty to protect 256
+that business or citizen. 257
+(B) The governor, as commander-in-chief of the Ohio 258
+organized militia, upon the request of a state, county, or local 259
+government entity, shall order individuals or units of the Ohio 260
+cyber reserve to state active service to support the state, 261
+county, or local government entity that has been a victim of a 262
+cyber attack. When so ordered, the Ohio cyber reserve shall 263
+respond within forty-eight hours. 264
+(C) When responding to a cyberattack under division (B) of 265
+this section, the Ohio cyber reserve may coordinate with or 266
+deploy a private cybersecurity firm that has been certified by, 267
+and is under contract with, the state cybersecurity strategic 268
+advisor under section 5502.282 of the Revised Code to provide 269
+specialized support. 270
+(D) When ordered by the governor to perform duty or 271
+training under this section or section 5923.21 of the Revised 272
+Code, members of the Ohio cyber reserve shall have the same 273
+protections afforded by the "Servicemembers Civil Relief Act," 274
+Pub. L. No. 108-189, 50 U.S.C. 3901-4043, and by the "Uniformed 275
+Services Employment and Reemployment Rights Act," 108 Stat. 276
+3149, 38 U.S.C. 4301-4333. 277
+Sec. 5922.09. The adjutant general shall establish a toll - 278
+free telephone number that may be used by a state, county, or 279
+local government entity to report a cyberattack and to request 280
+immediate support by the Ohio cyber reserve. The telephone 281
+number shall be staffed by live personnel twenty-four hours per 282
+H. B. No. 475 Page 11
+As Introduced
+day at its answering point. The telephone line shall be 283
+protected by security measures to prevent eavesdropping or 284
+interception. 285
+The adjutant general shall establish adequate rules and 286
+procedures to facilitate an immediate response to a request for 287
+support by a state, county, or local government entity, 288
+including the procedure for contacting the governor's office to 289
+consider an order under division (B) of section 5922.08 of the 290
+Revised Code. 291
+
+Section 8:
+Section 2. That existing sections 125.18 and 5922.08 of 292
+the Revised Code are hereby repealed. 293
+[DELETED: nH          1:1 1 1 1 1 1 1 1 1]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7]
+[DELETED: 5  7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1.1 1 1 1 1 1]
+[DELETED: 5  1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1:1]
+[DELETED: 5  1 1 1;1 2 2.2 2:2 2;2 2;2 2 2 2 2 2 2 2.2 2 2 2 2 2;2 2 2]
+[DELETED: 5  2 2;2 2;2 2 2;2 2;2;2 2;2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2]
+[DELETED: 5  2 2 2 2.2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2.2-2 2 2 2 2]
+[DELETED: 5  2 2.2 2 2 2 2 2.2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 475
+2025-2026
+Representatives Mohamed, White, E.
+Cosponsors: Representatives Brennan, Brownlee, Jarrells, Lett, McNally, Russo,
+Upchurch, Workman
+To amend sections 125.18 and 5922.08 and to enact 1
+sections 5502.282, 5502.283, and 5922.09 of the 2
+Revised Code to require the assessment of 3
+municipal corporation cybersecurity 4
+infrastructure, to allow the cybersecurity 5
+strategic advisor to certify and contract with 6
+private cybersecurity firms, and to establish a 7
+toll-free secure line to the Ohio Cyber Reserve. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 125.18 and 5922.08 be amended and 9
+sections 5502.282, 5502.283, and 5922.09 of the Revised Code be 10
+enacted to read as follows: 11
+Sec. 125.18. (A) There is hereby established the office of 12
+information technology within the department of administrative 13
+services. The office shall be under the supervision of a state 14
+chief information officer to be appointed by the director of 15
+administrative services and subject to removal at the pleasure 16
+of the director. The chief information officer is an assistant 17
+director of administrative services. 18
+(B) Under the direction of the director of administrative 19
+
+H. B. No. 475 Page 2
+As Introduced
+services, the state chief information officer shall lead, 20
+oversee, and direct state agency activities related to 21
+information technology development and use. In that regard, the 22
+state chief information officer shall do all of the following: 23
+(1) Coordinate and superintend statewide efforts to 24
+promote common use and development of technology by state 25
+agencies. The office of information technology shall establish 26
+policies and standards that govern and direct state agency 27
+participation in statewide programs and initiatives. 28
+(2) Coordinate with the office of procurement services to 29
+establish policies and standards for state agency acquisition of 30
+information technology supplies and services; 31
+(3) Establish policies and standards for the use of common 32
+information technology by state agencies, including, but not 33
+limited to, hardware, software, technology services, and 34
+security, and the extension of the service life of information 35
+technology systems, with which state agencies shall comply; 36
+(4) Establish criteria and review processes to identify 37
+state agency information technology projects or purchases that 38
+require alignment or oversight. As appropriate, the department 39
+of administrative services shall provide the governor and the 40
+director of budget and management with notice and advice 41
+regarding the appropriate allocation of resources for those 42
+projects. The state chief information officer may require state 43
+agencies to provide, and may prescribe the form and manner by 44
+which they must provide, information to fulfill the state chief 45
+information officer's alignment and oversight role; 46
+(5) Establish policies and procedures for the security of 47
+personal information that is maintained and destroyed by state 48
+
+H. B. No. 475 Page 3
+As Introduced
+agencies; 49
+(6) Employ a chief information security officer who is 50
+responsible for the implementation of the policies and 51
+procedures described in division (B)(5) of this section and for 52
+coordinating the implementation of those policies and procedures 53
+in all of the state agencies; 54
+(7) Employ a chief privacy officer who is responsible for 55
+advising state agencies when establishing policies and 56
+procedures for the security of personal information and 57
+developing education and training programs regarding the state's 58
+security procedures; 59
+(8) Establish policies on the purchasing, use, and 60
+reimbursement for use of handheld computing and 61
+telecommunications devices by state agency employees; 62
+(9) Establish policies for the reduction of printing and 63
+for the increased use of electronic records by state agencies; 64
+(10) Establish policies for the reduction of energy 65
+consumption by state agencies; 66
+(11) Compute the amount of revenue attributable to the 67
+amortization of all equipment purchases and capitalized systems 68
+from information technology service delivery and major 69
+information technology purchases, MARCS administration, and 70
+enterprise applications operating appropriation items and major 71
+computer purchases capital appropriation items that is recovered 72
+as part of the information technology services rates the 73
+department of administrative services charges and deposits into 74
+the information technology fund created in section 125.15 of the 75
+Revised Code, and the user fees the department of administrative 76
+services charges and deposits in the MARCS administration fund 77
+
+H. B. No. 475 Page 4
+As Introduced
+created in section 4501.29 of the Revised Code, the rates the 78
+department of administrative services charges to benefiting 79
+agencies for the operation and management of information 80
+technology applications and deposits in the enterprise 81
+applications fund. The enterprise applications fund is hereby 82
+created in the state treasury. 83
+(12) Regularly review and make recommendations regarding 84
+improving the infrastructure of the state's cybersecurity 85
+operations with existing resources and through partnerships 86
+between government, business, and institutions of higher 87
+education; 88
+(13) Assist, as needed, with general state efforts to grow 89
+the cybersecurity industry in this state. 90
+(C)(1) The chief information security officer shall assist 91
+each state agency with the development of an information 92
+technology security strategic plan and review that plan, and 93
+each state agency shall submit that plan to the state chief 94
+information officer. The chief information security officer may 95
+require that each state agency update its information technology 96
+security strategic plan annually as determined by the state 97
+chief information officer. 98
+(2) The chief information security officer shall assist 99
+the state cybersecurity strategic advisor with the assessment 100
+and report required under section 5502.282 of the Revised Code. 101
+(3) Prior to the implementation of any information 102
+technology data system, a state agency shall prepare or have 103
+prepared a privacy impact statement for that system. 104
+(D) When a state agency requests a purchase of information 105
+technology supplies or services under Chapter 125. of the 106
+
+H. B. No. 475 Page 5
+As Introduced
+Revised Code, the state chief information officer may review and 107
+reject the requested purchase for noncompliance with information 108
+technology direction, plans, policies, standards, or project- 109
+alignment criteria. 110
+(E) The office of information technology may operate 111
+technology services for state agencies in accordance with this 112
+chapter. 113
+Notwithstanding any provision of the Revised Code to the 114
+contrary, the office of information technology may assess a 115
+transaction fee on each license or registration issued as part 116
+of an electronic licensing system operated by the office in an 117
+amount determined by the office not to exceed three dollars and 118
+fifty cents. The transaction fee shall apply to all 119
+transactions, regardless of form, that immediately precede the 120
+issuance, renewal, reinstatement, reactivation of, or other 121
+activity that results in, a license or registration to operate 122
+as a regulated professional or entity. Each license or 123
+registration is a separate transaction to which a fee under this 124
+division applies. Notwithstanding any provision of the Revised 125
+Code to the contrary, if a fee is assessed under this section, 126
+no agency, board, or commission shall issue a license or 127
+registration unless a fee required by this division has been 128
+received. The director of administrative services may collect 129
+the fee or require a state agency, board, or commission for 130
+which the system is being operated to collect the fee. Amounts 131
+received under this division shall be deposited in or 132
+transferred to the occupational licensing and regulatory fund 133
+created in section 4743.05 or the Revised Code. 134
+(F) With the approval of the director of administrative 135
+services, the office of information technology may establish 136
+
+H. B. No. 475 Page 6
+As Introduced
+cooperative agreements with federal and local government 137
+agencies and state agencies that are not under the authority of 138
+the governor for the provision of technology services and the 139
+development of technology projects. 140
+(G) The office of information technology may operate a 141
+program to make information technology purchases. The director 142
+of administrative services may recover the cost of operating the 143
+program from all participating government entities by issuing 144
+intrastate transfer voucher billings for the procured technology 145
+or through any pass-through billing method agreed to by the 146
+director of administrative services, the director of budget and 147
+management, and the participating government entities that will 148
+receive the procured technology. 149
+If the director of administrative services chooses to 150
+recover the program costs through intrastate transfer voucher 151
+billings, the participating government entities shall process 152
+the intrastate transfer vouchers to pay for the cost. Amounts 153
+received under this section for the information technology 154
+purchase program shall be deposited to the credit of the 155
+information technology governance fund created in section 125.15 156
+of the Revised Code. 157
+(H) Upon request from the director of administrative 158
+services, the director of budget and management may transfer 159
+cash from the information technology fund created in section 160
+125.15 of the Revised Code, the MARCS administration fund 161
+created in section 4501.29 of the Revised Code, or the 162
+enterprise applications fund created in division (B)(11) of this 163
+section to the major information technology purchases fund in an 164
+amount not to exceed the amount computed under division (B)(11) 165
+of this section. The major information technology purchases fund 166
+
+H. B. No. 475 Page 7
+As Introduced
+is hereby created in the state treasury. 167
+(I) As used in this section: 168
+(1) "Personal information" has the same meaning as in 169
+section 149.45 of the Revised Code. 170
+(2) "State agency" means every organized body, office, or 171
+agency established by the laws of the state for the exercise of 172
+any function of state government, other than any state-supported 173
+institution of higher education, the office of the auditor of 174
+state, treasurer of state, secretary of state, or attorney 175
+general, the adjutant general's department, the bureau of 176
+workers' compensation, the industrial commission, the public 177
+employees retirement system, the Ohio police and fire pension 178
+fund, the state teachers retirement system, the school employees 179
+retirement system, the state highway patrol retirement system, 180
+the general assembly or any legislative agency, the capitol 181
+square review advisory board, or the courts or any judicial 182
+agency. 183
+Sec. 5502.282. (A) The state cybersecurity strategic 184
+advisor, appointed under Executive Order 2022-07D, issued on 185
+April 25, 2022, with the assistance of the executive director of 186
+the emergency management agency, and the chief information 187
+security officer, shall annually assess the cybersecurity 188
+infrastructure of municipal corporations in the state and shall 189
+prepare and submit a report of the assessment to the governor, 190
+the adjutant general, and to the general assembly in accordance 191
+with division (B) of section 101.68 of the Revised Code. 192
+(B) The state cybersecurity strategic advisor may certify 193
+Ohio-based private cybersecurity firms and may contract with 194
+certified firms to do the following: 195
+
+H. B. No. 475 Page 8
+As Introduced
+(1) Assist the state cybersecurity strategic advisor in 196
+the assessment of municipal corporation cybersecurity 197
+infrastructure under the supervision of the advisor and in 198
+accordance with established assessment standards; 199
+(2) Respond, in coordination with the Ohio cyber reserve 200
+under section 5922.08 of the Revised Code, to a cybersecurity 201
+incident. 202
+(C) Under the contract or certification, the private 203
+cybersecurity firm shall do all of the following: 204
+(1) Register in Ohio and be in good standing with the 205
+secretary of state; 206
+(2) Provide proof of insurance coverage including 207
+cybersecurity liability coverage; 208
+(3) Employ staff with relevant certifications. At least 209
+one staff member of the private cybersecurity firm shall possess 210
+certification from at least one of the following: the certified 211
+information systems security professional (CISSP), certified 212
+information security manager (CISM), certified information 213
+systems auditor (CISA), global information assurance 214
+certification (GIAC), offensive security certified professional 215
+(OSCP), service organization control (SOC) 2, or an equivalent. 216
+(4) Demonstrate proficiency in cybersecurity frameworks 217
+such as any of the following: the national institute of 218
+standards and technology cybersecurity framework (NIST CSF), 219
+national institute of standards and technology (NIST) 800-53, 220
+center for internet security (CIS) controls, or international 221
+organization for standardization (ISO) 27001; 222
+(5) Provide a documented history of providing 223
+cybersecurity risk assessments, incident response, or municipal 224
+
+H. B. No. 475 Page 9
+As Introduced
+information technology support and have the ability to respond 225
+within forty-eight hours to a municipal corporation incident or 226
+request; 227
+(6) Subject key personnel to background checks or 228
+attestations of trustworthiness; 229
+(7) Complete a state-offered orientation or partnership 230
+workshop to ensure alignment with government protocols and 231
+expectations; 232
+(8) Adhere to a standardized code of ethics, including 233
+transparency; 234
+(9) Agree to provisions prohibiting the retention of data; 235
+(10) Agree to provisions prohibiting the disclosure of 236
+client data; 237
+(11) Agree to provisions specifying the requirements of 238
+reports that shall be provided to the state cybersecurity 239
+strategic advisor by the private cybersecurity firm. 240
+Sec. 5502.283. A countywide emergency management agency 241
+under section 5502.26 of the Revised Code, a regional authority 242
+for emergency management under section 5502.27 of the Revised 243
+Code, or a program for emergency management within a political 244
+subdivision under section 5502.271 of the Revised Code, shall 245
+incorporate utilization of the secure toll-free cyber attack 246
+telephone line, established under section 5922.09 of the Revised 247
+Code, into the entity's emergency plan. 248
+Sec. 5922.08. (A) The governor, as commander-in-chief of 249
+the Ohio organized militia, may order individuals or units of 250
+the Ohio cyber reserve to state active duty to protect state, 251
+county, and local government entities and critical 252
+
+H. B. No. 475 Page 10
+As Introduced
+infrastructure, including election systems, or for training as 253
+the governor determines necessary. The governor, upon the 254
+request of a business or citizen, also may order individuals or 255
+units of the Ohio cyber reserve to state active duty to protect 256
+that business or citizen. 257
+(B) The governor, as commander-in-chief of the Ohio 258
+organized militia, upon the request of a state, county, or local 259
+government entity, shall order individuals or units of the Ohio 260
+cyber reserve to state active service to support the state, 261
+county, or local government entity that has been a victim of a 262
+cyber attack. When so ordered, the Ohio cyber reserve shall 263
+respond within forty-eight hours. 264
+(C) When responding to a cyberattack under division (B) of 265
+this section, the Ohio cyber reserve may coordinate with or 266
+deploy a private cybersecurity firm that has been certified by, 267
+and is under contract with, the state cybersecurity strategic 268
+advisor under section 5502.282 of the Revised Code to provide 269
+specialized support. 270
+(D) When ordered by the governor to perform duty or 271
+training under this section or section 5923.21 of the Revised 272
+Code, members of the Ohio cyber reserve shall have the same 273
+protections afforded by the "Servicemembers Civil Relief Act," 274
+Pub. L. No. 108-189, 50 U.S.C. 3901-4043, and by the "Uniformed 275
+Services Employment and Reemployment Rights Act," 108 Stat. 276
+3149, 38 U.S.C. 4301-4333. 277
+Sec. 5922.09. The adjutant general shall establish a toll - 278
+free telephone number that may be used by a state, county, or 279
+local government entity to report a cyberattack and to request 280
+immediate support by the Ohio cyber reserve. The telephone 281
+number shall be staffed by live personnel twenty-four hours per 282
+
+H. B. No. 475 Page 11
+As Introduced
+day at its answering point. The telephone line shall be 283
+protected by security measures to prevent eavesdropping or 284
+interception. 285
+The adjutant general shall establish adequate rules and 286
+procedures to facilitate an immediate response to a request for 287
+support by a state, county, or local government entity, 288
+including the procedure for contacting the governor's office to 289
+consider an order under division (B) of section 5922.08 of the 290
+Revised Code. 291
+Section 2. That existing sections 125.18 and 5922.08 of 292
+the Revised Code are hereby repealed. 293
+
+[DELETED: nH          1:1 1 1 1 1 1 1 1 1]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7]
+[DELETED: 5  7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1.1 1 1 1 1 1]
+[DELETED: 5  1 1-1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1.1 1 1 1 1 1 1 1 1.1 1 1:1]
+[DELETED: 5  1 1 1;1 2 2.2 2:2 2;2 2;2 2 2 2 2 2 2 2.2 2 2 2 2 2;2 2 2]
+[DELETED: 5  2 2;2 2;2 2 2;2 2;2;2 2;2 2 2.2 2 2 2 2 2 2 2.2 2 2 2 2]
+[DELETED: 5  2 2 2 2.2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2 2 2 2 2.2-2 2 2 2 2]
+[DELETED: 5  2 2.2 2 2 2 2 2.2 2.2]

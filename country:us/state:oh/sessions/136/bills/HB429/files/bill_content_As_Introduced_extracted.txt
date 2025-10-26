@@ -1,0 +1,122 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 429
+2025-2026
+Representative Hoops
+To amend section 3901.385 of the Revised Code to 1
+prohibit third-party payers from reducing 2
+reimbursement to health care providers based on 3
+certain factors. 4
+
+Section 2:
+Section 1. That section 3901.385 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 3901.385. A third-party payer shall not do either any 7
+of the following: 8
+(A) Engage in any business practice that unfairly or 9
+unnecessarily delays the processing of a claim or the payment of 10
+any amount due for health care services rendered by a provider 11
+to a beneficiary; 12
+(B) Refuse to process or pay within the time periods 13
+specified in section 3901.381 of the Revised Code a claim 14
+submitted by a provider on the grounds the beneficiary has not 15
+been discharged from the hospital or the treatment has not been 16
+completed, if the submitted claim covers services actually 17
+rendered and charges actually incurred over at least a thirty- 18
+day period; 19
+(C) Reduce the reimbursement made to a provider for the 20
+H. B. No. 429 Page 2
+As Introduced
+provision of a covered health care service based on any of the 21
+following: 22
+(1) The third-party payer's own description of what is 23
+included in that service outside of the most current CPT code in 24
+effect, as published by the American medical association, the 25
+most current ICD-10 code in effect, as published by the United 26
+States department of health and human services, the most current 27
+CDT code in effect, as published by the American dental 28
+association, or the most current HCPCS code in effect, as 29
+published by the United States centers for medicare and medicaid 30
+services; 31
+(2) The third-party payer's own description of what is 32
+included in the diagnosis code submitted on the claim outside of 33
+guidelines established by entities responsible for the code set, 34
+including the centers for disease control and prevention's 35
+national center for health statistics; 36
+(3) That the provider billed for additional health 37
+services, including outpatient surgery, on the same date as the 38
+covered service. 39
+
+Section 3:
+Section 2. That existing section 3901.385 of the Revised 40
+Code is hereby repealed. 41
+[DELETED: nH     : :  1 1;1 1 1 1 1 1-1 1 2]
+[DELETED: 9  2:2 2 2 2 2 2 2 2 3;3 3 3 3 3;3 3 3.3 4.4]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 429
+2025-2026
+Representative Hoops
+To amend section 3901.385 of the Revised Code to 1
+prohibit third-party payers from reducing 2
+reimbursement to health care providers based on 3
+certain factors. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3901.385 of the Revised Code be 5
+amended to read as follows: 6
+Sec. 3901.385. A third-party payer shall not do either any 7
+of the following: 8
+(A) Engage in any business practice that unfairly or 9
+unnecessarily delays the processing of a claim or the payment of 10
+any amount due for health care services rendered by a provider 11
+to a beneficiary; 12
+(B) Refuse to process or pay within the time periods 13
+specified in section 3901.381 of the Revised Code a claim 14
+submitted by a provider on the grounds the beneficiary has not 15
+been discharged from the hospital or the treatment has not been 16
+completed, if the submitted claim covers services actually 17
+rendered and charges actually incurred over at least a thirty- 18
+day period; 19
+(C) Reduce the reimbursement made to a provider for the 20
+
+H. B. No. 429 Page 2
+As Introduced
+provision of a covered health care service based on any of the 21
+following: 22
+(1) The third-party payer's own description of what is 23
+included in that service outside of the most current CPT code in 24
+effect, as published by the American medical association, the 25
+most current ICD-10 code in effect, as published by the United 26
+States department of health and human services, the most current 27
+CDT code in effect, as published by the American dental 28
+association, or the most current HCPCS code in effect, as 29
+published by the United States centers for medicare and medicaid 30
+services; 31
+(2) The third-party payer's own description of what is 32
+included in the diagnosis code submitted on the claim outside of 33
+guidelines established by entities responsible for the code set, 34
+including the centers for disease control and prevention's 35
+national center for health statistics; 36
+(3) That the provider billed for additional health 37
+services, including outpatient surgery, on the same date as the 38
+covered service. 39
+Section 2. That existing section 3901.385 of the Revised 40
+Code is hereby repealed. 41
+
+[DELETED: nH     : :  1 1;1 1 1 1 1 1-1 1 2]
+[DELETED: 9  2:2 2 2 2 2 2 2 2 3;3 3 3 3 3;3 3 3.3 4.4]

@@ -1,0 +1,53 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 46
+2025-2026
+Senator Ingram
+To amend section 5.2219 of the Revised Code to add 1
+screening awareness to Colorectal Cancer 2
+Awareness Month. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2219 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 5.2219. The month of March is designated as 6
+"Colorectal Cancer Screening and Awareness Month." 7
+
+Section 3:
+Section 2. That existing section 5.2219 of the Revised 8
+Code is hereby repealed. 9
+[DELETED: nS BIL  . : " .]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 46
+2025-2026
+Senator Ingram
+A BILL
+To amend section 5.2219 of the Revised Code to add 1
+screening awareness to Colorectal Cancer 2
+Awareness Month. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2219 of the Revised Code be 4
+amended to read as follows: 5
+Sec. 5.2219. The month of March is designated as 6
+"Colorectal Cancer Screening and Awareness Month." 7
+Section 2. That existing section 5.2219 of the Revised 8
+Code is hereby repealed. 9
+
+[DELETED: nS BIL  . : " .]

@@ -1,0 +1,581 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 8
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 230
+2025-2026
+Representative Thomas, D.
+To amend sections 3953.01, 3953.21, 3953.26, and 1
+
+Section 2:
+3953.331; to enact new section 3953.36; and to 2
+repeal section 3953.36 of the Revised Code to 3
+amend the law related to joint venture title 4
+insurance companies. 5
+
+Section 3:
+Section 1. That sections 3953.01, 3953.21, 3953.26, and 6
+
+Section 4:
+3953.331 be amended and new section 3953.36 of the Revised Code 7
+be enacted to read as follows: 8
+Sec. 3953.01. As used in this chapter: 9
+(A) "Title insurance" means insuring, guaranteeing, or 10
+indemnifying owners of real property or others interested in 11
+real property against loss or damage suffered by reason of liens 12
+or encumbrances upon, defect in, or the unmarketability of the 13
+title to the real property, guaranteeing, warranting, or 14
+otherwise insuring by a title insurance company the correctness 15
+of searches relating to the title to real property, or doing any 16
+business in substance equivalent to any of the foregoing. 17
+(B) "The business of title insurance" means the following: 18
+(1) The making as insurer, guarantor, or surety, or 19
+proposing to make as insurer, guarantor, or surety, any contract 20
+H. B. No. 230 Page 2
+As Introduced
+or policy of title insurance; 21
+(2) The transacting, or proposing to transact, any phase 22
+of title insurance, including solicitation, negotiation 23
+preliminary to execution, execution of a contract of title 24
+insurance, insuring, and transacting matters subsequent to the 25
+execution of the contract and arising out of it, including 26
+reinsurance; 27
+(3) The doing or proposing to do any business in substance 28
+equivalent to any of the foregoing. 29
+(C) "Title insurance company" means any of the following: 30
+(1) Any domestic title guaranty company and domestic title 31
+guarantee and trust company to the extent that they are engaged 32
+in the business of title insurance; 33
+(2) Any domestic company organized under this chapter for 34
+the purpose of insuring titles to real property; 35
+(3) Any title insurance company organized under the laws 36
+of another state or foreign government; 37
+(4) Any domestic or foreign company that has the powers 38
+and is authorized to insure titles to real estate within this 39
+state on December 12, 1967, and that meets the requirements of 40
+this chapter. 41
+(D) "Applicants for insurance" includes all those, whether 42
+or not a prospective insured, who from time to time apply to a 43
+title insurance company or to its agent for title insurance and 44
+who at the time of that application are not agents for a title 45
+insurance company. 46
+(E) "Risk premium" for title insurance means that portion 47
+of the fee charged by a title insurance company, agent of a 48
+H. B. No. 230 Page 3
+As Introduced
+title insurance company, or approved attorney of a title 49
+insurance company to an insured or an applicant for insurance 50
+for the assumption by the title insurance company of the risk 51
+created by the issuance of the title insurance policy. 52
+(F) "Fee" for title insurance means the risk premium, 53
+abstracting or searching charge, examination charge, and every 54
+other charge, exclusive of settlement, closing, or escrow 55
+charges, whether denominated premium or otherwise, made by a 56
+title insurance company, agent of a title insurance company, or 57
+an approved attorney of a title insurance company to an insured 58
+or an applicant for insurance for any policy or contract for the 59
+issuance of title insurance. "Fee" does not include any charges 60
+paid to and retained by an attorney at law or abstractor acting 61
+as an independent contractor whether or not the attorney or 62
+abstractor is acting as an agent of a title insurance company or 63
+an approved attorney and does not include any charges made for 64
+special services not constituting title insurance, even though 65
+performed in connection with a title insurance policy or 66
+contract. 67
+(G) "Approved attorney" means an attorney at law who is 68
+not an employee of a title insurance company or a title 69
+insurance agent and upon whose examination of title and report 70
+on the examination a title insurance company may issue a policy 71
+of title insurance. 72
+(H) "Title insurance agent" means a person, partnership, 73
+or corporation authorized in writing by a title insurance 74
+company to solicit insurance and collect premiums and to issue 75
+or countersign policies on its behalf. "Title insurance agent" 76
+does not include officers and salaried employees of any title 77
+insurance company authorized to do a title insurance business 78
+H. B. No. 230 Page 4
+As Introduced
+within this state. 79
+(I) "Single insurance risk" means the insured amount of 80
+any policy or contract of title insurance issued by a title 81
+insurance company. 82
+(J) "Foreign title insurance company" means a title 83
+insurance company organized under the laws of any state or 84
+territory of the United States or the District of Columbia. 85
+(K) "Alien title insurance company" means a title 86
+insurance company that is incorporated or organized under the 87
+laws of any foreign nation or any province or territory of a 88
+foreign nation and that is not a foreign title insurance 89
+company. 90
+(L) "Non-directed escrow funds" means any funds delivered 91
+to a title insurance agent or title insurance company with 92
+instructions to hold or disburse the funds pursuant to a 93
+transaction in which a title insurance policy will be issued, 94
+but without written instructions to either deposit the funds in 95
+an account for the benefit of a specific person or to pay the 96
+interest earned on the funds to a specific person. 97
+(M) "Business day" means any day, other than a Saturday or 98
+Sunday, or a legal holiday, on which a bank, savings and loan 99
+association, credit union, or savings bank is open to the public 100
+for carrying on substantially all of its functions. 101
+(N) "Housing accommodations" and "restrictive covenant" 102
+have the same meanings as in section 4112.01 of the Revised 103
+Code. 104
+(O) "Joint venture" means an arrangement undertaken 105
+jointly by two or more parties in regard to ownership of a 106
+business entity a title insurance company or title insurance 107
+H. B. No. 230 Page 5
+As Introduced
+agent that has one or more beneficial owners. 108
+(P) "Beneficial owner" means a person or entity to which 109
+both of the following apply: 110
+(1) The person or entity receives a financial benefit from 111
+a joint venture through direct ownership or ownership of a 112
+subsidiary, sister entity, or parent entity, regardless of 113
+whether such subsidiary, sister entity, or parent entity is, 114
+itself, a direct owner of the joint venture. 115
+(2) The person or entity is one or more of the following: 116
+(a) A real estate agent, as defined in section 4735.51 of 117
+the Revised Code, including a real estate broker or salesperson, 118
+as those terms are defined in section 4735.01 of the Revised 119
+Code; 120
+(b) A home builder; 121
+(c) A mortgage lender, including a financial institution 122
+as defined in section 9.02 of the Revised Code, credit union as 123
+defined in section 1733.01 of the Revised Code, and individuals 124
+associated with those entities; 125
+(d) An attorney who is associated or in a business 126
+relationship with, and who has the ability to receive title 127
+insurance business from, or refer title insurance business to, 128
+any person or entity described in divisions (P)(2)(a), (b), or 129
+(c) of this section. 130
+Sec. 3953.21. (A) Every title insurance company authorized 131
+to transact business within this state shall certify annually to 132
+the superintendent of insurance the names of all title insurance 133
+agents representing it in this state in accordance with section 134
+
+Section 5:
+3905.20 of the Revised Code. 135
+H. B. No. 230 Page 6
+As Introduced
+(B) No title insurance company shall permit any of the 136
+following to act as the company's agent: 137
+(1) A bank, trust company, bank and trust company, or 138
+other lending institution, mortgage service, brokerage, mortgage 139
+guaranty company, escrow company, or real estate company or any 140
+subsidiaries thereof or any individuals so engaged shall be 141
+permitted to act as an agent for a title insurance company; 142
+(2) A person acting individually in a capacity described 143
+in division (B)(1) of this section; 144
+(3) An employee, representative, or agent of a person or 145
+entity described in division (B)(1) or (2) of this section; 146
+(4) A person or entity related to a person or entity 147
+described in division (B)(1), (2), or (3) of this section by a 148
+common ownership structure, such as a holding, parent, sibling, 149
+or subsidiary company. 150
+Sec. 3953.26. (A) No title insurance company and no title 151
+insurance agent shall pay or give, either directly or 152
+indirectly, any commission or any part of its fees or charges, 153
+or any other consideration or valuable thing, as an inducement 154
+for, or as compensation for, any title insurance business, to 155
+any of the following: 156
+(1) Any applicant for insurance, or to any ; 157
+(2) Any person, firm, or corporation who is acting as 158
+agent, representative, attorney, or employee of the owner, 159
+lessee, mortgagee, or of the prospective owner, lessee, or 160
+mortgagee of the real property or any interest therein, either 161
+directly or indirectly, any commission or any part of its fees 162
+or charges, or any other consideration or valuable thing, as an 163
+inducement for, or as compensation for, any title insurance 164
+H. B. No. 230 Page 7
+As Introduced
+business; 165
+(3) Any family member of the applicant for insurance or of 166
+the current or prospective owner, lessee, or mortgagee of any 167
+interest in the real property. 168
+(B) Nothing in this section shall preclude the either of 169
+the following: 170
+(1) The payment by a title insurance company of a 171
+commission to any attorney, if said provided that attorney is 172
+also a licensed title insurance agent of such title insurance 173
+company, or the and is not an employee of the current or 174
+prospective owner, lessee, mortgagee of the real property or any 175
+interest therein; 176
+(2) The payment by such a title insurance company or its 177
+agent of a fee to an attorney for services rendered in the 178
+examination of title or certification thereof. 179
+Sec. 3953.331. (A) For a title insurance agency that is a 180
+joint venture, the annual review required under section 3953.33 181
+of the Revised Code shall demonstrate that assess whether the 182
+agency is a joint venture and, if so, whether all members 183
+beneficial owners of the joint venture received revenue during 184
+the year in question from the title agency commensurate to their 185
+ownership interest in the title agency. The superintendent of 186
+insurance shall promulgate rules under Chapter 119. of the 187
+Revised Code setting forth the standards of the review required 188
+under this section and the form in which this information is to 189
+be provided. 190
+(B) Title insurance agencies that are joint ventures shall 191
+maintain sufficient records of their affairs, including their 192
+escrow operations, escrow trust accounts, and operating accounts 193
+H. B. No. 230 Page 8
+As Introduced
+so that the superintendent may adequately ensure that the title 194
+insurance agency that is a joint venture and all members of the 195
+joint venture are in compliance with the requirements of this 196
+
+Section 6:
+section. Records kept pursuant to this section shall be kept for 197
+a period of not less than ten years following the transactions 198
+to which the records relate. The superintendent may prescribe 199
+the specific records and documents to be kept. 200
+Sec. 3953.36. (A) No joint venture shall require in its 201
+initial articles of organization, articles of incorporation, 202
+operating agreement, or other incorporating documents, sooner 203
+than five years after the date the joint venture is formed, 204
+either of the following: 205
+(1) Dissolution of the joint venture; 206
+(2) Subject to divisions (B) and (C) of this section, buy- 207
+back or sale of any ownership interests in the joint venture or 208
+any subsidiary of the joint venture. 209
+(B) No joint venture or subsidiary of a joint venture 210
+shall require in its articles of organization, articles of 211
+incorporation, operating agreement, or other operating or 212
+management documents the buy-back or sale of any beneficial 213
+owner's ownership interest in the joint venture or subsidiary 214
+due to volume of referrals, or lack thereof, of real estate or 215
+title insurance business from a beneficial owner. 216
+(C) A joint venture or subsidiary of a joint venture may 217
+require a beneficial owner to sell the owner's ownership 218
+interests back to the joint venture, subsidiary, or to another 219
+party if any of the following apply: 220
+(1) The beneficial owner is charged with, convicted of, or 221
+pleads guilty to a criminal act. 222
+H. B. No. 230 Page 9
+As Introduced
+(2) The beneficial owner ceases to work in the real estate 223
+industry. 224
+(3) The professional license that qualifies the owner as a 225
+beneficial owner for the purposes of this chapter is 226
+surrendered, suspended, or revoked. 227
+(4) The beneficial owner files for bankruptcy. 228
+(5) The beneficial owner commits, coerces to commit, or 229
+otherwise attempts to commit acts, by and through the joint 230
+venture, that do any of the following: 231
+(a) Plausibly create legal liability for the joint venture 232
+or the joint venture's owners, agents, or employees; 233
+(b) Jeopardize the licensure of the joint venture, 234
+including the individual licenses of the joint venture's owners, 235
+agents, notaries, or attorneys; 236
+(c) Harm the reputation of the joint venture or the joint 237
+venture's agents or employees in the marketplace. 238
+
+Section 7:
+Section 2. That existing sections 3953.01, 3953.21, 239
+
+Section 8:
+3953.26, and 3953.331 and section 3953.36 of the Revised Code 240
+are hereby repealed. 241
+[DELETED: nH       :: 1 1 1 1 1 1 1.1:1 1 2]
+[DELETED: 0 ;2 2 2 2 2 2;2 2.2:3 3 3;3 3;3 3;3 3 3 4.4 4 4 4 4.4 4 4]
+[DELETED: 0  4 5 5.5 5 5 5 5 5 5 5 6 6 6 6 6 6 6.6 6 6 7 7.7 7 7 7 7 7 7]
+[DELETED: 0 .7 8 8.8 8 8.8 8 8 8 8.9 9 9 9 9 9 9.9 9 9 1.1 1 1.1 1 1 1]
+[DELETED: 0 .1 1:1 1 1 1 1.1:1 1 1 1;1 1 1 1 1;1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 0  1:1 1 1 1 1;1 1 1 1;1 1 1 1.1 1 1 1 1 1:1;1 1 1 1 1 1 1 1]
+[DELETED: 0 ;1 1 1.1 1:1 1 1 1 1 1;1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 0  1 1 1 1 1 1 2 2 2 2 2:2;2-2 2.2 2 2 2 2 2 2.2 2 2 2:2 2.2]
+[DELETED: 0  2.2 2 2.2.2 2 2:2 2 2 2 2;2 2.2 2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 230
+2025-2026
+Representative Thomas, D.
+To amend sections 3953.01, 3953.21, 3953.26, and 1
+3953.331; to enact new section 3953.36; and to 2
+repeal section 3953.36 of the Revised Code to 3
+amend the law related to joint venture title 4
+insurance companies. 5
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3953.01, 3953.21, 3953.26, and 6
+3953.331 be amended and new section 3953.36 of the Revised Code 7
+be enacted to read as follows: 8
+Sec. 3953.01. As used in this chapter: 9
+(A) "Title insurance" means insuring, guaranteeing, or 10
+indemnifying owners of real property or others interested in 11
+real property against loss or damage suffered by reason of liens 12
+or encumbrances upon, defect in, or the unmarketability of the 13
+title to the real property, guaranteeing, warranting, or 14
+otherwise insuring by a title insurance company the correctness 15
+of searches relating to the title to real property, or doing any 16
+business in substance equivalent to any of the foregoing. 17
+(B) "The business of title insurance" means the following: 18
+(1) The making as insurer, guarantor, or surety, or 19
+proposing to make as insurer, guarantor, or surety, any contract 20
+
+H. B. No. 230 Page 2
+As Introduced
+or policy of title insurance; 21
+(2) The transacting, or proposing to transact, any phase 22
+of title insurance, including solicitation, negotiation 23
+preliminary to execution, execution of a contract of title 24
+insurance, insuring, and transacting matters subsequent to the 25
+execution of the contract and arising out of it, including 26
+reinsurance; 27
+(3) The doing or proposing to do any business in substance 28
+equivalent to any of the foregoing. 29
+(C) "Title insurance company" means any of the following: 30
+(1) Any domestic title guaranty company and domestic title 31
+guarantee and trust company to the extent that they are engaged 32
+in the business of title insurance; 33
+(2) Any domestic company organized under this chapter for 34
+the purpose of insuring titles to real property; 35
+(3) Any title insurance company organized under the laws 36
+of another state or foreign government; 37
+(4) Any domestic or foreign company that has the powers 38
+and is authorized to insure titles to real estate within this 39
+state on December 12, 1967, and that meets the requirements of 40
+this chapter. 41
+(D) "Applicants for insurance" includes all those, whether 42
+or not a prospective insured, who from time to time apply to a 43
+title insurance company or to its agent for title insurance and 44
+who at the time of that application are not agents for a title 45
+insurance company. 46
+(E) "Risk premium" for title insurance means that portion 47
+of the fee charged by a title insurance company, agent of a 48
+
+H. B. No. 230 Page 3
+As Introduced
+title insurance company, or approved attorney of a title 49
+insurance company to an insured or an applicant for insurance 50
+for the assumption by the title insurance company of the risk 51
+created by the issuance of the title insurance policy. 52
+(F) "Fee" for title insurance means the risk premium, 53
+abstracting or searching charge, examination charge, and every 54
+other charge, exclusive of settlement, closing, or escrow 55
+charges, whether denominated premium or otherwise, made by a 56
+title insurance company, agent of a title insurance company, or 57
+an approved attorney of a title insurance company to an insured 58
+or an applicant for insurance for any policy or contract for the 59
+issuance of title insurance. "Fee" does not include any charges 60
+paid to and retained by an attorney at law or abstractor acting 61
+as an independent contractor whether or not the attorney or 62
+abstractor is acting as an agent of a title insurance company or 63
+an approved attorney and does not include any charges made for 64
+special services not constituting title insurance, even though 65
+performed in connection with a title insurance policy or 66
+contract. 67
+(G) "Approved attorney" means an attorney at law who is 68
+not an employee of a title insurance company or a title 69
+insurance agent and upon whose examination of title and report 70
+on the examination a title insurance company may issue a policy 71
+of title insurance. 72
+(H) "Title insurance agent" means a person, partnership, 73
+or corporation authorized in writing by a title insurance 74
+company to solicit insurance and collect premiums and to issue 75
+or countersign policies on its behalf. "Title insurance agent" 76
+does not include officers and salaried employees of any title 77
+insurance company authorized to do a title insurance business 78
+
+H. B. No. 230 Page 4
+As Introduced
+within this state. 79
+(I) "Single insurance risk" means the insured amount of 80
+any policy or contract of title insurance issued by a title 81
+insurance company. 82
+(J) "Foreign title insurance company" means a title 83
+insurance company organized under the laws of any state or 84
+territory of the United States or the District of Columbia. 85
+(K) "Alien title insurance company" means a title 86
+insurance company that is incorporated or organized under the 87
+laws of any foreign nation or any province or territory of a 88
+foreign nation and that is not a foreign title insurance 89
+company. 90
+(L) "Non-directed escrow funds" means any funds delivered 91
+to a title insurance agent or title insurance company with 92
+instructions to hold or disburse the funds pursuant to a 93
+transaction in which a title insurance policy will be issued, 94
+but without written instructions to either deposit the funds in 95
+an account for the benefit of a specific person or to pay the 96
+interest earned on the funds to a specific person. 97
+(M) "Business day" means any day, other than a Saturday or 98
+Sunday, or a legal holiday, on which a bank, savings and loan 99
+association, credit union, or savings bank is open to the public 100
+for carrying on substantially all of its functions. 101
+(N) "Housing accommodations" and "restrictive covenant" 102
+have the same meanings as in section 4112.01 of the Revised 103
+Code. 104
+(O) "Joint venture" means an arrangement undertaken 105
+jointly by two or more parties in regard to ownership of a 106
+business entity a title insurance company or title insurance 107
+
+H. B. No. 230 Page 5
+As Introduced
+agent that has one or more beneficial owners. 108
+(P) "Beneficial owner" means a person or entity to which 109
+both of the following apply: 110
+(1) The person or entity receives a financial benefit from 111
+a joint venture through direct ownership or ownership of a 112
+subsidiary, sister entity, or parent entity, regardless of 113
+whether such subsidiary, sister entity, or parent entity is, 114
+itself, a direct owner of the joint venture. 115
+(2) The person or entity is one or more of the following: 116
+(a) A real estate agent, as defined in section 4735.51 of 117
+the Revised Code, including a real estate broker or salesperson, 118
+as those terms are defined in section 4735.01 of the Revised 119
+Code; 120
+(b) A home builder; 121
+(c) A mortgage lender, including a financial institution 122
+as defined in section 9.02 of the Revised Code, credit union as 123
+defined in section 1733.01 of the Revised Code, and individuals 124
+associated with those entities; 125
+(d) An attorney who is associated or in a business 126
+relationship with, and who has the ability to receive title 127
+insurance business from, or refer title insurance business to, 128
+any person or entity described in divisions (P)(2)(a), (b), or 129
+(c) of this section. 130
+Sec. 3953.21. (A) Every title insurance company authorized 131
+to transact business within this state shall certify annually to 132
+the superintendent of insurance the names of all title insurance 133
+agents representing it in this state in accordance with section 134
+3905.20 of the Revised Code. 135
+
+H. B. No. 230 Page 6
+As Introduced
+(B) No title insurance company shall permit any of the 136
+following to act as the company's agent: 137
+(1) A bank, trust company, bank and trust company, or 138
+other lending institution, mortgage service, brokerage, mortgage 139
+guaranty company, escrow company, or real estate company or any 140
+subsidiaries thereof or any individuals so engaged shall be 141
+permitted to act as an agent for a title insurance company; 142
+(2) A person acting individually in a capacity described 143
+in division (B)(1) of this section; 144
+(3) An employee, representative, or agent of a person or 145
+entity described in division (B)(1) or (2) of this section; 146
+(4) A person or entity related to a person or entity 147
+described in division (B)(1), (2), or (3) of this section by a 148
+common ownership structure, such as a holding, parent, sibling, 149
+or subsidiary company. 150
+Sec. 3953.26. (A) No title insurance company and no title 151
+insurance agent shall pay or give, either directly or 152
+indirectly, any commission or any part of its fees or charges, 153
+or any other consideration or valuable thing, as an inducement 154
+for, or as compensation for, any title insurance business, to 155
+any of the following: 156
+(1) Any applicant for insurance, or to any ; 157
+(2) Any person, firm, or corporation who is acting as 158
+agent, representative, attorney, or employee of the owner, 159
+lessee, mortgagee, or of the prospective owner, lessee, or 160
+mortgagee of the real property or any interest therein, either 161
+directly or indirectly, any commission or any part of its fees 162
+or charges, or any other consideration or valuable thing, as an 163
+inducement for, or as compensation for, any title insurance 164
+
+H. B. No. 230 Page 7
+As Introduced
+business; 165
+(3) Any family member of the applicant for insurance or of 166
+the current or prospective owner, lessee, or mortgagee of any 167
+interest in the real property. 168
+(B) Nothing in this section shall preclude the either of 169
+the following: 170
+(1) The payment by a title insurance company of a 171
+commission to any attorney, if said provided that attorney is 172
+also a licensed title insurance agent of such title insurance 173
+company, or the and is not an employee of the current or 174
+prospective owner, lessee, mortgagee of the real property or any 175
+interest therein; 176
+(2) The payment by such a title insurance company or its 177
+agent of a fee to an attorney for services rendered in the 178
+examination of title or certification thereof. 179
+Sec. 3953.331. (A) For a title insurance agency that is a 180
+joint venture, the annual review required under section 3953.33 181
+of the Revised Code shall demonstrate that assess whether the 182
+agency is a joint venture and, if so, whether all members 183
+beneficial owners of the joint venture received revenue during 184
+the year in question from the title agency commensurate to their 185
+ownership interest in the title agency. The superintendent of 186
+insurance shall promulgate rules under Chapter 119. of the 187
+Revised Code setting forth the standards of the review required 188
+under this section and the form in which this information is to 189
+be provided. 190
+(B) Title insurance agencies that are joint ventures shall 191
+maintain sufficient records of their affairs, including their 192
+escrow operations, escrow trust accounts, and operating accounts 193
+
+H. B. No. 230 Page 8
+As Introduced
+so that the superintendent may adequately ensure that the title 194
+insurance agency that is a joint venture and all members of the 195
+joint venture are in compliance with the requirements of this 196
+section. Records kept pursuant to this section shall be kept for 197
+a period of not less than ten years following the transactions 198
+to which the records relate. The superintendent may prescribe 199
+the specific records and documents to be kept. 200
+Sec. 3953.36. (A) No joint venture shall require in its 201
+initial articles of organization, articles of incorporation, 202
+operating agreement, or other incorporating documents, sooner 203
+than five years after the date the joint venture is formed, 204
+either of the following: 205
+(1) Dissolution of the joint venture; 206
+(2) Subject to divisions (B) and (C) of this section, buy- 207
+back or sale of any ownership interests in the joint venture or 208
+any subsidiary of the joint venture. 209
+(B) No joint venture or subsidiary of a joint venture 210
+shall require in its articles of organization, articles of 211
+incorporation, operating agreement, or other operating or 212
+management documents the buy-back or sale of any beneficial 213
+owner's ownership interest in the joint venture or subsidiary 214
+due to volume of referrals, or lack thereof, of real estate or 215
+title insurance business from a beneficial owner. 216
+(C) A joint venture or subsidiary of a joint venture may 217
+require a beneficial owner to sell the owner's ownership 218
+interests back to the joint venture, subsidiary, or to another 219
+party if any of the following apply: 220
+(1) The beneficial owner is charged with, convicted of, or 221
+pleads guilty to a criminal act. 222
+
+H. B. No. 230 Page 9
+As Introduced
+(2) The beneficial owner ceases to work in the real estate 223
+industry. 224
+(3) The professional license that qualifies the owner as a 225
+beneficial owner for the purposes of this chapter is 226
+surrendered, suspended, or revoked. 227
+(4) The beneficial owner files for bankruptcy. 228
+(5) The beneficial owner commits, coerces to commit, or 229
+otherwise attempts to commit acts, by and through the joint 230
+venture, that do any of the following: 231
+(a) Plausibly create legal liability for the joint venture 232
+or the joint venture's owners, agents, or employees; 233
+(b) Jeopardize the licensure of the joint venture, 234
+including the individual licenses of the joint venture's owners, 235
+agents, notaries, or attorneys; 236
+(c) Harm the reputation of the joint venture or the joint 237
+venture's agents or employees in the marketplace. 238
+Section 2. That existing sections 3953.01, 3953.21, 239
+3953.26, and 3953.331 and section 3953.36 of the Revised Code 240
+are hereby repealed. 241
+
+[DELETED: nH       :: 1 1 1 1 1 1 1.1:1 1 2]
+[DELETED: 0 ;2 2 2 2 2 2;2 2.2:3 3 3;3 3;3 3;3 3 3 4.4 4 4 4 4.4 4 4]
+[DELETED: 0  4 5 5.5 5 5 5 5 5 5 5 6 6 6 6 6 6 6.6 6 6 7 7.7 7 7 7 7 7 7]
+[DELETED: 0 .7 8 8.8 8 8.8 8 8 8 8.9 9 9 9 9 9 9.9 9 9 1.1 1 1.1 1 1 1]
+[DELETED: 0 .1 1:1 1 1 1 1.1:1 1 1 1;1 1 1 1 1;1 1 1 1 1.1 1 1 1 1.1]
+[DELETED: 0  1:1 1 1 1 1;1 1 1 1;1 1 1 1.1 1 1 1 1 1:1;1 1 1 1 1 1 1 1]
+[DELETED: 0 ;1 1 1.1 1:1 1 1 1 1 1;1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 0  1 1 1 1 1 1 2 2 2 2 2:2;2-2 2.2 2 2 2 2 2 2.2 2 2 2:2 2.2]
+[DELETED: 0  2.2 2 2.2.2 2 2:2 2 2 2 2;2 2.2 2 2.2]

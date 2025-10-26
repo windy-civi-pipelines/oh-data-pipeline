@@ -1,0 +1,762 @@
+Title: Cosponsors: Representatives Fischer, Williams, Lett, Glassburn, McNally,
+Official Title: Cosponsors: Representatives Fischer, Williams, Lett, Glassburn, McNally,
+Number of Sections: 12
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 163
+2025-2026
+Representatives Rader, Deeter
+Brennan, Synenberg, White, E., Sigrist, Somani, Brewer, Russo, Miller, J.,
+Thomas, D., Robinson, Grim, Brent, Troy, Cockley, Piccolantonio, Miller, K.,
+Thomas, C., Denson, Upchurch, Abdullahi
+To amend sections 5101.54 and 5101.542 and to enact 1
+
+Section 2:
+section 5101.543 of the Revised Code to require 2
+Ohio's SNAP program to begin using chip-enabled 3
+EBT cards, to name this act the Enhanced 4
+Cybersecurity for SNAP Act of 2025, and to make 5
+an appropriation. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That sections 5101.54 and 5101.542 be amended 7
+and section 5101.543 of the Revised Code be enacted to read as 8
+follows: 9
+Sec. 5101.54. (A) The director of job and family services 10
+shall administer the supplemental nutrition assistance program 11
+in accordance with the Food and Nutrition Act of 2008 (7 U.S.C. 12
+2011 et seq.). The department of job and family services may: 13
+(1) Prepare and submit to the secretary of the United 14
+States department of agriculture a plan for the administration 15
+of the supplemental nutrition assistance program; 16
+(2) Prescribe forms for applications, certificates, 17
+H. B. No. 163 Page 2
+As Introduced
+reports, records, and accounts of county departments of job and 18
+family services, and other matters; 19
+(3) Require such reports and information from each county 20
+department of job and family services as may be necessary and 21
+advisable; 22
+(4) Administer and expend any sums appropriated by the 23
+general assembly for the purposes of the supplemental nutrition 24
+assistance program and all sums paid to the state by the United 25
+States as authorized by the Food and Nutrition Act of 2008; 26
+(5) Conduct such investigations as are necessary; 27
+(6) Enter into interagency agreements and cooperate with 28
+investigations conducted by the department of public safety, 29
+including providing information for investigative purposes, 30
+exchanging property and records, passing through federal 31
+financial participation, modifying any agreements with the 32
+United States department of agriculture, providing for the 33
+supply, security, and accounting of supplemental nutrition 34
+assistance program benefits for investigative purposes, and 35
+meeting any other requirements necessary for the detection and 36
+deterrence of illegal activities in the supplemental nutrition 37
+assistance program; 38
+(7) Adopt rules in accordance with Chapter 119. of the 39
+Revised Code governing employment and training requirements of 40
+recipients of supplemental nutrition assistance program 41
+benefits, including rules specifying which recipients are 42
+subject to the requirements and establishing sanctions for 43
+failure to satisfy the requirements. The rules shall be 44
+consistent with 7 U.S.C. 2015, including its work and employment 45
+and training requirements, and, to the extent practicable, shall 46
+H. B. No. 163 Page 3
+As Introduced
+provide for the recipients to participate in work activities, 47
+developmental activities, and alternative work activities 48
+described in sections 5107.40 to 5107.69 of the Revised Code 49
+that are comparable to programs authorized by 7 U.S.C. 2015(d) 50
+(4). The rules may reference rules adopted under section 5107.05 51
+of the Revised Code governing work activities, developmental 52
+activities, and alternative work activities described in 53
+
+Section 4:
+sections 5107.40 to 5107.69 of the Revised Code. 54
+(8) Adopt rules in accordance with section 111.15 of the 55
+Revised Code that are consistent with the Food and Nutrition Act 56
+of 2008, the regulations adopted thereunder, and this section 57
+governing the following: 58
+(a) Eligibility requirements for the supplemental 59
+nutrition assistance program; 60
+(b) Sanctions for failure to comply with eligibility 61
+requirements; 62
+(c) Allotment of supplemental nutrition assistance program 63
+benefits; 64
+(d) To the extent permitted under federal statutes and 65
+regulations, a system under which some or all recipients of 66
+supplemental nutrition assistance program benefits subject to 67
+employment and training requirements established by rules 68
+adopted under division (A)(7) of this section receive the 69
+benefits after satisfying the requirements; 70
+(e) Administration of the program by county departments of 71
+job and family services; 72
+(f) Other requirements necessary for the efficient 73
+administration of the program. 74
+H. B. No. 163 Page 4
+As Introduced
+(9) Submit a plan to the United States secretary of 75
+agriculture for the department of job and family services to 76
+operate a simplified supplemental nutrition assistance program 77
+pursuant to 7 U.S.C. 2035 under which requirements governing the 78
+Ohio works first program established under Chapter 5107. of the 79
+Revised Code also govern the supplemental nutrition assistance 80
+program in the case of households receiving supplemental 81
+nutrition assistance program benefits and participating in Ohio 82
+works first. 83
+(10) Collect information on suspicious electronic benefit 84
+transfer card transactions and provide the information to each 85
+impacted county department for analysis and investigation. Such 86
+information shall include transactions of even dollar amounts, 87
+full monthly benefit amounts, multiple same-day transactions, 88
+out-of-state transactions, and any other suspicious trends. 89
+(11) Not later than one year after the effective date of 90
+this amendment, adopt rules in accordance with Chapter 119. of 91
+the Revised Code concerning cybersecurity and digital service 92
+related to electronic benefit transfer cards and mobile payments 93
+under the supplemental nutrition assistance program. At a 94
+minimum, rules adopted under division (A)(11) of this section 95
+shall ensure that cybersecurity measures for electronic benefit 96
+transfer cards and mobile payments meet security safeguards that 97
+are used in the private sector and required by federal agencies 98
+for credit, debit, and other payment cards and mobile payments. 99
+The director shall review rules adopted pursuant to division (A) 100
+(11) of this section every five years and update them as 101
+necessary. 102
+(B) A household that is entitled to receive supplemental 103
+nutrition assistance program benefits and that is determined to 104
+H. B. No. 163 Page 5
+As Introduced
+be in immediate need of nutrition assistance shall receive 105
+certification of eligibility for program benefits, pending 106
+verification, within twenty-four hours, or, if mitigating 107
+circumstances occur, within seventy-two hours, after 108
+application, if: 109
+(1) The results of the application interview indicate that 110
+the household will be eligible upon full verification; 111
+(2) Information sufficient to confirm the statements in 112
+the application has been obtained from at least one additional 113
+source, not a member of the applicant's household. Such 114
+information shall be recorded in the case file and shall 115
+include: 116
+(a) The name of the person who provided the name of the 117
+information source; 118
+(b) The name and address of the information source; 119
+(c) A summary of the information obtained. 120
+The period of temporary eligibility shall not exceed one 121
+month from the date of certification of temporary eligibility. 122
+If eligibility is established by full verification, benefits 123
+shall continue without interruption as long as eligibility 124
+continues. 125
+There is no limit on the number of times a household may 126
+receive expedited certification of eligibility under this 127
+division as long as before each expedited certification all of 128
+the information identified in division (F)(1) of this section 129
+was verified for the household at the last expedited 130
+certification or the household's eligibility was certified under 131
+normal processing standards since the last expedited 132
+certification. 133
+H. B. No. 163 Page 6
+As Introduced
+At the time of application, the county department of job 134
+and family services shall provide to a household described in 135
+this division a list of community assistance programs that 136
+provide emergency food. 137
+(C) Before certifying supplemental nutrition assistance 138
+program benefits, the department shall verify the eligibility of 139
+each household in accordance with division (F) of this section. 140
+All applications shall be approved or denied through full 141
+verification within thirty days from receipt of the application 142
+by the county department of job and family services. 143
+(D) Nothing in this section shall be construed to prohibit 144
+the certification of households that qualify under federal 145
+regulations to receive supplemental nutrition assistance program 146
+benefits without charge under the Food and Nutrition Act of 147
+
+Section 5:
+2008. 148
+(E) Any person who applies for the supplemental nutrition 149
+assistance program shall receive a voter registration 150
+application under section 3503.10 of the Revised Code. 151
+(F)(1) In order to verify household eligibility as 152
+required by federal regulations and this section, the department 153
+shall, except as provided in division (F)(2) of this section, 154
+verify at least the following information before certifying 155
+supplemental nutrition assistance program benefits: 156
+(a) Household composition; 157
+(b) Identity; 158
+(c) Citizenship and alien eligibility status; 159
+(d) Social security numbers; 160
+(e) State residency status; 161
+H. B. No. 163 Page 7
+As Introduced
+(f) Disability status; 162
+(g) Gross nonexempt income; 163
+(h) Utility expenses; 164
+(i) Medical expenses; 165
+(j) Enrollment status in other state-administered public 166
+assistance programs within and outside this state; 167
+(k) Any available information related to potential 168
+identity fraud or identity theft. 169
+(2) A household's eligibility for supplemental nutrition 170
+assistance program benefits may be certified before all of the 171
+information identified in division (F)(1) of this section is 172
+verified if the household's certification is being expedited 173
+under division (B) of this section. 174
+(3) On at least a quarterly basis and consistent with 175
+federal regulations, as information is received by a county 176
+department of job and family services, the county department 177
+shall review and act on information identified in division (F) 178
+(1) of this section that indicates a change in circumstances 179
+that may affect eligibility, to the extent such information is 180
+available to the department. 181
+(4) Consistent with federal regulations, as part of the 182
+application for public assistance and before certifying benefits 183
+under the supplemental nutrition assistance program, the 184
+department shall require an applicant, or a person acting on the 185
+applicant's behalf, to verify the identity of the members of the 186
+applicant household. 187
+(5)(a) The department shall sign a memorandum of 188
+understanding with any department, agency, or division as needed 189
+H. B. No. 163 Page 8
+As Introduced
+to obtain the information identified in division (F)(1) of this 190
+
+Section 6:
+section. 191
+(b) The department may contract with one or more 192
+independent vendors to provide the information identified in 193
+division (F)(1) of this section. 194
+(c) Nothing in this section prevents the department or a 195
+county department of job and family services from receiving or 196
+reviewing additional information related to eligibility not 197
+identified in this section or from contracting with one or more 198
+independent vendors to provide additional information not 199
+identified in this section. 200
+(6) The department shall explore joining a multistate 201
+cooperative, such as the national accuracy clearinghouse, to 202
+identify individuals enrolled in public assistance programs 203
+outside of this state. 204
+(G) The department shall use the same criteria to verify 205
+gross nonexempt income from self-employment pursuant to division 206
+(F)(1) of this section as were used during initial certification 207
+when: 208
+(1) Reviewing information pursuant to division (F)(3) of 209
+this section regarding households with income from self- 210
+employment; 211
+(2) Recertifying households with income from self- 212
+employment. 213
+(H) If the department receives information concerning a 214
+household certified to receive supplemental nutrition assistance 215
+program benefits that indicates a change in circumstances that 216
+may affect eligibility, the department shall take action in 217
+accordance with federal regulations, including verifying unclear 218
+H. B. No. 163 Page 9
+As Introduced
+information, providing prior written notice of a change or 219
+adverse action, and notifying the household of the right to a 220
+fair hearing. 221
+(I) In the case of suspected fraud, the department shall 222
+refer the case for an administrative disqualification hearing or 223
+to the county prosecutor of the county in which the applicant or 224
+recipient resides for investigation, or both. 225
+(J) The department shall adopt rules in accordance with 226
+Chapter 119. of the Revised Code to implement divisions (F) to 227
+(I) of this section. 228
+(K) Except as prohibited by federal law, the department 229
+may assign any of the duties described in this section to any 230
+county department of job and family services. 231
+Sec. 5101.542. (A) Immediately following a county 232
+department of job and family services' certification that a 233
+household determined under division (B) of section 5101.54 of 234
+the Revised Code to be in immediate need of nutrition assistance 235
+is eligible for the supplemental nutrition assistance program, 236
+the department of job and family services shall provide for the 237
+household to be sent by regular United States mail an electronic 238
+benefit transfer card containing the amount of benefits the 239
+household is eligible to receive under the program. The card 240
+shall be sent to the member of the household in whose name 241
+application for the supplemental nutrition assistance program 242
+was made or that member's authorized representative. 243
+(B) Except as provided in division (C) of this section, 244
+the department shall replace any electronic benefit transfer 245
+card that is reported by a household to be lost, stolen, or 246
+damaged, within two business days of receiving notice of the 247
+H. B. No. 163 Page 10
+As Introduced
+card's condition, in accordance with 7 C.F.R. 274.6(b). 248
+(C)(1) The department shall implement the option described 249
+in 7 C.F.R. 274.6(b)(5) and shall withhold a replacement 250
+electronic benefit transfer card from a household that requests 251
+four or more replacement cards during a twelve-month period 252
+until the requirements specified in 7 C.F.R. 274.6(b)(5) have 253
+been satisfied. 254
+(2) The department shall not withhold a replacement card 255
+as described under division (C)(1) of this section if the 256
+individual requesting the replacement has a disability directly 257
+related to the loss of the card. 258
+(D) Not later than two years after the effective date of 259
+this amendment, the department shall replace all existing 260
+electronic benefit transfer cards with chip-enabled cards that 261
+meet the requirements specified in technical guidance prepared 262
+by the United States department of agriculture. Thereafter, all 263
+new electronic benefit transfer cards issued shall be chip- 264
+enabled cards as described in this section. 265
+Sec. 5101.543. The director of job and family services 266
+shall ensure that the department of job and family services' web 267
+site contains a mechanism that allows supplemental nutrition 268
+assistance program benefit recipients to report alleged 269
+fraudulent transactions to the department. 270
+
+Section 7:
+Section 2. That existing sections 5101.54 and 5101.542 of 271
+the Revised Code are hereby repealed. 272
+
+Section 8:
+Section 3. This act shall be known as the Enhanced 273
+Cybersecurity for SNAP Act of 2025. 274
+
+Section 9:
+Section 4. All items in this act are hereby appropriated 275
+as designated out of any moneys in the state treasury to the 276
+H. B. No. 163 Page 11
+As Introduced
+credit of the designated fund. For all operating appropriations 277
+made in this act, those in the first column are for fiscal year 278
+2026 and those in the second column are for fiscal year 2027. 279
+The operating appropriations made in this act are in addition to 280
+any other operating appropriations made for these fiscal years. 281
+
+Section 10:
+Section 5. 282
+283
+1 2 3 4 5
+A JFS DEPARTMENT OF JOB AND FAMILY SERVICES
+B General Revenue Fund
+C GRF 600569 SNAP EBT Modernization $5,300,000 $0
+D TOTAL GRF General Revenue Fund $5,300,000 $0
+E Federal Fund Group
+F 3840 600610 Food Assistance Programs $5,300,000 $0
+G TOTAL FED Federal Fund Group $5,300,000 $0
+H TOTAL ALL BUDGET FUND GROUPS $10,600,000 $0
+SNAP EBT MODERNIZATION 284
+The foregoing appropriation items 600569, SNAP EBT 285
+Modernization, and 600610, Food Assistance Programs, shall be 286
+used to support the transition to chip-enabled Supplemental 287
+Nutrition Assistance Program electronic benefit transfer cards. 288
+On July 1, 2026, or as soon as possible thereafter, the 289
+Director of Job and Family Services may certify to the Director 290
+of Budget and Management an amount up to the unexpended, 291
+H. B. No. 163 Page 12
+As Introduced
+unencumbered balance associated with these appropriations at the 292
+end of fiscal year 2026 to be reappropriated to fiscal year 293
+
+Section 11:
+2027. The amounts certified are hereby reappropriated to the 294
+same appropriation items for fiscal year 2027. 295
+
+Section 12:
+Section 6. Within the limits set forth in this act, the 296
+Director of Budget and Management shall establish accounts 297
+indicating the source and amount of funds for each appropriation 298
+made in this act, and shall determine the manner in which 299
+appropriation accounts shall be maintained. Expenditures from 300
+operating appropriations contained in this act shall be 301
+accounted for as though made in, and are subject to all 302
+applicable provisions of, the main operating appropriations act 303
+of the 136th General Assembly. 304
+[DELETED: nH     .  : 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4)5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7]
+[DELETED: 3  7 7 7 7 7 8 8 8 8 8 8 8 8 8.8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1)1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2-2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2-2.2 2 2 2 2.2 2.2 2.2 2 2]
+[DELETED: 3  2 2 2 2.2 2234JGGF69Sn$0$Td$0$F3060Fs$0$Tp$0$TS$0$ 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2.2 2 2 2 2 3 3 3 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 163
+2025-2026
+Representatives Rader, Deeter
+Cosponsors: Representatives Fischer, Williams, Lett, Glassburn, McNally,
+Brennan, Synenberg, White, E., Sigrist, Somani, Brewer, Russo, Miller, J.,
+Thomas, D., Robinson, Grim, Brent, Troy, Cockley, Piccolantonio, Miller, K.,
+Thomas, C., Denson, Upchurch, Abdullahi
+To amend sections 5101.54 and 5101.542 and to enact 1
+section 5101.543 of the Revised Code to require 2
+Ohio's SNAP program to begin using chip-enabled 3
+EBT cards, to name this act the Enhanced 4
+Cybersecurity for SNAP Act of 2025, and to make 5
+an appropriation. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 5101.54 and 5101.542 be amended 7
+and section 5101.543 of the Revised Code be enacted to read as 8
+follows: 9
+Sec. 5101.54. (A) The director of job and family services 10
+shall administer the supplemental nutrition assistance program 11
+in accordance with the Food and Nutrition Act of 2008 (7 U.S.C. 12
+2011 et seq.). The department of job and family services may: 13
+(1) Prepare and submit to the secretary of the United 14
+States department of agriculture a plan for the administration 15
+of the supplemental nutrition assistance program; 16
+(2) Prescribe forms for applications, certificates, 17
+
+H. B. No. 163 Page 2
+As Introduced
+reports, records, and accounts of county departments of job and 18
+family services, and other matters; 19
+(3) Require such reports and information from each county 20
+department of job and family services as may be necessary and 21
+advisable; 22
+(4) Administer and expend any sums appropriated by the 23
+general assembly for the purposes of the supplemental nutrition 24
+assistance program and all sums paid to the state by the United 25
+States as authorized by the Food and Nutrition Act of 2008; 26
+(5) Conduct such investigations as are necessary; 27
+(6) Enter into interagency agreements and cooperate with 28
+investigations conducted by the department of public safety, 29
+including providing information for investigative purposes, 30
+exchanging property and records, passing through federal 31
+financial participation, modifying any agreements with the 32
+United States department of agriculture, providing for the 33
+supply, security, and accounting of supplemental nutrition 34
+assistance program benefits for investigative purposes, and 35
+meeting any other requirements necessary for the detection and 36
+deterrence of illegal activities in the supplemental nutrition 37
+assistance program; 38
+(7) Adopt rules in accordance with Chapter 119. of the 39
+Revised Code governing employment and training requirements of 40
+recipients of supplemental nutrition assistance program 41
+benefits, including rules specifying which recipients are 42
+subject to the requirements and establishing sanctions for 43
+failure to satisfy the requirements. The rules shall be 44
+consistent with 7 U.S.C. 2015, including its work and employment 45
+and training requirements, and, to the extent practicable, shall 46
+
+H. B. No. 163 Page 3
+As Introduced
+provide for the recipients to participate in work activities, 47
+developmental activities, and alternative work activities 48
+described in sections 5107.40 to 5107.69 of the Revised Code 49
+that are comparable to programs authorized by 7 U.S.C. 2015(d) 50
+(4). The rules may reference rules adopted under section 5107.05 51
+of the Revised Code governing work activities, developmental 52
+activities, and alternative work activities described in 53
+sections 5107.40 to 5107.69 of the Revised Code. 54
+(8) Adopt rules in accordance with section 111.15 of the 55
+Revised Code that are consistent with the Food and Nutrition Act 56
+of 2008, the regulations adopted thereunder, and this section 57
+governing the following: 58
+(a) Eligibility requirements for the supplemental 59
+nutrition assistance program; 60
+(b) Sanctions for failure to comply with eligibility 61
+requirements; 62
+(c) Allotment of supplemental nutrition assistance program 63
+benefits; 64
+(d) To the extent permitted under federal statutes and 65
+regulations, a system under which some or all recipients of 66
+supplemental nutrition assistance program benefits subject to 67
+employment and training requirements established by rules 68
+adopted under division (A)(7) of this section receive the 69
+benefits after satisfying the requirements; 70
+(e) Administration of the program by county departments of 71
+job and family services; 72
+(f) Other requirements necessary for the efficient 73
+administration of the program. 74
+
+H. B. No. 163 Page 4
+As Introduced
+(9) Submit a plan to the United States secretary of 75
+agriculture for the department of job and family services to 76
+operate a simplified supplemental nutrition assistance program 77
+pursuant to 7 U.S.C. 2035 under which requirements governing the 78
+Ohio works first program established under Chapter 5107. of the 79
+Revised Code also govern the supplemental nutrition assistance 80
+program in the case of households receiving supplemental 81
+nutrition assistance program benefits and participating in Ohio 82
+works first. 83
+(10) Collect information on suspicious electronic benefit 84
+transfer card transactions and provide the information to each 85
+impacted county department for analysis and investigation. Such 86
+information shall include transactions of even dollar amounts, 87
+full monthly benefit amounts, multiple same-day transactions, 88
+out-of-state transactions, and any other suspicious trends. 89
+(11) Not later than one year after the effective date of 90
+this amendment, adopt rules in accordance with Chapter 119. of 91
+the Revised Code concerning cybersecurity and digital service 92
+related to electronic benefit transfer cards and mobile payments 93
+under the supplemental nutrition assistance program. At a 94
+minimum, rules adopted under division (A)(11) of this section 95
+shall ensure that cybersecurity measures for electronic benefit 96
+transfer cards and mobile payments meet security safeguards that 97
+are used in the private sector and required by federal agencies 98
+for credit, debit, and other payment cards and mobile payments. 99
+The director shall review rules adopted pursuant to division (A) 100
+(11) of this section every five years and update them as 101
+necessary. 102
+(B) A household that is entitled to receive supplemental 103
+nutrition assistance program benefits and that is determined to 104
+
+H. B. No. 163 Page 5
+As Introduced
+be in immediate need of nutrition assistance shall receive 105
+certification of eligibility for program benefits, pending 106
+verification, within twenty-four hours, or, if mitigating 107
+circumstances occur, within seventy-two hours, after 108
+application, if: 109
+(1) The results of the application interview indicate that 110
+the household will be eligible upon full verification; 111
+(2) Information sufficient to confirm the statements in 112
+the application has been obtained from at least one additional 113
+source, not a member of the applicant's household. Such 114
+information shall be recorded in the case file and shall 115
+include: 116
+(a) The name of the person who provided the name of the 117
+information source; 118
+(b) The name and address of the information source; 119
+(c) A summary of the information obtained. 120
+The period of temporary eligibility shall not exceed one 121
+month from the date of certification of temporary eligibility. 122
+If eligibility is established by full verification, benefits 123
+shall continue without interruption as long as eligibility 124
+continues. 125
+There is no limit on the number of times a household may 126
+receive expedited certification of eligibility under this 127
+division as long as before each expedited certification all of 128
+the information identified in division (F)(1) of this section 129
+was verified for the household at the last expedited 130
+certification or the household's eligibility was certified under 131
+normal processing standards since the last expedited 132
+certification. 133
+
+H. B. No. 163 Page 6
+As Introduced
+At the time of application, the county department of job 134
+and family services shall provide to a household described in 135
+this division a list of community assistance programs that 136
+provide emergency food. 137
+(C) Before certifying supplemental nutrition assistance 138
+program benefits, the department shall verify the eligibility of 139
+each household in accordance with division (F) of this section. 140
+All applications shall be approved or denied through full 141
+verification within thirty days from receipt of the application 142
+by the county department of job and family services. 143
+(D) Nothing in this section shall be construed to prohibit 144
+the certification of households that qualify under federal 145
+regulations to receive supplemental nutrition assistance program 146
+benefits without charge under the Food and Nutrition Act of 147
+2008. 148
+(E) Any person who applies for the supplemental nutrition 149
+assistance program shall receive a voter registration 150
+application under section 3503.10 of the Revised Code. 151
+(F)(1) In order to verify household eligibility as 152
+required by federal regulations and this section, the department 153
+shall, except as provided in division (F)(2) of this section, 154
+verify at least the following information before certifying 155
+supplemental nutrition assistance program benefits: 156
+(a) Household composition; 157
+(b) Identity; 158
+(c) Citizenship and alien eligibility status; 159
+(d) Social security numbers; 160
+(e) State residency status; 161
+
+H. B. No. 163 Page 7
+As Introduced
+(f) Disability status; 162
+(g) Gross nonexempt income; 163
+(h) Utility expenses; 164
+(i) Medical expenses; 165
+(j) Enrollment status in other state-administered public 166
+assistance programs within and outside this state; 167
+(k) Any available information related to potential 168
+identity fraud or identity theft. 169
+(2) A household's eligibility for supplemental nutrition 170
+assistance program benefits may be certified before all of the 171
+information identified in division (F)(1) of this section is 172
+verified if the household's certification is being expedited 173
+under division (B) of this section. 174
+(3) On at least a quarterly basis and consistent with 175
+federal regulations, as information is received by a county 176
+department of job and family services, the county department 177
+shall review and act on information identified in division (F) 178
+(1) of this section that indicates a change in circumstances 179
+that may affect eligibility, to the extent such information is 180
+available to the department. 181
+(4) Consistent with federal regulations, as part of the 182
+application for public assistance and before certifying benefits 183
+under the supplemental nutrition assistance program, the 184
+department shall require an applicant, or a person acting on the 185
+applicant's behalf, to verify the identity of the members of the 186
+applicant household. 187
+(5)(a) The department shall sign a memorandum of 188
+understanding with any department, agency, or division as needed 189
+
+H. B. No. 163 Page 8
+As Introduced
+to obtain the information identified in division (F)(1) of this 190
+section. 191
+(b) The department may contract with one or more 192
+independent vendors to provide the information identified in 193
+division (F)(1) of this section. 194
+(c) Nothing in this section prevents the department or a 195
+county department of job and family services from receiving or 196
+reviewing additional information related to eligibility not 197
+identified in this section or from contracting with one or more 198
+independent vendors to provide additional information not 199
+identified in this section. 200
+(6) The department shall explore joining a multistate 201
+cooperative, such as the national accuracy clearinghouse, to 202
+identify individuals enrolled in public assistance programs 203
+outside of this state. 204
+(G) The department shall use the same criteria to verify 205
+gross nonexempt income from self-employment pursuant to division 206
+(F)(1) of this section as were used during initial certification 207
+when: 208
+(1) Reviewing information pursuant to division (F)(3) of 209
+this section regarding households with income from self- 210
+employment; 211
+(2) Recertifying households with income from self- 212
+employment. 213
+(H) If the department receives information concerning a 214
+household certified to receive supplemental nutrition assistance 215
+program benefits that indicates a change in circumstances that 216
+may affect eligibility, the department shall take action in 217
+accordance with federal regulations, including verifying unclear 218
+
+H. B. No. 163 Page 9
+As Introduced
+information, providing prior written notice of a change or 219
+adverse action, and notifying the household of the right to a 220
+fair hearing. 221
+(I) In the case of suspected fraud, the department shall 222
+refer the case for an administrative disqualification hearing or 223
+to the county prosecutor of the county in which the applicant or 224
+recipient resides for investigation, or both. 225
+(J) The department shall adopt rules in accordance with 226
+Chapter 119. of the Revised Code to implement divisions (F) to 227
+(I) of this section. 228
+(K) Except as prohibited by federal law, the department 229
+may assign any of the duties described in this section to any 230
+county department of job and family services. 231
+Sec. 5101.542. (A) Immediately following a county 232
+department of job and family services' certification that a 233
+household determined under division (B) of section 5101.54 of 234
+the Revised Code to be in immediate need of nutrition assistance 235
+is eligible for the supplemental nutrition assistance program, 236
+the department of job and family services shall provide for the 237
+household to be sent by regular United States mail an electronic 238
+benefit transfer card containing the amount of benefits the 239
+household is eligible to receive under the program. The card 240
+shall be sent to the member of the household in whose name 241
+application for the supplemental nutrition assistance program 242
+was made or that member's authorized representative. 243
+(B) Except as provided in division (C) of this section, 244
+the department shall replace any electronic benefit transfer 245
+card that is reported by a household to be lost, stolen, or 246
+damaged, within two business days of receiving notice of the 247
+
+H. B. No. 163 Page 10
+As Introduced
+card's condition, in accordance with 7 C.F.R. 274.6(b). 248
+(C)(1) The department shall implement the option described 249
+in 7 C.F.R. 274.6(b)(5) and shall withhold a replacement 250
+electronic benefit transfer card from a household that requests 251
+four or more replacement cards during a twelve-month period 252
+until the requirements specified in 7 C.F.R. 274.6(b)(5) have 253
+been satisfied. 254
+(2) The department shall not withhold a replacement card 255
+as described under division (C)(1) of this section if the 256
+individual requesting the replacement has a disability directly 257
+related to the loss of the card. 258
+(D) Not later than two years after the effective date of 259
+this amendment, the department shall replace all existing 260
+electronic benefit transfer cards with chip-enabled cards that 261
+meet the requirements specified in technical guidance prepared 262
+by the United States department of agriculture. Thereafter, all 263
+new electronic benefit transfer cards issued shall be chip- 264
+enabled cards as described in this section. 265
+Sec. 5101.543. The director of job and family services 266
+shall ensure that the department of job and family services' web 267
+site contains a mechanism that allows supplemental nutrition 268
+assistance program benefit recipients to report alleged 269
+fraudulent transactions to the department. 270
+Section 2. That existing sections 5101.54 and 5101.542 of 271
+the Revised Code are hereby repealed. 272
+Section 3. This act shall be known as the Enhanced 273
+Cybersecurity for SNAP Act of 2025. 274
+Section 4. All items in this act are hereby appropriated 275
+as designated out of any moneys in the state treasury to the 276
+
+H. B. No. 163 Page 11
+As Introduced
+credit of the designated fund. For all operating appropriations 277
+made in this act, those in the first column are for fiscal year 278
+2026 and those in the second column are for fiscal year 2027. 279
+The operating appropriations made in this act are in addition to 280
+any other operating appropriations made for these fiscal years. 281
+Section 5. 282
+283
+1 2 3 4 5
+A JFS DEPARTMENT OF JOB AND FAMILY SERVICES
+B General Revenue Fund
+C GRF 600569 SNAP EBT Modernization $5,300,000 $0
+D TOTAL GRF General Revenue Fund $5,300,000 $0
+E Federal Fund Group
+F 3840 600610 Food Assistance Programs $5,300,000 $0
+G TOTAL FED Federal Fund Group $5,300,000 $0
+H TOTAL ALL BUDGET FUND GROUPS $10,600,000 $0
+SNAP EBT MODERNIZATION 284
+The foregoing appropriation items 600569, SNAP EBT 285
+Modernization, and 600610, Food Assistance Programs, shall be 286
+used to support the transition to chip-enabled Supplemental 287
+Nutrition Assistance Program electronic benefit transfer cards. 288
+On July 1, 2026, or as soon as possible thereafter, the 289
+Director of Job and Family Services may certify to the Director 290
+of Budget and Management an amount up to the unexpended, 291
+
+H. B. No. 163 Page 12
+As Introduced
+unencumbered balance associated with these appropriations at the 292
+end of fiscal year 2026 to be reappropriated to fiscal year 293
+2027. The amounts certified are hereby reappropriated to the 294
+same appropriation items for fiscal year 2027. 295
+Section 6. Within the limits set forth in this act, the 296
+Director of Budget and Management shall establish accounts 297
+indicating the source and amount of funds for each appropriation 298
+made in this act, and shall determine the manner in which 299
+appropriation accounts shall be maintained. Expenditures from 300
+operating appropriations contained in this act shall be 301
+accounted for as though made in, and are subject to all 302
+applicable provisions of, the main operating appropriations act 303
+of the 136th General Assembly. 304
+
+[DELETED: nH     .  : 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 3  4 4 4)5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7]
+[DELETED: 3  7 7 7 7 7 8 8 8 8 8 8 8 8 8.8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1)1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 3  1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2-2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2-2.2 2 2 2 2.2 2.2 2.2 2 2]
+[DELETED: 3  2 2 2 2.2 2234JGGF69Sn$0$Td$0$F3060Fs$0$Tp$0$TS$0$ 2 2 2 2 2 2 2 2]
+[DELETED: 3  2 2 2.2 2 2 2 2 3 3 3 3.3]

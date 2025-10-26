@@ -1,0 +1,1881 @@
+Title: Cosponsors: Representatives Brent, Brewer, Brownlee, Piccolantonio, Lett,
+Official Title: Cosponsors: Representatives Brent, Brewer, Brownlee, Piccolantonio, Lett,
+Number of Sections: 24
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 545
+2025-2026
+Representatives Robinson, Tims
+Rogers, Sims, Somani, Upchurch
+To amend sections 3317.0212, 3327.01, and 3327.016; 1
+to enact new section 3327.021 and section 2
+
+Section 2:
+3317.071; and to repeal section 3327.021 of the 3
+Revised Code and to amend Sections 265.10, 4
+
+Section 3:
+265.300, 512.10, and 516.10 of H.B. 96 of the 5
+136th General Assembly to enact the School 6
+Busing Improvement Act regarding transportation 7
+of students and to make an appropriation. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 4:
+Section 1. That sections 3317.0212, 3327.01, and 3327.016 9
+be amended and new section 3327.021 and section 3317.071 of the 10
+Revised Code be enacted to read as follows: 11
+Sec. 3317.0212. (A) As used in this section: 12
+(1) For fiscal years 2026 and 2027, "assigned bus" means a 13
+school bus used to transport qualifying riders. 14
+(2) For fiscal years 2026 and 2027, "density" means the 15
+total riders per square mile of a school district. 16
+(3) For fiscal years 2026 and 2027, "nontraditional 17
+ridership" means the average number of qualifying riders who are 18
+H. B. No. 545 Page 2
+As Introduced
+enrolled in a community school established under Chapter 3314. 19
+of the Revised Code, in a STEM school established under Chapter 20
+
+Section 5:
+3326. of the Revised Code, or in a nonpublic school and are 21
+provided school bus service by a school district during the 22
+first full week of October. 23
+(4) "Qualifying riders" means the following: 24
+(a) For fiscal years 2026 and 2027, resident students 25
+enrolled in preschool and regular education in grades 26
+kindergarten to twelve who are provided school bus service by a 27
+school district, including students with dual enrollment in a 28
+joint vocational school district or a cooperative education 29
+school district, and students enrolled in a community school, 30
+STEM school, or nonpublic school; 31
+(b) For fiscal year 2028 and each fiscal year thereafter, 32
+students specified by the general assembly. 33
+(5) "Qualifying ridership" means the following: 34
+(a) For fiscal years 2026 and 2027, the greater of the 35
+average number of qualifying riders counted in the morning or 36
+counted in the afternoon who are provided school bus service by 37
+a school district during the first full week of October; 38
+(b) For fiscal year 2028 and each fiscal year thereafter, 39
+a ridership determined in a manner specified by the general 40
+assembly. 41
+(6) "Rider density" means the following: 42
+(a) For fiscal years 2026 and 2027, the following 43
+quotient: 44
+A school district's total number of qualifying riders/ the 45
+number of square miles in the district 46
+H. B. No. 545 Page 3
+As Introduced
+(b) For fiscal year 2028 and each fiscal year thereafter, 47
+a number calculated in a manner determined by the general 48
+assembly. 49
+(7) For fiscal years 2026 and 2027, "riders" means 50
+students enrolled in regular and special education in grades 51
+kindergarten through twelve who are provided school bus service 52
+by a school district, including students with dual enrollment in 53
+a joint vocational school district or a cooperative education 54
+school district, and students enrolled in a community school, 55
+STEM school, or nonpublic school. 56
+(8) "School bus service" means a school district's 57
+transportation of qualifying riders in any of the following 58
+types of vehicles: 59
+(a) School buses owned or leased by the district; 60
+(b) School buses operated by a private contractor hired by 61
+the district; 62
+(c) School buses operated by another school district or 63
+entity with which the district has contracted, either as part of 64
+a consortium for the provision of transportation or otherwise. 65
+(B) Not later than the first day of November, for fiscal 66
+years 2026 and 2027, or a date determined by the general 67
+assembly, for fiscal year 2028 and each fiscal year thereafter, 68
+of each year, each city, local, and exempted village school 69
+district shall report to the department of education and 70
+workforce its qualifying ridership and any other information 71
+requested by the department. Subsequent adjustments to the 72
+reported numbers shall be made only in accordance with rules 73
+adopted by the department. 74
+(C) The department shall calculate the statewide 75
+H. B. No. 545 Page 4
+As Introduced
+transportation cost per student as follows: 76
+(1) Determine each city, local, and exempted village 77
+school district's transportation cost per student by dividing 78
+the district's total costs for school bus service in the 79
+previous fiscal year by its qualifying ridership in the previous 80
+fiscal year. 81
+(2) After excluding districts that do not provide school 82
+bus service and the ten districts with the highest 83
+transportation costs per student and the ten districts with the 84
+lowest transportation costs per student, divide the aggregate 85
+cost for school bus service for the remaining districts in the 86
+previous fiscal year by the aggregate qualifying ridership of 87
+those districts in the previous fiscal year. 88
+(D) The department shall calculate the statewide 89
+transportation cost per mile as follows: 90
+(1) Determine each city, local, and exempted village 91
+school district's transportation cost per mile by dividing the 92
+district's total costs for school bus service in the previous 93
+fiscal year by its total number of miles driven for school bus 94
+service in the previous fiscal year. 95
+(2) After excluding districts that do not provide school 96
+bus service and the ten districts with the highest 97
+transportation costs per mile and the ten districts with the 98
+lowest transportation costs per mile, divide the aggregate cost 99
+for school bus service for the remaining districts in the 100
+previous fiscal year by the aggregate miles driven for school 101
+bus service in those districts in the previous fiscal year. 102
+(E) The department shall calculate each city, local, and 103
+exempted village school district's transportation base payment 104
+H. B. No. 545 Page 5
+As Introduced
+as follows: 105
+(1) For fiscal years 2026 and 2027: 106
+(a) Calculate the sum of the following: 107
+(i) The product of the statewide transportation cost per 108
+student and the number of students counted in the district's 109
+qualifying ridership for the current fiscal year who are 110
+enrolled in the district; 111
+(ii) 1.5 times the The statewide transportation cost per 112
+student times the number of students counted in the district's 113
+qualifying ridership for the current fiscal year who are 114
+enrolled in community schools established under Chapter 3314. of 115
+the Revised Code or STEM schools established under Chapter 3326. 116
+of the Revised Code times either of the following: 117
+(I) For fiscal year 2026, 1.5; 118
+(II) For fiscal year 2027, 2.0; 119
+(iii) 2.0 times the The statewide transportation cost per 120
+student times the number of students counted in the district's 121
+qualifying ridership for the current fiscal year who are 122
+enrolled in nonpublic schools times either of the following: 123
+(I) For fiscal year 2026, 2.0; 124
+(II) For fiscal year 2027, 3.0. 125
+(b) Calculate the sum of the following: 126
+(i) The product of the statewide transportation cost per 127
+mile and the number of miles driven for school bus service as 128
+reported for qualifying riders for the current fiscal year who 129
+are enrolled in the district; 130
+(ii) 1.5 times the statewide transportation cost per mile 131
+H. B. No. 545 Page 6
+As Introduced
+times the number of miles driven for school bus service as 132
+reported for qualifying riders for the current fiscal year who 133
+are enrolled in community schools or STEM schools; 134
+(iii) 2.0 times the statewide transportation cost per mile 135
+times the number of miles driven for school bus service as 136
+reported for qualifying riders for the current fiscal year who 137
+are enrolled in nonpublic schools. 138
+(c) Multiply the greater of the amounts calculated under 139
+divisions (E)(1)(a) and (b) of this section by the following: 140
+(i) For fiscal year 2026, the greater of forty-five and 141
+eighty-three hundredths per cent or the district's state share 142
+percentage, as defined in section 3317.02 of the Revised Code; 143
+(ii) For fiscal year 2027, the greater of fifty per cent 144
+or the district's state share percentage. 145
+(2) For fiscal year 2028 and each fiscal year thereafter, 146
+an amount determined by the general assembly. 147
+(F) For fiscal years 2026 and 2027, the department shall 148
+pay a district's efficiency adjustment payment in accordance 149
+with divisions (F)(1) to (3) of this section. For fiscal year 150
+2028 and each fiscal year thereafter, the department shall pay a 151
+district's efficiency adjustment payment in a manner determined 152
+by the general assembly, if the general assembly authorizes such 153
+a payment to districts. 154
+(1) The department annually shall establish a target 155
+number of qualifying riders per assigned bus for each city, 156
+local, and exempted village school district. The department 157
+shall use the data from the previous fiscal year in establishing 158
+the target number. The target number shall be based on the 159
+statewide median number of riders per assigned bus as adjusted 160
+H. B. No. 545 Page 7
+As Introduced
+to reflect the district's density in comparison to the density 161
+of all other districts. The department shall post on the 162
+department's web site each district's target number of riders 163
+per assigned bus and a description of how the target number was 164
+determined. 165
+(2) The department shall determine each school district's 166
+efficiency index by dividing the district's number of riders per 167
+assigned bus by its target number of riders per assigned bus. 168
+(3) The department shall determine each city, local, and 169
+exempted village school district's efficiency adjustment payment 170
+as follows: 171
+(a) If the district's efficiency index is equal to or 172
+greater than 1.5, the efficiency adjustment payment shall be 173
+calculated according to the following formula: 174
+
+Section 6:
+0.15 X the district's transportation base payment calculated 175
+under division (E) of this section 176
+(b) If the district's efficiency index is less than 1.5 177
+but greater than or equal to 1.0, the efficiency adjustment 178
+payment shall be calculated according to the following formula: 179
+{[(The district's efficiency index - 1) X 0.15]/0.5} X the 180
+district's transportation base payment calculated under division 181
+(E) of this section 182
+(c) If the district's efficiency index is less than 1.0, 183
+the efficiency adjustment payment shall be zero. 184
+(G) In addition to funds paid under divisions (E), (F), 185
+and (H) of this section, each city, local, and exempted village 186
+district shall receive in accordance with rules adopted by the 187
+department a payment for students transported by means other 188
+H. B. No. 545 Page 8
+As Introduced
+than school bus service and whose transportation is not funded 189
+under division (C) of section 3317.024 of the Revised Code. The 190
+rules shall include provisions for school district reporting of 191
+such students. 192
+(H)(1) For purposes of division (H) of this section, a 193
+school district's "transportation supplement percentage" means 194
+the following: 195
+(a) For fiscal years 2026 and 2027, the following 196
+quotient: 197
+(28 – the district's rider density) / 100 198
+If the result of the calculation for a district under 199
+division (H)(1)(a) of this section is less than zero, the 200
+district's transportation supplement percentage shall be zero. 201
+(b) For fiscal year 2028 and each fiscal year thereafter, 202
+a percentage calculated in a manner determined by the general 203
+assembly. 204
+(2) The department shall pay each district a 205
+transportation supplement calculated according to the following 206
+formula: 207
+The district's transportation supplement percentage X the amount 208
+calculated for the district under division (E)(1)(b) of this 209
+
+Section 7:
+section X 0.55 210
+(I)(1) If a school district board and a community school 211
+governing authority elect to enter into an agreement under 212
+division (A) of section 3314.091 of the Revised Code, the 213
+department shall make payments to the community school according 214
+to the terms of the agreement for each student actually 215
+transported under division (C)(1) of that section. If a 216
+H. B. No. 545 Page 9
+As Introduced
+community school governing authority accepts transportation 217
+responsibility under division (B) of that section, the 218
+department shall make payments to the community school for each 219
+student actually transported or for whom transportation is 220
+arranged by the community school under division (C)(1) of that 221
+
+Section 8:
+section, calculated as follows: 222
+(a) For any fiscal year which the general assembly has 223
+specified that transportation payments to school districts be 224
+based on an across-the-board percentage of the district's 225
+payment for the previous school year, the per pupil payment to 226
+the community school shall be the following quotient: 227
+(i) The total amount calculated for the school district in 228
+which the child is entitled to attend school for student 229
+transportation other than transportation of children with 230
+disabilities; divided by 231
+(ii) The number of students included in the district's 232
+transportation ADM for the current fiscal year, as calculated 233
+under section 3317.03 of the Revised Code, plus the number of 234
+students enrolled in the community school not counted in the 235
+district's transportation ADM who are transported under division 236
+(B)(1) or (2) of section 3314.091 of the Revised Code. 237
+(b) For any fiscal year which the general assembly has 238
+specified that the transportation payments to school districts 239
+be calculated in accordance with this section and any rules of 240
+the department implementing this section, the payment to the 241
+community school shall be the following: 242
+(i) For fiscal years 2026 and 2027, either of the 243
+following: 244
+(I) If the school district in which the student is 245
+H. B. No. 545 Page 10
+As Introduced
+entitled to attend school would have used a method of 246
+transportation for the student for which payments are computed 247
+and paid under division (E) of this section, 1.0 times the 248
+statewide transportation cost per student, as calculated in 249
+division (C) of this section; 250
+(II) If the school district in which the student is 251
+entitled to attend school would have used a method of 252
+transportation for the student for which payments are computed 253
+and paid in a manner described in division (G) of this section, 254
+the amount that would otherwise be computed for and paid to the 255
+district. 256
+(ii) For fiscal year 2028 and each fiscal year thereafter, 257
+an amount calculated in a manner determined by the general 258
+assembly. 259
+The community school, however, is not required to use the 260
+same method to transport the student. 261
+As used in this division, "entitled to attend school" 262
+means entitled to attend school under section 3313.64 or 3313.65 263
+of the Revised Code. 264
+(2) A community school shall be paid under division (I)(2) 265
+of this section only for students who are eligible as specified 266
+in section 3327.01 of the Revised Code and division (C)(1) of 267
+
+Section 9:
+section 3314.091 of the Revised Code, and whose transportation 268
+to and from school is actually provided, who actually utilized 269
+transportation arranged, or for whom a payment in lieu of 270
+transportation is made by the community school's governing 271
+authority. To qualify for the payments, the community school 272
+shall report to the department, in the form and manner required 273
+by the department, data on the number of students transported or 274
+H. B. No. 545 Page 11
+As Introduced
+whose transportation is arranged, the number of miles traveled, 275
+cost to transport, and any other information requested by the 276
+department. 277
+Sec. 3317.071. For any fiscal year that the general 278
+assembly has appropriated sufficient funds to operate the 279
+program, the department of education and workforce shall 280
+implement a program to distribute bus purchasing grants of not 281
+less than $45,000 to city, local, and exempted village school 282
+districts for the purpose of replacing the oldest and highest 283
+mileage buses in the state assigned to routes. The department 284
+shall collect annually age, mileage, and vehicle condition data 285
+from districts through its transportation data collection 286
+system. 287
+Sec. 3327.01. Notwithstanding division (D) of section 288
+
+Section 10:
+3311.19 and division (D) of section 3311.52 of the Revised Code, 289
+this section and sections 3327.011, 3327.012, and 3327.02 of the 290
+Revised Code do not apply to any joint vocational or cooperative 291
+education school district. 292
+In all city, local, and exempted village school districts 293
+where resident school pupils in grades kindergarten through 294
+eight live more than two miles from the school for which the 295
+director of education and workforce prescribes minimum standards 296
+pursuant to division (D) of section 3301.07 of the Revised Code 297
+and to which they are assigned by the board of education of the 298
+district of residence or to and from the nonpublic or community 299
+school which they attend, the board of education shall provide 300
+transportation for such pupils to and from that school except as 301
+provided in section 3327.02 of the Revised Code. 302
+In all city, local, and exempted village school districts 303
+where pupil transportation is required under a career-technical 304
+H. B. No. 545 Page 12
+As Introduced
+plan approved by the department of education and workforce under 305
+
+Section 11:
+section 3313.90 of the Revised Code, for any student attending a 306
+career-technical program operated by another school district, 307
+including a joint vocational school district, as prescribed 308
+under that section, the board of education of the student's 309
+district of residence shall provide transportation from the 310
+public high school operated by that district to which the 311
+student is assigned to the career-technical program. 312
+In all city, local, and exempted village school districts, 313
+the board may provide transportation for resident school pupils 314
+in grades nine through twelve to and from the high school to 315
+which they are assigned by the board of education of the 316
+district of residence or to and from the nonpublic or community 317
+high school which they attend for which the director of 318
+education and workforce prescribes minimum standards pursuant to 319
+division (D) of section 3301.07 of the Revised Code. 320
+A board of education shall not be required to transport 321
+elementary or high school pupils to and from a nonpublic or 322
+community school where such transportation would require more 323
+than thirty minutes of direct travel time as measured by school 324
+bus from the public school building to which the pupils would be 325
+assigned if attending the public school designated by the 326
+district of residence. 327
+Where it is impractical to transport a pupil by school 328
+conveyance, a board of education may offer payment, in lieu of 329
+providing such transportation in accordance with section 3327.02 330
+of the Revised Code. 331
+A Except as provided in section 3327.016 of the Revised 332
+Code, a board of education shall provide transportation to 333
+students enrolled in a community school or nonpublic school in 334
+H. B. No. 545 Page 13
+As Introduced
+accordance with this section on each day in which that school is 335
+open for operation with students in attendance, regardless of 336
+whether the district's own schools are open for operation with 337
+students in attendance on that day. However, a board of 338
+education shall not be required to transport elementary or high 339
+school pupils to and from a nonpublic or community school on 340
+Saturday or Sunday, unless a board of education and a nonpublic 341
+or community school have an agreement in place to do so before 342
+the first day of July of the school year in which the agreement 343
+takes effect. 344
+In all city, local, and exempted village school districts, 345
+the board shall provide transportation for all children who are 346
+so disabled that they are unable to walk to and from the school 347
+for which the director of education and workforce prescribes 348
+minimum standards pursuant to division (D) of section 3301.07 of 349
+the Revised Code and which they attend. In case of dispute 350
+whether the child is able to walk to and from the school, the 351
+health commissioner shall be the judge of such ability. In all 352
+city, exempted village, and local school districts, the board 353
+shall provide transportation to and from school or special 354
+education classes for mentally disabled children in accordance 355
+with standards adopted by the department of education and 356
+workforce. 357
+When transportation of pupils is provided the conveyance 358
+shall be run on a time schedule that shall be adopted and put in 359
+force by the board not later than ten days after the beginning 360
+of the school term. The operator of every school bus or motor 361
+van owned and operated by any school district or educational 362
+service center or privately owned and operated under contract 363
+with any school district or service center in this state shall 364
+deliver students enrolled in preschool through twelfth grades to 365
+H. B. No. 545 Page 14
+As Introduced
+their respective public and nonpublic schools not sooner than 366
+thirty minutes prior to the beginning of school and to be 367
+available to pick them up not later than thirty minutes after 368
+the close of their respective schools each day. Further, 369
+operators shall not deliver students late to school. 370
+The cost of any transportation service authorized by this 371
+
+Section 12:
+section shall be paid first out of federal funds, if any, 372
+available for the purpose of pupil transportation, and secondly 373
+out of state appropriations, in accordance with regulations 374
+adopted by the department. 375
+No transportation of any pupils shall be provided by any 376
+board of education to or from any school which in the selection 377
+of pupils, faculty members, or employees, practices 378
+discrimination against any person on the grounds of race, color, 379
+religion, or national origin. 380
+A board of education shall provide transportation as a 381
+related service for all children with disabilities living in the 382
+school district who are enrolled in a nonpublic school if the 383
+school district is provided with supporting documentation from 384
+the child's individual education program developed pursuant to 385
+Chapter 3323. of the Revised Code or an individual service plan 386
+developed pursuant to section 5126.41 of the Revised Code. 387
+Sec. 3327.016. (A) As used in this section, "eligible 388
+student" means a student entitled to transportation services 389
+from the city, local, or exempted village school district 390
+pursuant to section 3327.01 of the Revised Code. 391
+(B) Each community school established under Chapter 3314. 392
+of the Revised Code or chartered nonpublic school shall 393
+establish the school's start and end times for a particular 394
+H. B. No. 545 Page 15
+As Introduced
+school year not later than the first day of April prior to that 395
+school year. Each community or chartered nonpublic school shall 396
+provide such start and end times to each city, local, or 397
+exempted village school district that the school expects will be 398
+responsible for providing transportation services to eligible 399
+students enrolled in the school for that school year. 400
+Each city, local, or exempted village school district that 401
+receives start and end times for a chartered nonpublic school 402
+under this division shall establish tiers of windows of time 403
+that best work for the district in transporting the school's 404
+eligible students. If a chartered nonpublic school's start and 405
+end times fall within one of those tiers, the district shall 406
+notify the school of that fact. If a chartered nonpublic 407
+school's start and end times do not fall within one of those 408
+tiers, the district shall notify the school of that fact and 409
+provide the opportunity for the school to change its start and 410
+end times. If such school does not change its start and end 411
+times, the district is not required to transport the school's 412
+students to and from school. 413
+(C) Each city, local, or exempted village school district 414
+that receives start and end times as prescribed from a community 415
+school under division (B) of this section, or receives start and 416
+end times from a chartered nonpublic school that fall within one 417
+of the tiers of windows of time under division (B) of this 418
+
+Section 13:
+section, shall use those start and end times to develop a 419
+transportation plan, including transportation routes and 420
+schedules, for eligible students who enrolled in a the community 421
+or chartered nonpublic school and shall provide such 422
+transportation plan to the community or chartered nonpublic 423
+school within sixty days after receiving the information 424
+described in that division. If a school provides the start and 425
+H. B. No. 545 Page 16
+As Introduced
+end times to the school district after the first day of April 426
+but before the first day of July, the district shall attempt to 427
+provide a transportation plan to the school by the first day of 428
+August of that school year. For any eligible student who enrolls 429
+in a community school, or a chartered nonpublic school that has 430
+start and end times that fall within one of the tiers of windows 431
+of time under division (B) of this section, after the first day 432
+of July prior to that school year, a district shall develop a 433
+transportation plan, including transportation routes and 434
+schedules, for that student within fourteen business days of 435
+receiving a request for transportation services from the 436
+student's parent or guardian. 437
+Sec. 3327.021. (A) The department of education and 438
+workforce shall monitor each city, local, or exempted village 439
+school district's compliance with sections 3327.01 and 3327.016 440
+and division (B) of section 3327.017 of the Revised Code. Except 441
+as provided in division (B) of this section, if the department 442
+determines a consistent or prolonged period of noncompliance on 443
+the part of the school district to provide transportation as 444
+required under those sections, the department shall deduct from 445
+the district's payment for student transportation under Chapter 446
+
+Section 14:
+3317. of the Revised Code the daily amount of that payment, as 447
+computed by the department, for the number of students who did 448
+not receive the required transportation, including students who 449
+arrived to school late, under those sections for each day that 450
+the district is not in compliance. 451
+(B) A school district shall not be penalized under this 452
+
+Section 15:
+section if the department determines that extenuating 453
+circumstances caused the district's failure to comply. The 454
+department shall develop a process under which a district may 455
+submit information explaining the extenuating circumstances that 456
+H. B. No. 545 Page 17
+As Introduced
+led to its failure to comply and on how the department may 457
+determine that those circumstances caused the failure. 458
+This section does not affect the authority of a school 459
+district to provide payment in lieu of transportation in 460
+accordance with section 3327.02 of the Revised Code. 461
+
+Section 16:
+Section 2. That existing sections 3317.0212, 3327.01, and 462
+
+Section 17:
+3327.016 of the Revised Code are hereby repealed. 463
+
+Section 18:
+Section 3. That section 3327.021 of the Revised Code is 464
+hereby repealed. 465
+
+Section 19:
+Section 4. That Sections 265.10, 265.300, 512.10, and 466
+
+Section 20:
+516.10 of H.B. 96 of the 136th General Assembly be amended to 467
+read as follows: 468
+Sec. 265.10. 469
+470
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B General Revenue Fund
+C GRF 200321 Operating Expenses $14,474,898 $15,054,312
+D GRF 200416 Career Technical $2,500,000 $2,500,000
+Education
+E GRF 200420 Information Technology $4,231,479 $4,316,527
+Development and Support
+F GRF 200422 School Management $2,800,000 $2,800,000
+Assistance
+H. B. No. 545 Page 18
+As Introduced
+G GRF 200424 Policy Analysis $500,000 $516,419
+H GRF 200426 Ohio Educational Computer $18,994,000 $18,994,000
+Network
+I GRF 200427 Academic Standards $5,535,410 $5,429,033
+J GRF 200437 Student Assessment $50,609,125 $50,882,346
+K GRF 200439 Accountability/Report $7,369,440 $7,437,742
+Cards
+L GRF 200446 Education Management $9,958,226 $10,325,278
+Information System
+M GRF 200448 Educator and Principal $2,663,493 $2,676,754
+Preparation
+N GRF 200455 Community Schools and $4,370,165 $4,446,705
+Choice Programs
+O GRF 200457 STEM Initiatives $500,000 $500,000
+P GRF 200465 Education Technology $2,893,949 $2,906,346
+Resources
+Q GRF 200478 Industry-Recognized $16,000,000 $16,000,000
+Credentials High School
+Students
+R GRF 200502 Pupil Transportation $882,035,414 $959,429,701
+$1,001,429,701
+S GRF 200505 School Meal Programs $13,163,000 $13,163,000
+H. B. No. 545 Page 19
+As Introduced
+T GRF 200511 Auxiliary Services $170,292,963 $172,262,613
+U GRF 200532 Nonpublic Administrative $76,935,110 $77,824,960
+Cost Reimbursement
+V GRF 200540 Special Education $193,272,426 $193,272,426
+Enhancements
+W GRF 200545 Career-Technical $13,413,000 $13,413,000
+Education Enhancements
+X GRF 200550 Foundation Funding - All $8,457,598,772 $8,733,217,991
+Students
+$8,729,217,991
+Y GRF 200566 Literacy Improvement $2,472,674 $2,500,000
+Z GRF 200572 Adult Education Programs $9,348,399 $15,688,404
+AA GRF 200574 Half-Mill Maintenance $6,420,640 $6,152,450
+Equalization
+AB GRF 200576 Adaptive Sports Program $400,000 $400,000
+AC GRF 200597 Program and Project $2,850,000 $2,750,000
+Support
+AD General Revenue Fund Total $9,971,602,583 $10,334,860,007
+$10,372,860,007
+AE Dedicated Purpose Fund Group
+AF 4520 200638 Charges and $1,500,000 $1,500,000
+Reimbursements
+H. B. No. 545 Page 20
+As Introduced
+AG 5980 200659 Auxiliary Services $650,000 $650,000
+Reimbursement
+AH 5H30 200687 School District Solvency $2,000,000 $2,000,000
+Assistance
+AI 5KX0 200691 Ohio School Sponsorship $1,900,000 $1,900,000
+Program
+AJ 5MM0 200677 Child Nutrition Refunds $550,000 $550,000
+AK 5U20 200685 National Education $185,000 $185,000
+Statistics
+AL 5VS0 200604 Foundation Funding - All $600,000,000 $600,000,000
+Students
+AM 5VU0 200663 School Bus Purchase $0 $50,000,000
+AN 5YO0 200491 Public and Nonpublic $171,200,000 $171,200,000
+Education Support
+AO 6200 200615 Educational Improvement $600,000 $600,000
+Grants
+AP Dedicated Purpose Fund Group Total $778,585,000 $778,585,000
+$828,585,000
+AQ Internal Service Activity Fund Group
+AR 1380 200606 Information Technology $18,394,387 $18,597,721
+Development and Support
+AS 4R70 200695 Indirect Operational $9,944,311 $10,166,435
+H. B. No. 545 Page 21
+As Introduced
+Support
+AT 4V70 200633 Interagency Program $3,000,000 $3,000,000
+Support
+AU Internal Service Activity Fund Group $31,338,698 $31,764,156
+Total
+AV State Lottery Fund Group
+AW 7017 200413 School Bus Safety $10,000,000 $0
+AX 7017 200612 Foundation Funding - All $1,436,583,202 $1,398,174,884
+Students
+AY 7017 200614 Accelerate Great Schools $1,500,000 $1,500,000
+AZ 7017 200631 Quality Community and $115,000,000 $125,000,000
+Independent STEM Schools
+Support
+BA 7017 200684 Community School $90,155,000 $90,155,000
+Facilities
+BB 7017 2006A7 Literacy Coaches $12,000,000 $12,000,000
+BC State Lottery Fund Group Total $1,665,238,202 $1,626,829,884
+BD Federal Fund Group
+BE 3120 2006A9 Aspire - Federal $0 $18,996,799
+BF 3670 200607 School Food Services $13,379,350 $13,379,350
+BG 3700 200624 Education of Exceptional $1,750,000 $1,750,000
+H. B. No. 545 Page 22
+As Introduced
+Children
+BH 3AF0 657601 Schools Medicaid $150,000 $150,000
+Administrative Claims
+BI 3EH0 200620 Migrant Education $1,700,000 $1,700,000
+BJ 3EJ0 200622 Homeless Children $4,823,000 $5,112,380
+Education
+BK 3GE0 200674 Summer Food Service $23,000,000 $23,000,000
+Program
+BL 3GG0 200676 Fresh Fruit and Vegetable $5,500,000 $6,000,000
+Program
+BM 3HF0 200649 Federal Education Grants $5,000,000 $5,000,000
+BN 3HI0 200634 Student Support and $54,131,000 $50,604,930
+Academic Enrichment
+BO 3HL0 200678 Comprehensive Literacy $14,630,000 $14,630,000
+State Development Program
+BP 3L60 200617 Federal School Lunch $565,999,000 $595,000,000
+BQ 3L70 200618 Federal School Breakfast $195,000,000 $205,000,000
+BR 3L80 200619 Child/Adult Food Programs $116,000,000 $118,000,000
+BS 3L90 200621 Career-Technical $56,680,000 $58,947,200
+Education Basic Grant
+BT 3M00 200623 ESEA Title 1A $677,740,000 $698,072,200
+H. B. No. 545 Page 23
+As Introduced
+BU 3M20 200680 Individuals with $530,400,000 $541,008,000
+Disabilities Education
+Act
+BV 3Y20 200688 21st Century Community $47,940,000 $48,898,800
+Learning Centers
+BW 3Y60 200635 Improving Teacher Quality $77,157,900 $78,701,058
+BX 3Y70 200689 English Language $13,728,000 $14,277,120
+Acquisition
+BY 3Y80 200639 Rural and Low Income $3,300,000 $3,300,000
+Technical Assistance
+BZ 3Z20 200690 State Assessments $11,500,000 $11,500,000
+CA 3Z30 200645 Consolidated Federal $15,000,000 $15,000,000
+Grant Administration
+CB Federal Fund Group Total $2,434,508,250 $2,528,027,837
+CC TOTAL ALL BUDGET FUND GROUPS $14,881,272,733 $15,300,066,884
+$15,388,066,884
+Sec. 265.300. FOUNDATION FUNDING - ALL STUDENTS 471
+The foregoing appropriation item 200604, Foundation 472
+Funding - All Students, shall be used in conjunction with 473
+appropriation items 200550, Foundation Funding - All Students, 474
+and 200612, Foundation Funding - All Students, to distribute the 475
+amounts calculated for disadvantaged pupil impact aid under 476
+
+Section 21:
+sections 3317.022 and 3317.16 of the Revised Code and the 477
+portions of the state share of the base cost calculated under 478
+H. B. No. 545 Page 24
+As Introduced
+those sections that are attributable to the staffing cost for 479
+the student wellness and success component of the base cost, as 480
+determined by the Department of Education and Workforce. 481
+SCHOOL BUS PURCHASE 482
+The foregoing appropriation item 200663, School Bus 483
+Purchase, shall be used to distribute bus purchasing grants to 484
+city, local, and exempted village school districts pursuant to 485
+
+Section 22:
+section 3317.071 of the Revised Code. Notwithstanding any 486
+provision of law to the contrary, school bus purchase funds 487
+awarded in fiscal year 2027 may be used by recipients through 488
+fiscal year 2028. 489
+Sec. 512.10. TRANSFERS OUT OF GENERAL REVENUE FUND 490
+STATE MARKETING OFFICE FUND 491
+On July 1, 2025, or as soon as possible thereafter, the 492
+Director of Budget and Management shall transfer up to 493
+$22,000,000 cash from the General Revenue Fund to the State 494
+Marketing Office Fund (Fund 5MJ0). 495
+FOUNDATION FUNDING - ALL STUDENTS FUND 496
+Notwithstanding any provision of law to the contrary, the 497
+Director of Budget and Management may transfer up to 498
+$600,000,000 cash, in each fiscal year, from the General Revenue 499
+Fund to the Foundation Funding - All Students Fund (Fund 5VS0). 500
+SECOND CHANCE GRANT PROGRAM FUND 501
+On July 1, 2025, or as soon as possible thereafter, the 502
+Director of Budget and Management shall transfer up to 503
+$4,000,000 cash from the General Revenue Fund to the Second 504
+Chance Grant Program Fund (Fund 5YD0). 505
+H. B. No. 545 Page 25
+As Introduced
+MARCS ADMINISTRATION FUND 506
+On July 1 of each fiscal year, or as soon as possible 507
+thereafter, the Director of Budget and Management may transfer 508
+up to $10,500,000 cash from the General Revenue Fund to the 509
+MARCS Administration Fund (Fund 5C20). 510
+WILDLIFE FUND 511
+On July 1 of each fiscal year, or as soon as possible 512
+thereafter, the Director of Budget and Management may transfer 513
+$500,000 cash from the General Revenue Fund to the Wildlife Fund 514
+(Fund 7015). 515
+TRANSCRANIAL MAGNETIC STIMULATION FUND 516
+On July 1 of each fiscal year, or as soon as possible 517
+thereafter, the Director of Budget and Management may transfer 518
+$5,000,000 cash from the General Revenue Fund to the 519
+Transcranial Magnetic Stimulation Fund (Fund 5VV0). 520
+H2OHIO FUND 521
+On July 1, 2025, or as soon as possible thereafter, the 522
+Director of Budget and Management may transfer $165,000,000 from 523
+the General Revenue Fund to the H2Ohio Fund (Fund 6H20). 524
+OHIO MARITIME ASSISTANCE PROGRAM 525
+On July 1, 2025, or as soon as possible thereafter, the 526
+Director of Budget and Management shall transfer $10,000,000 527
+cash from the General Revenue Fund to the Ohio Maritime 528
+Assistance Fund (Fund 5QT0). 529
+RESIDENTIAL DEVELOPMENT REVOLVING LOAN 530
+On July 1, 2025, or as soon as possible thereafter, the 531
+Director of Budget and Management shall transfer $100,000,000 532
+H. B. No. 545 Page 26
+As Introduced
+cash from the General Revenue Fund to the Residential 533
+Development Revolving Loan Fund (Fund 5CT1). 534
+RURAL PRACTICE INCENTIVE FUND 535
+On July 1, 2025, or as soon as possible thereafter, the 536
+Director of Budget and Management shall transfer $3,000,000 cash 537
+from the General Revenue Fund to the Rural Practice Incentive 538
+Fund (Fund 5ZD0). 539
+EWARRANT LOCAL INTEGRATION FUND 540
+On July 1, 2025, or as soon as possible thereafter, the 541
+Director of Budget and Management may transfer $750,000 cash 542
+from the General Revenue Fund to the eWarrant Local Integration 543
+Fund (Fund 5AZ1). 544
+TARGETED ADDICTION PROGRAM FUND 545
+On July 1, 2025, or as soon as possible thereafter, the 546
+Director of Budget and Management shall transfer $12,500,000 547
+cash from the General Revenue Fund to the Targeted Addiction 548
+Program Fund (Fund 5TZ0). 549
+On July 1, 2025, or as soon as possible thereafter, the 550
+Director of Budget and Management shall transfer $10,000,000 551
+cash from the General Revenue Fund to the Medical Marijuana 552
+Control Fund (Fund 5SY0). 553
+SCHOOL BUS PURCHASE FUND 554
+On July 1, 2026, or as soon as possible thereafter, the 555
+Director of Budget and Management shall transfer $50,000,000 556
+cash from the General Revenue Fund to the School Bus Purchase 557
+Fund (Fund 5VU0). 558
+Sec. 516.10. CASH TRANSFERS AND ABOLISHMENT OF FUNDS 559
+H. B. No. 545 Page 27
+As Introduced
+(A) On July 1, 2025, or as soon as possible thereafter, 560
+the Director of Budget and Management may transfer the cash 561
+balance from each of the funds as indicated in the table below 562
+to the fund also indicated in the table below. Upon completion 563
+of each transfer and on the effective date of its repeal by this 564
+actH.B. 96 of the 136th General Assembly, where applicable, the 565
+fund from which the cash balance was transferred is hereby 566
+abolished. 567
+568
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+C AGO 5MP0 Peace Officer 5LR0 Ohio Law Enforcement
+Training Commission Training Fund
+Fund
+D AGR 5MA0 Dangerous and 5MS0 Animal and Consumer
+Restricted Animal Protection Fund
+Fund
+E AGR 5PL0 Pet Store License 5MR0 Commercial Dog
+Fund Breeding Fund
+F DAS 5MV0 Theatre Equipment GRF General Revenue Fund
+Maintenance Fund
+G DAS 1280 Collective 1250 Human Resources
+Bargaining Fund Services Fund
+H. B. No. 545 Page 28
+As Introduced
+H MHA 3A60 Federal- 5AU0 Behavioral Health
+Miscellaneous Fund Care Fund
+I DPS 3HT0 Justice Emergency GRF General Revenue Fund
+Supplemental Funding
+Fund
+J DPS 5RS0 Community Police 5AZ1 eWarrant Local
+Relations Fund Integration Fund
+K MCD 5XY0 Hospital Directed 5AN0 State Directed
+Payment Fund Payments Fund
+L OOD 3L10 Social Security 3790 Consolidated Federal
+Reimbursement Fund Fund
+M TOS 7090 Job Ready Site GRF General Revenue Fund
+Development Bond
+Retirement Fund
+N LSC 4100 Sale of Publications GRF General Revenue Fund
+Fund
+O LSC 4F60 Legislative Budget GRF General Revenue Fund
+Services Fund
+P LSC 5EF0 Legislative Agency GRF General Revenue Fund
+Telephone Usage Fund
+Q BOR 5RA0 Workforce and Higher GRF General Revenue Fund
+Education Programs
+Fund
+R DOH 5UA0 Emergency GRF General Revenue Fund
+H. B. No. 545 Page 29
+As Introduced
+Preparation and
+Response Fund
+(B) The following funds are hereby abolished on the 569
+effective date of their repeal by this actH.B. 96 of the 136th 570
+General Assembly: 571
+572
+1 2 3
+A User Agency Fund Fund Name
+B AGR 5HP0 Ohio Livestock Care Standards Fund
+C DDD 4U40 Developmental Disabilities Trust Fund
+D MCD 3ER0 Health Information Technology Fund
+E OBM 5AT1 Statewide Children's Vision Initiative Fund
+F OBM 5CV1 Coronavirus Relief Fund
+G PRX 3DV0 Enhancing Ohio's PMP Fund
+H PRX 3BC0 Dangerous Drug Database Fund
+I PRX 3EB0 NASPER Fund
+J PRX 3EY0 Administration of PMIX HUB Fund
+K PRX 3EZ0 NASPER 10 Fund
+L PRX 3CT0 2008 Developing/Enhancing PMP Fund
+(C) On July 1, 2025, or as soon as possible thereafter, 573
+the Director of Budget and Management shall transfer the cash 574
+H. B. No. 545 Page 30
+As Introduced
+balance from each of the funds as indicated in the table below 575
+to the fund also indicated in the table below. Upon completion 576
+of each transfer and on the effective date of its repeal by this 577
+actH.B. 96 of the 136th General Assembly, where applicable, the 578
+fund from which the cash balance was transferred is hereby 579
+abolished. 580
+581
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+C DEV 5KN0 Local Government GRF General Revenue Fund
+Innovation Fund
+(D) On July 1, 2025, or as soon as possible thereafter, 582
+the Director of Budget and Management may transfer the cash 583
+balance from each of the funds as indicated in the table below 584
+to the fund also indicated in the table below after any 585
+encumbrances in these funds are fully discharged. Upon 586
+completion of each transfer and on the effective date of its 587
+repeal by this act, where applicable, the fund from which the 588
+cash balance was transferred is hereby abolished. 589
+590
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+H. B. No. 545 Page 31
+As Introduced
+C EDU 5VU0 School Bus Purchase GRF General Revenue
+Fund Fund
+
+Section 23:
+Section 5. That existing Sections 265.10, 265.300, 512.10, 591
+and 516.10 of H.B. 96 of the 136th General Assembly are hereby 592
+repealed. 593
+
+Section 24:
+Section 6. This act shall be known as the School Busing 594
+Improvement Act. 595
+[DELETED: nH       .  1:1 1 1 1 1 1 1 1]
+[DELETED: 5  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7]
+[DELETED: 5  7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1:1;1 1 1 1 1:1;1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2.2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 4 4 4.4 4.4 4 4:4 4234EGGF21Os$8$GF26C $0$GF20I $9$GF22S $0$]
+[DELETED: 5 GF24Ps$0$GF26O $0$GF27As$0$GF27St$5$GF29A $0$GF26E $6$GF28E $3$GF25C $5$GF27Ss$0$GF25E $9$GF28I $0$GF22Pn$4$GF25Ss$0$]
+[DELETED: 5 GF21As$3$GF22N $0$GF20S $6$GF25C $0$GF20F $2$GF26Lt$4$GF22As$9$AGF24H $0$BGF26Am$0$CGF27P $0$DGl$3$EDF4028C $0$]
+[DELETED: 5 G5029A $0$H5027S $0$I5021O $0$J5027Cs$0$K5025N $0$L5024F $0$M5023Se$0$N5021P $0$O6025E $0$PDl$0$QIR1026I $7$S4025I $1$]
+[DELETED: 5 T4023I $0$UI $8$VSW7723Sy$0$X7722F $2$Y7724As$0$Z7721Q $0$A7724C $0$B7727Ls$0$CSl$2$DFE3029Al$0$F3027Ss$0$G3024E $0$]
+[DELETED: 5 H3061S $0$I3020Mn$0$J3022H $0$K3024S $0$L3026F $0$M3029Fs$0$N3024S $0$O3028C $0$P3027Fh$0$Q3028Ft$0$R3029Cs$0$S3021C $0$T3023EA$0$]
+[DELETED: 5 U3020I $0$V30282 $0$W3025Iy$0$X3029E $0$Y3029R $0$Z3020Ss$0$A3025C $0$BFl$0$CTS$3$S4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4.4E4 4 4 4 4 4 4.4D4D4 4 4 4.4D4 4 4 4.5D5 5 5 5.5]
+[DELETED: 5 D5 5 5 5.5D5 5 5 5.5D5 5 5 5.5D5 5 5.5M5 5 5 5.5N5 5 5]
+[DELETED: 5  5.5D5 5 5 5.5D5 5 5 5.5D5 5 5 5.5 5 5 5.5D5 5 5 5.5S5]
+[DELETED: 5  5 5 5 5 5 5 5.5234T:TU FdFeFdFAO50P 50O TAR50D 50A PAR50P 50CdBDS50T GFGDS10C 10HdS]
+[DELETED: 5 MA30F-50BdCDS30J GFGDS50C 51edIMD50H 50SdPOD30S 30CdFTS70J GFGLC40S GFGLC40L GFGLC50L GFGBR50W GFGDH50E GFG]
+[DELETED: 5  5 5:52UyFdFAR50ODD40DMD30HOM51SOM51CPX30EPX30DPX30NPX30APX30NPX302 5 5]
+[DELETED: 5  5 5 5 5 5.5234T:TU FdFeFdFDV50L GFG 5 5 5 5 5 5 5.5234T:TU FdFeFdF]
+[DELETED: 5 EU50S GFGdF 5 5.5 5.5]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 545
+2025-2026
+Representatives Robinson, Tims
+Cosponsors: Representatives Brent, Brewer, Brownlee, Piccolantonio, Lett,
+Rogers, Sims, Somani, Upchurch
+To amend sections 3317.0212, 3327.01, and 3327.016; 1
+to enact new section 3327.021 and section 2
+3317.071; and to repeal section 3327.021 of the 3
+Revised Code and to amend Sections 265.10, 4
+265.300, 512.10, and 516.10 of H.B. 96 of the 5
+136th General Assembly to enact the School 6
+Busing Improvement Act regarding transportation 7
+of students and to make an appropriation. 8
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3317.0212, 3327.01, and 3327.016 9
+be amended and new section 3327.021 and section 3317.071 of the 10
+Revised Code be enacted to read as follows: 11
+Sec. 3317.0212. (A) As used in this section: 12
+(1) For fiscal years 2026 and 2027, "assigned bus" means a 13
+school bus used to transport qualifying riders. 14
+(2) For fiscal years 2026 and 2027, "density" means the 15
+total riders per square mile of a school district. 16
+(3) For fiscal years 2026 and 2027, "nontraditional 17
+ridership" means the average number of qualifying riders who are 18
+
+H. B. No. 545 Page 2
+As Introduced
+enrolled in a community school established under Chapter 3314. 19
+of the Revised Code, in a STEM school established under Chapter 20
+3326. of the Revised Code, or in a nonpublic school and are 21
+provided school bus service by a school district during the 22
+first full week of October. 23
+(4) "Qualifying riders" means the following: 24
+(a) For fiscal years 2026 and 2027, resident students 25
+enrolled in preschool and regular education in grades 26
+kindergarten to twelve who are provided school bus service by a 27
+school district, including students with dual enrollment in a 28
+joint vocational school district or a cooperative education 29
+school district, and students enrolled in a community school, 30
+STEM school, or nonpublic school; 31
+(b) For fiscal year 2028 and each fiscal year thereafter, 32
+students specified by the general assembly. 33
+(5) "Qualifying ridership" means the following: 34
+(a) For fiscal years 2026 and 2027, the greater of the 35
+average number of qualifying riders counted in the morning or 36
+counted in the afternoon who are provided school bus service by 37
+a school district during the first full week of October; 38
+(b) For fiscal year 2028 and each fiscal year thereafter, 39
+a ridership determined in a manner specified by the general 40
+assembly. 41
+(6) "Rider density" means the following: 42
+(a) For fiscal years 2026 and 2027, the following 43
+quotient: 44
+A school district's total number of qualifying riders/ the 45
+number of square miles in the district 46
+
+H. B. No. 545 Page 3
+As Introduced
+(b) For fiscal year 2028 and each fiscal year thereafter, 47
+a number calculated in a manner determined by the general 48
+assembly. 49
+(7) For fiscal years 2026 and 2027, "riders" means 50
+students enrolled in regular and special education in grades 51
+kindergarten through twelve who are provided school bus service 52
+by a school district, including students with dual enrollment in 53
+a joint vocational school district or a cooperative education 54
+school district, and students enrolled in a community school, 55
+STEM school, or nonpublic school. 56
+(8) "School bus service" means a school district's 57
+transportation of qualifying riders in any of the following 58
+types of vehicles: 59
+(a) School buses owned or leased by the district; 60
+(b) School buses operated by a private contractor hired by 61
+the district; 62
+(c) School buses operated by another school district or 63
+entity with which the district has contracted, either as part of 64
+a consortium for the provision of transportation or otherwise. 65
+(B) Not later than the first day of November, for fiscal 66
+years 2026 and 2027, or a date determined by the general 67
+assembly, for fiscal year 2028 and each fiscal year thereafter, 68
+of each year, each city, local, and exempted village school 69
+district shall report to the department of education and 70
+workforce its qualifying ridership and any other information 71
+requested by the department. Subsequent adjustments to the 72
+reported numbers shall be made only in accordance with rules 73
+adopted by the department. 74
+(C) The department shall calculate the statewide 75
+
+H. B. No. 545 Page 4
+As Introduced
+transportation cost per student as follows: 76
+(1) Determine each city, local, and exempted village 77
+school district's transportation cost per student by dividing 78
+the district's total costs for school bus service in the 79
+previous fiscal year by its qualifying ridership in the previous 80
+fiscal year. 81
+(2) After excluding districts that do not provide school 82
+bus service and the ten districts with the highest 83
+transportation costs per student and the ten districts with the 84
+lowest transportation costs per student, divide the aggregate 85
+cost for school bus service for the remaining districts in the 86
+previous fiscal year by the aggregate qualifying ridership of 87
+those districts in the previous fiscal year. 88
+(D) The department shall calculate the statewide 89
+transportation cost per mile as follows: 90
+(1) Determine each city, local, and exempted village 91
+school district's transportation cost per mile by dividing the 92
+district's total costs for school bus service in the previous 93
+fiscal year by its total number of miles driven for school bus 94
+service in the previous fiscal year. 95
+(2) After excluding districts that do not provide school 96
+bus service and the ten districts with the highest 97
+transportation costs per mile and the ten districts with the 98
+lowest transportation costs per mile, divide the aggregate cost 99
+for school bus service for the remaining districts in the 100
+previous fiscal year by the aggregate miles driven for school 101
+bus service in those districts in the previous fiscal year. 102
+(E) The department shall calculate each city, local, and 103
+exempted village school district's transportation base payment 104
+
+H. B. No. 545 Page 5
+As Introduced
+as follows: 105
+(1) For fiscal years 2026 and 2027: 106
+(a) Calculate the sum of the following: 107
+(i) The product of the statewide transportation cost per 108
+student and the number of students counted in the district's 109
+qualifying ridership for the current fiscal year who are 110
+enrolled in the district; 111
+(ii) 1.5 times the The statewide transportation cost per 112
+student times the number of students counted in the district's 113
+qualifying ridership for the current fiscal year who are 114
+enrolled in community schools established under Chapter 3314. of 115
+the Revised Code or STEM schools established under Chapter 3326. 116
+of the Revised Code times either of the following: 117
+(I) For fiscal year 2026, 1.5; 118
+(II) For fiscal year 2027, 2.0; 119
+(iii) 2.0 times the The statewide transportation cost per 120
+student times the number of students counted in the district's 121
+qualifying ridership for the current fiscal year who are 122
+enrolled in nonpublic schools times either of the following: 123
+(I) For fiscal year 2026, 2.0; 124
+(II) For fiscal year 2027, 3.0. 125
+(b) Calculate the sum of the following: 126
+(i) The product of the statewide transportation cost per 127
+mile and the number of miles driven for school bus service as 128
+reported for qualifying riders for the current fiscal year who 129
+are enrolled in the district; 130
+(ii) 1.5 times the statewide transportation cost per mile 131
+
+H. B. No. 545 Page 6
+As Introduced
+times the number of miles driven for school bus service as 132
+reported for qualifying riders for the current fiscal year who 133
+are enrolled in community schools or STEM schools; 134
+(iii) 2.0 times the statewide transportation cost per mile 135
+times the number of miles driven for school bus service as 136
+reported for qualifying riders for the current fiscal year who 137
+are enrolled in nonpublic schools. 138
+(c) Multiply the greater of the amounts calculated under 139
+divisions (E)(1)(a) and (b) of this section by the following: 140
+(i) For fiscal year 2026, the greater of forty-five and 141
+eighty-three hundredths per cent or the district's state share 142
+percentage, as defined in section 3317.02 of the Revised Code; 143
+(ii) For fiscal year 2027, the greater of fifty per cent 144
+or the district's state share percentage. 145
+(2) For fiscal year 2028 and each fiscal year thereafter, 146
+an amount determined by the general assembly. 147
+(F) For fiscal years 2026 and 2027, the department shall 148
+pay a district's efficiency adjustment payment in accordance 149
+with divisions (F)(1) to (3) of this section. For fiscal year 150
+2028 and each fiscal year thereafter, the department shall pay a 151
+district's efficiency adjustment payment in a manner determined 152
+by the general assembly, if the general assembly authorizes such 153
+a payment to districts. 154
+(1) The department annually shall establish a target 155
+number of qualifying riders per assigned bus for each city, 156
+local, and exempted village school district. The department 157
+shall use the data from the previous fiscal year in establishing 158
+the target number. The target number shall be based on the 159
+statewide median number of riders per assigned bus as adjusted 160
+
+H. B. No. 545 Page 7
+As Introduced
+to reflect the district's density in comparison to the density 161
+of all other districts. The department shall post on the 162
+department's web site each district's target number of riders 163
+per assigned bus and a description of how the target number was 164
+determined. 165
+(2) The department shall determine each school district's 166
+efficiency index by dividing the district's number of riders per 167
+assigned bus by its target number of riders per assigned bus. 168
+(3) The department shall determine each city, local, and 169
+exempted village school district's efficiency adjustment payment 170
+as follows: 171
+(a) If the district's efficiency index is equal to or 172
+greater than 1.5, the efficiency adjustment payment shall be 173
+calculated according to the following formula: 174
+0.15 X the district's transportation base payment calculated 175
+under division (E) of this section 176
+(b) If the district's efficiency index is less than 1.5 177
+but greater than or equal to 1.0, the efficiency adjustment 178
+payment shall be calculated according to the following formula: 179
+{[(The district's efficiency index - 1) X 0.15]/0.5} X the 180
+district's transportation base payment calculated under division 181
+(E) of this section 182
+(c) If the district's efficiency index is less than 1.0, 183
+the efficiency adjustment payment shall be zero. 184
+(G) In addition to funds paid under divisions (E), (F), 185
+and (H) of this section, each city, local, and exempted village 186
+district shall receive in accordance with rules adopted by the 187
+department a payment for students transported by means other 188
+
+H. B. No. 545 Page 8
+As Introduced
+than school bus service and whose transportation is not funded 189
+under division (C) of section 3317.024 of the Revised Code. The 190
+rules shall include provisions for school district reporting of 191
+such students. 192
+(H)(1) For purposes of division (H) of this section, a 193
+school district's "transportation supplement percentage" means 194
+the following: 195
+(a) For fiscal years 2026 and 2027, the following 196
+quotient: 197
+(28 – the district's rider density) / 100 198
+If the result of the calculation for a district under 199
+division (H)(1)(a) of this section is less than zero, the 200
+district's transportation supplement percentage shall be zero. 201
+(b) For fiscal year 2028 and each fiscal year thereafter, 202
+a percentage calculated in a manner determined by the general 203
+assembly. 204
+(2) The department shall pay each district a 205
+transportation supplement calculated according to the following 206
+formula: 207
+The district's transportation supplement percentage X the amount 208
+calculated for the district under division (E)(1)(b) of this 209
+section X 0.55 210
+(I)(1) If a school district board and a community school 211
+governing authority elect to enter into an agreement under 212
+division (A) of section 3314.091 of the Revised Code, the 213
+department shall make payments to the community school according 214
+to the terms of the agreement for each student actually 215
+transported under division (C)(1) of that section. If a 216
+
+H. B. No. 545 Page 9
+As Introduced
+community school governing authority accepts transportation 217
+responsibility under division (B) of that section, the 218
+department shall make payments to the community school for each 219
+student actually transported or for whom transportation is 220
+arranged by the community school under division (C)(1) of that 221
+section, calculated as follows: 222
+(a) For any fiscal year which the general assembly has 223
+specified that transportation payments to school districts be 224
+based on an across-the-board percentage of the district's 225
+payment for the previous school year, the per pupil payment to 226
+the community school shall be the following quotient: 227
+(i) The total amount calculated for the school district in 228
+which the child is entitled to attend school for student 229
+transportation other than transportation of children with 230
+disabilities; divided by 231
+(ii) The number of students included in the district's 232
+transportation ADM for the current fiscal year, as calculated 233
+under section 3317.03 of the Revised Code, plus the number of 234
+students enrolled in the community school not counted in the 235
+district's transportation ADM who are transported under division 236
+(B)(1) or (2) of section 3314.091 of the Revised Code. 237
+(b) For any fiscal year which the general assembly has 238
+specified that the transportation payments to school districts 239
+be calculated in accordance with this section and any rules of 240
+the department implementing this section, the payment to the 241
+community school shall be the following: 242
+(i) For fiscal years 2026 and 2027, either of the 243
+following: 244
+(I) If the school district in which the student is 245
+
+H. B. No. 545 Page 10
+As Introduced
+entitled to attend school would have used a method of 246
+transportation for the student for which payments are computed 247
+and paid under division (E) of this section, 1.0 times the 248
+statewide transportation cost per student, as calculated in 249
+division (C) of this section; 250
+(II) If the school district in which the student is 251
+entitled to attend school would have used a method of 252
+transportation for the student for which payments are computed 253
+and paid in a manner described in division (G) of this section, 254
+the amount that would otherwise be computed for and paid to the 255
+district. 256
+(ii) For fiscal year 2028 and each fiscal year thereafter, 257
+an amount calculated in a manner determined by the general 258
+assembly. 259
+The community school, however, is not required to use the 260
+same method to transport the student. 261
+As used in this division, "entitled to attend school" 262
+means entitled to attend school under section 3313.64 or 3313.65 263
+of the Revised Code. 264
+(2) A community school shall be paid under division (I)(2) 265
+of this section only for students who are eligible as specified 266
+in section 3327.01 of the Revised Code and division (C)(1) of 267
+section 3314.091 of the Revised Code, and whose transportation 268
+to and from school is actually provided, who actually utilized 269
+transportation arranged, or for whom a payment in lieu of 270
+transportation is made by the community school's governing 271
+authority. To qualify for the payments, the community school 272
+shall report to the department, in the form and manner required 273
+by the department, data on the number of students transported or 274
+
+H. B. No. 545 Page 11
+As Introduced
+whose transportation is arranged, the number of miles traveled, 275
+cost to transport, and any other information requested by the 276
+department. 277
+Sec. 3317.071. For any fiscal year that the general 278
+assembly has appropriated sufficient funds to operate the 279
+program, the department of education and workforce shall 280
+implement a program to distribute bus purchasing grants of not 281
+less than $45,000 to city, local, and exempted village school 282
+districts for the purpose of replacing the oldest and highest 283
+mileage buses in the state assigned to routes. The department 284
+shall collect annually age, mileage, and vehicle condition data 285
+from districts through its transportation data collection 286
+system. 287
+Sec. 3327.01. Notwithstanding division (D) of section 288
+3311.19 and division (D) of section 3311.52 of the Revised Code, 289
+this section and sections 3327.011, 3327.012, and 3327.02 of the 290
+Revised Code do not apply to any joint vocational or cooperative 291
+education school district. 292
+In all city, local, and exempted village school districts 293
+where resident school pupils in grades kindergarten through 294
+eight live more than two miles from the school for which the 295
+director of education and workforce prescribes minimum standards 296
+pursuant to division (D) of section 3301.07 of the Revised Code 297
+and to which they are assigned by the board of education of the 298
+district of residence or to and from the nonpublic or community 299
+school which they attend, the board of education shall provide 300
+transportation for such pupils to and from that school except as 301
+provided in section 3327.02 of the Revised Code. 302
+In all city, local, and exempted village school districts 303
+where pupil transportation is required under a career-technical 304
+
+H. B. No. 545 Page 12
+As Introduced
+plan approved by the department of education and workforce under 305
+section 3313.90 of the Revised Code, for any student attending a 306
+career-technical program operated by another school district, 307
+including a joint vocational school district, as prescribed 308
+under that section, the board of education of the student's 309
+district of residence shall provide transportation from the 310
+public high school operated by that district to which the 311
+student is assigned to the career-technical program. 312
+In all city, local, and exempted village school districts, 313
+the board may provide transportation for resident school pupils 314
+in grades nine through twelve to and from the high school to 315
+which they are assigned by the board of education of the 316
+district of residence or to and from the nonpublic or community 317
+high school which they attend for which the director of 318
+education and workforce prescribes minimum standards pursuant to 319
+division (D) of section 3301.07 of the Revised Code. 320
+A board of education shall not be required to transport 321
+elementary or high school pupils to and from a nonpublic or 322
+community school where such transportation would require more 323
+than thirty minutes of direct travel time as measured by school 324
+bus from the public school building to which the pupils would be 325
+assigned if attending the public school designated by the 326
+district of residence. 327
+Where it is impractical to transport a pupil by school 328
+conveyance, a board of education may offer payment, in lieu of 329
+providing such transportation in accordance with section 3327.02 330
+of the Revised Code. 331
+A Except as provided in section 3327.016 of the Revised 332
+Code, a board of education shall provide transportation to 333
+students enrolled in a community school or nonpublic school in 334
+
+H. B. No. 545 Page 13
+As Introduced
+accordance with this section on each day in which that school is 335
+open for operation with students in attendance, regardless of 336
+whether the district's own schools are open for operation with 337
+students in attendance on that day. However, a board of 338
+education shall not be required to transport elementary or high 339
+school pupils to and from a nonpublic or community school on 340
+Saturday or Sunday, unless a board of education and a nonpublic 341
+or community school have an agreement in place to do so before 342
+the first day of July of the school year in which the agreement 343
+takes effect. 344
+In all city, local, and exempted village school districts, 345
+the board shall provide transportation for all children who are 346
+so disabled that they are unable to walk to and from the school 347
+for which the director of education and workforce prescribes 348
+minimum standards pursuant to division (D) of section 3301.07 of 349
+the Revised Code and which they attend. In case of dispute 350
+whether the child is able to walk to and from the school, the 351
+health commissioner shall be the judge of such ability. In all 352
+city, exempted village, and local school districts, the board 353
+shall provide transportation to and from school or special 354
+education classes for mentally disabled children in accordance 355
+with standards adopted by the department of education and 356
+workforce. 357
+When transportation of pupils is provided the conveyance 358
+shall be run on a time schedule that shall be adopted and put in 359
+force by the board not later than ten days after the beginning 360
+of the school term. The operator of every school bus or motor 361
+van owned and operated by any school district or educational 362
+service center or privately owned and operated under contract 363
+with any school district or service center in this state shall 364
+deliver students enrolled in preschool through twelfth grades to 365
+
+H. B. No. 545 Page 14
+As Introduced
+their respective public and nonpublic schools not sooner than 366
+thirty minutes prior to the beginning of school and to be 367
+available to pick them up not later than thirty minutes after 368
+the close of their respective schools each day. Further, 369
+operators shall not deliver students late to school. 370
+The cost of any transportation service authorized by this 371
+section shall be paid first out of federal funds, if any, 372
+available for the purpose of pupil transportation, and secondly 373
+out of state appropriations, in accordance with regulations 374
+adopted by the department. 375
+No transportation of any pupils shall be provided by any 376
+board of education to or from any school which in the selection 377
+of pupils, faculty members, or employees, practices 378
+discrimination against any person on the grounds of race, color, 379
+religion, or national origin. 380
+A board of education shall provide transportation as a 381
+related service for all children with disabilities living in the 382
+school district who are enrolled in a nonpublic school if the 383
+school district is provided with supporting documentation from 384
+the child's individual education program developed pursuant to 385
+Chapter 3323. of the Revised Code or an individual service plan 386
+developed pursuant to section 5126.41 of the Revised Code. 387
+Sec. 3327.016. (A) As used in this section, "eligible 388
+student" means a student entitled to transportation services 389
+from the city, local, or exempted village school district 390
+pursuant to section 3327.01 of the Revised Code. 391
+(B) Each community school established under Chapter 3314. 392
+of the Revised Code or chartered nonpublic school shall 393
+establish the school's start and end times for a particular 394
+
+H. B. No. 545 Page 15
+As Introduced
+school year not later than the first day of April prior to that 395
+school year. Each community or chartered nonpublic school shall 396
+provide such start and end times to each city, local, or 397
+exempted village school district that the school expects will be 398
+responsible for providing transportation services to eligible 399
+students enrolled in the school for that school year. 400
+Each city, local, or exempted village school district that 401
+receives start and end times for a chartered nonpublic school 402
+under this division shall establish tiers of windows of time 403
+that best work for the district in transporting the school's 404
+eligible students. If a chartered nonpublic school's start and 405
+end times fall within one of those tiers, the district shall 406
+notify the school of that fact. If a chartered nonpublic 407
+school's start and end times do not fall within one of those 408
+tiers, the district shall notify the school of that fact and 409
+provide the opportunity for the school to change its start and 410
+end times. If such school does not change its start and end 411
+times, the district is not required to transport the school's 412
+students to and from school. 413
+(C) Each city, local, or exempted village school district 414
+that receives start and end times as prescribed from a community 415
+school under division (B) of this section, or receives start and 416
+end times from a chartered nonpublic school that fall within one 417
+of the tiers of windows of time under division (B) of this 418
+section, shall use those start and end times to develop a 419
+transportation plan, including transportation routes and 420
+schedules, for eligible students who enrolled in a the community 421
+or chartered nonpublic school and shall provide such 422
+transportation plan to the community or chartered nonpublic 423
+school within sixty days after receiving the information 424
+described in that division. If a school provides the start and 425
+
+H. B. No. 545 Page 16
+As Introduced
+end times to the school district after the first day of April 426
+but before the first day of July, the district shall attempt to 427
+provide a transportation plan to the school by the first day of 428
+August of that school year. For any eligible student who enrolls 429
+in a community school, or a chartered nonpublic school that has 430
+start and end times that fall within one of the tiers of windows 431
+of time under division (B) of this section, after the first day 432
+of July prior to that school year, a district shall develop a 433
+transportation plan, including transportation routes and 434
+schedules, for that student within fourteen business days of 435
+receiving a request for transportation services from the 436
+student's parent or guardian. 437
+Sec. 3327.021. (A) The department of education and 438
+workforce shall monitor each city, local, or exempted village 439
+school district's compliance with sections 3327.01 and 3327.016 440
+and division (B) of section 3327.017 of the Revised Code. Except 441
+as provided in division (B) of this section, if the department 442
+determines a consistent or prolonged period of noncompliance on 443
+the part of the school district to provide transportation as 444
+required under those sections, the department shall deduct from 445
+the district's payment for student transportation under Chapter 446
+3317. of the Revised Code the daily amount of that payment, as 447
+computed by the department, for the number of students who did 448
+not receive the required transportation, including students who 449
+arrived to school late, under those sections for each day that 450
+the district is not in compliance. 451
+(B) A school district shall not be penalized under this 452
+section if the department determines that extenuating 453
+circumstances caused the district's failure to comply. The 454
+department shall develop a process under which a district may 455
+submit information explaining the extenuating circumstances that 456
+
+H. B. No. 545 Page 17
+As Introduced
+led to its failure to comply and on how the department may 457
+determine that those circumstances caused the failure. 458
+This section does not affect the authority of a school 459
+district to provide payment in lieu of transportation in 460
+accordance with section 3327.02 of the Revised Code. 461
+Section 2. That existing sections 3317.0212, 3327.01, and 462
+3327.016 of the Revised Code are hereby repealed. 463
+Section 3. That section 3327.021 of the Revised Code is 464
+hereby repealed. 465
+Section 4. That Sections 265.10, 265.300, 512.10, and 466
+516.10 of H.B. 96 of the 136th General Assembly be amended to 467
+read as follows: 468
+Sec. 265.10. 469
+470
+1 2 3 4 5
+A EDU DEPARTMENT OF EDUCATION AND WORKFORCE
+B General Revenue Fund
+C GRF 200321 Operating Expenses $14,474,898 $15,054,312
+D GRF 200416 Career Technical $2,500,000 $2,500,000
+Education
+E GRF 200420 Information Technology $4,231,479 $4,316,527
+Development and Support
+F GRF 200422 School Management $2,800,000 $2,800,000
+Assistance
+
+H. B. No. 545 Page 18
+As Introduced
+G GRF 200424 Policy Analysis $500,000 $516,419
+H GRF 200426 Ohio Educational Computer $18,994,000 $18,994,000
+Network
+I GRF 200427 Academic Standards $5,535,410 $5,429,033
+J GRF 200437 Student Assessment $50,609,125 $50,882,346
+K GRF 200439 Accountability/Report $7,369,440 $7,437,742
+Cards
+L GRF 200446 Education Management $9,958,226 $10,325,278
+Information System
+M GRF 200448 Educator and Principal $2,663,493 $2,676,754
+Preparation
+N GRF 200455 Community Schools and $4,370,165 $4,446,705
+Choice Programs
+O GRF 200457 STEM Initiatives $500,000 $500,000
+P GRF 200465 Education Technology $2,893,949 $2,906,346
+Resources
+Q GRF 200478 Industry-Recognized $16,000,000 $16,000,000
+Credentials High School
+Students
+R GRF 200502 Pupil Transportation $882,035,414 $959,429,701
+$1,001,429,701
+S GRF 200505 School Meal Programs $13,163,000 $13,163,000
+
+H. B. No. 545 Page 19
+As Introduced
+T GRF 200511 Auxiliary Services $170,292,963 $172,262,613
+U GRF 200532 Nonpublic Administrative $76,935,110 $77,824,960
+Cost Reimbursement
+V GRF 200540 Special Education $193,272,426 $193,272,426
+Enhancements
+W GRF 200545 Career-Technical $13,413,000 $13,413,000
+Education Enhancements
+X GRF 200550 Foundation Funding - All $8,457,598,772 $8,733,217,991
+Students
+$8,729,217,991
+Y GRF 200566 Literacy Improvement $2,472,674 $2,500,000
+Z GRF 200572 Adult Education Programs $9,348,399 $15,688,404
+AA GRF 200574 Half-Mill Maintenance $6,420,640 $6,152,450
+Equalization
+AB GRF 200576 Adaptive Sports Program $400,000 $400,000
+AC GRF 200597 Program and Project $2,850,000 $2,750,000
+Support
+AD General Revenue Fund Total $9,971,602,583 $10,334,860,007
+$10,372,860,007
+AE Dedicated Purpose Fund Group
+AF 4520 200638 Charges and $1,500,000 $1,500,000
+Reimbursements
+
+H. B. No. 545 Page 20
+As Introduced
+AG 5980 200659 Auxiliary Services $650,000 $650,000
+Reimbursement
+AH 5H30 200687 School District Solvency $2,000,000 $2,000,000
+Assistance
+AI 5KX0 200691 Ohio School Sponsorship $1,900,000 $1,900,000
+Program
+AJ 5MM0 200677 Child Nutrition Refunds $550,000 $550,000
+AK 5U20 200685 National Education $185,000 $185,000
+Statistics
+AL 5VS0 200604 Foundation Funding - All $600,000,000 $600,000,000
+Students
+AM 5VU0 200663 School Bus Purchase $0 $50,000,000
+AN 5YO0 200491 Public and Nonpublic $171,200,000 $171,200,000
+Education Support
+AO 6200 200615 Educational Improvement $600,000 $600,000
+Grants
+AP Dedicated Purpose Fund Group Total $778,585,000 $778,585,000
+$828,585,000
+AQ Internal Service Activity Fund Group
+AR 1380 200606 Information Technology $18,394,387 $18,597,721
+Development and Support
+AS 4R70 200695 Indirect Operational $9,944,311 $10,166,435
+
+H. B. No. 545 Page 21
+As Introduced
+Support
+AT 4V70 200633 Interagency Program $3,000,000 $3,000,000
+Support
+AU Internal Service Activity Fund Group $31,338,698 $31,764,156
+Total
+AV State Lottery Fund Group
+AW 7017 200413 School Bus Safety $10,000,000 $0
+AX 7017 200612 Foundation Funding - All $1,436,583,202 $1,398,174,884
+Students
+AY 7017 200614 Accelerate Great Schools $1,500,000 $1,500,000
+AZ 7017 200631 Quality Community and $115,000,000 $125,000,000
+Independent STEM Schools
+Support
+BA 7017 200684 Community School $90,155,000 $90,155,000
+Facilities
+BB 7017 2006A7 Literacy Coaches $12,000,000 $12,000,000
+BC State Lottery Fund Group Total $1,665,238,202 $1,626,829,884
+BD Federal Fund Group
+BE 3120 2006A9 Aspire - Federal $0 $18,996,799
+BF 3670 200607 School Food Services $13,379,350 $13,379,350
+BG 3700 200624 Education of Exceptional $1,750,000 $1,750,000
+
+H. B. No. 545 Page 22
+As Introduced
+Children
+BH 3AF0 657601 Schools Medicaid $150,000 $150,000
+Administrative Claims
+BI 3EH0 200620 Migrant Education $1,700,000 $1,700,000
+BJ 3EJ0 200622 Homeless Children $4,823,000 $5,112,380
+Education
+BK 3GE0 200674 Summer Food Service $23,000,000 $23,000,000
+Program
+BL 3GG0 200676 Fresh Fruit and Vegetable $5,500,000 $6,000,000
+Program
+BM 3HF0 200649 Federal Education Grants $5,000,000 $5,000,000
+BN 3HI0 200634 Student Support and $54,131,000 $50,604,930
+Academic Enrichment
+BO 3HL0 200678 Comprehensive Literacy $14,630,000 $14,630,000
+State Development Program
+BP 3L60 200617 Federal School Lunch $565,999,000 $595,000,000
+BQ 3L70 200618 Federal School Breakfast $195,000,000 $205,000,000
+BR 3L80 200619 Child/Adult Food Programs $116,000,000 $118,000,000
+BS 3L90 200621 Career-Technical $56,680,000 $58,947,200
+Education Basic Grant
+BT 3M00 200623 ESEA Title 1A $677,740,000 $698,072,200
+
+H. B. No. 545 Page 23
+As Introduced
+BU 3M20 200680 Individuals with $530,400,000 $541,008,000
+Disabilities Education
+Act
+BV 3Y20 200688 21st Century Community $47,940,000 $48,898,800
+Learning Centers
+BW 3Y60 200635 Improving Teacher Quality $77,157,900 $78,701,058
+BX 3Y70 200689 English Language $13,728,000 $14,277,120
+Acquisition
+BY 3Y80 200639 Rural and Low Income $3,300,000 $3,300,000
+Technical Assistance
+BZ 3Z20 200690 State Assessments $11,500,000 $11,500,000
+CA 3Z30 200645 Consolidated Federal $15,000,000 $15,000,000
+Grant Administration
+CB Federal Fund Group Total $2,434,508,250 $2,528,027,837
+CC TOTAL ALL BUDGET FUND GROUPS $14,881,272,733 $15,300,066,884
+$15,388,066,884
+Sec. 265.300. FOUNDATION FUNDING - ALL STUDENTS 471
+The foregoing appropriation item 200604, Foundation 472
+Funding - All Students, shall be used in conjunction with 473
+appropriation items 200550, Foundation Funding - All Students, 474
+and 200612, Foundation Funding - All Students, to distribute the 475
+amounts calculated for disadvantaged pupil impact aid under 476
+sections 3317.022 and 3317.16 of the Revised Code and the 477
+portions of the state share of the base cost calculated under 478
+
+H. B. No. 545 Page 24
+As Introduced
+those sections that are attributable to the staffing cost for 479
+the student wellness and success component of the base cost, as 480
+determined by the Department of Education and Workforce. 481
+SCHOOL BUS PURCHASE 482
+The foregoing appropriation item 200663, School Bus 483
+Purchase, shall be used to distribute bus purchasing grants to 484
+city, local, and exempted village school districts pursuant to 485
+section 3317.071 of the Revised Code. Notwithstanding any 486
+provision of law to the contrary, school bus purchase funds 487
+awarded in fiscal year 2027 may be used by recipients through 488
+fiscal year 2028. 489
+Sec. 512.10. TRANSFERS OUT OF GENERAL REVENUE FUND 490
+STATE MARKETING OFFICE FUND 491
+On July 1, 2025, or as soon as possible thereafter, the 492
+Director of Budget and Management shall transfer up to 493
+$22,000,000 cash from the General Revenue Fund to the State 494
+Marketing Office Fund (Fund 5MJ0). 495
+FOUNDATION FUNDING - ALL STUDENTS FUND 496
+Notwithstanding any provision of law to the contrary, the 497
+Director of Budget and Management may transfer up to 498
+$600,000,000 cash, in each fiscal year, from the General Revenue 499
+Fund to the Foundation Funding - All Students Fund (Fund 5VS0). 500
+SECOND CHANCE GRANT PROGRAM FUND 501
+On July 1, 2025, or as soon as possible thereafter, the 502
+Director of Budget and Management shall transfer up to 503
+$4,000,000 cash from the General Revenue Fund to the Second 504
+Chance Grant Program Fund (Fund 5YD0). 505
+
+H. B. No. 545 Page 25
+As Introduced
+MARCS ADMINISTRATION FUND 506
+On July 1 of each fiscal year, or as soon as possible 507
+thereafter, the Director of Budget and Management may transfer 508
+up to $10,500,000 cash from the General Revenue Fund to the 509
+MARCS Administration Fund (Fund 5C20). 510
+WILDLIFE FUND 511
+On July 1 of each fiscal year, or as soon as possible 512
+thereafter, the Director of Budget and Management may transfer 513
+$500,000 cash from the General Revenue Fund to the Wildlife Fund 514
+(Fund 7015). 515
+TRANSCRANIAL MAGNETIC STIMULATION FUND 516
+On July 1 of each fiscal year, or as soon as possible 517
+thereafter, the Director of Budget and Management may transfer 518
+$5,000,000 cash from the General Revenue Fund to the 519
+Transcranial Magnetic Stimulation Fund (Fund 5VV0). 520
+H2OHIO FUND 521
+On July 1, 2025, or as soon as possible thereafter, the 522
+Director of Budget and Management may transfer $165,000,000 from 523
+the General Revenue Fund to the H2Ohio Fund (Fund 6H20). 524
+OHIO MARITIME ASSISTANCE PROGRAM 525
+On July 1, 2025, or as soon as possible thereafter, the 526
+Director of Budget and Management shall transfer $10,000,000 527
+cash from the General Revenue Fund to the Ohio Maritime 528
+Assistance Fund (Fund 5QT0). 529
+RESIDENTIAL DEVELOPMENT REVOLVING LOAN 530
+On July 1, 2025, or as soon as possible thereafter, the 531
+Director of Budget and Management shall transfer $100,000,000 532
+
+H. B. No. 545 Page 26
+As Introduced
+cash from the General Revenue Fund to the Residential 533
+Development Revolving Loan Fund (Fund 5CT1). 534
+RURAL PRACTICE INCENTIVE FUND 535
+On July 1, 2025, or as soon as possible thereafter, the 536
+Director of Budget and Management shall transfer $3,000,000 cash 537
+from the General Revenue Fund to the Rural Practice Incentive 538
+Fund (Fund 5ZD0). 539
+EWARRANT LOCAL INTEGRATION FUND 540
+On July 1, 2025, or as soon as possible thereafter, the 541
+Director of Budget and Management may transfer $750,000 cash 542
+from the General Revenue Fund to the eWarrant Local Integration 543
+Fund (Fund 5AZ1). 544
+TARGETED ADDICTION PROGRAM FUND 545
+On July 1, 2025, or as soon as possible thereafter, the 546
+Director of Budget and Management shall transfer $12,500,000 547
+cash from the General Revenue Fund to the Targeted Addiction 548
+Program Fund (Fund 5TZ0). 549
+On July 1, 2025, or as soon as possible thereafter, the 550
+Director of Budget and Management shall transfer $10,000,000 551
+cash from the General Revenue Fund to the Medical Marijuana 552
+Control Fund (Fund 5SY0). 553
+SCHOOL BUS PURCHASE FUND 554
+On July 1, 2026, or as soon as possible thereafter, the 555
+Director of Budget and Management shall transfer $50,000,000 556
+cash from the General Revenue Fund to the School Bus Purchase 557
+Fund (Fund 5VU0). 558
+Sec. 516.10. CASH TRANSFERS AND ABOLISHMENT OF FUNDS 559
+
+H. B. No. 545 Page 27
+As Introduced
+(A) On July 1, 2025, or as soon as possible thereafter, 560
+the Director of Budget and Management may transfer the cash 561
+balance from each of the funds as indicated in the table below 562
+to the fund also indicated in the table below. Upon completion 563
+of each transfer and on the effective date of its repeal by this 564
+actH.B. 96 of the 136th General Assembly, where applicable, the 565
+fund from which the cash balance was transferred is hereby 566
+abolished. 567
+568
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+C AGO 5MP0 Peace Officer 5LR0 Ohio Law Enforcement
+Training Commission Training Fund
+Fund
+D AGR 5MA0 Dangerous and 5MS0 Animal and Consumer
+Restricted Animal Protection Fund
+Fund
+E AGR 5PL0 Pet Store License 5MR0 Commercial Dog
+Fund Breeding Fund
+F DAS 5MV0 Theatre Equipment GRF General Revenue Fund
+Maintenance Fund
+G DAS 1280 Collective 1250 Human Resources
+Bargaining Fund Services Fund
+
+H. B. No. 545 Page 28
+As Introduced
+H MHA 3A60 Federal- 5AU0 Behavioral Health
+Miscellaneous Fund Care Fund
+I DPS 3HT0 Justice Emergency GRF General Revenue Fund
+Supplemental Funding
+Fund
+J DPS 5RS0 Community Police 5AZ1 eWarrant Local
+Relations Fund Integration Fund
+K MCD 5XY0 Hospital Directed 5AN0 State Directed
+Payment Fund Payments Fund
+L OOD 3L10 Social Security 3790 Consolidated Federal
+Reimbursement Fund Fund
+M TOS 7090 Job Ready Site GRF General Revenue Fund
+Development Bond
+Retirement Fund
+N LSC 4100 Sale of Publications GRF General Revenue Fund
+Fund
+O LSC 4F60 Legislative Budget GRF General Revenue Fund
+Services Fund
+P LSC 5EF0 Legislative Agency GRF General Revenue Fund
+Telephone Usage Fund
+Q BOR 5RA0 Workforce and Higher GRF General Revenue Fund
+Education Programs
+Fund
+R DOH 5UA0 Emergency GRF General Revenue Fund
+
+H. B. No. 545 Page 29
+As Introduced
+Preparation and
+Response Fund
+(B) The following funds are hereby abolished on the 569
+effective date of their repeal by this actH.B. 96 of the 136th 570
+General Assembly: 571
+572
+1 2 3
+A User Agency Fund Fund Name
+B AGR 5HP0 Ohio Livestock Care Standards Fund
+C DDD 4U40 Developmental Disabilities Trust Fund
+D MCD 3ER0 Health Information Technology Fund
+E OBM 5AT1 Statewide Children's Vision Initiative Fund
+F OBM 5CV1 Coronavirus Relief Fund
+G PRX 3DV0 Enhancing Ohio's PMP Fund
+H PRX 3BC0 Dangerous Drug Database Fund
+I PRX 3EB0 NASPER Fund
+J PRX 3EY0 Administration of PMIX HUB Fund
+K PRX 3EZ0 NASPER 10 Fund
+L PRX 3CT0 2008 Developing/Enhancing PMP Fund
+(C) On July 1, 2025, or as soon as possible thereafter, 573
+the Director of Budget and Management shall transfer the cash 574
+
+H. B. No. 545 Page 30
+As Introduced
+balance from each of the funds as indicated in the table below 575
+to the fund also indicated in the table below. Upon completion 576
+of each transfer and on the effective date of its repeal by this 577
+actH.B. 96 of the 136th General Assembly, where applicable, the 578
+fund from which the cash balance was transferred is hereby 579
+abolished. 580
+581
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+C DEV 5KN0 Local Government GRF General Revenue Fund
+Innovation Fund
+(D) On July 1, 2025, or as soon as possible thereafter, 582
+the Director of Budget and Management may transfer the cash 583
+balance from each of the funds as indicated in the table below 584
+to the fund also indicated in the table below after any 585
+encumbrances in these funds are fully discharged. Upon 586
+completion of each transfer and on the effective date of its 587
+repeal by this act, where applicable, the fund from which the 588
+cash balance was transferred is hereby abolished. 589
+590
+1 2 3 4 5
+A Transfer from: Transfer to:
+B User Fund Fund Name Fund Fund Name
+Agency
+
+H. B. No. 545 Page 31
+As Introduced
+C EDU 5VU0 School Bus Purchase GRF General Revenue
+Fund Fund
+Section 5. That existing Sections 265.10, 265.300, 512.10, 591
+and 516.10 of H.B. 96 of the 136th General Assembly are hereby 592
+repealed. 593
+Section 6. This act shall be known as the School Busing 594
+Improvement Act. 595
+
+[DELETED: nH       .  1:1 1 1 1 1 1 1 1]
+[DELETED: 5  1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7]
+[DELETED: 5  7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1:1;1 1 1 1 1:1;1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 5  1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 5  2 2.2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3.3 3 3 3 3 3 3 3]
+[DELETED: 5  3 3 3 3 3.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4 4 4 4 4.4 4.4 4 4:4 4234EGGF21Os$8$GF26C $0$GF20I $9$GF22S $0$]
+[DELETED: 5 GF24Ps$0$GF26O $0$GF27As$0$GF27St$5$GF29A $0$GF26E $6$GF28E $3$GF25C $5$GF27Ss$0$GF25E $9$GF28I $0$GF22Pn$4$GF25Ss$0$]
+[DELETED: 5 GF21As$3$GF22N $0$GF20S $6$GF25C $0$GF20F $2$GF26Lt$4$GF22As$9$AGF24H $0$BGF26Am$0$CGF27P $0$DGl$3$EDF4028C $0$]
+[DELETED: 5 G5029A $0$H5027S $0$I5021O $0$J5027Cs$0$K5025N $0$L5024F $0$M5023Se$0$N5021P $0$O6025E $0$PDl$0$QIR1026I $7$S4025I $1$]
+[DELETED: 5 T4023I $0$UI $8$VSW7723Sy$0$X7722F $2$Y7724As$0$Z7721Q $0$A7724C $0$B7727Ls$0$CSl$2$DFE3029Al$0$F3027Ss$0$G3024E $0$]
+[DELETED: 5 H3061S $0$I3020Mn$0$J3022H $0$K3024S $0$L3026F $0$M3029Fs$0$N3024S $0$O3028C $0$P3027Fh$0$Q3028Ft$0$R3029Cs$0$S3021C $0$T3023EA$0$]
+[DELETED: 5 U3020I $0$V30282 $0$W3025Iy$0$X3029E $0$Y3029R $0$Z3020Ss$0$A3025C $0$BFl$0$CTS$3$S4 4 4 4 4 4 4 4]
+[DELETED: 5  4 4.4E4 4 4 4 4 4 4.4D4D4 4 4 4.4D4 4 4 4.5D5 5 5 5.5]
+[DELETED: 5 D5 5 5 5.5D5 5 5 5.5D5 5 5 5.5D5 5 5.5M5 5 5 5.5N5 5 5]
+[DELETED: 5  5.5D5 5 5 5.5D5 5 5 5.5D5 5 5 5.5 5 5 5.5D5 5 5 5.5S5]
+[DELETED: 5  5 5 5 5 5 5 5.5234T:TU FdFeFdFAO50P 50O TAR50D 50A PAR50P 50CdBDS50T GFGDS10C 10HdS]
+[DELETED: 5 MA30F-50BdCDS30J GFGDS50C 51edIMD50H 50SdPOD30S 30CdFTS70J GFGLC40S GFGLC40L GFGLC50L GFGBR50W GFGDH50E GFG]
+[DELETED: 5  5 5:52UyFdFAR50ODD40DMD30HOM51SOM51CPX30EPX30DPX30NPX30APX30NPX302 5 5]
+[DELETED: 5  5 5 5 5 5.5234T:TU FdFeFdFDV50L GFG 5 5 5 5 5 5 5.5234T:TU FdFeFdF]
+[DELETED: 5 EU50S GFGdF 5 5.5 5.5]

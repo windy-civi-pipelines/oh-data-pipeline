@@ -1,0 +1,49 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 2
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 267
+2025-2026
+Senators Craig, Reynolds
+Cosponsors: Senators Ingram, Weinstein, Smith
+To enact section 5.2322 of the Revised Code to 1
+designate the week including March 22nd as Ohio 2
+Doula Awareness Week. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5.2322 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2322. The calendar week including the twenty-secon d 6
+day of March is designated as "Ohio Doula Awareness Week." 7
+[DELETED: nS BIL  . : "]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 267
+2025-2026
+Senators Craig, Reynolds
+Cosponsors: Senators Ingram, Weinstein, Smith
+A BILL
+To enact section 5.2322 of the Revised Code to 1
+designate the week including March 22nd as Ohio 2
+Doula Awareness Week. 3
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5.2322 of the Revised Code be 4
+enacted to read as follows: 5
+Sec. 5.2322. The calendar week including the twenty-secon d 6
+day of March is designated as "Ohio Doula Awareness Week." 7
+
+[DELETED: nS BIL  . : "]

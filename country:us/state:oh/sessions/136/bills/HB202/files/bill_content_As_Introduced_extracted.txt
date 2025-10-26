@@ -1,0 +1,378 @@
+Title: To amend section 9.27 and to enact sections 101.37, 1
+Official Title: To amend section 9.27 and to enact sections 101.37, 1
+Number of Sections: 7
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 202
+2025-2026
+Representative Hall, T.
+
+Section 2:
+125.074, and 126.024 of the Revised Code to 2
+establish the Joint Legislative Information 3
+Technology Oversight Committee and to expressly 4
+authorize state procurement of services and 5
+supplies through online marketplaces. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 3:
+Section 1. That section 9.27 be amended and sections 7
+
+Section 4:
+101.37, 125.074, and 126.024 of the Revised Code be enacted to 8
+read as follows: 9
+Sec. 9.27. (A) As used in this section, "state" and "state 10
+agency" mean the state of Ohio, including the governor, 11
+lieutenant governor, secretary of state, auditor of state, 12
+attorney general, and treasurer of state, and all departments, 13
+boards, offices, commissions, agencies, institutions, and other 14
+instrumentalities of the state of Ohio, but not including the 15
+general assembly or any legislative agency, or any court or 16
+judicial agency. 17
+(B) Except as otherwise required or permitted by state or 18
+federal law, a contract entered into by the state for the 19
+procurement of goods or services shall not include any of the 20
+H. B. No. 202 Page 2
+As Introduced
+following: 21
+(1) A provision that requires the state to indemnify or 22
+hold harmless another person. 23
+(2) A provision by which the state agrees to binding 24
+arbitration or any other binding extra-judicial dispute 25
+resolution process. 26
+(3) A provision that names a venue for any action or 27
+dispute against the state other than a court of proper 28
+jurisdiction in Franklin county, Ohio. 29
+(4) A provision that requires the state to agree to limit 30
+the liability for any direct loss to the state for bodily 31
+injury, death, or damage to property of the state caused by the 32
+negligence, intentional or willful misconduct, fraudulent act, 33
+recklessness, or other tortious conduct of a person or a 34
+person's employees or agents, or a provision that would 35
+otherwise impose an indemnification obligation on the state. 36
+(5) A provision that requires the state to be bound by a 37
+term or condition that is unknown to the state at the time of 38
+signing a contract, that is not specifically negotiated with the 39
+state, that may be unilaterally changed by the other party, or 40
+that is electronically accepted by a state employee. 41
+(6) A provision that provides for a person other than the 42
+attorney general to serve as legal counsel for the state or for 43
+any state agency, unless allowed for under the process set forth 44
+in section 109.07 of the Revised Code. 45
+(7) A provision that is inconsistent with the state's 46
+obligations under section 149.43 of the Revised Code. 47
+(8) A provision for automatic renewal such that state 48
+H. B. No. 202 Page 3
+As Introduced
+funds are or would be obligated in subsequent fiscal years. 49
+(9) A provision that limits the state's ability to recover 50
+the cost of cover for a replacement contractor. 51
+(10) With respect to a purchase in which a state agency 52
+receives a license to use a software application designed to run 53
+on generally available desktop or server hardware or cloud 54
+platforms, a requirement that the state agency install or run 55
+the software on hardware or in a cloud platform dedicated solely 56
+to the state agency, or a provision that otherwise restricts the 57
+state agency from installing or running the software on hardware 58
+or in a cloud platform of the state agency's choosing. 59
+(C) If a contract contains a term or condition described 60
+in division (B) of this section, the term or condition is void 61
+ab initio, and the contract containing that term or condition 62
+otherwise shall be enforceable as if it did not contain such 63
+term or condition. 64
+(D) A contract that contains a term or condition described 65
+in division (B) of this section shall be governed by and 66
+construed in accordance with Ohio law notwithstanding any term 67
+or condition to the contrary in the contract. 68
+(E) This section does not apply to a contract in effect 69
+before the effective date of this section September 30, 2021, or 70
+to the renewal or extension of a contract in effect before the 71
+effective date of this section that date. 72
+Sec. 101.37. (A) As used in this section, "information 73
+technology systems and services" includes all of the following: 74
+(1) Internet service; 75
+(2) Information technology hardware, software, security, 76
+H. B. No. 202 Page 4
+As Introduced
+services, and staff; 77
+(3) Contracts with respect to any services related to 78
+maintaining and repairing information technology systems; 79
+(4) Projects undertaken with respect to information 80
+technology. 81
+(B) The joint legislative information technology oversight 82
+committee is created. The committee shall review the annual 83
+report of the director of budget and management that is prepared 84
+under section 126.024 of the Revised Code. The committee may 85
+require the director of budget and management, and the state 86
+chief information officer appointed under section 125.18 of the 87
+Revised Code, to appear and testify before the committee. 88
+(C) The joint legislative information technology oversight 89
+committee consists of the following members: 90
+(1) Three members of the senate appointed by the president 91
+of the senate, two of whom are members of the majority party and 92
+one of whom is a member of the minority party; 93
+(2) Three members of the house of representatives 94
+appointed by the speaker of the house of representatives, two of 95
+whom are members of the majority party and one of whom is a 96
+member of the minority party. 97
+(D) The term of each committee member shall begin on the 98
+day of appointment to the committee and end on the last day of 99
+the member's term in the general assembly during which the 100
+member was appointed to the committee. The president of the 101
+senate and speaker of the house of representatives shall make 102
+appointments not later than fifteen days after the commencement 103
+of the first regular session of each general assembly. A vacancy 104
+shall be filled in the same manner as the original appointment. 105
+H. B. No. 202 Page 5
+As Introduced
+(E) In odd-numbered years, the speaker of the house of 106
+representatives shall designate one of the majority members from 107
+the house of representatives as the chairperson of the 108
+committee. In even-numbered years, the president of the senate 109
+shall designate one of the majority members from the senate as 110
+the chairperson of the committee. 111
+(F) In appointing members from the minority, and in 112
+designating ranking minority members, the president of the 113
+senate and speaker of the house of representatives shall consult 114
+with the minority leader of their respective houses. 115
+(G) The committee shall meet at the call of the 116
+chairperson. The chairperson shall call the committee to meet 117
+not less often than once every six months. 118
+Sec. 125.074. (A) As used in this section, "online 119
+marketplace" has the same meaning as in section 1349.65 of the 120
+Revised Code. 121
+(B) Whenever the director of administrative services 122
+determines that the procurement through an online marketplace is 123
+advantageous to the state, the director, in accordance with 124
+rules the director shall adopt under Chapter 119. of the Revised 125
+Code, may purchase services via the online marketplace. 126
+(C) The director, by rule, may authorize a state agency 127
+that is authorized to procure services or supplies directly to 128
+purchase them via an online marketplace in the same manner as 129
+this section and the rules adopted under this section authorize 130
+the director to do. 131
+(D) Procurement through an online marketplace shall comply 132
+with section 125.05 of the Revised Code. 133
+Sec. 126.024. (A) As used in this section, "information 134
+H. B. No. 202 Page 6
+As Introduced
+technology systems and services" has the same meaning as in 135
+
+Section 5:
+section 101.37 of the Revised Code. 136
+(B) The director of budget and management annually shall 137
+prepare a report that includes the total expenditures of each 138
+state agency on information technology systems and services for 139
+the previous fiscal year. The report also shall include any 140
+additional information requested by the chairperson of the joint 141
+legislative information technology oversight committee under 142
+
+Section 6:
+section 101.37 of the Revised Code. The report shall be provided 143
+to the general assembly in the manner specified in division (B) 144
+of section 101.68 of the Revised Code. 145
+(C) Each state agency shall submit to the director of 146
+budget and management any information the director requires for 147
+the compliance of this section, in such form and at such times 148
+as the director prescribes. 149
+
+Section 7:
+Section 2. That existing section 9.27 of the Revised Code 150
+is hereby repealed. 151
+[DELETED: nH     .  : 1 1 1 1 1 1 1 1 1 1 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 5 5 5 5 5 5 5 5 5.5 6 6 6 6 6 6 6 6 6 6 7 7 7 7:7;7 7]
+[DELETED: 2 ;7 7;7 8.8 8 8 8 8 8 8.8 8:9 9 9;9 9 9 9.9 9 9 1 1 1 1 1.1]
+[DELETED: 2  1 1 1 1 1.1 1 1 1.1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1.1 1.1 1]
+[DELETED: 2  1.1 1 1 1 1 1 1 1 1.1 1 1 1.1 1.1]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 202
+2025-2026
+Representative Hall, T.
+To amend section 9.27 and to enact sections 101.37, 1
+125.074, and 126.024 of the Revised Code to 2
+establish the Joint Legislative Information 3
+Technology Oversight Committee and to expressly 4
+authorize state procurement of services and 5
+supplies through online marketplaces. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 9.27 be amended and sections 7
+101.37, 125.074, and 126.024 of the Revised Code be enacted to 8
+read as follows: 9
+Sec. 9.27. (A) As used in this section, "state" and "state 10
+agency" mean the state of Ohio, including the governor, 11
+lieutenant governor, secretary of state, auditor of state, 12
+attorney general, and treasurer of state, and all departments, 13
+boards, offices, commissions, agencies, institutions, and other 14
+instrumentalities of the state of Ohio, but not including the 15
+general assembly or any legislative agency, or any court or 16
+judicial agency. 17
+(B) Except as otherwise required or permitted by state or 18
+federal law, a contract entered into by the state for the 19
+procurement of goods or services shall not include any of the 20
+
+H. B. No. 202 Page 2
+As Introduced
+following: 21
+(1) A provision that requires the state to indemnify or 22
+hold harmless another person. 23
+(2) A provision by which the state agrees to binding 24
+arbitration or any other binding extra-judicial dispute 25
+resolution process. 26
+(3) A provision that names a venue for any action or 27
+dispute against the state other than a court of proper 28
+jurisdiction in Franklin county, Ohio. 29
+(4) A provision that requires the state to agree to limit 30
+the liability for any direct loss to the state for bodily 31
+injury, death, or damage to property of the state caused by the 32
+negligence, intentional or willful misconduct, fraudulent act, 33
+recklessness, or other tortious conduct of a person or a 34
+person's employees or agents, or a provision that would 35
+otherwise impose an indemnification obligation on the state. 36
+(5) A provision that requires the state to be bound by a 37
+term or condition that is unknown to the state at the time of 38
+signing a contract, that is not specifically negotiated with the 39
+state, that may be unilaterally changed by the other party, or 40
+that is electronically accepted by a state employee. 41
+(6) A provision that provides for a person other than the 42
+attorney general to serve as legal counsel for the state or for 43
+any state agency, unless allowed for under the process set forth 44
+in section 109.07 of the Revised Code. 45
+(7) A provision that is inconsistent with the state's 46
+obligations under section 149.43 of the Revised Code. 47
+(8) A provision for automatic renewal such that state 48
+
+H. B. No. 202 Page 3
+As Introduced
+funds are or would be obligated in subsequent fiscal years. 49
+(9) A provision that limits the state's ability to recover 50
+the cost of cover for a replacement contractor. 51
+(10) With respect to a purchase in which a state agency 52
+receives a license to use a software application designed to run 53
+on generally available desktop or server hardware or cloud 54
+platforms, a requirement that the state agency install or run 55
+the software on hardware or in a cloud platform dedicated solely 56
+to the state agency, or a provision that otherwise restricts the 57
+state agency from installing or running the software on hardware 58
+or in a cloud platform of the state agency's choosing. 59
+(C) If a contract contains a term or condition described 60
+in division (B) of this section, the term or condition is void 61
+ab initio, and the contract containing that term or condition 62
+otherwise shall be enforceable as if it did not contain such 63
+term or condition. 64
+(D) A contract that contains a term or condition described 65
+in division (B) of this section shall be governed by and 66
+construed in accordance with Ohio law notwithstanding any term 67
+or condition to the contrary in the contract. 68
+(E) This section does not apply to a contract in effect 69
+before the effective date of this section September 30, 2021, or 70
+to the renewal or extension of a contract in effect before the 71
+effective date of this section that date. 72
+Sec. 101.37. (A) As used in this section, "information 73
+technology systems and services" includes all of the following: 74
+(1) Internet service; 75
+(2) Information technology hardware, software, security, 76
+
+H. B. No. 202 Page 4
+As Introduced
+services, and staff; 77
+(3) Contracts with respect to any services related to 78
+maintaining and repairing information technology systems; 79
+(4) Projects undertaken with respect to information 80
+technology. 81
+(B) The joint legislative information technology oversight 82
+committee is created. The committee shall review the annual 83
+report of the director of budget and management that is prepared 84
+under section 126.024 of the Revised Code. The committee may 85
+require the director of budget and management, and the state 86
+chief information officer appointed under section 125.18 of the 87
+Revised Code, to appear and testify before the committee. 88
+(C) The joint legislative information technology oversight 89
+committee consists of the following members: 90
+(1) Three members of the senate appointed by the president 91
+of the senate, two of whom are members of the majority party and 92
+one of whom is a member of the minority party; 93
+(2) Three members of the house of representatives 94
+appointed by the speaker of the house of representatives, two of 95
+whom are members of the majority party and one of whom is a 96
+member of the minority party. 97
+(D) The term of each committee member shall begin on the 98
+day of appointment to the committee and end on the last day of 99
+the member's term in the general assembly during which the 100
+member was appointed to the committee. The president of the 101
+senate and speaker of the house of representatives shall make 102
+appointments not later than fifteen days after the commencement 103
+of the first regular session of each general assembly. A vacancy 104
+shall be filled in the same manner as the original appointment. 105
+
+H. B. No. 202 Page 5
+As Introduced
+(E) In odd-numbered years, the speaker of the house of 106
+representatives shall designate one of the majority members from 107
+the house of representatives as the chairperson of the 108
+committee. In even-numbered years, the president of the senate 109
+shall designate one of the majority members from the senate as 110
+the chairperson of the committee. 111
+(F) In appointing members from the minority, and in 112
+designating ranking minority members, the president of the 113
+senate and speaker of the house of representatives shall consult 114
+with the minority leader of their respective houses. 115
+(G) The committee shall meet at the call of the 116
+chairperson. The chairperson shall call the committee to meet 117
+not less often than once every six months. 118
+Sec. 125.074. (A) As used in this section, "online 119
+marketplace" has the same meaning as in section 1349.65 of the 120
+Revised Code. 121
+(B) Whenever the director of administrative services 122
+determines that the procurement through an online marketplace is 123
+advantageous to the state, the director, in accordance with 124
+rules the director shall adopt under Chapter 119. of the Revised 125
+Code, may purchase services via the online marketplace. 126
+(C) The director, by rule, may authorize a state agency 127
+that is authorized to procure services or supplies directly to 128
+purchase them via an online marketplace in the same manner as 129
+this section and the rules adopted under this section authorize 130
+the director to do. 131
+(D) Procurement through an online marketplace shall comply 132
+with section 125.05 of the Revised Code. 133
+Sec. 126.024. (A) As used in this section, "information 134
+
+H. B. No. 202 Page 6
+As Introduced
+technology systems and services" has the same meaning as in 135
+section 101.37 of the Revised Code. 136
+(B) The director of budget and management annually shall 137
+prepare a report that includes the total expenditures of each 138
+state agency on information technology systems and services for 139
+the previous fiscal year. The report also shall include any 140
+additional information requested by the chairperson of the joint 141
+legislative information technology oversight committee under 142
+section 101.37 of the Revised Code. The report shall be provided 143
+to the general assembly in the manner specified in division (B) 144
+of section 101.68 of the Revised Code. 145
+(C) Each state agency shall submit to the director of 146
+budget and management any information the director requires for 147
+the compliance of this section, in such form and at such times 148
+as the director prescribes. 149
+Section 2. That existing section 9.27 of the Revised Code 150
+is hereby repealed. 151
+
+[DELETED: nH     .  : 1 1 1 1 1 1 1 1 1 1 2]
+[DELETED: 2  2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 2  4 5 5 5 5 5 5 5 5 5.5 6 6 6 6 6 6 6 6 6 6 7 7 7 7:7;7 7]
+[DELETED: 2 ;7 7;7 8.8 8 8 8 8 8 8.8 8:9 9 9;9 9 9 9.9 9 9 1 1 1 1 1.1]
+[DELETED: 2  1 1 1 1 1.1 1 1 1.1 1 1.1 1 1.1 1 1 1 1.1 1 1 1 1.1 1.1 1]
+[DELETED: 2  1.1 1 1 1 1 1 1 1 1.1 1 1 1.1 1.1]

@@ -1,0 +1,108 @@
+Title: A BILL
+Official Title: A BILL
+Number of Sections: 3
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 31
+2025-2026
+Senator Romanchuk
+To repeal section 5501.60 of the Revised Code to 1
+replace the requirement that the Department of 2
+Transportation construct certain interstate 3
+interchanges with a traffic congestion study. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That section 5501.60 of the Revised Code is 5
+hereby repealed. 6
+
+Section 3:
+Section 2. (A) The Director of Transportation, in 7
+consultation with the Northeast Ohio Areawide Coordinating 8
+Agency, shall conduct a study to develop a traffic congestion 9
+management strategic plan. However, at the Director's 10
+discretion, the Northeast Ohio Areawide Coordinating Agency may 11
+lead the study. The study shall examine the area along 12
+Interstate Route 71 between the following boundaries: 13
+(1) To the north, U.S. Route 42; 14
+(2) To the south, State Route 303; 15
+(3) To the west, U.S. Route 42; 16
+(4) To the east, West 130th Street. 17
+S. B. No. 31 Page 2
+As Introduced
+(B)(1) Not later than December 31, 2026, the Director or, 18
+as applicable, the Northeast Ohio Areawide Coordinating Agency 19
+shall complete the study and submit a report of the study's 20
+findings to all of the following: 21
+(a) The Governor; 22
+(b) The Speaker of the House of Representatives; 23
+(c) The President of the Senate; 24
+(d) The chairpersons of the committees of the House of 25
+Representatives and the Senate pertaining to transportation; 26
+(e) The chief executive officer and the legislative 27
+authority of the municipal corporations of Strongsville, North 28
+Royalton, and Brunswick. 29
+(2) The Director or, as applicable, the Northeast Ohio 30
+Areawide Coordinating Agency may include in the report solutions 31
+to mitigate and strategically manage any traffic congestion 32
+concerns found during the study. 33
+[DELETED: nS BIL   . .    1 1 1:1;1;1;1.1]
+[DELETED: 1  1 1 2:2;2;2;2 2;2 2 2.2 3s3 3.3]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 31
+2025-2026
+Senator Romanchuk
+A BILL
+To repeal section 5501.60 of the Revised Code to 1
+replace the requirement that the Department of 2
+Transportation construct certain interstate 3
+interchanges with a traffic congestion study. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 5501.60 of the Revised Code is 5
+hereby repealed. 6
+Section 2. (A) The Director of Transportation, in 7
+consultation with the Northeast Ohio Areawide Coordinating 8
+Agency, shall conduct a study to develop a traffic congestion 9
+management strategic plan. However, at the Director's 10
+discretion, the Northeast Ohio Areawide Coordinating Agency may 11
+lead the study. The study shall examine the area along 12
+Interstate Route 71 between the following boundaries: 13
+(1) To the north, U.S. Route 42; 14
+(2) To the south, State Route 303; 15
+(3) To the west, U.S. Route 42; 16
+(4) To the east, West 130th Street. 17
+
+S. B. No. 31 Page 2
+As Introduced
+(B)(1) Not later than December 31, 2026, the Director or, 18
+as applicable, the Northeast Ohio Areawide Coordinating Agency 19
+shall complete the study and submit a report of the study's 20
+findings to all of the following: 21
+(a) The Governor; 22
+(b) The Speaker of the House of Representatives; 23
+(c) The President of the Senate; 24
+(d) The chairpersons of the committees of the House of 25
+Representatives and the Senate pertaining to transportation; 26
+(e) The chief executive officer and the legislative 27
+authority of the municipal corporations of Strongsville, North 28
+Royalton, and Brunswick. 29
+(2) The Director or, as applicable, the Northeast Ohio 30
+Areawide Coordinating Agency may include in the report solutions 31
+to mitigate and strategically manage any traffic congestion 32
+concerns found during the study. 33
+
+[DELETED: nS BIL   . .    1 1 1:1;1;1;1.1]
+[DELETED: 1  1 1 2:2;2;2;2 2;2 2 2.2 3s3 3.3]

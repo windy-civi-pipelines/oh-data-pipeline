@@ -1,0 +1,181 @@
+Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Official Title: BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Number of Sections: 5
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 166
+2025-2026
+Senator Manning
+To amend sections 3901.382 and 5164.46 of the 1
+Revised Code to prohibit fees for electronic 2
+claims submission by health insurer and the 3
+Medicaid program. 4
+
+Section 2:
+Section 1. That sections 3901.382 and 5164.46 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 3901.382. (A) Beginning six months after the date 7
+specified in section 262 of the "Health Insurance Portability 8
+and Accountability Act of 1996," 110 Stat. 2027, 42 U.S.C.A. 9
+1320d-4, on which a third-party payer is initially required to 10
+comply with a standard or implementation specification for the 11
+electronic exchange of health information, as adopted or 12
+established by the United States secretary of health and human 13
+services pursuant to that act, sections 3901.381, 3901.384, 14
+
+Section 3:
+3901.385, 3901.389, 3901.3810, 3901.3811, 3901.3812, and 15
+
+Section 4:
+3901.3813 of the Revised Code apply to a claim submitted to a 16
+third-party payer for payment for health care services only if 17
+the claim is submitted electronically. A 18
+(B) A provider and third-party payer may enter into a 19
+contractual arrangement under which the third-party payer agrees 20
+S. B. No. 166 Page 2
+As Introduced
+to process claims that are not submitted electronically because 21
+of the financial hardship that electronic submission of claims 22
+would create for the provider or any other extenuating 23
+circumstance. 24
+(C) No third-party payer shall impose any charge, fee, or 25
+other payment requirement, including through a withhold from 26
+payment, on any health care provider for electronic fund 27
+transfers or remittance advice transactions. 28
+Sec. 5164.46. (A) As used in this section, "electronic 29
+claims submission process" means any of the following: 30
+(1) Electronic interchange of data; 31
+(2) Direct entry of data through an internet-based 32
+mechanism implemented by the department of medicaid; 33
+(3) Any other process for the electronic submission of 34
+claims that is specified in rules adopted under section 5162.02 35
+of the Revised Code. 36
+(B) Not later than January 1, 2013, and except Except as 37
+provided in division (C) of this section, each medicaid provider 38
+shall do both of the following: 39
+(1) Use only an electronic claims submission process to 40
+submit to the department of medicaid claims for medicaid payment 41
+for medicaid services provided to medicaid recipients; 42
+(2) Arrange to receive medicaid payment from the 43
+department by means of electronic funds transfer. 44
+(C) Division (B) of this section does not apply to any of 45
+the following: 46
+(1) A nursing facility; 47
+S. B. No. 166 Page 3
+As Introduced
+(2) An ICF/IID; 48
+(3) A medicaid managed care organization; 49
+(4) Any other medicaid provider or type of medicaid 50
+provider designated in rules adopted under section 5162.02 of 51
+the Revised Code. 52
+(D) The department shall not process a medicaid claim 53
+submitted on or after January 1, 2013, unless the claim is 54
+submitted through an electronic claims submission process in 55
+accordance with this section. 56
+(E) The department or its designee, including a medicaid 57
+managed care organization or the state pharmacy benefit manager 58
+established pursuant to section 5167.24 of the Revised Code, 59
+shall not impose any charge, fee, or other payment requirement, 60
+including through a withhold from payment, on any medicaid 61
+provider for electronic claims submitted pursuant to an 62
+electronic claims submission process under this section. 63
+
+Section 5:
+Section 2. That existing sections 3901.382 and 5164.46 of 64
+the Revised Code are hereby repealed. 65
+[DELETED: nS   . :    1 1 1 1 1 1 1 1 1 1 2]
+[DELETED: 6  2 2 2.2 2 2 2.2 2 3;3 3;3 3 3.3 3 3:3 4 4;4 4.4 4:4;4]
+[DELETED: 6 ;4;4 5 5.5 5 5 5.5 5 5 5 6 6 6.6 6.6]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session S. B. No. 166
+2025-2026
+Senator Manning
+To amend sections 3901.382 and 5164.46 of the 1
+Revised Code to prohibit fees for electronic 2
+claims submission by health insurer and the 3
+Medicaid program. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 3901.382 and 5164.46 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 3901.382. (A) Beginning six months after the date 7
+specified in section 262 of the "Health Insurance Portability 8
+and Accountability Act of 1996," 110 Stat. 2027, 42 U.S.C.A. 9
+1320d-4, on which a third-party payer is initially required to 10
+comply with a standard or implementation specification for the 11
+electronic exchange of health information, as adopted or 12
+established by the United States secretary of health and human 13
+services pursuant to that act, sections 3901.381, 3901.384, 14
+3901.385, 3901.389, 3901.3810, 3901.3811, 3901.3812, and 15
+3901.3813 of the Revised Code apply to a claim submitted to a 16
+third-party payer for payment for health care services only if 17
+the claim is submitted electronically. A 18
+(B) A provider and third-party payer may enter into a 19
+contractual arrangement under which the third-party payer agrees 20
+
+S. B. No. 166 Page 2
+As Introduced
+to process claims that are not submitted electronically because 21
+of the financial hardship that electronic submission of claims 22
+would create for the provider or any other extenuating 23
+circumstance. 24
+(C) No third-party payer shall impose any charge, fee, or 25
+other payment requirement, including through a withhold from 26
+payment, on any health care provider for electronic fund 27
+transfers or remittance advice transactions. 28
+Sec. 5164.46. (A) As used in this section, "electronic 29
+claims submission process" means any of the following: 30
+(1) Electronic interchange of data; 31
+(2) Direct entry of data through an internet-based 32
+mechanism implemented by the department of medicaid; 33
+(3) Any other process for the electronic submission of 34
+claims that is specified in rules adopted under section 5162.02 35
+of the Revised Code. 36
+(B) Not later than January 1, 2013, and except Except as 37
+provided in division (C) of this section, each medicaid provider 38
+shall do both of the following: 39
+(1) Use only an electronic claims submission process to 40
+submit to the department of medicaid claims for medicaid payment 41
+for medicaid services provided to medicaid recipients; 42
+(2) Arrange to receive medicaid payment from the 43
+department by means of electronic funds transfer. 44
+(C) Division (B) of this section does not apply to any of 45
+the following: 46
+(1) A nursing facility; 47
+
+S. B. No. 166 Page 3
+As Introduced
+(2) An ICF/IID; 48
+(3) A medicaid managed care organization; 49
+(4) Any other medicaid provider or type of medicaid 50
+provider designated in rules adopted under section 5162.02 of 51
+the Revised Code. 52
+(D) The department shall not process a medicaid claim 53
+submitted on or after January 1, 2013, unless the claim is 54
+submitted through an electronic claims submission process in 55
+accordance with this section. 56
+(E) The department or its designee, including a medicaid 57
+managed care organization or the state pharmacy benefit manager 58
+established pursuant to section 5167.24 of the Revised Code, 59
+shall not impose any charge, fee, or other payment requirement, 60
+including through a withhold from payment, on any medicaid 61
+provider for electronic claims submitted pursuant to an 62
+electronic claims submission process under this section. 63
+Section 2. That existing sections 3901.382 and 5164.46 of 64
+the Revised Code are hereby repealed. 65
+
+[DELETED: nS   . :    1 1 1 1 1 1 1 1 1 1 2]
+[DELETED: 6  2 2 2.2 2 2 2.2 2 3;3 3;3 3 3.3 3 3:3 4 4;4 4.4 4:4;4]
+[DELETED: 6 ;4;4 5 5.5 5 5 5.5 5 5 5 6 6 6.6 6.6]

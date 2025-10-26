@@ -1,0 +1,2061 @@
+Title: Cosponsors: Representatives Thomas, D., Lorenz, Newman, Hall, T.
+Official Title: Cosponsors: Representatives Thomas, D., Lorenz, Newman, Hall, T.
+Number of Sections: 40
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 504
+2025-2026
+Representative King
+To amend sections 323.152, 323.155, and 4503.06 and 1
+to enact section 319.305 of the Revised Code to 2
+authorize counties to temporarily exempt a 3
+portion of property's increased value from 4
+taxation following a reappraisal and to name 5
+this act the Calculated Adjustments for Property 6
+Surges (CAPS) Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 323.152, 323.155, and 4503.06 be 8
+amended and section 319.305 of the Revised Code be enacted to 9
+read as follows: 10
+Sec. 319.305. (A) As used in this section : 11
+(1) "Qualifying county" means a county in which the 12
+taxable value of eligible property increased, in aggregate, by 13
+fifteen per cent or more from the tax year immediately preceding 14
+a reappraisal or triennial update to the following tax year, 15
+based on the tax commissioner's determination made for the 16
+current tax year under section 5715.24 of the Revised Code. 17
+(2) "Eligible property" means real property and qualifying 18
+manufactured homes that were subject to taxation for both the 19
+H. B. No. 504 Page 2
+As Introduced
+tax year of the reappraisal or triennial update and the tax year 20
+immediately preceding that year. 21
+(3) "Reappraisal or triennial update" means a tax year in 22
+which section 5715.24 of the Revised Code applies in the county. 23
+(4) "Qualifying manufactured homes" means a manufactured 24
+or mobile home on which a manufactured home tax is assessed 25
+pursuant to division (D)(2) of section 4503.06 of the Revised 26
+Code. 27
+(5) "Tax year," in the context of qualifying manufactured 28
+homes, means the tax year following the corresponding tax year 29
+for real property. 30
+(6) "Taxes charged and payable" means real property taxes, 31
+and manufactured home taxes assessed pursuant to division (D)(2) 32
+of section 4503.06 of the Revised Code, that are charged and 33
+payable after the reductions required by sections 319.301, 34
+
+Section 3:
+319.302, 319.304, 323.152, 323.158, 4503.065, and 4503.0610 of 35
+the Revised Code, but before any reduction authorized under this 36
+
+Section 4:
+section. 37
+(B) The board of commissioners of a qualifying county, by 38
+resolution, may authorize a reduction in the real property taxes 39
+or manufactured home taxes charged and payable against eligible 40
+property. The resolution shall state the percentage by which the 41
+taxable value of eligible property increased, as described in 42
+division (A)(1) of this section, and shall state that the 43
+resulting increase in taxes charged and payable against each 44
+parcel of eligible property shall be reduced by two-thirds in 45
+the current tax year and one-third in the following tax year. 46
+The board shall adopt the resolution on or before the first day 47
+of October of the tax year of a reappraisal or triennial update 48
+H. B. No. 504 Page 3
+As Introduced
+and shall certify a copy of the resolution, or a copy of any 49
+resolution repealing the reduction's authorization, to the 50
+county auditor and tax commissioner within thirty days after its 51
+adoption. The reduction shall apply for the current tax year and 52
+the following tax year, and the amount of the reduction shall 53
+equal the following, as applicable to the tax year: 54
+(1) For the current tax year, two-thirds of the difference 55
+of the taxes charged and payable against the eligible property 56
+for the current tax year minus the taxes charged and payable 57
+against the property for the preceding tax year; 58
+(2) For the following tax year, one-third of the 59
+difference of the taxes charged and payable against the eligible 60
+property for the current tax year minus the taxes charged and 61
+payable against the property for the tax year preceding the 62
+reappraisal or triennial update. 63
+(C) The county treasurer shall identify the reduction 64
+authorized under this section on each tax bill delivered under 65
+
+Section 5:
+section 323.13 or 4503.06 of the Revised Code as the "Temporary 66
+Property Valuation Phase-In Credit." 67
+Sec. 323.152. In addition to the reduction in taxes 68
+required under sections 319.302 and , 319.304, and 319.305 of 69
+the Revised Code, taxes shall be reduced as provided in 70
+divisions (A) and (B) of this section. 71
+(A)(1)(a) Division (A)(1) of this section applies to any 72
+of the following persons: 73
+(i) A person who is permanently and totally disabled; 74
+(ii) A person who is sixty-five years of age or older; 75
+(iii) A person who is the surviving spouse of a deceased 76
+H. B. No. 504 Page 4
+As Introduced
+person who was permanently and totally disabled or sixty-five 77
+years of age or older and who applied and qualified for a 78
+reduction in taxes under this division in the year of death, 79
+provided the surviving spouse is at least fifty-nine but not 80
+sixty-five or more years of age on the date the deceased spouse 81
+dies. 82
+(b) Real property taxes on a homestead owned and occupied, 83
+or a homestead in a housing cooperative occupied, by a person to 84
+whom division (A)(1) of this section applies shall be reduced 85
+for each year for which an application for the reduction has 86
+been approved. The reduction shall equal one of the following 87
+amounts, as applicable to the person: 88
+(i) If the person received a reduction under division (A) 89
+(1) of this section for tax year 2006, the greater of the 90
+reduction for that tax year or the amount computed under 91
+division (A)(1)(c) of this section; 92
+(ii) If the person received, for any homestead, a 93
+reduction under division (A)(1) of this section for tax year 94
+2013 or under division (A) of section 4503.065 of the Revised 95
+Code for tax year 2014 or the person is the surviving spouse of 96
+such a person and the surviving spouse is at least fifty-nine 97
+years of age on the date the deceased spouse dies, the amount 98
+computed under division (A)(1)(c) of this section. 99
+(iii) If the person is not described in division (A)(1)(b) 100
+(i) or (ii) of this section and the person's total income does 101
+not exceed thirty thousand dollars, as adjusted under division 102
+(A)(1)(d) of this section, the amount computed under division 103
+(A)(1)(c) of this section. 104
+(c) The amount of the reduction under division (A)(1)(c) 105
+H. B. No. 504 Page 5
+As Introduced
+of this section equals the product of the following: 106
+(i) Twenty-five thousand dollars of the true value of the 107
+property in money, as adjusted under division (A)(1)(d) of this 108
+
+Section 6:
+section; 109
+(ii) The assessment percentage established by the tax 110
+commissioner under division (B) of section 5715.01 of the 111
+Revised Code, not to exceed thirty-five per cent; 112
+(iii) The effective tax rate used to calculate the taxes 113
+charged against the property for the current year, where 114
+"effective tax rate" is defined as in section 323.08 of the 115
+Revised Code; 116
+(iv) The quantity equal to one minus the sum of the 117
+percentage reductions in taxes received by the property for the 118
+current tax year under section 319.302 of the Revised Code and 119
+division (B) of section 323.152 of the Revised Code. 120
+(d) The tax commissioner shall adjust the total income 121
+threshold described in division (A)(1)(b)(iii) and the reduction 122
+amounts described in divisions (A)(1)(c)(i), (A)(2), and (A)(3) 123
+of this section by completing the following calculations in 124
+September of each year: 125
+(i) Determine the percentage increase in the gross 126
+domestic product deflator determined by the bureau of economic 127
+analysis of the United States department of commerce from the 128
+first day of January of the preceding calendar year to the last 129
+day of December of the preceding calendar year; 130
+(ii) Multiply that percentage increase by the total income 131
+threshold or reduction amount for the current tax year, as 132
+applicable; 133
+H. B. No. 504 Page 6
+As Introduced
+(iii) Add the resulting product to the total income 134
+threshold or the reduction amount, as applicable, for the 135
+current tax year; 136
+(iv) Round the resulting sum to the nearest multiple of 137
+one hundred dollars. 138
+The commissioner shall certify the amount resulting from 139
+each adjustment to each county auditor not later than the first 140
+day of December each year. The certified total income threshold 141
+amount applies to the following tax year for persons described 142
+in division (A)(1)(b)(iii) of this section. The certified 143
+reduction amount applies to the following tax year. The 144
+commissioner shall not make the applicable adjustment in any 145
+calendar year in which the amount resulting from the adjustment 146
+would be less than the total income threshold or the reduction 147
+amount for the current tax year. 148
+(2)(a) Real property taxes on a homestead owned and 149
+occupied, or a homestead in a housing cooperative occupied, by a 150
+disabled veteran shall be reduced for each year for which an 151
+application for the reduction has been approved. The reduction 152
+shall equal the product obtained by multiplying fifty thousand 153
+dollars of the true value of the property in money, as adjusted 154
+under division (A)(1)(d) of this section, by the amounts 155
+described in divisions (A)(1)(c)(ii) to (iv) of this section. 156
+The reduction is in lieu of any reduction under section 323.158 157
+of the Revised Code or division (A)(1), (2)(b), or (3) of this 158
+
+Section 7:
+section. The reduction applies to only one homestead owned and 159
+occupied by a disabled veteran. 160
+(b) Real property taxes on a homestead owned and occupied, 161
+or a homestead in a housing cooperative occupied, by the 162
+surviving spouse of a disabled veteran shall be reduced for each 163
+H. B. No. 504 Page 7
+As Introduced
+year an application for exemption is approved. The reduction 164
+shall equal to the amount of the reduction authorized under 165
+division (A)(2)(a) of this section. 166
+The reduction is in lieu of any reduction under section 167
+
+Section 8:
+323.158 of the Revised Code or division (A)(1), (2)(a), or (3) 168
+of this section. The reduction applies to only one homestead 169
+owned and occupied by the surviving spouse of a disabled 170
+veteran. A homestead qualifies for a reduction in taxes under 171
+division (A)(2)(b) of this section beginning in one of the 172
+following tax years: 173
+(i) For a surviving spouse described in division (L)(1) of 174
+
+Section 9:
+section 323.151 of the Revised Code, the year the disabled 175
+veteran dies; 176
+(ii) For a surviving spouse described in division (L)(2) 177
+of section 323.151 of the Revised Code, the first year on the 178
+first day of January of which the total disability rating 179
+described in division (F) of that section has been received for 180
+the deceased spouse. 181
+In either case, the reduction shall continue through the 182
+tax year in which the surviving spouse dies or remarries. 183
+(3) Real property taxes on a homestead owned and occupied, 184
+or a homestead in a housing cooperative occupied, by the 185
+surviving spouse of a public service officer killed in the line 186
+of duty shall be reduced for each year for which an application 187
+for the reduction has been approved. The reduction shall equal 188
+the product obtained by multiplying fifty thousand dollars of 189
+the true value of the property in money, as adjusted under 190
+division (A)(1)(d) of this section, by the amounts described in 191
+divisions (A)(1)(c)(ii) to (iv) of this section. The reduction 192
+H. B. No. 504 Page 8
+As Introduced
+is in lieu of any reduction under section 323.158 of the Revised 193
+Code or division (A)(1) or (2) of this section. The reduction 194
+applies to only one homestead owned and occupied by such a 195
+surviving spouse. A homestead qualifies for a reduction in taxes 196
+under division (A)(3) of this section for the tax year in which 197
+the public service officer dies through the tax year in which 198
+the surviving spouse dies or remarries. 199
+(2) (B)(2) To provide a partial exemption, real property 200
+taxes on any homestead, and manufactured home taxes on any 201
+manufactured or mobile home on which a manufactured home tax is 202
+assessed pursuant to division (D)(2) of section 4503.06 of the 203
+Revised Code, shall be reduced for each year for which an 204
+application for the reduction has been approved. The amount of 205
+the reduction shall equal two and one-half per cent of the 206
+amount of taxes to be levied by qualifying levies on the 207
+homestead or the manufactured or mobile home after applying 208
+
+Section 10:
+section 319.301 of the Revised Code. For the purposes of this 209
+division, "qualifying levy" has the same meaning as in section 210
+
+Section 11:
+319.302 of the Revised Code. 211
+(3) A board of county commissioners, by resolution, may 212
+authorize a partial exemption from the real property taxes or 213
+manufactured home taxes on any property or manufactured or 214
+mobile home that receives the partial exemption under division 215
+(B)(2) of this section. The resolution shall specify the amount 216
+of the partial exemption, which may equal up to two and one-half 217
+per cent of the amount of taxes to be levied by qualifying 218
+levies on the property or home after applying section 319.301 of 219
+the Revised Code. The partial exemption shall be applied 220
+concurrently with the partial exemption under division (B)(2) of 221
+this section, and no application shall be required under section 222
+
+Section 12:
+323.153 of the Revised Code to obtain the partial exemption 223
+H. B. No. 504 Page 9
+As Introduced
+authorized pursuant to this section. 224
+The board shall certify a copy of the resolution, or a 225
+copy of any resolution repealing the partial exemption's 226
+authorization, to the county auditor and tax commissioner within 227
+thirty days after its adoption. If the resolution is adopted on 228
+or before the first day of July of a tax year, the partial 229
+exemption shall first apply or cease to apply, in the case of 230
+real property taxes, to that tax year or, in the case of 231
+manufactured home taxes, the following tax year. If the 232
+resolution is adopted after the first day of July of a tax year, 233
+the partial exemption shall first apply or cease to apply, in 234
+the case of real property taxes, to the following tax year or, 235
+in the case of manufactured home taxes, the second succeeding 236
+tax year. 237
+(C) The reductions granted by this section do not apply to 238
+special assessments or respread of assessments levied against 239
+the homestead, and if there is a transfer of ownership 240
+subsequent to the filing of an application for a reduction in 241
+taxes, such reductions are not forfeited for such year by virtue 242
+of such transfer. 243
+(D) The reductions in taxable value referred to in this 244
+
+Section 13:
+section shall be applied solely as a factor for the purpose of 245
+computing the reduction of taxes under this section and shall 246
+not affect the total value of property in any subdivision or 247
+taxing district as listed and assessed for taxation on the tax 248
+lists and duplicates, or any direct or indirect limitations on 249
+indebtedness of a subdivision or taxing district. If after 250
+application of sections 5705.31 and 5705.32 of the Revised Code, 251
+including the allocation of all levies within the ten-mill 252
+limitation to debt charges to the extent therein provided, there 253
+H. B. No. 504 Page 10
+As Introduced
+would be insufficient funds for payment of debt charges not 254
+provided for by levies in excess of the ten-mill limitation, the 255
+reduction of taxes provided for in sections 323.151 to 323.159 256
+of the Revised Code shall be proportionately adjusted to the 257
+extent necessary to provide such funds from levies within the 258
+ten-mill limitation. 259
+(E) No reduction shall be made on the taxes due on the 260
+homestead of any person convicted of violating division (D) or 261
+(E) of section 323.153 of the Revised Code for a period of three 262
+years following the conviction. 263
+Sec. 323.155. The tax bill prescribed under section 264
+
+Section 14:
+323.131 of the Revised Code shall indicate the net amount of 265
+taxes due following the reductions in taxes under sections 266
+
+Section 15:
+319.301, 319.302, 319.304, 319.305, 323.152, and 323.16 of the 267
+Revised Code. 268
+Any reduction in taxes under section 323.152 of the 269
+Revised Code shall be disregarded as income or resources in 270
+determining eligibility for any program or calculating any 271
+payment under Title LI of the Revised Code. 272
+Sec. 4503.06. (A) The owner of each manufactured or mobile 273
+home that has acquired situs in this state shall pay either a 274
+real property tax pursuant to Title LVII of the Revised Code or 275
+a manufactured home tax pursuant to division (C) of this 276
+
+Section 16:
+section. 277
+(B) The owner of a manufactured or mobile home shall pay 278
+real property taxes if either of the following applies: 279
+(1) The manufactured or mobile home acquired situs in the 280
+state or ownership in the home was transferred on or after 281
+January 1, 2000, and all of the following apply: 282
+H. B. No. 504 Page 11
+As Introduced
+(a) The home is affixed to a permanent foundation as 283
+defined in division (C)(5) of section 3781.06 of the Revised 284
+Code. 285
+(b) The home is located on land that is owned by the owner 286
+of the home. 287
+(c) The certificate of title has been inactivated by the 288
+clerk of the court of common pleas that issued it, pursuant to 289
+division (H) of section 4505.11 of the Revised Code. 290
+(2) The manufactured or mobile home acquired situs in the 291
+state or ownership in the home was transferred before January 1, 292
+2000, and all of the following apply: 293
+(a) The home is affixed to a permanent foundation as 294
+defined in division (C)(5) of section 3781.06 of the Revised 295
+Code. 296
+(b) The home is located on land that is owned by the owner 297
+of the home. 298
+(c) The owner of the home has elected to have the home 299
+taxed as real property and, pursuant to section 4505.11 of the 300
+Revised Code, has surrendered the certificate of title to the 301
+auditor of the county containing the taxing district in which 302
+the home has its situs, together with proof that all taxes have 303
+been paid. 304
+(d) The county auditor has placed the home on the real 305
+property tax list and delivered the certificate of title to the 306
+clerk of the court of common pleas that issued it and the clerk 307
+has inactivated the certificate. 308
+(C)(1) Any mobile or manufactured home that is not taxed 309
+as real property as provided in division (B) of this section is 310
+H. B. No. 504 Page 12
+As Introduced
+subject to an annual manufactured home tax, payable by the 311
+owner, for locating the home in this state. The tax as levied in 312
+this section is for the purpose of supplementing the general 313
+revenue funds of the local subdivisions in which the home has 314
+its situs pursuant to this section. 315
+(2) The year for which the manufactured home tax is levied 316
+commences on the first day of January and ends on the following 317
+thirty-first day of December. The state shall have the first 318
+lien on any manufactured or mobile home on the list for the 319
+amount of taxes, penalties, and interest charged against the 320
+owner of the home under this section. The lien of the state for 321
+the tax for a year shall attach on the first day of January to a 322
+home that has acquired situs on that date. The lien for a home 323
+that has not acquired situs on the first day of January, but 324
+that acquires situs during the year, shall attach on the next 325
+first day of January. The lien shall continue until the tax, 326
+including any penalty or interest, is paid. 327
+(3)(a) The situs of a manufactured or mobile home located 328
+in this state on the first day of January is the local taxing 329
+district in which the home is located on that date. 330
+(b) The situs of a manufactured or mobile home not located 331
+in this state on the first day of January, but located in this 332
+state subsequent to that date, is the local taxing district in 333
+which the home is located thirty days after it is acquired or 334
+first enters this state. 335
+(4) The tax is collected by and paid to the county 336
+treasurer of the county containing the taxing district in which 337
+the home has its situs. 338
+(D) The manufactured home tax shall be computed and 339
+H. B. No. 504 Page 13
+As Introduced
+assessed by the county auditor of the county containing the 340
+taxing district in which the home has its situs as follows: 341
+(1) On a home that acquired situs in this state prior to 342
+January 1, 2000: 343
+(a) By multiplying the assessable value of the home by the 344
+tax rate of the taxing district in which the home has its situs, 345
+and deducting from the product thus obtained any reduction 346
+authorized under section 4503.065 of the Revised Code. The tax 347
+levied under this formula shall not be less than thirty-six 348
+dollars, unless the home qualifies for a reduction in assessable 349
+value under section 4503.065 of the Revised Code, in which case 350
+there shall be no minimum tax and the tax shall be the amount 351
+calculated under this division. 352
+(b) The assessable value of the home shall be forty per 353
+cent of the amount arrived at by the following computation: 354
+(i) If the cost to the owner, or market value at time of 355
+purchase, whichever is greater, of the home includes the 356
+furnishings and equipment, such cost or market value shall be 357
+multiplied according to the following schedule: 358
+359
+1 2 3
+A For the first calendar year in which the x 80%
+home is owned by the current owner
+B 2nd calendar year x 75%
+C 3rd " x 70%
+D 4th " x 65%
+H. B. No. 504 Page 14
+As Introduced
+E 5th " x 60%
+F 6th " x 55%
+G 7th " x 50%
+H 8th " x 45%
+I 9th " x 40%
+J 10th and each year thereafter x 35%
+The first calendar year means any period between the first 360
+day of January and the thirty-first day of December of the first 361
+year. 362
+(ii) If the cost to the owner, or market value at the time 363
+of purchase, whichever is greater, of the home does not include 364
+the furnishings and equipment, such cost or market value shall 365
+be multiplied according to the following schedule: 366
+367
+1 2 3
+A For the first calendar year in which the x 95%
+home is owned by the current owner
+B 2nd calendar year x 90%
+C 3rd " x 85%
+D 4th " x 80%
+E 5th " x 75%
+F 6th " x 70%
+H. B. No. 504 Page 15
+As Introduced
+G 7th " x 65%
+H 8th " x 60%
+I 9th " x 55%
+J 10th and each year thereafter x 50%
+The first calendar year means any period between the first 368
+day of January and the thirty-first day of December of the first 369
+year. 370
+(2) On a home in which ownership was transferred or that 371
+first acquired situs in this state on or after January 1, 2000: 372
+(a) By multiplying the assessable value of the home by the 373
+effective tax rate, as defined in section 323.08 of the Revised 374
+Code, for residential real property of the taxing district in 375
+which the home has its situs, and deducting from the product 376
+thus obtained the reductions required or authorized under 377
+
+Section 17:
+section 319.302, 319.304, 319.305, or 4503.065 or division (B) 378
+of section 323.152 of the Revised Code. 379
+(b) The assessable value of the home shall be thirty-five 380
+per cent of its true value as determined under division (L) of 381
+this section. 382
+(3) On or before the fifteenth day of January each year, 383
+the county auditor shall record the assessable value and the 384
+amount of tax on the manufactured or mobile home on the tax list 385
+and deliver a duplicate of the list to the county treasurer. In 386
+the case of an emergency as defined in section 323.17 of the 387
+Revised Code, the tax commissioner, by journal entry, may extend 388
+the times for delivery of the duplicate for an additional 389
+fifteen days upon receiving a written application from the 390
+H. B. No. 504 Page 16
+As Introduced
+county auditor regarding an extension for the delivery of the 391
+duplicate, or from the county treasurer regarding an extension 392
+of the time for the billing and collection of taxes. The 393
+application shall contain a statement describing the emergency 394
+that will cause the unavoidable delay and must be received by 395
+the tax commissioner on or before the last day of the month 396
+preceding the day delivery of the duplicate is otherwise 397
+required. When an extension is granted for delivery of the 398
+duplicate, the time period for payment of taxes shall be 399
+extended for a like period of time. When a delay in the closing 400
+of a tax collection period becomes unavoidable, the tax 401
+commissioner, upon application by the county auditor and county 402
+treasurer, may order the time for payment of taxes to be 403
+extended if the tax commissioner determines that penalties have 404
+accrued or would otherwise accrue for reasons beyond the control 405
+of the taxpayers of the county. The order shall prescribe the 406
+final extended date for payment of taxes for that collection 407
+period. 408
+(4) After January 1, 1999, the owner of a manufactured or 409
+mobile home taxed pursuant to division (D)(1) of this section 410
+may elect to have the home taxed pursuant to division (D)(2) of 411
+this section by filing a written request with the county auditor 412
+of the taxing district in which the home is located on or before 413
+the first day of December of any year. Upon the filing of the 414
+request, the county auditor shall determine whether all taxes 415
+levied under division (D)(1) of this section have been paid, and 416
+if those taxes have been paid, the county auditor shall tax the 417
+manufactured or mobile home pursuant to division (D)(2) of this 418
+
+Section 18:
+section commencing in the next tax year. 419
+(5) A manufactured or mobile home that acquired situs in 420
+this state prior to January 1, 2000, shall be taxed pursuant to 421
+H. B. No. 504 Page 17
+As Introduced
+division (D)(2) of this section if no manufactured home tax had 422
+been paid for the home and the home was not exempted from 423
+taxation pursuant to division (E) of this section for the year 424
+for which the taxes were not paid. 425
+(6)(a) Immediately upon receipt of any manufactured home 426
+tax duplicate from the county auditor, but not less than twenty 427
+days prior to the last date on which the first one-half taxes 428
+may be paid without penalty as prescribed in division (F) of 429
+this section, the county treasurer shall cause to be prepared 430
+and mailed or delivered to each person charged on that duplicate 431
+with taxes, or to an agent designated by such person, the tax 432
+bill prescribed by the tax commissioner under division (D)(7) of 433
+this section. When taxes are paid by installments, the county 434
+treasurer shall mail or deliver to each person charged on such 435
+duplicate or the agent designated by that person a second tax 436
+bill showing the amount due at the time of the second tax 437
+collection. The second half tax bill shall be mailed or 438
+delivered at least twenty days prior to the close of the second 439
+half tax collection period. A change in the mailing address, 440
+electronic mail address, or telephone number of any tax bill 441
+shall be made in writing to the county treasurer. Failure to 442
+receive a bill required by this section does not excuse failure 443
+or delay to pay any taxes shown on the bill or, except as 444
+provided in division (B)(1) of section 5715.39 of the Revised 445
+Code, avoid any penalty, interest, or charge for such delay. 446
+A policy adopted by a county treasurer under division (A) 447
+(2) of section 323.13 of the Revised Code shall also allow any 448
+person required to receive a tax bill under division (D)(6)(a) 449
+of this section to request electronic delivery of that tax bill 450
+in the same manner. A person may rescind such a request in the 451
+same manner as a request made under division (A)(2) of section 452
+H. B. No. 504 Page 18
+As Introduced
+
+Section 19:
+323.13 of the Revised Code. The request shall terminate upon a 453
+change in the name of the person charged with the taxes pursuant 454
+to section 4503.061 of the Revised Code. 455
+(b) After delivery of the copy of the delinquent 456
+manufactured home tax list under division (H) of this section, 457
+the county treasurer may prepare and mail to each person in 458
+whose name a home is listed an additional tax bill showing the 459
+total amount of delinquent taxes charged against the home as 460
+shown on the list. The tax bill shall include a notice that the 461
+interest charge prescribed by division (G) of this section has 462
+begun to accrue. 463
+(7) Each tax bill prepared and mailed or delivered under 464
+division (D)(6) of this section shall be in the form and contain 465
+the information required by the tax commissioner. The 466
+commissioner may prescribe different forms for each county and 467
+may authorize the county auditor to make up tax bills and tax 468
+receipts to be used by the county treasurer. The tax bill shall 469
+not contain or be mailed or delivered with any information or 470
+material that is not required by this section or that is not 471
+authorized by section 321.45 of the Revised Code or by the tax 472
+commissioner. In addition to the information required by the 473
+commissioner, each tax bill shall contain the following 474
+information: 475
+(a) The taxes levied and the taxes charged and payable 476
+against the manufactured or mobile home; 477
+(b) The following notice: "Notice: If the taxes are not 478
+paid within sixty days after the county auditor delivers the 479
+delinquent manufactured home tax list to the county treasurer, 480
+you and your home may be subject to collection proceedings for 481
+tax delinquency." Failure to provide such notice has no effect 482
+H. B. No. 504 Page 19
+As Introduced
+upon the validity of any tax judgment to which a home may be 483
+subjected. 484
+(c) In the case of manufactured or mobile homes taxed 485
+under division (D)(2) of this section, the following additional 486
+information: 487
+(i) The effective tax rate. The words "effective tax rate" 488
+shall appear in boldface type. 489
+(ii) The following notice: "Notice: If the taxes charged 490
+against this home have been reduced by the 2-1/2 per cent tax 491
+reduction for residences occupied by the owner but the home is 492
+not a residence occupied by the owner, the owner must notify the 493
+county auditor's office not later than March 31 of the year for 494
+which the taxes are due. Failure to do so may result in the 495
+owner being convicted of a fourth degree misdemeanor, which is 496
+punishable by imprisonment up to 30 days, a fine up to $250, or 497
+both, and in the owner having to repay the amount by which the 498
+taxes were erroneously or illegally reduced, plus any interest 499
+that may apply. 500
+If the taxes charged against this home have not been 501
+reduced by the 2-1/2 per cent tax reduction and the home is a 502
+residence occupied by the owner, the home may qualify for the 503
+tax reduction. To obtain an application for the tax reduction or 504
+further information, the owner may contact the county auditor's 505
+office at __________ (insert the address and telephone number of 506
+the county auditor's office)." 507
+(E)(1) A manufactured or mobile home is not subject to 508
+this section when any of the following applies: 509
+(a) It is taxable as personal property pursuant to section 510
+
+Section 20:
+5709.01 of the Revised Code. Any manufactured or mobile home 511
+H. B. No. 504 Page 20
+As Introduced
+that is used as a residence shall be subject to this section and 512
+shall not be taxable as personal property pursuant to section 513
+
+Section 21:
+5709.01 of the Revised Code. 514
+(b) It bears a license plate issued by any state other 515
+than this state unless the home is in this state in excess of an 516
+accumulative period of thirty days in any calendar year. 517
+(c) The annual tax has been paid on the home in this state 518
+for the current year. 519
+(d) The tax commissioner has determined, pursuant to 520
+
+Section 22:
+section 5715.27 of the Revised Code, that the property is exempt 521
+from taxation, or would be exempt from taxation under Chapter 522
+
+Section 23:
+5709. of the Revised Code if it were classified as real 523
+property. 524
+(2) A travel trailer or park trailer, as these terms are 525
+defined in section 4501.01 of the Revised Code, is not subject 526
+to this section if it is unused or unoccupied and stored at the 527
+owner's normal place of residence or at a recognized storage 528
+facility. 529
+(3) A travel trailer or park trailer, as these terms are 530
+defined in section 4501.01 of the Revised Code, is subject to 531
+this section and shall be taxed as a manufactured or mobile home 532
+if it has a situs longer than thirty days in one location and is 533
+connected to existing utilities, unless either of the following 534
+applies: 535
+(a) The situs is in a state facility or a camping or park 536
+area as defined in division (C), (Q), (S), or (V) of section 537
+
+Section 24:
+3729.01 of the Revised Code. 538
+(b) The situs is in a camping or park area that is a tract 539
+of land that has been limited to recreational use by deed or 540
+H. B. No. 504 Page 21
+As Introduced
+zoning restrictions and subdivided for sale of five or more 541
+individual lots for the express or implied purpose of occupancy 542
+by either self-contained recreational vehicles as defined in 543
+division (T) of section 3729.01 of the Revised Code or by 544
+dependent recreational vehicles as defined in division (D) of 545
+
+Section 25:
+section 3729.01 of the Revised Code. 546
+(F) Except as provided in division (D)(3) of this section, 547
+the manufactured home tax is due and payable as follows: 548
+(1) When a manufactured or mobile home has a situs in this 549
+state, as provided in this section, on the first day of January, 550
+one-half of the amount of the tax is due and payable on or 551
+before the first day of March and the balance is due and payable 552
+on or before the thirty-first day of July. At the option of the 553
+owner of the home, the tax for the entire year may be paid in 554
+full on the first day of March. 555
+(2) When a manufactured or mobile home first acquires a 556
+situs in this state after the first day of January, no tax is 557
+due and payable for that year. 558
+(G)(1)(a) Except as otherwise provided in division (G)(1) 559
+(b) of this section, if one-half of the current taxes charged 560
+under this section against a manufactured or mobile home, 561
+together with the full amount of any delinquent taxes, are not 562
+paid on or before the first day of March in that year, or on or 563
+before the last day for such payment as extended pursuant to 564
+
+Section 26:
+section 4503.063 of the Revised Code, a penalty of ten per cent 565
+shall be charged against the unpaid balance of such half of the 566
+current taxes. If the total amount of all such taxes is not paid 567
+on or before the thirty-first day of July, next thereafter, or 568
+on or before the last day for payment as extended pursuant to 569
+
+Section 27:
+section 4503.063 of the Revised Code, a like penalty shall be 570
+H. B. No. 504 Page 22
+As Introduced
+charged on the balance of the total amount of the unpaid current 571
+taxes. 572
+(b) After a valid delinquent tax contract that includes 573
+unpaid current taxes from a first-half collection period 574
+described in division (F) of this section has been entered into 575
+under section 323.31 of the Revised Code, no ten per cent 576
+penalty shall be charged against such taxes after the second- 577
+half collection period while the delinquent tax contract remains 578
+in effect. On the day a delinquent tax contract becomes void, 579
+the ten per cent penalty shall be charged against such taxes and 580
+shall equal the amount of penalty that would have been charged 581
+against unpaid current taxes outstanding on the date on which 582
+the second-half penalty would have been charged thereon under 583
+division (G)(1)(a) of this section if the contract had not been 584
+in effect. 585
+(2)(a) On the first day of the month following the last 586
+day the second installment of taxes may be paid without penalty 587
+beginning in 2000, interest shall be charged against and 588
+computed on all delinquent taxes other than the current taxes 589
+that became delinquent taxes at the close of the last day such 590
+second installment could be paid without penalty. The charge 591
+shall be for interest that accrued during the period that began 592
+on the preceding first day of December and ended on the last day 593
+of the month that included the last date such second installment 594
+could be paid without penalty. The interest shall be computed at 595
+the rate per annum prescribed by section 5703.47 of the Revised 596
+Code and shall be entered as a separate item on the delinquent 597
+manufactured home tax list compiled under division (H) of this 598
+
+Section 28:
+section. 599
+(b) On the first day of December beginning in 2000, the 600
+H. B. No. 504 Page 23
+As Introduced
+interest shall be charged against and computed on all delinquent 601
+taxes. The charge shall be for interest that accrued during the 602
+period that began on the first day of the month following the 603
+last date prescribed for the payment of the second installment 604
+of taxes in the current year and ended on the immediately 605
+preceding last day of November. The interest shall be computed 606
+at the rate per annum prescribed by section 5703.47 of the 607
+Revised Code and shall be entered as a separate item on the 608
+delinquent manufactured home tax list. 609
+(c) After a valid undertaking has been entered into for 610
+the payment of any delinquent taxes, no interest shall be 611
+charged against such delinquent taxes while the undertaking 612
+remains in effect in compliance with section 323.31 of the 613
+Revised Code. If a valid undertaking becomes void, interest 614
+shall be charged against the delinquent taxes for the periods 615
+that interest was not permitted to be charged while the 616
+undertaking was in effect. The interest shall be charged on the 617
+day the undertaking becomes void and shall equal the amount of 618
+interest that would have been charged against the unpaid 619
+delinquent taxes outstanding on the dates on which interest 620
+would have been charged thereon under divisions (G)(1) and (2) 621
+of this section had the undertaking not been in effect. 622
+(3) If the full amount of the taxes due at either of the 623
+times prescribed by division (F) of this section is paid within 624
+ten days after such time, the county treasurer shall waive the 625
+collection of and the county auditor shall remit one-half of the 626
+penalty provided for in this division for failure to make that 627
+payment by the prescribed time. 628
+(4) The treasurer shall compile and deliver to the county 629
+auditor a list of all tax payments the treasurer has received as 630
+H. B. No. 504 Page 24
+As Introduced
+provided in division (G)(3) of this section. The list shall 631
+include any information required by the auditor for the 632
+remission of the penalties waived by the treasurer. The taxes so 633
+collected shall be included in the settlement next succeeding 634
+the settlement then in process. 635
+(H)(1) The county auditor shall compile annually a 636
+"delinquent manufactured home tax list" consisting of homes the 637
+county treasurer's records indicate have taxes that were not 638
+paid within the time prescribed by divisions (D)(3) and (F) of 639
+this section, have taxes that remain unpaid from prior years, or 640
+have unpaid tax penalties or interest that have been assessed. 641
+(2) Within thirty days after the settlement under division 642
+(H)(2) of section 321.24 of the Revised Code, the county auditor 643
+shall deliver a copy of the delinquent manufactured home tax 644
+list to the county treasurer. The auditor shall update and 645
+publish the delinquent manufactured home tax list annually in 646
+the same manner as delinquent real property tax lists are 647
+published. The county auditor may apportion the cost of 648
+publishing the list among taxing districts in proportion to the 649
+amount of delinquent manufactured home taxes so published that 650
+each taxing district is entitled to receive upon collection of 651
+those taxes, or the county auditor may charge the owner of a 652
+home on the list a flat fee established under section 319.54 of 653
+the Revised Code for the cost of publishing the list and, if the 654
+fee is not paid, may place the fee upon the delinquent 655
+manufactured home tax list as a lien on the listed home, to be 656
+collected as other manufactured home taxes. 657
+(3) When taxes, penalties, or interest are charged against 658
+a person on the delinquent manufactured home tax list and are 659
+not paid within sixty days after the list is delivered to the 660
+H. B. No. 504 Page 25
+As Introduced
+county treasurer, the county treasurer shall, in addition to any 661
+other remedy provided by law for the collection of taxes, 662
+penalties, and interest, enforce collection of such taxes, 663
+penalties, and interest by civil action in the name of the 664
+treasurer against the owner for the recovery of the unpaid taxes 665
+following the procedures for the recovery of delinquent real 666
+property taxes in sections 323.25 to 323.28 of the Revised Code. 667
+The action may be brought in municipal or county court, provided 668
+the amount charged does not exceed the monetary limitations for 669
+original jurisdiction for civil actions in those courts. 670
+It is sufficient, having made proper parties to the suit, 671
+for the county treasurer to allege in the treasurer's bill of 672
+particulars or petition that the taxes stand chargeable on the 673
+books of the county treasurer against such person, that they are 674
+due and unpaid, and that such person is indebted in the amount 675
+of taxes appearing to be due the county. The treasurer need not 676
+set forth any other matter relating thereto. If it is found on 677
+the trial of the action that the person is indebted to the 678
+state, judgment shall be rendered in favor of the county 679
+treasurer prosecuting the action. The judgment debtor is not 680
+entitled to the benefit of any law for stay of execution or 681
+exemption of property from levy or sale on execution in the 682
+enforcement of the judgment. 683
+Upon the filing of an entry of confirmation of sale or an 684
+order of forfeiture in a proceeding brought under this division, 685
+title to the manufactured or mobile home shall be in the 686
+purchaser. The clerk of courts shall issue a certificate of 687
+title to the purchaser upon presentation of proof of filing of 688
+the entry of confirmation or order and, in the case of a 689
+forfeiture, presentation of the county auditor's certificate of 690
+sale. 691
+H. B. No. 504 Page 26
+As Introduced
+(I) The total amount of taxes collected shall be 692
+distributed in the following manner: four per cent shall be 693
+allowed as compensation to the county auditor for the county 694
+auditor's service in assessing the taxes; two per cent shall be 695
+allowed as compensation to the county treasurer for the services 696
+the county treasurer renders as a result of the tax levied by 697
+this section. Such amounts shall be paid into the county 698
+treasury, to the credit of the county general revenue fund, on 699
+the warrant of the county auditor. Fees to be paid to the credit 700
+of the real estate assessment fund shall be collected pursuant 701
+to division (C) of section 319.54 of the Revised Code and paid 702
+into the county treasury, on the warrant of the county auditor. 703
+The balance of the taxes collected shall be distributed among 704
+the taxing subdivisions of the county in which the taxes are 705
+collected and paid in the same proportions that the amount of 706
+manufactured home tax levied by each taxing subdivision of the 707
+county in the current tax year bears to the amount of such tax 708
+levied by all such subdivisions in the county in the current tax 709
+year. The taxes levied and revenues collected under this section 710
+shall be in lieu of any general property tax and any tax levied 711
+with respect to the privilege of using or occupying a 712
+manufactured or mobile home in this state except as provided in 713
+
+Section 29:
+sections 4503.04 and 5741.02 of the Revised Code. 714
+(J) An agreement to purchase or a bill of sale for a 715
+manufactured home shall show whether or not the furnishings and 716
+equipment are included in the purchase price. 717
+(K) If the county treasurer and the county prosecuting 718
+attorney agree that an item charged on the delinquent 719
+manufactured home tax list is uncollectible, they shall certify 720
+that determination and the reasons to the county board of 721
+revision. If the board determines the amount is uncollectible, 722
+H. B. No. 504 Page 27
+As Introduced
+it shall certify its determination to the county auditor, who 723
+shall strike the item from the list. 724
+(L)(1) The county auditor shall appraise at its true value 725
+any manufactured or mobile home in which ownership is 726
+transferred or which first acquires situs in this state on or 727
+after January 1, 2000, and any manufactured or mobile home the 728
+owner of which has elected, under division (D)(4) of this 729
+
+Section 30:
+section, to have the home taxed under division (D)(2) of this 730
+
+Section 31:
+section. The true value shall include the value of the home, any 731
+additions, and any fixtures, but not any furnishings in the 732
+home. In determining the true value of a manufactured or mobile 733
+home, the auditor shall consider all facts and circumstances 734
+relating to the value of the home, including its age, its 735
+capacity to function as a residence, any obsolete 736
+characteristics, and other factors that may tend to prove its 737
+true value. 738
+(2)(a) If a manufactured or mobile home has been the 739
+subject of an arm's length sale between a willing seller and a 740
+willing buyer within a reasonable length of time prior to the 741
+determination of true value, the county auditor shall consider 742
+the sale price of the home to be the true value for taxation 743
+purposes. 744
+(b) The sale price in an arm's length transaction between 745
+a willing seller and a willing buyer shall not be considered the 746
+true value of the home if either of the following occurred after 747
+the sale: 748
+(i) The home has lost value due to a casualty. 749
+(ii) An addition or fixture has been added to the home. 750
+(3) The county auditor shall have each home viewed and 751
+H. B. No. 504 Page 28
+As Introduced
+appraised at least once in each six-year period in the same year 752
+in which real property in the county is appraised pursuant to 753
+Chapter 5713. of the Revised Code, and shall update the 754
+appraised values in the third calendar year following the 755
+appraisal. The person viewing or appraising a home may enter the 756
+home to determine by actual view any additions or fixtures that 757
+have been added since the last appraisal. In conducting the 758
+appraisals and establishing the true value, the auditor shall 759
+follow the procedures set forth for appraising real property in 760
+
+Section 32:
+sections 5713.01 and 5713.03 of the Revised Code. 761
+(4) The county auditor shall place the true value of each 762
+home on the manufactured home tax list upon completion of an 763
+appraisal. 764
+(5)(a) If the county auditor changes the true value of a 765
+home, the auditor shall notify the owner of the home in writing, 766
+delivered by mail or in person. The notice shall be given at 767
+least thirty days prior to the issuance of any tax bill that 768
+reflects the change. Failure to receive the notice does not 769
+invalidate any proceeding under this section. 770
+(b) Any owner of a home or any other person or party that 771
+would be authorized to file a complaint under division (A) of 772
+
+Section 33:
+section 5715.19 of the Revised Code if the home was real 773
+property may file a complaint against the true value of the home 774
+as appraised under this section. The complaint shall be filed 775
+with the county auditor on or before the thirty-first day of 776
+March of the current tax year or the date of closing of the 777
+collection for the first half of manufactured home taxes for the 778
+current tax year, whichever is later. The auditor shall present 779
+to the county board of revision all complaints filed with the 780
+auditor under this section. The board shall hear and investigate 781
+H. B. No. 504 Page 29
+As Introduced
+the complaint and may take action on it as provided under 782
+
+Section 34:
+sections 5715.11 to 5715.19 of the Revised Code. 783
+(c) If the county board of revision determines, pursuant 784
+to a complaint against the valuation of a manufactured or mobile 785
+home filed under this section, that the amount of taxes, 786
+assessments, or other charges paid was in excess of the amount 787
+due based on the valuation as finally determined, then the 788
+overpayment shall be refunded in the manner prescribed in 789
+
+Section 35:
+section 5715.22 of the Revised Code. 790
+(d) Payment of all or part of a tax under this section for 791
+any year for which a complaint is pending before the county 792
+board of revision does not abate the complaint or in any way 793
+affect the hearing and determination thereof. 794
+(M) If the county auditor determines that any tax or other 795
+charge or any part thereof has been erroneously charged as a 796
+result of a clerical error as defined in section 319.35 of the 797
+Revised Code, the county auditor shall call the attention of the 798
+county board of revision to the erroneous charges. If the board 799
+finds that the taxes or other charges have been erroneously 800
+charged or collected, it shall certify the finding to the 801
+auditor. Upon receipt of the certification, the auditor shall 802
+remove the erroneous charges on the manufactured home tax list 803
+or delinquent manufactured home tax list in the same manner as 804
+is prescribed in section 319.35 of the Revised Code for 805
+erroneous charges against real property, and refund any 806
+erroneous charges that have been collected, with interest, in 807
+the same manner as is prescribed in section 319.36 of the 808
+Revised Code for erroneous charges against real property. 809
+(N) As used in this section and section 4503.061 of the 810
+Revised Code: 811
+H. B. No. 504 Page 30
+As Introduced
+(1) "Manufactured home taxes" includes taxes, penalties, 812
+and interest charged under division (C) or (G) of this section 813
+and any penalties charged under division (G) or (H)(5) of 814
+
+Section 36:
+section 4503.061 of the Revised Code. 815
+(2) "Current taxes" means all manufactured home taxes 816
+charged against a manufactured or mobile home that have not 817
+appeared on the manufactured home tax list for any prior year. 818
+Current taxes become delinquent taxes if they remain unpaid 819
+after the last day prescribed for payment of the second 820
+installment of current taxes without penalty, whether or not 821
+they have been certified delinquent. 822
+(3) "Delinquent taxes" means: 823
+(a) Any manufactured home taxes that were charged against 824
+a manufactured or mobile home for a prior year, including any 825
+penalties or interest charged for a prior year and the costs of 826
+publication under division (H)(2) of this section, and that 827
+remain unpaid; 828
+(b) Any current manufactured home taxes charged against a 829
+manufactured or mobile home that remain unpaid after the last 830
+day prescribed for payment of the second installment of current 831
+taxes without penalty, whether or not they have been certified 832
+delinquent, including any penalties or interest and the costs of 833
+publication under division (H)(2) of this section. 834
+
+Section 37:
+Section 2. That existing sections 323.152, 323.155, and 835
+
+Section 38:
+4503.06 of the Revised Code are hereby repealed. 836
+
+Section 39:
+Section 3. This act shall be known as the Calculated 837
+Adjustments for Property Surges (CAPS) Act. 838
+
+Section 40:
+Section 4. Section 323.152 of the Revised Code is 839
+presented in this act as a composite of the section as amended 840
+H. B. No. 504 Page 31
+As Introduced
+by both H.B. 33 and S.B. 43 of the 135th General Assembly. The 841
+General Assembly, applying the principle stated in division (B) 842
+of section 1.52 of the Revised Code that amendments are to be 843
+harmonized if reasonably capable of simultaneous operation, 844
+finds that the composite is the resulting version of the section 845
+in effect prior to the effective date of the section as 846
+presented in this act. 847
+[DELETED: nH         :1:1 1 1 1 1 1.1 1 1]
+[DELETED: 4  2.2 2.2 2 2 2.2 2 2.3 3 3 3 3 3 3.3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 5 5 5 5:5 5 5 5;5 5 6 6 6.6 6 6 6"6 6 6 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 8 8 8 8 8 8 8 8 8)8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4 .2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2:2 2 2:2]
+[DELETED: 4  2 2.2 2.2 2 2.2 2 2:2 2 2.2 2.2 2 3 3 3 3.3 3 3 3.3 3 3]
+[DELETED: 4  3 3 3 3.3 3 3 3 3 3 3 3 3 3 3 3.3 3 3.3 3 3 3 3.3 3 3.3 3]
+[DELETED: 4  3:3 3:3 3 3 3 3 3 3 3 3.3 3:3 3 3 3:32F x82rx73"x74"x6]
+[DELETED: 4 5"x66"x57"x58"x49"x41rx3 3 3.3 3 3 3:32F x92rx93"x84"x85"x76"x7]
+[DELETED: 4 7"x68"x69"x51rx5 3 3.3 3:3 3 3 3 3 3 3.3 3 3.3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4.4 4 4]
+[DELETED: 4  4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4)4 4 4 4 4 4]
+[DELETED: 4  4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4:4 4;4 4 4 4 4 4]
+[DELETED: 4  4.4 4 4:4 4.4 4 4 4 4 4 4 4 4 4 4.5 5 5 5 5 5 5"5 5:5 5 5]
+[DELETED: 4  5 5.5 5 5.5 5.5 5 5 5 5.5 5 5 5 5.5 5 5 5 5 5:5 5 5.5 5 5]
+[DELETED: 4  5 5 5 5 5.5 5:5 5 5 5 5 5 5.5 5 5.5)5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5.5 5 5 5 5-5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 6]
+[DELETED: 4  6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6.6 6 6]
+[DELETED: 4  6 6 6 6.6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6.6]
+[DELETED: 4  6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7.7 7 7 7 7 7]
+[DELETED: 4  7.7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7.7 7 7 7:7.7.7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7.7 7 7.7 7 7 7 7 7.7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7.7 7 7 7 7 7 7.7 7 7 7.7 7 7 7 7 7 8 8 8 8 8 8 8 8 8.8 8:8]
+[DELETED: 4  8 8 8.8 8 8 8 8 8 8.8:8 8 8 8 8;8 8 8 8 8 8.8 8.8 8.8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 504
+2025-2026
+Representative King
+Cosponsors: Representatives Thomas, D., Lorenz, Newman, Hall, T.
+To amend sections 323.152, 323.155, and 4503.06 and 1
+to enact section 319.305 of the Revised Code to 2
+authorize counties to temporarily exempt a 3
+portion of property's increased value from 4
+taxation following a reappraisal and to name 5
+this act the Calculated Adjustments for Property 6
+Surges (CAPS) Act. 7
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 323.152, 323.155, and 4503.06 be 8
+amended and section 319.305 of the Revised Code be enacted to 9
+read as follows: 10
+Sec. 319.305. (A) As used in this section : 11
+(1) "Qualifying county" means a county in which the 12
+taxable value of eligible property increased, in aggregate, by 13
+fifteen per cent or more from the tax year immediately preceding 14
+a reappraisal or triennial update to the following tax year, 15
+based on the tax commissioner's determination made for the 16
+current tax year under section 5715.24 of the Revised Code. 17
+(2) "Eligible property" means real property and qualifying 18
+manufactured homes that were subject to taxation for both the 19
+
+H. B. No. 504 Page 2
+As Introduced
+tax year of the reappraisal or triennial update and the tax year 20
+immediately preceding that year. 21
+(3) "Reappraisal or triennial update" means a tax year in 22
+which section 5715.24 of the Revised Code applies in the county. 23
+(4) "Qualifying manufactured homes" means a manufactured 24
+or mobile home on which a manufactured home tax is assessed 25
+pursuant to division (D)(2) of section 4503.06 of the Revised 26
+Code. 27
+(5) "Tax year," in the context of qualifying manufactured 28
+homes, means the tax year following the corresponding tax year 29
+for real property. 30
+(6) "Taxes charged and payable" means real property taxes, 31
+and manufactured home taxes assessed pursuant to division (D)(2) 32
+of section 4503.06 of the Revised Code, that are charged and 33
+payable after the reductions required by sections 319.301, 34
+319.302, 319.304, 323.152, 323.158, 4503.065, and 4503.0610 of 35
+the Revised Code, but before any reduction authorized under this 36
+section. 37
+(B) The board of commissioners of a qualifying county, by 38
+resolution, may authorize a reduction in the real property taxes 39
+or manufactured home taxes charged and payable against eligible 40
+property. The resolution shall state the percentage by which the 41
+taxable value of eligible property increased, as described in 42
+division (A)(1) of this section, and shall state that the 43
+resulting increase in taxes charged and payable against each 44
+parcel of eligible property shall be reduced by two-thirds in 45
+the current tax year and one-third in the following tax year. 46
+The board shall adopt the resolution on or before the first day 47
+of October of the tax year of a reappraisal or triennial update 48
+
+H. B. No. 504 Page 3
+As Introduced
+and shall certify a copy of the resolution, or a copy of any 49
+resolution repealing the reduction's authorization, to the 50
+county auditor and tax commissioner within thirty days after its 51
+adoption. The reduction shall apply for the current tax year and 52
+the following tax year, and the amount of the reduction shall 53
+equal the following, as applicable to the tax year: 54
+(1) For the current tax year, two-thirds of the difference 55
+of the taxes charged and payable against the eligible property 56
+for the current tax year minus the taxes charged and payable 57
+against the property for the preceding tax year; 58
+(2) For the following tax year, one-third of the 59
+difference of the taxes charged and payable against the eligible 60
+property for the current tax year minus the taxes charged and 61
+payable against the property for the tax year preceding the 62
+reappraisal or triennial update. 63
+(C) The county treasurer shall identify the reduction 64
+authorized under this section on each tax bill delivered under 65
+section 323.13 or 4503.06 of the Revised Code as the "Temporary 66
+Property Valuation Phase-In Credit." 67
+Sec. 323.152. In addition to the reduction in taxes 68
+required under sections 319.302 and , 319.304, and 319.305 of 69
+the Revised Code, taxes shall be reduced as provided in 70
+divisions (A) and (B) of this section. 71
+(A)(1)(a) Division (A)(1) of this section applies to any 72
+of the following persons: 73
+(i) A person who is permanently and totally disabled; 74
+(ii) A person who is sixty-five years of age or older; 75
+(iii) A person who is the surviving spouse of a deceased 76
+
+H. B. No. 504 Page 4
+As Introduced
+person who was permanently and totally disabled or sixty-five 77
+years of age or older and who applied and qualified for a 78
+reduction in taxes under this division in the year of death, 79
+provided the surviving spouse is at least fifty-nine but not 80
+sixty-five or more years of age on the date the deceased spouse 81
+dies. 82
+(b) Real property taxes on a homestead owned and occupied, 83
+or a homestead in a housing cooperative occupied, by a person to 84
+whom division (A)(1) of this section applies shall be reduced 85
+for each year for which an application for the reduction has 86
+been approved. The reduction shall equal one of the following 87
+amounts, as applicable to the person: 88
+(i) If the person received a reduction under division (A) 89
+(1) of this section for tax year 2006, the greater of the 90
+reduction for that tax year or the amount computed under 91
+division (A)(1)(c) of this section; 92
+(ii) If the person received, for any homestead, a 93
+reduction under division (A)(1) of this section for tax year 94
+2013 or under division (A) of section 4503.065 of the Revised 95
+Code for tax year 2014 or the person is the surviving spouse of 96
+such a person and the surviving spouse is at least fifty-nine 97
+years of age on the date the deceased spouse dies, the amount 98
+computed under division (A)(1)(c) of this section. 99
+(iii) If the person is not described in division (A)(1)(b) 100
+(i) or (ii) of this section and the person's total income does 101
+not exceed thirty thousand dollars, as adjusted under division 102
+(A)(1)(d) of this section, the amount computed under division 103
+(A)(1)(c) of this section. 104
+(c) The amount of the reduction under division (A)(1)(c) 105
+
+H. B. No. 504 Page 5
+As Introduced
+of this section equals the product of the following: 106
+(i) Twenty-five thousand dollars of the true value of the 107
+property in money, as adjusted under division (A)(1)(d) of this 108
+section; 109
+(ii) The assessment percentage established by the tax 110
+commissioner under division (B) of section 5715.01 of the 111
+Revised Code, not to exceed thirty-five per cent; 112
+(iii) The effective tax rate used to calculate the taxes 113
+charged against the property for the current year, where 114
+"effective tax rate" is defined as in section 323.08 of the 115
+Revised Code; 116
+(iv) The quantity equal to one minus the sum of the 117
+percentage reductions in taxes received by the property for the 118
+current tax year under section 319.302 of the Revised Code and 119
+division (B) of section 323.152 of the Revised Code. 120
+(d) The tax commissioner shall adjust the total income 121
+threshold described in division (A)(1)(b)(iii) and the reduction 122
+amounts described in divisions (A)(1)(c)(i), (A)(2), and (A)(3) 123
+of this section by completing the following calculations in 124
+September of each year: 125
+(i) Determine the percentage increase in the gross 126
+domestic product deflator determined by the bureau of economic 127
+analysis of the United States department of commerce from the 128
+first day of January of the preceding calendar year to the last 129
+day of December of the preceding calendar year; 130
+(ii) Multiply that percentage increase by the total income 131
+threshold or reduction amount for the current tax year, as 132
+applicable; 133
+
+H. B. No. 504 Page 6
+As Introduced
+(iii) Add the resulting product to the total income 134
+threshold or the reduction amount, as applicable, for the 135
+current tax year; 136
+(iv) Round the resulting sum to the nearest multiple of 137
+one hundred dollars. 138
+The commissioner shall certify the amount resulting from 139
+each adjustment to each county auditor not later than the first 140
+day of December each year. The certified total income threshold 141
+amount applies to the following tax year for persons described 142
+in division (A)(1)(b)(iii) of this section. The certified 143
+reduction amount applies to the following tax year. The 144
+commissioner shall not make the applicable adjustment in any 145
+calendar year in which the amount resulting from the adjustment 146
+would be less than the total income threshold or the reduction 147
+amount for the current tax year. 148
+(2)(a) Real property taxes on a homestead owned and 149
+occupied, or a homestead in a housing cooperative occupied, by a 150
+disabled veteran shall be reduced for each year for which an 151
+application for the reduction has been approved. The reduction 152
+shall equal the product obtained by multiplying fifty thousand 153
+dollars of the true value of the property in money, as adjusted 154
+under division (A)(1)(d) of this section, by the amounts 155
+described in divisions (A)(1)(c)(ii) to (iv) of this section. 156
+The reduction is in lieu of any reduction under section 323.158 157
+of the Revised Code or division (A)(1), (2)(b), or (3) of this 158
+section. The reduction applies to only one homestead owned and 159
+occupied by a disabled veteran. 160
+(b) Real property taxes on a homestead owned and occupied, 161
+or a homestead in a housing cooperative occupied, by the 162
+surviving spouse of a disabled veteran shall be reduced for each 163
+
+H. B. No. 504 Page 7
+As Introduced
+year an application for exemption is approved. The reduction 164
+shall equal to the amount of the reduction authorized under 165
+division (A)(2)(a) of this section. 166
+The reduction is in lieu of any reduction under section 167
+323.158 of the Revised Code or division (A)(1), (2)(a), or (3) 168
+of this section. The reduction applies to only one homestead 169
+owned and occupied by the surviving spouse of a disabled 170
+veteran. A homestead qualifies for a reduction in taxes under 171
+division (A)(2)(b) of this section beginning in one of the 172
+following tax years: 173
+(i) For a surviving spouse described in division (L)(1) of 174
+section 323.151 of the Revised Code, the year the disabled 175
+veteran dies; 176
+(ii) For a surviving spouse described in division (L)(2) 177
+of section 323.151 of the Revised Code, the first year on the 178
+first day of January of which the total disability rating 179
+described in division (F) of that section has been received for 180
+the deceased spouse. 181
+In either case, the reduction shall continue through the 182
+tax year in which the surviving spouse dies or remarries. 183
+(3) Real property taxes on a homestead owned and occupied, 184
+or a homestead in a housing cooperative occupied, by the 185
+surviving spouse of a public service officer killed in the line 186
+of duty shall be reduced for each year for which an application 187
+for the reduction has been approved. The reduction shall equal 188
+the product obtained by multiplying fifty thousand dollars of 189
+the true value of the property in money, as adjusted under 190
+division (A)(1)(d) of this section, by the amounts described in 191
+divisions (A)(1)(c)(ii) to (iv) of this section. The reduction 192
+
+H. B. No. 504 Page 8
+As Introduced
+is in lieu of any reduction under section 323.158 of the Revised 193
+Code or division (A)(1) or (2) of this section. The reduction 194
+applies to only one homestead owned and occupied by such a 195
+surviving spouse. A homestead qualifies for a reduction in taxes 196
+under division (A)(3) of this section for the tax year in which 197
+the public service officer dies through the tax year in which 198
+the surviving spouse dies or remarries. 199
+(2) (B)(2) To provide a partial exemption, real property 200
+taxes on any homestead, and manufactured home taxes on any 201
+manufactured or mobile home on which a manufactured home tax is 202
+assessed pursuant to division (D)(2) of section 4503.06 of the 203
+Revised Code, shall be reduced for each year for which an 204
+application for the reduction has been approved. The amount of 205
+the reduction shall equal two and one-half per cent of the 206
+amount of taxes to be levied by qualifying levies on the 207
+homestead or the manufactured or mobile home after applying 208
+section 319.301 of the Revised Code. For the purposes of this 209
+division, "qualifying levy" has the same meaning as in section 210
+319.302 of the Revised Code. 211
+(3) A board of county commissioners, by resolution, may 212
+authorize a partial exemption from the real property taxes or 213
+manufactured home taxes on any property or manufactured or 214
+mobile home that receives the partial exemption under division 215
+(B)(2) of this section. The resolution shall specify the amount 216
+of the partial exemption, which may equal up to two and one-half 217
+per cent of the amount of taxes to be levied by qualifying 218
+levies on the property or home after applying section 319.301 of 219
+the Revised Code. The partial exemption shall be applied 220
+concurrently with the partial exemption under division (B)(2) of 221
+this section, and no application shall be required under section 222
+323.153 of the Revised Code to obtain the partial exemption 223
+
+H. B. No. 504 Page 9
+As Introduced
+authorized pursuant to this section. 224
+The board shall certify a copy of the resolution, or a 225
+copy of any resolution repealing the partial exemption's 226
+authorization, to the county auditor and tax commissioner within 227
+thirty days after its adoption. If the resolution is adopted on 228
+or before the first day of July of a tax year, the partial 229
+exemption shall first apply or cease to apply, in the case of 230
+real property taxes, to that tax year or, in the case of 231
+manufactured home taxes, the following tax year. If the 232
+resolution is adopted after the first day of July of a tax year, 233
+the partial exemption shall first apply or cease to apply, in 234
+the case of real property taxes, to the following tax year or, 235
+in the case of manufactured home taxes, the second succeeding 236
+tax year. 237
+(C) The reductions granted by this section do not apply to 238
+special assessments or respread of assessments levied against 239
+the homestead, and if there is a transfer of ownership 240
+subsequent to the filing of an application for a reduction in 241
+taxes, such reductions are not forfeited for such year by virtue 242
+of such transfer. 243
+(D) The reductions in taxable value referred to in this 244
+section shall be applied solely as a factor for the purpose of 245
+computing the reduction of taxes under this section and shall 246
+not affect the total value of property in any subdivision or 247
+taxing district as listed and assessed for taxation on the tax 248
+lists and duplicates, or any direct or indirect limitations on 249
+indebtedness of a subdivision or taxing district. If after 250
+application of sections 5705.31 and 5705.32 of the Revised Code, 251
+including the allocation of all levies within the ten-mill 252
+limitation to debt charges to the extent therein provided, there 253
+
+H. B. No. 504 Page 10
+As Introduced
+would be insufficient funds for payment of debt charges not 254
+provided for by levies in excess of the ten-mill limitation, the 255
+reduction of taxes provided for in sections 323.151 to 323.159 256
+of the Revised Code shall be proportionately adjusted to the 257
+extent necessary to provide such funds from levies within the 258
+ten-mill limitation. 259
+(E) No reduction shall be made on the taxes due on the 260
+homestead of any person convicted of violating division (D) or 261
+(E) of section 323.153 of the Revised Code for a period of three 262
+years following the conviction. 263
+Sec. 323.155. The tax bill prescribed under section 264
+323.131 of the Revised Code shall indicate the net amount of 265
+taxes due following the reductions in taxes under sections 266
+319.301, 319.302, 319.304, 319.305, 323.152, and 323.16 of the 267
+Revised Code. 268
+Any reduction in taxes under section 323.152 of the 269
+Revised Code shall be disregarded as income or resources in 270
+determining eligibility for any program or calculating any 271
+payment under Title LI of the Revised Code. 272
+Sec. 4503.06. (A) The owner of each manufactured or mobile 273
+home that has acquired situs in this state shall pay either a 274
+real property tax pursuant to Title LVII of the Revised Code or 275
+a manufactured home tax pursuant to division (C) of this 276
+section. 277
+(B) The owner of a manufactured or mobile home shall pay 278
+real property taxes if either of the following applies: 279
+(1) The manufactured or mobile home acquired situs in the 280
+state or ownership in the home was transferred on or after 281
+January 1, 2000, and all of the following apply: 282
+
+H. B. No. 504 Page 11
+As Introduced
+(a) The home is affixed to a permanent foundation as 283
+defined in division (C)(5) of section 3781.06 of the Revised 284
+Code. 285
+(b) The home is located on land that is owned by the owner 286
+of the home. 287
+(c) The certificate of title has been inactivated by the 288
+clerk of the court of common pleas that issued it, pursuant to 289
+division (H) of section 4505.11 of the Revised Code. 290
+(2) The manufactured or mobile home acquired situs in the 291
+state or ownership in the home was transferred before January 1, 292
+2000, and all of the following apply: 293
+(a) The home is affixed to a permanent foundation as 294
+defined in division (C)(5) of section 3781.06 of the Revised 295
+Code. 296
+(b) The home is located on land that is owned by the owner 297
+of the home. 298
+(c) The owner of the home has elected to have the home 299
+taxed as real property and, pursuant to section 4505.11 of the 300
+Revised Code, has surrendered the certificate of title to the 301
+auditor of the county containing the taxing district in which 302
+the home has its situs, together with proof that all taxes have 303
+been paid. 304
+(d) The county auditor has placed the home on the real 305
+property tax list and delivered the certificate of title to the 306
+clerk of the court of common pleas that issued it and the clerk 307
+has inactivated the certificate. 308
+(C)(1) Any mobile or manufactured home that is not taxed 309
+as real property as provided in division (B) of this section is 310
+
+H. B. No. 504 Page 12
+As Introduced
+subject to an annual manufactured home tax, payable by the 311
+owner, for locating the home in this state. The tax as levied in 312
+this section is for the purpose of supplementing the general 313
+revenue funds of the local subdivisions in which the home has 314
+its situs pursuant to this section. 315
+(2) The year for which the manufactured home tax is levied 316
+commences on the first day of January and ends on the following 317
+thirty-first day of December. The state shall have the first 318
+lien on any manufactured or mobile home on the list for the 319
+amount of taxes, penalties, and interest charged against the 320
+owner of the home under this section. The lien of the state for 321
+the tax for a year shall attach on the first day of January to a 322
+home that has acquired situs on that date. The lien for a home 323
+that has not acquired situs on the first day of January, but 324
+that acquires situs during the year, shall attach on the next 325
+first day of January. The lien shall continue until the tax, 326
+including any penalty or interest, is paid. 327
+(3)(a) The situs of a manufactured or mobile home located 328
+in this state on the first day of January is the local taxing 329
+district in which the home is located on that date. 330
+(b) The situs of a manufactured or mobile home not located 331
+in this state on the first day of January, but located in this 332
+state subsequent to that date, is the local taxing district in 333
+which the home is located thirty days after it is acquired or 334
+first enters this state. 335
+(4) The tax is collected by and paid to the county 336
+treasurer of the county containing the taxing district in which 337
+the home has its situs. 338
+(D) The manufactured home tax shall be computed and 339
+
+H. B. No. 504 Page 13
+As Introduced
+assessed by the county auditor of the county containing the 340
+taxing district in which the home has its situs as follows: 341
+(1) On a home that acquired situs in this state prior to 342
+January 1, 2000: 343
+(a) By multiplying the assessable value of the home by the 344
+tax rate of the taxing district in which the home has its situs, 345
+and deducting from the product thus obtained any reduction 346
+authorized under section 4503.065 of the Revised Code. The tax 347
+levied under this formula shall not be less than thirty-six 348
+dollars, unless the home qualifies for a reduction in assessable 349
+value under section 4503.065 of the Revised Code, in which case 350
+there shall be no minimum tax and the tax shall be the amount 351
+calculated under this division. 352
+(b) The assessable value of the home shall be forty per 353
+cent of the amount arrived at by the following computation: 354
+(i) If the cost to the owner, or market value at time of 355
+purchase, whichever is greater, of the home includes the 356
+furnishings and equipment, such cost or market value shall be 357
+multiplied according to the following schedule: 358
+359
+1 2 3
+A For the first calendar year in which the x 80%
+home is owned by the current owner
+B 2nd calendar year x 75%
+C 3rd " x 70%
+D 4th " x 65%
+
+H. B. No. 504 Page 14
+As Introduced
+E 5th " x 60%
+F 6th " x 55%
+G 7th " x 50%
+H 8th " x 45%
+I 9th " x 40%
+J 10th and each year thereafter x 35%
+The first calendar year means any period between the first 360
+day of January and the thirty-first day of December of the first 361
+year. 362
+(ii) If the cost to the owner, or market value at the time 363
+of purchase, whichever is greater, of the home does not include 364
+the furnishings and equipment, such cost or market value shall 365
+be multiplied according to the following schedule: 366
+367
+1 2 3
+A For the first calendar year in which the x 95%
+home is owned by the current owner
+B 2nd calendar year x 90%
+C 3rd " x 85%
+D 4th " x 80%
+E 5th " x 75%
+F 6th " x 70%
+
+H. B. No. 504 Page 15
+As Introduced
+G 7th " x 65%
+H 8th " x 60%
+I 9th " x 55%
+J 10th and each year thereafter x 50%
+The first calendar year means any period between the first 368
+day of January and the thirty-first day of December of the first 369
+year. 370
+(2) On a home in which ownership was transferred or that 371
+first acquired situs in this state on or after January 1, 2000: 372
+(a) By multiplying the assessable value of the home by the 373
+effective tax rate, as defined in section 323.08 of the Revised 374
+Code, for residential real property of the taxing district in 375
+which the home has its situs, and deducting from the product 376
+thus obtained the reductions required or authorized under 377
+section 319.302, 319.304, 319.305, or 4503.065 or division (B) 378
+of section 323.152 of the Revised Code. 379
+(b) The assessable value of the home shall be thirty-five 380
+per cent of its true value as determined under division (L) of 381
+this section. 382
+(3) On or before the fifteenth day of January each year, 383
+the county auditor shall record the assessable value and the 384
+amount of tax on the manufactured or mobile home on the tax list 385
+and deliver a duplicate of the list to the county treasurer. In 386
+the case of an emergency as defined in section 323.17 of the 387
+Revised Code, the tax commissioner, by journal entry, may extend 388
+the times for delivery of the duplicate for an additional 389
+fifteen days upon receiving a written application from the 390
+
+H. B. No. 504 Page 16
+As Introduced
+county auditor regarding an extension for the delivery of the 391
+duplicate, or from the county treasurer regarding an extension 392
+of the time for the billing and collection of taxes. The 393
+application shall contain a statement describing the emergency 394
+that will cause the unavoidable delay and must be received by 395
+the tax commissioner on or before the last day of the month 396
+preceding the day delivery of the duplicate is otherwise 397
+required. When an extension is granted for delivery of the 398
+duplicate, the time period for payment of taxes shall be 399
+extended for a like period of time. When a delay in the closing 400
+of a tax collection period becomes unavoidable, the tax 401
+commissioner, upon application by the county auditor and county 402
+treasurer, may order the time for payment of taxes to be 403
+extended if the tax commissioner determines that penalties have 404
+accrued or would otherwise accrue for reasons beyond the control 405
+of the taxpayers of the county. The order shall prescribe the 406
+final extended date for payment of taxes for that collection 407
+period. 408
+(4) After January 1, 1999, the owner of a manufactured or 409
+mobile home taxed pursuant to division (D)(1) of this section 410
+may elect to have the home taxed pursuant to division (D)(2) of 411
+this section by filing a written request with the county auditor 412
+of the taxing district in which the home is located on or before 413
+the first day of December of any year. Upon the filing of the 414
+request, the county auditor shall determine whether all taxes 415
+levied under division (D)(1) of this section have been paid, and 416
+if those taxes have been paid, the county auditor shall tax the 417
+manufactured or mobile home pursuant to division (D)(2) of this 418
+section commencing in the next tax year. 419
+(5) A manufactured or mobile home that acquired situs in 420
+this state prior to January 1, 2000, shall be taxed pursuant to 421
+
+H. B. No. 504 Page 17
+As Introduced
+division (D)(2) of this section if no manufactured home tax had 422
+been paid for the home and the home was not exempted from 423
+taxation pursuant to division (E) of this section for the year 424
+for which the taxes were not paid. 425
+(6)(a) Immediately upon receipt of any manufactured home 426
+tax duplicate from the county auditor, but not less than twenty 427
+days prior to the last date on which the first one-half taxes 428
+may be paid without penalty as prescribed in division (F) of 429
+this section, the county treasurer shall cause to be prepared 430
+and mailed or delivered to each person charged on that duplicate 431
+with taxes, or to an agent designated by such person, the tax 432
+bill prescribed by the tax commissioner under division (D)(7) of 433
+this section. When taxes are paid by installments, the county 434
+treasurer shall mail or deliver to each person charged on such 435
+duplicate or the agent designated by that person a second tax 436
+bill showing the amount due at the time of the second tax 437
+collection. The second half tax bill shall be mailed or 438
+delivered at least twenty days prior to the close of the second 439
+half tax collection period. A change in the mailing address, 440
+electronic mail address, or telephone number of any tax bill 441
+shall be made in writing to the county treasurer. Failure to 442
+receive a bill required by this section does not excuse failure 443
+or delay to pay any taxes shown on the bill or, except as 444
+provided in division (B)(1) of section 5715.39 of the Revised 445
+Code, avoid any penalty, interest, or charge for such delay. 446
+A policy adopted by a county treasurer under division (A) 447
+(2) of section 323.13 of the Revised Code shall also allow any 448
+person required to receive a tax bill under division (D)(6)(a) 449
+of this section to request electronic delivery of that tax bill 450
+in the same manner. A person may rescind such a request in the 451
+same manner as a request made under division (A)(2) of section 452
+
+H. B. No. 504 Page 18
+As Introduced
+323.13 of the Revised Code. The request shall terminate upon a 453
+change in the name of the person charged with the taxes pursuant 454
+to section 4503.061 of the Revised Code. 455
+(b) After delivery of the copy of the delinquent 456
+manufactured home tax list under division (H) of this section, 457
+the county treasurer may prepare and mail to each person in 458
+whose name a home is listed an additional tax bill showing the 459
+total amount of delinquent taxes charged against the home as 460
+shown on the list. The tax bill shall include a notice that the 461
+interest charge prescribed by division (G) of this section has 462
+begun to accrue. 463
+(7) Each tax bill prepared and mailed or delivered under 464
+division (D)(6) of this section shall be in the form and contain 465
+the information required by the tax commissioner. The 466
+commissioner may prescribe different forms for each county and 467
+may authorize the county auditor to make up tax bills and tax 468
+receipts to be used by the county treasurer. The tax bill shall 469
+not contain or be mailed or delivered with any information or 470
+material that is not required by this section or that is not 471
+authorized by section 321.45 of the Revised Code or by the tax 472
+commissioner. In addition to the information required by the 473
+commissioner, each tax bill shall contain the following 474
+information: 475
+(a) The taxes levied and the taxes charged and payable 476
+against the manufactured or mobile home; 477
+(b) The following notice: "Notice: If the taxes are not 478
+paid within sixty days after the county auditor delivers the 479
+delinquent manufactured home tax list to the county treasurer, 480
+you and your home may be subject to collection proceedings for 481
+tax delinquency." Failure to provide such notice has no effect 482
+
+H. B. No. 504 Page 19
+As Introduced
+upon the validity of any tax judgment to which a home may be 483
+subjected. 484
+(c) In the case of manufactured or mobile homes taxed 485
+under division (D)(2) of this section, the following additional 486
+information: 487
+(i) The effective tax rate. The words "effective tax rate" 488
+shall appear in boldface type. 489
+(ii) The following notice: "Notice: If the taxes charged 490
+against this home have been reduced by the 2-1/2 per cent tax 491
+reduction for residences occupied by the owner but the home is 492
+not a residence occupied by the owner, the owner must notify the 493
+county auditor's office not later than March 31 of the year for 494
+which the taxes are due. Failure to do so may result in the 495
+owner being convicted of a fourth degree misdemeanor, which is 496
+punishable by imprisonment up to 30 days, a fine up to $250, or 497
+both, and in the owner having to repay the amount by which the 498
+taxes were erroneously or illegally reduced, plus any interest 499
+that may apply. 500
+If the taxes charged against this home have not been 501
+reduced by the 2-1/2 per cent tax reduction and the home is a 502
+residence occupied by the owner, the home may qualify for the 503
+tax reduction. To obtain an application for the tax reduction or 504
+further information, the owner may contact the county auditor's 505
+office at __________ (insert the address and telephone number of 506
+the county auditor's office)." 507
+(E)(1) A manufactured or mobile home is not subject to 508
+this section when any of the following applies: 509
+(a) It is taxable as personal property pursuant to section 510
+5709.01 of the Revised Code. Any manufactured or mobile home 511
+
+H. B. No. 504 Page 20
+As Introduced
+that is used as a residence shall be subject to this section and 512
+shall not be taxable as personal property pursuant to section 513
+5709.01 of the Revised Code. 514
+(b) It bears a license plate issued by any state other 515
+than this state unless the home is in this state in excess of an 516
+accumulative period of thirty days in any calendar year. 517
+(c) The annual tax has been paid on the home in this state 518
+for the current year. 519
+(d) The tax commissioner has determined, pursuant to 520
+section 5715.27 of the Revised Code, that the property is exempt 521
+from taxation, or would be exempt from taxation under Chapter 522
+5709. of the Revised Code if it were classified as real 523
+property. 524
+(2) A travel trailer or park trailer, as these terms are 525
+defined in section 4501.01 of the Revised Code, is not subject 526
+to this section if it is unused or unoccupied and stored at the 527
+owner's normal place of residence or at a recognized storage 528
+facility. 529
+(3) A travel trailer or park trailer, as these terms are 530
+defined in section 4501.01 of the Revised Code, is subject to 531
+this section and shall be taxed as a manufactured or mobile home 532
+if it has a situs longer than thirty days in one location and is 533
+connected to existing utilities, unless either of the following 534
+applies: 535
+(a) The situs is in a state facility or a camping or park 536
+area as defined in division (C), (Q), (S), or (V) of section 537
+3729.01 of the Revised Code. 538
+(b) The situs is in a camping or park area that is a tract 539
+of land that has been limited to recreational use by deed or 540
+
+H. B. No. 504 Page 21
+As Introduced
+zoning restrictions and subdivided for sale of five or more 541
+individual lots for the express or implied purpose of occupancy 542
+by either self-contained recreational vehicles as defined in 543
+division (T) of section 3729.01 of the Revised Code or by 544
+dependent recreational vehicles as defined in division (D) of 545
+section 3729.01 of the Revised Code. 546
+(F) Except as provided in division (D)(3) of this section, 547
+the manufactured home tax is due and payable as follows: 548
+(1) When a manufactured or mobile home has a situs in this 549
+state, as provided in this section, on the first day of January, 550
+one-half of the amount of the tax is due and payable on or 551
+before the first day of March and the balance is due and payable 552
+on or before the thirty-first day of July. At the option of the 553
+owner of the home, the tax for the entire year may be paid in 554
+full on the first day of March. 555
+(2) When a manufactured or mobile home first acquires a 556
+situs in this state after the first day of January, no tax is 557
+due and payable for that year. 558
+(G)(1)(a) Except as otherwise provided in division (G)(1) 559
+(b) of this section, if one-half of the current taxes charged 560
+under this section against a manufactured or mobile home, 561
+together with the full amount of any delinquent taxes, are not 562
+paid on or before the first day of March in that year, or on or 563
+before the last day for such payment as extended pursuant to 564
+section 4503.063 of the Revised Code, a penalty of ten per cent 565
+shall be charged against the unpaid balance of such half of the 566
+current taxes. If the total amount of all such taxes is not paid 567
+on or before the thirty-first day of July, next thereafter, or 568
+on or before the last day for payment as extended pursuant to 569
+section 4503.063 of the Revised Code, a like penalty shall be 570
+
+H. B. No. 504 Page 22
+As Introduced
+charged on the balance of the total amount of the unpaid current 571
+taxes. 572
+(b) After a valid delinquent tax contract that includes 573
+unpaid current taxes from a first-half collection period 574
+described in division (F) of this section has been entered into 575
+under section 323.31 of the Revised Code, no ten per cent 576
+penalty shall be charged against such taxes after the second- 577
+half collection period while the delinquent tax contract remains 578
+in effect. On the day a delinquent tax contract becomes void, 579
+the ten per cent penalty shall be charged against such taxes and 580
+shall equal the amount of penalty that would have been charged 581
+against unpaid current taxes outstanding on the date on which 582
+the second-half penalty would have been charged thereon under 583
+division (G)(1)(a) of this section if the contract had not been 584
+in effect. 585
+(2)(a) On the first day of the month following the last 586
+day the second installment of taxes may be paid without penalty 587
+beginning in 2000, interest shall be charged against and 588
+computed on all delinquent taxes other than the current taxes 589
+that became delinquent taxes at the close of the last day such 590
+second installment could be paid without penalty. The charge 591
+shall be for interest that accrued during the period that began 592
+on the preceding first day of December and ended on the last day 593
+of the month that included the last date such second installment 594
+could be paid without penalty. The interest shall be computed at 595
+the rate per annum prescribed by section 5703.47 of the Revised 596
+Code and shall be entered as a separate item on the delinquent 597
+manufactured home tax list compiled under division (H) of this 598
+section. 599
+(b) On the first day of December beginning in 2000, the 600
+
+H. B. No. 504 Page 23
+As Introduced
+interest shall be charged against and computed on all delinquent 601
+taxes. The charge shall be for interest that accrued during the 602
+period that began on the first day of the month following the 603
+last date prescribed for the payment of the second installment 604
+of taxes in the current year and ended on the immediately 605
+preceding last day of November. The interest shall be computed 606
+at the rate per annum prescribed by section 5703.47 of the 607
+Revised Code and shall be entered as a separate item on the 608
+delinquent manufactured home tax list. 609
+(c) After a valid undertaking has been entered into for 610
+the payment of any delinquent taxes, no interest shall be 611
+charged against such delinquent taxes while the undertaking 612
+remains in effect in compliance with section 323.31 of the 613
+Revised Code. If a valid undertaking becomes void, interest 614
+shall be charged against the delinquent taxes for the periods 615
+that interest was not permitted to be charged while the 616
+undertaking was in effect. The interest shall be charged on the 617
+day the undertaking becomes void and shall equal the amount of 618
+interest that would have been charged against the unpaid 619
+delinquent taxes outstanding on the dates on which interest 620
+would have been charged thereon under divisions (G)(1) and (2) 621
+of this section had the undertaking not been in effect. 622
+(3) If the full amount of the taxes due at either of the 623
+times prescribed by division (F) of this section is paid within 624
+ten days after such time, the county treasurer shall waive the 625
+collection of and the county auditor shall remit one-half of the 626
+penalty provided for in this division for failure to make that 627
+payment by the prescribed time. 628
+(4) The treasurer shall compile and deliver to the county 629
+auditor a list of all tax payments the treasurer has received as 630
+
+H. B. No. 504 Page 24
+As Introduced
+provided in division (G)(3) of this section. The list shall 631
+include any information required by the auditor for the 632
+remission of the penalties waived by the treasurer. The taxes so 633
+collected shall be included in the settlement next succeeding 634
+the settlement then in process. 635
+(H)(1) The county auditor shall compile annually a 636
+"delinquent manufactured home tax list" consisting of homes the 637
+county treasurer's records indicate have taxes that were not 638
+paid within the time prescribed by divisions (D)(3) and (F) of 639
+this section, have taxes that remain unpaid from prior years, or 640
+have unpaid tax penalties or interest that have been assessed. 641
+(2) Within thirty days after the settlement under division 642
+(H)(2) of section 321.24 of the Revised Code, the county auditor 643
+shall deliver a copy of the delinquent manufactured home tax 644
+list to the county treasurer. The auditor shall update and 645
+publish the delinquent manufactured home tax list annually in 646
+the same manner as delinquent real property tax lists are 647
+published. The county auditor may apportion the cost of 648
+publishing the list among taxing districts in proportion to the 649
+amount of delinquent manufactured home taxes so published that 650
+each taxing district is entitled to receive upon collection of 651
+those taxes, or the county auditor may charge the owner of a 652
+home on the list a flat fee established under section 319.54 of 653
+the Revised Code for the cost of publishing the list and, if the 654
+fee is not paid, may place the fee upon the delinquent 655
+manufactured home tax list as a lien on the listed home, to be 656
+collected as other manufactured home taxes. 657
+(3) When taxes, penalties, or interest are charged against 658
+a person on the delinquent manufactured home tax list and are 659
+not paid within sixty days after the list is delivered to the 660
+
+H. B. No. 504 Page 25
+As Introduced
+county treasurer, the county treasurer shall, in addition to any 661
+other remedy provided by law for the collection of taxes, 662
+penalties, and interest, enforce collection of such taxes, 663
+penalties, and interest by civil action in the name of the 664
+treasurer against the owner for the recovery of the unpaid taxes 665
+following the procedures for the recovery of delinquent real 666
+property taxes in sections 323.25 to 323.28 of the Revised Code. 667
+The action may be brought in municipal or county court, provided 668
+the amount charged does not exceed the monetary limitations for 669
+original jurisdiction for civil actions in those courts. 670
+It is sufficient, having made proper parties to the suit, 671
+for the county treasurer to allege in the treasurer's bill of 672
+particulars or petition that the taxes stand chargeable on the 673
+books of the county treasurer against such person, that they are 674
+due and unpaid, and that such person is indebted in the amount 675
+of taxes appearing to be due the county. The treasurer need not 676
+set forth any other matter relating thereto. If it is found on 677
+the trial of the action that the person is indebted to the 678
+state, judgment shall be rendered in favor of the county 679
+treasurer prosecuting the action. The judgment debtor is not 680
+entitled to the benefit of any law for stay of execution or 681
+exemption of property from levy or sale on execution in the 682
+enforcement of the judgment. 683
+Upon the filing of an entry of confirmation of sale or an 684
+order of forfeiture in a proceeding brought under this division, 685
+title to the manufactured or mobile home shall be in the 686
+purchaser. The clerk of courts shall issue a certificate of 687
+title to the purchaser upon presentation of proof of filing of 688
+the entry of confirmation or order and, in the case of a 689
+forfeiture, presentation of the county auditor's certificate of 690
+sale. 691
+
+H. B. No. 504 Page 26
+As Introduced
+(I) The total amount of taxes collected shall be 692
+distributed in the following manner: four per cent shall be 693
+allowed as compensation to the county auditor for the county 694
+auditor's service in assessing the taxes; two per cent shall be 695
+allowed as compensation to the county treasurer for the services 696
+the county treasurer renders as a result of the tax levied by 697
+this section. Such amounts shall be paid into the county 698
+treasury, to the credit of the county general revenue fund, on 699
+the warrant of the county auditor. Fees to be paid to the credit 700
+of the real estate assessment fund shall be collected pursuant 701
+to division (C) of section 319.54 of the Revised Code and paid 702
+into the county treasury, on the warrant of the county auditor. 703
+The balance of the taxes collected shall be distributed among 704
+the taxing subdivisions of the county in which the taxes are 705
+collected and paid in the same proportions that the amount of 706
+manufactured home tax levied by each taxing subdivision of the 707
+county in the current tax year bears to the amount of such tax 708
+levied by all such subdivisions in the county in the current tax 709
+year. The taxes levied and revenues collected under this section 710
+shall be in lieu of any general property tax and any tax levied 711
+with respect to the privilege of using or occupying a 712
+manufactured or mobile home in this state except as provided in 713
+sections 4503.04 and 5741.02 of the Revised Code. 714
+(J) An agreement to purchase or a bill of sale for a 715
+manufactured home shall show whether or not the furnishings and 716
+equipment are included in the purchase price. 717
+(K) If the county treasurer and the county prosecuting 718
+attorney agree that an item charged on the delinquent 719
+manufactured home tax list is uncollectible, they shall certify 720
+that determination and the reasons to the county board of 721
+revision. If the board determines the amount is uncollectible, 722
+
+H. B. No. 504 Page 27
+As Introduced
+it shall certify its determination to the county auditor, who 723
+shall strike the item from the list. 724
+(L)(1) The county auditor shall appraise at its true value 725
+any manufactured or mobile home in which ownership is 726
+transferred or which first acquires situs in this state on or 727
+after January 1, 2000, and any manufactured or mobile home the 728
+owner of which has elected, under division (D)(4) of this 729
+section, to have the home taxed under division (D)(2) of this 730
+section. The true value shall include the value of the home, any 731
+additions, and any fixtures, but not any furnishings in the 732
+home. In determining the true value of a manufactured or mobile 733
+home, the auditor shall consider all facts and circumstances 734
+relating to the value of the home, including its age, its 735
+capacity to function as a residence, any obsolete 736
+characteristics, and other factors that may tend to prove its 737
+true value. 738
+(2)(a) If a manufactured or mobile home has been the 739
+subject of an arm's length sale between a willing seller and a 740
+willing buyer within a reasonable length of time prior to the 741
+determination of true value, the county auditor shall consider 742
+the sale price of the home to be the true value for taxation 743
+purposes. 744
+(b) The sale price in an arm's length transaction between 745
+a willing seller and a willing buyer shall not be considered the 746
+true value of the home if either of the following occurred after 747
+the sale: 748
+(i) The home has lost value due to a casualty. 749
+(ii) An addition or fixture has been added to the home. 750
+(3) The county auditor shall have each home viewed and 751
+
+H. B. No. 504 Page 28
+As Introduced
+appraised at least once in each six-year period in the same year 752
+in which real property in the county is appraised pursuant to 753
+Chapter 5713. of the Revised Code, and shall update the 754
+appraised values in the third calendar year following the 755
+appraisal. The person viewing or appraising a home may enter the 756
+home to determine by actual view any additions or fixtures that 757
+have been added since the last appraisal. In conducting the 758
+appraisals and establishing the true value, the auditor shall 759
+follow the procedures set forth for appraising real property in 760
+sections 5713.01 and 5713.03 of the Revised Code. 761
+(4) The county auditor shall place the true value of each 762
+home on the manufactured home tax list upon completion of an 763
+appraisal. 764
+(5)(a) If the county auditor changes the true value of a 765
+home, the auditor shall notify the owner of the home in writing, 766
+delivered by mail or in person. The notice shall be given at 767
+least thirty days prior to the issuance of any tax bill that 768
+reflects the change. Failure to receive the notice does not 769
+invalidate any proceeding under this section. 770
+(b) Any owner of a home or any other person or party that 771
+would be authorized to file a complaint under division (A) of 772
+section 5715.19 of the Revised Code if the home was real 773
+property may file a complaint against the true value of the home 774
+as appraised under this section. The complaint shall be filed 775
+with the county auditor on or before the thirty-first day of 776
+March of the current tax year or the date of closing of the 777
+collection for the first half of manufactured home taxes for the 778
+current tax year, whichever is later. The auditor shall present 779
+to the county board of revision all complaints filed with the 780
+auditor under this section. The board shall hear and investigate 781
+
+H. B. No. 504 Page 29
+As Introduced
+the complaint and may take action on it as provided under 782
+sections 5715.11 to 5715.19 of the Revised Code. 783
+(c) If the county board of revision determines, pursuant 784
+to a complaint against the valuation of a manufactured or mobile 785
+home filed under this section, that the amount of taxes, 786
+assessments, or other charges paid was in excess of the amount 787
+due based on the valuation as finally determined, then the 788
+overpayment shall be refunded in the manner prescribed in 789
+section 5715.22 of the Revised Code. 790
+(d) Payment of all or part of a tax under this section for 791
+any year for which a complaint is pending before the county 792
+board of revision does not abate the complaint or in any way 793
+affect the hearing and determination thereof. 794
+(M) If the county auditor determines that any tax or other 795
+charge or any part thereof has been erroneously charged as a 796
+result of a clerical error as defined in section 319.35 of the 797
+Revised Code, the county auditor shall call the attention of the 798
+county board of revision to the erroneous charges. If the board 799
+finds that the taxes or other charges have been erroneously 800
+charged or collected, it shall certify the finding to the 801
+auditor. Upon receipt of the certification, the auditor shall 802
+remove the erroneous charges on the manufactured home tax list 803
+or delinquent manufactured home tax list in the same manner as 804
+is prescribed in section 319.35 of the Revised Code for 805
+erroneous charges against real property, and refund any 806
+erroneous charges that have been collected, with interest, in 807
+the same manner as is prescribed in section 319.36 of the 808
+Revised Code for erroneous charges against real property. 809
+(N) As used in this section and section 4503.061 of the 810
+Revised Code: 811
+
+H. B. No. 504 Page 30
+As Introduced
+(1) "Manufactured home taxes" includes taxes, penalties, 812
+and interest charged under division (C) or (G) of this section 813
+and any penalties charged under division (G) or (H)(5) of 814
+section 4503.061 of the Revised Code. 815
+(2) "Current taxes" means all manufactured home taxes 816
+charged against a manufactured or mobile home that have not 817
+appeared on the manufactured home tax list for any prior year. 818
+Current taxes become delinquent taxes if they remain unpaid 819
+after the last day prescribed for payment of the second 820
+installment of current taxes without penalty, whether or not 821
+they have been certified delinquent. 822
+(3) "Delinquent taxes" means: 823
+(a) Any manufactured home taxes that were charged against 824
+a manufactured or mobile home for a prior year, including any 825
+penalties or interest charged for a prior year and the costs of 826
+publication under division (H)(2) of this section, and that 827
+remain unpaid; 828
+(b) Any current manufactured home taxes charged against a 829
+manufactured or mobile home that remain unpaid after the last 830
+day prescribed for payment of the second installment of current 831
+taxes without penalty, whether or not they have been certified 832
+delinquent, including any penalties or interest and the costs of 833
+publication under division (H)(2) of this section. 834
+Section 2. That existing sections 323.152, 323.155, and 835
+4503.06 of the Revised Code are hereby repealed. 836
+Section 3. This act shall be known as the Calculated 837
+Adjustments for Property Surges (CAPS) Act. 838
+Section 4. Section 323.152 of the Revised Code is 839
+presented in this act as a composite of the section as amended 840
+
+H. B. No. 504 Page 31
+As Introduced
+by both H.B. 33 and S.B. 43 of the 135th General Assembly. The 841
+General Assembly, applying the principle stated in division (B) 842
+of section 1.52 of the Revised Code that amendments are to be 843
+harmonized if reasonably capable of simultaneous operation, 844
+finds that the composite is the resulting version of the section 845
+in effect prior to the effective date of the section as 846
+presented in this act. 847
+
+[DELETED: nH         :1:1 1 1 1 1 1.1 1 1]
+[DELETED: 4  2.2 2.2 2 2 2.2 2 2.3 3 3 3 3 3 3.3 3 3 4 4 4 4 4 4 4 4 4]
+[DELETED: 4  4 5 5 5 5:5 5 5 5;5 5 6 6 6.6 6 6 6"6 6 6 7 7 7 7 7 7 7]
+[DELETED: 4  7 7 7 8 8 8 8 8 8 8 8 8)8 9 9 9 9 9 9 9 9 9 9)1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 4  1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4 .2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]
+[DELETED: 4  2 2 2 2 2 2 2 2 2.2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2:2 2 2:2]
+[DELETED: 4  2 2.2 2.2 2 2.2 2 2:2 2 2.2 2.2 2 3 3 3 3.3 3 3 3.3 3 3]
+[DELETED: 4  3 3 3 3.3 3 3 3 3 3 3 3 3 3 3 3.3 3 3.3 3 3 3 3.3 3 3.3 3]
+[DELETED: 4  3:3 3:3 3 3 3 3 3 3 3 3.3 3:3 3 3 3:32F x82rx73"x74"x6]
+[DELETED: 4 5"x66"x57"x58"x49"x41rx3 3 3.3 3 3 3:32F x92rx93"x84"x85"x76"x7]
+[DELETED: 4 7"x68"x69"x51rx5 3 3.3 3:3 3 3 3 3 3 3.3 3 3.3 3 3 3 3 3 3 3 3]
+[DELETED: 4  3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4.4 4 4]
+[DELETED: 4  4 4 4.4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4.4)4 4 4 4 4 4]
+[DELETED: 4  4 4.4 4 4 4 4 4 4 4.4 4 4 4 4 4 4 4 4 4 4 4:4 4;4 4 4 4 4 4]
+[DELETED: 4  4.4 4 4:4 4.4 4 4 4 4 4 4 4 4 4 4.5 5 5 5 5 5 5"5 5:5 5 5]
+[DELETED: 4  5 5.5 5 5.5 5.5 5 5 5 5.5 5 5 5 5.5 5 5 5 5 5:5 5 5.5 5 5]
+[DELETED: 4  5 5 5 5 5.5 5:5 5 5 5 5 5 5.5 5 5.5)5 5 5 5 5 5 5 5 5 5 5 5]
+[DELETED: 4  5.5 5 5 5 5-5 5 5 5 5 5 5 5.5 5 5 5 5 5 5 5 5 5 5 5 5 5.5 6]
+[DELETED: 4  6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6.6 6 6]
+[DELETED: 4  6 6 6 6.6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6]
+[DELETED: 4  6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6 6 6 6 6 6.6 6 6 6 6 6 6 6.6]
+[DELETED: 4  6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7.7 7 7 7 7 7]
+[DELETED: 4  7.7 7 7 7 7 7 7 7 7 7 7 7 7 7.7 7 7 7 7 7.7 7 7 7:7.7.7 7]
+[DELETED: 4  7 7 7 7 7 7 7 7 7.7 7 7.7 7 7 7 7 7.7 7 7 7 7 7 7 7 7 7 7 7]
+[DELETED: 4  7.7 7 7 7 7 7 7.7 7 7 7.7 7 7 7 7 7 8 8 8 8 8 8 8 8 8.8 8:8]
+[DELETED: 4  8 8 8.8 8 8 8 8 8 8.8:8 8 8 8 8;8 8 8 8 8 8.8 8.8 8.8 8 8]
+[DELETED: 4  8 8 8 8 8 8 8]

@@ -1,0 +1,621 @@
+Title: Cosponsors: Representatives Dean, Fischer, Gross, Hall, T., Johnson, Peterson,
+Official Title: Cosponsors: Representatives Dean, Fischer, Gross, Hall, T., Johnson, Peterson,
+Number of Sections: 18
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 129
+2025-2026
+Representative Thomas, D.
+Williams, Workman
+A BILL
+To amend sections 319.301 and 5705.314 of the 1
+Revised Code to limit the ability of school 2
+districts to reallocate unvoted property tax 3
+millage and to include certain property and 4
+school district income taxes in the calculation 5
+of a school district's effective millage floor. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+
+Section 2:
+Section 1. That sections 319.301 and 5705.314 of the 7
+Revised Code be amended to read as follows: 8
+Sec. 319.301. (A) The reductions required by division (D) 9
+of this section do not apply to any of the following: 10
+(1) Taxes levied at whatever rate is required to produce a 11
+specified amount of tax money, including a tax levied under 12
+
+Section 3:
+section 5705.199 or 5748.09 of the Revised Code, or an amount to 13
+pay debt charges; 14
+(2) Taxes levied within the one per cent limitation 15
+imposed by Section 2 of Article XII, Ohio Constitution; 16
+H. B. No. 129 Page 2
+As Introduced
+(3) Taxes provided for by the charter of a municipal 17
+corporation. 18
+(B) As used in this section: 19
+(1) "Real property" includes real property owned by a 20
+railroad. 21
+(2) "Carryover property" means all real property on the 22
+current year's tax list except: 23
+(a) Land and improvements that were not taxed by the 24
+district in both the preceding year and the current year; 25
+(b) Land and improvements that were not in the same class 26
+in both the preceding year and the current year. 27
+(3) "Effective tax rate" means with respect to each class 28
+of property: 29
+(a) The sum of the total taxes that would have been 30
+charged and payable for current expenses against real property 31
+in that class if each of the district's taxes were reduced for 32
+the current year under division (D)(1) of this section without 33
+regard to the application of division (E)(3) of this section 34
+divided by 35
+(b) The taxable value of all real property in that class. 36
+(4) "Taxes charged and payable" means the taxes charged 37
+and payable prior to any reduction required by section 319.302 38
+of the Revised Code. 39
+(C) The tax commissioner shall make the determinations 40
+required by this section each year, without regard to whether a 41
+taxing district has territory in a county to which section 42
+
+Section 4:
+5715.24 of the Revised Code applies for that year. Separate 43
+H. B. No. 129 Page 3
+As Introduced
+determinations shall be made for each of the two classes 44
+established pursuant to section 5713.041 of the Revised Code. 45
+(D) With respect to each tax authorized to be levied by 46
+each taxing district, the tax commissioner, annually, shall do 47
+both of the following: 48
+(1) Determine by what percentage, if any, the sums levied 49
+by such tax against the carryover property in each class would 50
+have to be reduced for the tax to levy the same number of 51
+dollars against such property in that class in the current year 52
+as were charged against such property by such tax in the 53
+preceding year subsequent to the reduction made under this 54
+
+Section 5:
+section but before the reduction made under section 319.302 of 55
+the Revised Code. In the case of a tax levied for the first time 56
+that is not a renewal of an existing tax, the commissioner shall 57
+determine by what percentage the sums that would otherwise be 58
+levied by such tax against carryover property in each class 59
+would have to be reduced to equal the amount that would have 60
+been levied if the full rate thereof had been imposed against 61
+the total taxable value of such property in the preceding tax 62
+year. A tax or portion of a tax that is designated a replacement 63
+levy under section 5705.192 of the Revised Code is not a renewal 64
+of an existing tax for purposes of this division. 65
+(2) Certify each percentage determined in division (D)(1) 66
+of this section, as adjusted under division (E) of this section, 67
+and the class of property to which that percentage applies to 68
+the auditor of each county in which the district has territory. 69
+The auditor, after complying with section 319.30 of the Revised 70
+Code, shall reduce the sum to be levied by such tax against each 71
+parcel of real property in the district by the percentage so 72
+certified for its class. Certification shall be made by the 73
+H. B. No. 129 Page 4
+As Introduced
+first day of September except in the case of a tax levied for 74
+the first time, in which case certification shall be made within 75
+fifteen days of the date the county auditor submits the 76
+information necessary to make the required determination. 77
+(E)(1) As used in division (E)(2) (E) of this section, 78
+"pre-1982 : 79
+(a) "Pre-1982 joint vocational taxes" means, with respect 80
+to a class of property, the difference between the following 81
+amounts: 82
+(a) (i) The taxes charged and payable in tax year 1981 83
+against the property in that class for the current expenses of 84
+the joint vocational school district of which the school 85
+district is a part after making all reductions under this 86
+
+Section 6:
+section; 87
+(b) (ii) Two-tenths of one per cent of the taxable value 88
+of all real property in that class. 89
+If the amount in division (E)(1)(b) (E)(1)(a)(ii) of this 90
+
+Section 7:
+section exceeds the amount in division (E)(1)(a) (E)(1)(a)(i) of 91
+this section, the pre-1982 joint vocational taxes shall be zero. 92
+As used in divisions (E)(2) and (3) of this section, 93
+"taxes charged and payable" has the same meaning as in division 94
+(B)(4) of this section and excludes any tax charged and payable 95
+in 1985 or thereafter under sections 5705.194 to 5705.197 or 96
+
+Section 8:
+section 5705.199, 5705.213, 5705.219, or 5748.09 of the Revised 97
+Code(b) "Current expense school district income tax" means a 98
+school district income tax, as defined in section 5748.01 of the 99
+Revised Code, levied for the current expenses of a school 100
+district. 101
+(c) "Qualifying taxes charged and payable" means the sum 102
+H. B. No. 129 Page 5
+As Introduced
+of the following: 103
+(i) For real property taxes, the taxes charged and payable 104
+for current expenses, including any real property tax charged 105
+and payable under sections 5705.194 to 5705.197 or section 106
+
+Section 9:
+5705.199, 5705.213, 5705.219, or 5748.09 of the Revised Code; 107
+(ii) For current expense school district income taxes, the 108
+property tax equivalent rate computed for the school district 109
+under division (E)(4) of this section. 110
+(2) If in the case of a school district other than a joint 111
+vocational or cooperative education school district any 112
+percentage required to be used in division (D)(2) of this 113
+
+Section 10:
+section for either class of property could cause the total 114
+qualifying taxes charged and payable for current expenses to be 115
+less than two per cent of the taxable value of all real property 116
+in that class that is subject to taxation by the district, the 117
+commissioner shall determine what percentages would cause the 118
+district's total qualifying taxes charged and payable for 119
+current expenses against that class, after all reductions that 120
+would otherwise be made under this section, to equal, when 121
+combined with the pre-1982 joint vocational taxes against that 122
+class, the lesser of the following: 123
+(a) The sum of the rates at which those taxes are 124
+authorized to be levied, including the property tax equivalent 125
+rate calculated with respect to any current expense school 126
+district income tax; 127
+(b) Two per cent of the taxable value of the property in 128
+that class. The auditor shall use such percentages in making the 129
+reduction required by this section for that class. 130
+(3) If in the case of a joint vocational school district 131
+H. B. No. 129 Page 6
+As Introduced
+any percentage required to be used in division (D)(2) of this 132
+
+Section 11:
+section for either class of property could cause the total 133
+qualifying taxes charged and payable for current expenses for 134
+that class to be less than two-tenths of one per cent of the 135
+taxable value of that class, the commissioner shall determine 136
+what percentages would cause the district's total qualifying 137
+taxes charged and payable for current expenses for that class, 138
+after all reductions that would otherwise be made under this 139
+
+Section 12:
+section, to equal that amount. The auditor shall use such 140
+percentages in making the reductions required by this section 141
+for that class. 142
+(4) Each year, on or before the first day of September, 143
+the tax commissioner shall compute a property tax equivalent 144
+rate for each school district that levies a current expense 145
+school district income tax, as follows: 146
+(a) Multiply one mill times the total taxable value of the 147
+district as determined in divisions (A)(1) and (2) of section 148
+
+Section 13:
+3317.021 of the Revised Code; 149
+(b) Estimate the total amount of tax liability for the 150
+current tax year under the current expense school district 151
+income tax; 152
+(c) Divide the amount estimated under division (E)(4)(b) 153
+of this section by the product obtained under division (E)(4)(a) 154
+of this section. 155
+(F) No reduction shall be made under this section in the 156
+rate at which any tax is levied. 157
+(G) The commissioner may order a county auditor to furnish 158
+any information the commissioner needs to make the 159
+determinations required under division (D) or (E) of this 160
+H. B. No. 129 Page 7
+As Introduced
+
+Section 14:
+section, and the auditor shall supply the information in the 161
+form and by the date specified in the order. If the auditor 162
+fails to comply with an order issued under this division, except 163
+for good cause as determined by the commissioner, the 164
+commissioner shall withhold from such county or taxing district 165
+therein fifty per cent of state revenues to local governments 166
+pursuant to section 5747.50 of the Revised Code or shall direct 167
+the department of education and workforce to withhold therefrom 168
+fifty per cent of state revenues to school districts pursuant to 169
+Chapter 3317. of the Revised Code. The commissioner shall 170
+withhold the distribution of such revenues until the county 171
+auditor has complied with this division, and the department 172
+shall withhold the distribution of such revenues until the 173
+commissioner has notified the department that the county auditor 174
+has complied with this division. 175
+(H) If the commissioner is unable to certify a tax 176
+reduction factor for either class of property in a taxing 177
+district located in more than one county by the last day of 178
+November because information required under division (G) of this 179
+
+Section 15:
+section is unavailable, the commissioner may compute and certify 180
+an estimated tax reduction factor for that district for that 181
+class. The estimated factor shall be based upon an estimate of 182
+the unavailable information. Upon receipt of the actual 183
+information for a taxing district that received an estimated tax 184
+reduction factor, the commissioner shall compute the actual tax 185
+reduction factor and use that factor to compute the taxes that 186
+should have been charged and payable against each parcel of 187
+property for the year for which the estimated reduction factor 188
+was used. The amount by which the estimated factor resulted in 189
+an overpayment or underpayment in taxes on any parcel shall be 190
+added to or subtracted from the amount due on that parcel in the 191
+H. B. No. 129 Page 8
+As Introduced
+ensuing tax year. 192
+A percentage or a tax reduction factor determined or 193
+computed by the commissioner under this section shall be used 194
+solely for the purpose of reducing the sums to be levied by the 195
+tax to which it applies for the year for which it was determined 196
+or computed. It shall not be used in making any tax computations 197
+for any ensuing tax year. 198
+(I) In making the determinations under division (D)(1) of 199
+this section, the tax commissioner shall take account of changes 200
+in the taxable value of carryover property resulting from 201
+complaints filed under section 5715.19 of the Revised Code for 202
+determinations made for the tax year in which such changes are 203
+reported to the commissioner. Such changes shall be reported to 204
+the commissioner on the first abstract of real property filed 205
+with the commissioner under section 5715.23 of the Revised Code 206
+following the date on which the complaint is finally determined 207
+by the board of revision or by a court or other authority with 208
+jurisdiction on appeal. The tax commissioner shall account for 209
+such changes in making the determinations only for the tax year 210
+in which the change in valuation is reported. Such a valuation 211
+change shall not be used to recompute the percentages determined 212
+under division (D)(1) of this section for any prior tax year. 213
+Sec. 5705.314. If the The board of education of a city, 214
+local, or exempted village, or joint vocational school district 215
+proposes to shall not change the purpose of its levy within the 216
+ten-mill limitation in a manner that will would result in an 217
+increase in the amount of real property taxes levied by the 218
+board in the tax year the change takes effect, the. 219
+If the board of education of a city, local, or exempted 220
+village school district proposes to change its levy within the 221
+H. B. No. 129 Page 9
+As Introduced
+ten-mill limitation in any other manner that would result in an 222
+increase in the amount of real property taxes levied by the 223
+board in the tax year the change takes effect, the board shall 224
+hold a public hearing solely on the proposal before adopting a 225
+resolution to implement the proposal. The board shall publish 226
+notice of the hearing in a newspaper of general circulation in 227
+the school district once a week for two consecutive weeks or as 228
+provided in section 7.16 of the Revised Code. The second 229
+publication shall be not less than ten nor more than thirty days 230
+before the date of the hearing, and the notice shall include the 231
+date, time, place, and subject of the hearing, and a statement 232
+that the change proposed by the board may result in an increase 233
+in the amount of real property taxes levied by the board. At the 234
+time the board submits the notice for publication, the board 235
+shall send a copy of the notice to the auditor of the county 236
+where the school district is located or, if the school district 237
+is located in more than one county, to the auditor of each of 238
+those counties. 239
+
+Section 16:
+Section 2. That existing sections 319.301 and 5705.314 of 240
+the Revised Code are hereby repealed. 241
+
+Section 17:
+Section 3. (A) The amendment by this act of section 242
+
+Section 18:
+319.301 of the Revised Code applies to tax years beginning on or 243
+after the effective date of this section. 244
+(B) The amendment by this act of section 5705.314 of the 245
+Revised Code applies to levies authorized within the ten-mill 246
+limitation for tax years beginning on or after the effective 247
+date of this section. 248
+[DELETED: nH BIL     . :  1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4]
+[DELETED: 9  4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7]
+[DELETED: 9  7 7 7 7 7:7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1]
+[DELETED: 9 :1 1 1 1;1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 1 1 1 1 1 1:1 1 1;1 1 1;1 1 1.1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2]
+[DELETED: 9  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2.2 2 2 2.2]
+
+
+================================================================================
+
+Raw Text:
+As Introduced
+136th General Assembly
+Regular Session H. B. No. 129
+2025-2026
+Representative Thomas, D.
+Cosponsors: Representatives Dean, Fischer, Gross, Hall, T., Johnson, Peterson,
+Williams, Workman
+A BILL
+To amend sections 319.301 and 5705.314 of the 1
+Revised Code to limit the ability of school 2
+districts to reallocate unvoted property tax 3
+millage and to include certain property and 4
+school district income taxes in the calculation 5
+of a school district's effective millage floor. 6
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 319.301 and 5705.314 of the 7
+Revised Code be amended to read as follows: 8
+Sec. 319.301. (A) The reductions required by division (D) 9
+of this section do not apply to any of the following: 10
+(1) Taxes levied at whatever rate is required to produce a 11
+specified amount of tax money, including a tax levied under 12
+section 5705.199 or 5748.09 of the Revised Code, or an amount to 13
+pay debt charges; 14
+(2) Taxes levied within the one per cent limitation 15
+imposed by Section 2 of Article XII, Ohio Constitution; 16
+
+H. B. No. 129 Page 2
+As Introduced
+(3) Taxes provided for by the charter of a municipal 17
+corporation. 18
+(B) As used in this section: 19
+(1) "Real property" includes real property owned by a 20
+railroad. 21
+(2) "Carryover property" means all real property on the 22
+current year's tax list except: 23
+(a) Land and improvements that were not taxed by the 24
+district in both the preceding year and the current year; 25
+(b) Land and improvements that were not in the same class 26
+in both the preceding year and the current year. 27
+(3) "Effective tax rate" means with respect to each class 28
+of property: 29
+(a) The sum of the total taxes that would have been 30
+charged and payable for current expenses against real property 31
+in that class if each of the district's taxes were reduced for 32
+the current year under division (D)(1) of this section without 33
+regard to the application of division (E)(3) of this section 34
+divided by 35
+(b) The taxable value of all real property in that class. 36
+(4) "Taxes charged and payable" means the taxes charged 37
+and payable prior to any reduction required by section 319.302 38
+of the Revised Code. 39
+(C) The tax commissioner shall make the determinations 40
+required by this section each year, without regard to whether a 41
+taxing district has territory in a county to which section 42
+5715.24 of the Revised Code applies for that year. Separate 43
+
+H. B. No. 129 Page 3
+As Introduced
+determinations shall be made for each of the two classes 44
+established pursuant to section 5713.041 of the Revised Code. 45
+(D) With respect to each tax authorized to be levied by 46
+each taxing district, the tax commissioner, annually, shall do 47
+both of the following: 48
+(1) Determine by what percentage, if any, the sums levied 49
+by such tax against the carryover property in each class would 50
+have to be reduced for the tax to levy the same number of 51
+dollars against such property in that class in the current year 52
+as were charged against such property by such tax in the 53
+preceding year subsequent to the reduction made under this 54
+section but before the reduction made under section 319.302 of 55
+the Revised Code. In the case of a tax levied for the first time 56
+that is not a renewal of an existing tax, the commissioner shall 57
+determine by what percentage the sums that would otherwise be 58
+levied by such tax against carryover property in each class 59
+would have to be reduced to equal the amount that would have 60
+been levied if the full rate thereof had been imposed against 61
+the total taxable value of such property in the preceding tax 62
+year. A tax or portion of a tax that is designated a replacement 63
+levy under section 5705.192 of the Revised Code is not a renewal 64
+of an existing tax for purposes of this division. 65
+(2) Certify each percentage determined in division (D)(1) 66
+of this section, as adjusted under division (E) of this section, 67
+and the class of property to which that percentage applies to 68
+the auditor of each county in which the district has territory. 69
+The auditor, after complying with section 319.30 of the Revised 70
+Code, shall reduce the sum to be levied by such tax against each 71
+parcel of real property in the district by the percentage so 72
+certified for its class. Certification shall be made by the 73
+
+H. B. No. 129 Page 4
+As Introduced
+first day of September except in the case of a tax levied for 74
+the first time, in which case certification shall be made within 75
+fifteen days of the date the county auditor submits the 76
+information necessary to make the required determination. 77
+(E)(1) As used in division (E)(2) (E) of this section, 78
+"pre-1982 : 79
+(a) "Pre-1982 joint vocational taxes" means, with respect 80
+to a class of property, the difference between the following 81
+amounts: 82
+(a) (i) The taxes charged and payable in tax year 1981 83
+against the property in that class for the current expenses of 84
+the joint vocational school district of which the school 85
+district is a part after making all reductions under this 86
+section; 87
+(b) (ii) Two-tenths of one per cent of the taxable value 88
+of all real property in that class. 89
+If the amount in division (E)(1)(b) (E)(1)(a)(ii) of this 90
+section exceeds the amount in division (E)(1)(a) (E)(1)(a)(i) of 91
+this section, the pre-1982 joint vocational taxes shall be zero. 92
+As used in divisions (E)(2) and (3) of this section, 93
+"taxes charged and payable" has the same meaning as in division 94
+(B)(4) of this section and excludes any tax charged and payable 95
+in 1985 or thereafter under sections 5705.194 to 5705.197 or 96
+section 5705.199, 5705.213, 5705.219, or 5748.09 of the Revised 97
+Code(b) "Current expense school district income tax" means a 98
+school district income tax, as defined in section 5748.01 of the 99
+Revised Code, levied for the current expenses of a school 100
+district. 101
+(c) "Qualifying taxes charged and payable" means the sum 102
+
+H. B. No. 129 Page 5
+As Introduced
+of the following: 103
+(i) For real property taxes, the taxes charged and payable 104
+for current expenses, including any real property tax charged 105
+and payable under sections 5705.194 to 5705.197 or section 106
+5705.199, 5705.213, 5705.219, or 5748.09 of the Revised Code; 107
+(ii) For current expense school district income taxes, the 108
+property tax equivalent rate computed for the school district 109
+under division (E)(4) of this section. 110
+(2) If in the case of a school district other than a joint 111
+vocational or cooperative education school district any 112
+percentage required to be used in division (D)(2) of this 113
+section for either class of property could cause the total 114
+qualifying taxes charged and payable for current expenses to be 115
+less than two per cent of the taxable value of all real property 116
+in that class that is subject to taxation by the district, the 117
+commissioner shall determine what percentages would cause the 118
+district's total qualifying taxes charged and payable for 119
+current expenses against that class, after all reductions that 120
+would otherwise be made under this section, to equal, when 121
+combined with the pre-1982 joint vocational taxes against that 122
+class, the lesser of the following: 123
+(a) The sum of the rates at which those taxes are 124
+authorized to be levied, including the property tax equivalent 125
+rate calculated with respect to any current expense school 126
+district income tax; 127
+(b) Two per cent of the taxable value of the property in 128
+that class. The auditor shall use such percentages in making the 129
+reduction required by this section for that class. 130
+(3) If in the case of a joint vocational school district 131
+
+H. B. No. 129 Page 6
+As Introduced
+any percentage required to be used in division (D)(2) of this 132
+section for either class of property could cause the total 133
+qualifying taxes charged and payable for current expenses for 134
+that class to be less than two-tenths of one per cent of the 135
+taxable value of that class, the commissioner shall determine 136
+what percentages would cause the district's total qualifying 137
+taxes charged and payable for current expenses for that class, 138
+after all reductions that would otherwise be made under this 139
+section, to equal that amount. The auditor shall use such 140
+percentages in making the reductions required by this section 141
+for that class. 142
+(4) Each year, on or before the first day of September, 143
+the tax commissioner shall compute a property tax equivalent 144
+rate for each school district that levies a current expense 145
+school district income tax, as follows: 146
+(a) Multiply one mill times the total taxable value of the 147
+district as determined in divisions (A)(1) and (2) of section 148
+3317.021 of the Revised Code; 149
+(b) Estimate the total amount of tax liability for the 150
+current tax year under the current expense school district 151
+income tax; 152
+(c) Divide the amount estimated under division (E)(4)(b) 153
+of this section by the product obtained under division (E)(4)(a) 154
+of this section. 155
+(F) No reduction shall be made under this section in the 156
+rate at which any tax is levied. 157
+(G) The commissioner may order a county auditor to furnish 158
+any information the commissioner needs to make the 159
+determinations required under division (D) or (E) of this 160
+
+H. B. No. 129 Page 7
+As Introduced
+section, and the auditor shall supply the information in the 161
+form and by the date specified in the order. If the auditor 162
+fails to comply with an order issued under this division, except 163
+for good cause as determined by the commissioner, the 164
+commissioner shall withhold from such county or taxing district 165
+therein fifty per cent of state revenues to local governments 166
+pursuant to section 5747.50 of the Revised Code or shall direct 167
+the department of education and workforce to withhold therefrom 168
+fifty per cent of state revenues to school districts pursuant to 169
+Chapter 3317. of the Revised Code. The commissioner shall 170
+withhold the distribution of such revenues until the county 171
+auditor has complied with this division, and the department 172
+shall withhold the distribution of such revenues until the 173
+commissioner has notified the department that the county auditor 174
+has complied with this division. 175
+(H) If the commissioner is unable to certify a tax 176
+reduction factor for either class of property in a taxing 177
+district located in more than one county by the last day of 178
+November because information required under division (G) of this 179
+section is unavailable, the commissioner may compute and certify 180
+an estimated tax reduction factor for that district for that 181
+class. The estimated factor shall be based upon an estimate of 182
+the unavailable information. Upon receipt of the actual 183
+information for a taxing district that received an estimated tax 184
+reduction factor, the commissioner shall compute the actual tax 185
+reduction factor and use that factor to compute the taxes that 186
+should have been charged and payable against each parcel of 187
+property for the year for which the estimated reduction factor 188
+was used. The amount by which the estimated factor resulted in 189
+an overpayment or underpayment in taxes on any parcel shall be 190
+added to or subtracted from the amount due on that parcel in the 191
+
+H. B. No. 129 Page 8
+As Introduced
+ensuing tax year. 192
+A percentage or a tax reduction factor determined or 193
+computed by the commissioner under this section shall be used 194
+solely for the purpose of reducing the sums to be levied by the 195
+tax to which it applies for the year for which it was determined 196
+or computed. It shall not be used in making any tax computations 197
+for any ensuing tax year. 198
+(I) In making the determinations under division (D)(1) of 199
+this section, the tax commissioner shall take account of changes 200
+in the taxable value of carryover property resulting from 201
+complaints filed under section 5715.19 of the Revised Code for 202
+determinations made for the tax year in which such changes are 203
+reported to the commissioner. Such changes shall be reported to 204
+the commissioner on the first abstract of real property filed 205
+with the commissioner under section 5715.23 of the Revised Code 206
+following the date on which the complaint is finally determined 207
+by the board of revision or by a court or other authority with 208
+jurisdiction on appeal. The tax commissioner shall account for 209
+such changes in making the determinations only for the tax year 210
+in which the change in valuation is reported. Such a valuation 211
+change shall not be used to recompute the percentages determined 212
+under division (D)(1) of this section for any prior tax year. 213
+Sec. 5705.314. If the The board of education of a city, 214
+local, or exempted village, or joint vocational school district 215
+proposes to shall not change the purpose of its levy within the 216
+ten-mill limitation in a manner that will would result in an 217
+increase in the amount of real property taxes levied by the 218
+board in the tax year the change takes effect, the. 219
+If the board of education of a city, local, or exempted 220
+village school district proposes to change its levy within the 221
+
+H. B. No. 129 Page 9
+As Introduced
+ten-mill limitation in any other manner that would result in an 222
+increase in the amount of real property taxes levied by the 223
+board in the tax year the change takes effect, the board shall 224
+hold a public hearing solely on the proposal before adopting a 225
+resolution to implement the proposal. The board shall publish 226
+notice of the hearing in a newspaper of general circulation in 227
+the school district once a week for two consecutive weeks or as 228
+provided in section 7.16 of the Revised Code. The second 229
+publication shall be not less than ten nor more than thirty days 230
+before the date of the hearing, and the notice shall include the 231
+date, time, place, and subject of the hearing, and a statement 232
+that the change proposed by the board may result in an increase 233
+in the amount of real property taxes levied by the board. At the 234
+time the board submits the notice for publication, the board 235
+shall send a copy of the notice to the auditor of the county 236
+where the school district is located or, if the school district 237
+is located in more than one county, to the auditor of each of 238
+those counties. 239
+Section 2. That existing sections 319.301 and 5705.314 of 240
+the Revised Code are hereby repealed. 241
+Section 3. (A) The amendment by this act of section 242
+319.301 of the Revised Code applies to tax years beginning on or 243
+after the effective date of this section. 244
+(B) The amendment by this act of section 5705.314 of the 245
+Revised Code applies to levies authorized within the ten-mill 246
+limitation for tax years beginning on or after the effective 247
+date of this section. 248
+
+[DELETED: nH BIL     . :  1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4]
+[DELETED: 9  4 4 4 4 4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7]
+[DELETED: 9  7 7 7 7 7:7 8 8 8 8 8 8 8 8 8 8 9 9 9 9 9 9 9 9 9 9 1 1 1]
+[DELETED: 9 :1 1 1 1;1 1 1.1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 1 1 1 1 1 1:1 1 1;1 1 1;1 1 1.1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+[DELETED: 9  1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2 2 2 2.2 2 2]
+[DELETED: 9  2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2.2 2 2.2 2 2 2.2]
